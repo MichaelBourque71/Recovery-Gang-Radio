@@ -9,22 +9,69 @@
   <link rel="apple-touch-icon" href="./apple-touch-icon.png?v=2">
   <link rel="apple-touch-icon-precomposed" href="./apple-touch-icon.png?v=2">
   <link rel="icon" type="image/png" href="./apple-touch-icon.png?v=2">
-  <link rel="shortcut icon" type="image/png" href="./apple-touch-icon.png?v=2">
+
+  <style>
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #000;
+      color: white;
+    }
+
+    body {
+      min-height: 100vh;
+      background-image:
+        linear-gradient(rgba(0,0,0,0.12), rgba(0,0,0,0.35)),
+        url("./radio-background.png");
+      background-size: cover;
+      background-position: center top;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    .player-panel {
+      position: fixed;
+      left: 12px;
+      right: 12px;
+      bottom: 20px;
+      max-width: 500px;
+      margin: auto;
+      padding: 16px;
+      background: rgba(0,0,0,0.78);
+      border: 1px solid rgba(255,255,255,0.35);
+      border-radius: 16px;
+      text-align: center;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.7);
+      backdrop-filter: blur(5px);
+    }
+
+    .warning {
+      margin: 0 0 12px 0;
+      font-size: 15px;
+      font-weight: bold;
+    }
+
+    audio {
+      width: 100%;
+    }
+  </style>
 </head>
 
 <body>
-  <h1>Recovery Gang Radio</h1>
 
-  <p>Original music. Independent voices. Zero corporate playlists.</p>
+  <div class="player-panel">
 
-  <h2>⚠️ FAIR WARNING: THIS MUSIC IS NOT FOR LEFTISTS. ⚠️</h2>
+    <div class="warning">
+      ⚠️ FAIR WARNING: THIS MUSIC IS NOT FOR LEFTISTS. ⚠️
+    </div>
 
-  <h2>Listen Live</h2>
+    <audio controls preload="none">
+      <source src="http://159.2.152.90:8000/recoverygang.mp3" type="audio/mpeg">
+      Your browser does not support the audio player.
+    </audio>
 
-  <audio controls preload="none" style="width:100%; max-width:500px;">
-    <source src="http://159.2.152.90:8000/recoverygang.mp3" type="audio/mpeg">
-    Your browser does not support the audio player.
-  </audio>
+  </div>
 
 </body>
 </html>
