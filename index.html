@@ -4,24 +4,61 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Recovery Gang Radio</title>
+<style>
+  html, body { margin:0; padding:0; background:#000; height:100%; overflow:hidden; }
+  #bg {
+    position:fixed; inset:0; width:100%; height:100%;
+    object-fit:cover; object-position:center center;
+    background:#000;
+  }
+  #bar {
+    position:fixed; left:15px; right:15px; bottom:22px;
+    max-width:600px; margin:auto; padding:12px; box-sizing:border-box;
+    background:rgba(0,0,0,0.78); border-radius:16px; z-index:2;
+  }
+  #bar audio { display:block; width:100%; }
+</style>
 </head>
+<body>
 
-<body style="margin:0; background:#000; min-height:100vh;">
+<video id="bg" autoplay muted loop playsinline preload="auto"></video>
 
-<img
-src="/Recovery-Gang-Radio/16450070-C477-439F-BD91-0A95EF0A42FF.PNG"
-alt="Recovery Gang Radio"
-style="display:block; width:100%; height:100vh; object-fit:cover; object-position:top center;"
->
-
-<div style="position:fixed; left:15px; right:15px; bottom:22px; max-width:600px; margin:auto; padding:12px; box-sizing:border-box; background:rgba(0,0,0,0.78); border-radius:16px;">
-
-<audio controls preload="none" style="display:block; width:100%;">
+<div id="bar">
+<audio controls preload="none">
 <source src="https://recoverygangradio.duckdns.org:8001/recoverygang.mp3" type="audio/mpeg">
 Your browser does not support the audio player.
 </audio>
-
 </div>
+
+<script>
+(function () {
+  var v = document.getElementById('bg');
+  var current = null;
+  var ASSETS = {
+    portrait:  { src: 'remembrance-portrait.mp4',  poster: 'remembrance-portrait.jpg' },
+    square:    { src: 'remembrance-square.mp4',    poster: 'remembrance-square.jpg' },
+    landscape: { src: 'remembrance-landscape.mp4', poster: 'remembrance-landscape.jpg' }
+  };
+  function pick() {
+    var r = window.innerWidth / window.innerHeight;
+    var name = r <= 0.7 ? 'portrait' : (r <= 1.5 ? 'square' : 'landscape');
+    if (name === current) return;
+    current = name;
+    v.poster = ASSETS[name].poster;
+    v.src = ASSETS[name].src;
+    var p = v.play();
+    if (p && p.catch) p.catch(function () {});
+  }
+  var timer = null;
+  function onResize() {
+    clearTimeout(timer);
+    timer = setTimeout(pick, 300);
+  }
+  window.addEventListener('resize', onResize);
+  window.addEventListener('orientationchange', onResize);
+  pick();
+})();
+</script>
 
 </body>
 </html>
