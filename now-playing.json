@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:29:06-04:00",
+ "generated_at": "2026-11-04T06:32:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-04 06:29:02"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-04 06:32:28"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-04 06:29:02"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-04 06:25:51"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-04 06:13:39"
-  },
-  {
-   "title": "Pair E - Yes + Your Feet On Steady Ground",
-   "started": "2026-11-04 06:03:43"
   }
  ]
 }
