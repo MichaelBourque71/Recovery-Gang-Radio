@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:08:57-04:00",
+ "generated_at": "2026-11-04T01:12:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-04 01:08:44"
+  "title": "break-walt_mercer-010852",
+  "started": null
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-04 01:08:44"
+  },
   {
    "title": "You",
    "started": "2026-11-04 01:05:27"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-04 00:53:27"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-04 00:49:28"
   }
  ]
 }
