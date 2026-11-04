@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:57:51-04:00",
+ "generated_at": "2026-11-04T14:00:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-04 13:57:50"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-04 14:00:12"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-04 13:57:50"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-04 13:54:44"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-04 13:43:39"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-04 13:38:52"
   }
  ]
 }
