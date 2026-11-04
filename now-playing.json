@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T08:18:13-04:00",
+ "generated_at": "2026-11-04T08:20:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-04 08:18:09"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-04 08:20:52"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-04 08:18:09"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-04 08:14:33"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-04 08:02:04"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-04 07:57:05"
   }
  ]
 }
