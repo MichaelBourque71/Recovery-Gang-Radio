@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T17:10:43-04:00",
+ "generated_at": "2026-11-04T17:14:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-04 17:10:41"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-04 17:14:22"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-04 17:10:41"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-04 17:06:04"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-04 16:53:55"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-04 16:49:37"
   }
  ]
 }
