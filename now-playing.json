@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:58:31-04:00",
+ "generated_at": "2026-11-04T07:03:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-04 06:58:27"
+  "title": "Lines In Stone",
+  "started": "2026-11-04 07:03:05"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-04 06:58:27"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-04 06:54:13"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-04 06:42:20"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-04 06:38:07"
   }
  ]
 }
