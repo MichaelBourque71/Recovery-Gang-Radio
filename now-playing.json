@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T18:53:24-04:00",
+ "generated_at": "2026-11-04T18:58:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-04 18:53:19"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-04 18:58:57"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-04 18:53:19"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-04 18:50:22"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-04 18:40:26"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-04 18:35:49"
   }
  ]
 }
