@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:48:53-04:00",
+ "generated_at": "2026-11-04T06:54:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-04 06:48:52"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-04 06:54:13"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-04 06:48:52"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-04 06:45:34"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-04 06:32:28"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-04 06:29:02"
   }
  ]
 }
