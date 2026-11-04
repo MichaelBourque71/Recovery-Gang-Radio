@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T17:58:21-04:00",
+ "generated_at": "2026-11-04T18:01:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-04 17:58:20"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-04 18:01:23"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-04 17:58:20"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-04 17:52:32"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-04 17:41:22"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-04 17:36:53"
   }
  ]
 }
