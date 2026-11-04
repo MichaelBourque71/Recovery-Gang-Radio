@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:09:26-04:00",
+ "generated_at": "2026-11-04T16:14:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-04 16:09:22"
+  "title": "Weed Coughs",
+  "started": "2026-11-04 16:14:11"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-04 16:09:22"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-04 16:04:54"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-04 15:51:00"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-04 15:46:30"
   }
  ]
 }
