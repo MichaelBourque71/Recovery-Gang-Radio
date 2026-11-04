@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:32:29-04:00",
+ "generated_at": "2026-11-04T06:38:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-04 06:32:28"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-04 06:38:07"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-04 06:32:28"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-04 06:29:02"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-04 06:16:59"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-04 06:13:39"
   }
  ]
 }
