@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T05:22:40-04:00",
+ "generated_at": "2026-11-04T05:27:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-04 05:22:38"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-04 05:27:37"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-04 05:22:38"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-04 05:19:03"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-04 05:09:15"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-04 05:04:14"
   }
  ]
 }
