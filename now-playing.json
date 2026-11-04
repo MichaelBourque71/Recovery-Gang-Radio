@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:18:13-04:00",
+ "generated_at": "2026-11-04T10:22:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-04 10:18:09"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-04 10:22:30"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-04 10:18:09"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-04 10:13:44"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-04 10:01:42"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-04 09:57:21"
   }
  ]
 }
