@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:51:19-04:00",
+ "generated_at": "2026-11-04T04:57:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-04 04:51:18"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-04 04:57:10"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-04 04:51:18"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-04 04:47:13"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-04 04:36:18"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-04 04:32:34"
   }
  ]
 }
