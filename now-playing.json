@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T08:09:58-04:00",
+ "generated_at": "2026-11-04T08:14:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-04 08:09:56"
+  "title": "Painted Signals",
+  "started": "2026-11-04 08:14:33"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-04 08:09:56"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-04 08:07:28"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-04 07:54:01"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-04 07:49:31"
   }
  ]
 }
