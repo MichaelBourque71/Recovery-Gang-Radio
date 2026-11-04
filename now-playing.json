@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:47:09-04:00",
+ "generated_at": "2026-11-04T09:49:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-04 09:47:04"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-04 09:49:53"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-04 09:47:04"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-04 09:42:40"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-04 09:31:04"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-04 09:26:36"
   }
  ]
 }
