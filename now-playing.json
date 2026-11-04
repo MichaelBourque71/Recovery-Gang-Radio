@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:20:08-04:00",
+ "generated_at": "2026-11-04T04:24:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-04 04:20:04"
+  "title": "Weed Coughs",
+  "started": "2026-11-04 04:24:47"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-04 04:20:04"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-04 04:16:54"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-04 04:05:53"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-04 04:01:44"
   }
  ]
 }
