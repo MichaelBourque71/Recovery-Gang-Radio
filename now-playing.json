@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:11:17-04:00",
+ "generated_at": "2026-11-04T09:17:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-04 09:11:15"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-04 09:17:08"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-04 09:11:15"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-04 09:06:30"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-04 08:55:28"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-04 08:51:51"
   }
  ]
 }
