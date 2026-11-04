@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T02:05:29-04:00",
+ "generated_at": "2026-11-04T02:08:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-04 02:05:25"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-04 02:08:41"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-04 02:05:25"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-04 02:01:51"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-04 01:50:52"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-04 01:47:20"
   }
  ]
 }
