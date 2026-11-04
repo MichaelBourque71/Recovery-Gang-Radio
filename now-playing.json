@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:28:47-04:00",
+ "generated_at": "2026-11-04T12:32:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-04 12:28:43"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-04 12:31:59"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-04 12:28:43"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-04 12:23:21"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-04 12:12:17"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-04 12:08:00"
   }
  ]
 }
