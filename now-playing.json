@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-04T09:31:03-04:00",
+ "generated_at": "2026-11-04T09:34:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-04 09:26:36"
+  "title": "Killdozer Army",
+  "started": "2026-11-04 09:33:58"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-04 09:31:04"
+  },
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-04 09:26:36"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-04 09:23:02"
@@ -17,14 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-04 09:17:08"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-04 09:11:15"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-04 09:06:30"
   }
  ]
 }
