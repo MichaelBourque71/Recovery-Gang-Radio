@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T18:01:27-04:00",
+ "generated_at": "2026-11-04T18:04:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-04 18:01:23"
+  "title": "Fuck Winter",
+  "started": "2026-11-04 18:03:59"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-04 18:01:23"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-04 17:58:20"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-04 17:44:55"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-04 17:41:22"
   }
  ]
 }
