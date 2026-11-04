@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:28:39-04:00",
+ "generated_at": "2026-11-04T14:33:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-04 14:28:37"
+  "title": "My Harley Waits",
+  "started": "2026-11-04 14:33:41"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-04 14:28:37"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-04 14:25:18"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-04 14:12:07"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-04 14:08:31"
   }
  ]
 }
