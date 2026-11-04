@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:13:18-04:00",
+ "generated_at": "2026-11-04T01:16:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-04 01:13:10"
+  "title": "Putz in a Suit",
+  "started": "2026-11-04 01:16:21"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-04 01:13:10"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-04 01:08:44"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-04 00:58:21"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-04 00:53:27"
   }
  ]
 }
