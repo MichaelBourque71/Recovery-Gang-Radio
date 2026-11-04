@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T11:43:02-04:00",
+ "generated_at": "2026-11-04T11:45:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-04 11:43:00"
+  "title": "Running With Scissors",
+  "started": "2026-11-04 11:45:50"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-04 11:43:00"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-04 11:40:39"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-04 11:29:47"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-04 11:25:21"
   }
  ]
 }
