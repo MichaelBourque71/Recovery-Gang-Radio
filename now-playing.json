@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:34:02-04:00",
+ "generated_at": "2026-11-04T09:38:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-04 09:33:58"
+  "title": "It Was Time",
+  "started": "2026-11-04 09:38:03"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-04 09:33:58"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-04 09:31:04"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-04 09:20:31"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-04 09:17:08"
   }
  ]
 }
