@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T19:38:46-04:00",
+ "generated_at": "2026-11-04T19:43:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-04 19:38:45"
+  "title": "Unstoppable Force",
+  "started": "2026-11-04 19:43:27"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-04 19:38:45"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-04 19:32:58"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-04 19:20:23"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-04 19:15:43"
   }
  ]
 }
