@@ -156,13 +156,13 @@ Your browser does not support the audio player.
     prevBox.hidden = prev.length === 0;
   }
   function load() {
-    fetch('now-playing.json', { cache: 'no-store' })
+    fetch('now-playing.json?t=' + Date.now(), { cache: 'no-store' })
       .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(render)
       .catch(function () { /* keep the last good reading on screen */ });
   }
   load();
-  setInterval(load, 25000);
+  setInterval(load, 10000);
 })();
 </script>
 
