@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:36:23-04:00",
+ "generated_at": "2026-11-04T04:39:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-04 04:36:18"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-04 04:38:59"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-04 04:36:18"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-04 04:32:34"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-04 04:20:04"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-04 04:16:54"
   }
  ]
 }
