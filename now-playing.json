@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:53:15-04:00",
+ "generated_at": "2026-11-04T12:56:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-04 12:53:11"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-04 12:56:34"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-04 12:53:11"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-04 12:51:10"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-04 12:39:56"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-04 12:36:57"
   }
  ]
 }
