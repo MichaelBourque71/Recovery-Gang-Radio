@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:38:18-04:00",
+ "generated_at": "2026-11-04T10:42:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-04 10:38:18"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-04 10:42:51"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-04 10:38:18"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-04 10:33:14"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-04 10:22:30"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-04 10:18:09"
   }
  ]
 }
