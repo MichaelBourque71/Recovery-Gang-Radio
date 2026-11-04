@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T18:27:06-04:00",
+ "generated_at": "2026-11-04T18:32:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-04 18:27:05"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-04 18:32:22"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-04 18:27:05"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-04 18:22:47"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-04 18:09:06"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-04 18:03:59"
   }
  ]
 }
