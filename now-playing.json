@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:56:35-04:00",
+ "generated_at": "2026-11-04T13:00:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-04 12:56:34"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-04 13:00:09"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-04 12:56:34"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-04 12:53:11"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-04 12:43:10"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-04 12:39:56"
   }
  ]
 }
