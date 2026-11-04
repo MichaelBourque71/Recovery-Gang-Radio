@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:25:55-04:00",
+ "generated_at": "2026-11-04T06:29:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-04 06:25:51"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-04 06:29:02"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-04 06:25:51"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-04 06:21:31"
@@ -21,10 +25,6 @@
   {
    "title": "Pair E - Yes + Your Feet On Steady Ground",
    "started": "2026-11-04 06:03:43"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-04 05:58:36"
   }
  ]
 }
