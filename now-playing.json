@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T03:03:54-04:00",
+ "generated_at": "2026-11-04T03:08:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-04 03:03:53"
+  "title": "Take Our Country Back",
+  "started": "2026-11-04 03:08:11"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-04 03:03:53"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-04 02:58:10"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-04 02:51:08"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-04 02:46:11"
   }
  ]
 }
