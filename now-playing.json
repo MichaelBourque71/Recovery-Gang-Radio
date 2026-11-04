@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:33:17-04:00",
+ "generated_at": "2026-11-04T10:38:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-04 10:33:14"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-04 10:38:18"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-04 10:33:14"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-04 10:29:07"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-04 10:18:09"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-04 10:13:44"
   }
  ]
 }
