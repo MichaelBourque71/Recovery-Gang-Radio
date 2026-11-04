@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:12:10-04:00",
+ "generated_at": "2026-11-04T14:15:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-04 14:12:07"
+  "title": "I Do What I Want",
+  "started": "2026-11-04 14:15:27"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-04 14:12:07"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-04 14:08:31"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-04 13:57:50"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-04 13:54:44"
   }
  ]
 }
