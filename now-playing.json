@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:54:03-04:00",
+ "generated_at": "2026-11-04T07:57:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-04 07:54:01"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-04 07:57:05"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-04 07:54:01"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-04 07:49:31"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-04 07:36:31"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-04 07:30:27"
   }
  ]
 }
