@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:38:23-04:00",
+ "generated_at": "2026-11-04T01:43:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-04 01:38:16"
+  "title": "LGBTQ",
+  "started": "2026-11-04 01:43:07"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-04 01:38:16"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-04 01:34:30"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-04 01:23:26"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-04 01:20:15"
   }
  ]
 }
