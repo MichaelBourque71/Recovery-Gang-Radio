@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:59:30-04:00",
+ "generated_at": "2026-11-04T11:04:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-04 10:59:27"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-04 11:04:11"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-04 10:59:27"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-04 10:54:17"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-04 10:42:51"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-04 10:38:18"
   }
  ]
 }
