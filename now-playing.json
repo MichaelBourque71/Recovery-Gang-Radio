@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T05:40:55-04:00",
+ "generated_at": "2026-11-04T05:44:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-04 05:40:51"
+  "title": "Hard Way",
+  "started": "2026-11-04 05:44:22"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-04 05:40:51"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-04 05:37:46"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-04 05:27:37"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-04 05:22:38"
   }
  ]
 }
