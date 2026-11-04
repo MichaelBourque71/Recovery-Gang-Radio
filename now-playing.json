@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:53:56-04:00",
+ "generated_at": "2026-11-04T16:57:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-04 16:53:55"
+  "title": "Day And Night",
+  "started": "2026-11-04 16:57:26"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-04 16:53:55"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-04 16:49:37"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-04 16:38:32"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-04 16:34:47"
   }
  ]
 }
