@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:16:22-04:00",
+ "generated_at": "2026-11-04T01:20:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-04 01:16:21"
+  "title": "Time For Talking",
+  "started": "2026-11-04 01:20:15"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-04 01:16:21"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-04 01:13:10"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-04 01:02:46"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-04 00:58:21"
   }
  ]
 }
