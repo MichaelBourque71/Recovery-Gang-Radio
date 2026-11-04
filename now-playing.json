@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T08:36:01-04:00",
+ "generated_at": "2026-11-04T08:38:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-04 08:35:57"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-04 08:38:56"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-04 08:35:57"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-04 08:30:10"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-04 08:18:09"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-04 08:14:33"
   }
  ]
 }
