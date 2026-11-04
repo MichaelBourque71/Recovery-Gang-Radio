@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:55:04-04:00",
+ "generated_at": "2026-11-04T14:59:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-04 14:54:59"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-04 14:59:06"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-04 14:54:59"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-04 14:49:34"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-04 14:33:41"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-04 14:28:37"
   }
  ]
 }
