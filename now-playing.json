@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:24:51-04:00",
+ "generated_at": "2026-11-04T04:29:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-04 04:24:47"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-04 04:29:15"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-04 04:24:47"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-04 04:20:04"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-04 04:10:33"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-04 04:05:53"
   }
  ]
 }
