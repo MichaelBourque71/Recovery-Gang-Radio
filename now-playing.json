@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T03:26:58-04:00",
+ "generated_at": "2026-11-04T03:31:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-04 03:26:57"
+  "title": "Stand for Freedom",
+  "started": "2026-11-04 03:31:23"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-04 03:26:57"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-04 03:22:58"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-04 03:08:11"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-04 03:03:53"
   }
  ]
 }
