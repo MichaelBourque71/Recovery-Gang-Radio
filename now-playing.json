@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T15:46:32-04:00",
+ "generated_at": "2026-11-04T15:51:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-04 15:46:30"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-04 15:51:00"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-04 15:46:30"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-04 15:42:21"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-04 15:29:20"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-04 15:24:08"
   }
  ]
 }
