@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T03:46:19-04:00",
+ "generated_at": "2026-11-04T03:49:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-04 03:46:16"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-04 03:49:50"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-04 03:46:16"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-04 03:42:39"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-04 03:31:23"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-04 03:26:57"
   }
  ]
 }
