@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:06:23-04:00",
+ "generated_at": "2026-11-04T01:08:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-04 01:05:27"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-04 01:08:44"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-04 01:05:27"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-04 01:02:46"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-04 00:49:28"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-04 00:46:16"
   }
  ]
 }
