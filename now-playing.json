@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:11:11-04:00",
+ "generated_at": "2026-11-04T07:12:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-04 07:11:07"
+  "title": "Taste Your Honey",
+  "started": "2026-11-04 07:12:54"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-04 07:11:07"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-04 07:07:03"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-04 06:54:13"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-04 06:48:52"
   }
  ]
 }
