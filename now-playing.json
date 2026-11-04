@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:25:21-04:00",
+ "generated_at": "2026-11-04T14:28:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-04 14:25:18"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-04 14:28:37"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-04 14:25:18"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-04 14:19:58"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-04 14:08:31"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-04 14:03:48"
   }
  ]
 }
