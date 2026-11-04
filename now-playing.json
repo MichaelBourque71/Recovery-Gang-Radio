@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:40:26-04:00",
+ "generated_at": "2026-11-04T07:44:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-04 07:40:25"
+  "title": "Gaslight Halo",
+  "started": "2026-11-04 07:44:23"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-04 07:40:25"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-04 07:36:31"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-04 07:23:49"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-04 07:21:06"
   }
  ]
 }
