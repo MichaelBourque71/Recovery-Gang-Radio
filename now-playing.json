@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:39:56-04:00",
+ "generated_at": "2026-11-04T12:43:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-04 12:39:56"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-04 12:43:10"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-04 12:39:56"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-04 12:36:57"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-04 12:23:21"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-04 12:18:07"
   }
  ]
 }
