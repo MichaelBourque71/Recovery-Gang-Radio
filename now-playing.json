@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:18:45-04:00",
+ "generated_at": "2026-11-04T16:24:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-04 16:18:42"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-04 16:24:05"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-04 16:18:42"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-04 16:14:11"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-04 15:59:27"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-04 15:55:33"
   }
  ]
 }
