@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T17:17:45-04:00",
+ "generated_at": "2026-11-04T17:22:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-04 17:17:43"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-04 17:22:20"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-04 17:17:43"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-04 17:14:22"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-04 17:02:16"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-04 16:57:26"
   }
  ]
 }
