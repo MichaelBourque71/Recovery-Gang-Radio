@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:50:54-04:00",
+ "generated_at": "2026-11-04T01:55:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-04 01:50:52"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-04 01:55:39"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-04 01:50:52"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-04 01:47:20"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-04 01:34:30"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-04 01:31:11"
   }
  ]
 }
