@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:01:49-04:00",
+ "generated_at": "2026-11-04T04:05:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-04 04:01:44"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-04 04:05:53"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-04 04:01:44"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-04 03:58:20"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-04 03:46:16"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-04 03:42:39"
   }
  ]
 }
