@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T08:14:37-04:00",
+ "generated_at": "2026-11-04T08:18:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-04 08:14:33"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-04 08:18:09"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-04 08:14:33"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-04 08:09:56"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-04 07:57:05"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-04 07:54:01"
   }
  ]
 }
