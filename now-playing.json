@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T17:36:54-04:00",
+ "generated_at": "2026-11-04T17:41:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-04 17:36:53"
+  "title": "Orange Rage (TDS)",
+  "started": "2026-11-04 17:41:22"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-04 17:36:53"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-04 17:32:50"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-04 17:22:20"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-04 17:17:43"
   }
  ]
 }
