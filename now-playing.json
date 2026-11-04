@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:06:31-04:00",
+ "generated_at": "2026-11-04T09:11:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-04 09:06:30"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-04 09:11:15"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-04 09:06:30"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-04 09:03:10"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-04 08:51:51"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-04 08:47:24"
   }
  ]
 }
