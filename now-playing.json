@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:43:42-04:00",
+ "generated_at": "2026-11-04T13:47:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-04 13:43:39"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-04 13:47:15"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-04 13:43:39"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-04 13:38:52"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-04 13:25:13"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-04 13:21:36"
   }
  ]
 }
