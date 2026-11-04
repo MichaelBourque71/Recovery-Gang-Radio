@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:47:17-04:00",
+ "generated_at": "2026-11-04T13:51:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-04 13:47:15"
+  "title": "Stolen Democracy",
+  "started": "2026-11-04 13:51:45"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-04 13:47:15"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-04 13:43:39"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-04 13:29:47"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-04 13:25:13"
   }
  ]
 }
