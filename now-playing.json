@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T18:35:49-04:00",
+ "generated_at": "2026-11-04T18:40:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-04 18:35:49"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-04 18:40:26"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-04 18:35:49"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-04 18:32:22"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-04 18:18:05"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-04 18:12:42"
   }
  ]
 }
