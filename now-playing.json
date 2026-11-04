@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:32:35-04:00",
+ "generated_at": "2026-11-04T04:36:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-04 04:32:34"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-04 04:36:18"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-04 04:32:34"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-04 04:29:15"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-04 04:16:54"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-04 04:13:54"
   }
  ]
 }
