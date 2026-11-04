@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:59:09-04:00",
+ "generated_at": "2026-11-04T15:05:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-04 14:59:06"
+  "title": "History Collects",
+  "started": "2026-11-04 15:05:15"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-04 14:59:06"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-04 14:54:59"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-04 14:39:23"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-04 14:33:41"
   }
  ]
 }
