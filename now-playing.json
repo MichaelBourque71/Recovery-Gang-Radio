@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:32:02-04:00",
+ "generated_at": "2026-11-04T12:37:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-04 12:31:59"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-04 12:36:57"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-04 12:31:59"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-04 12:28:43"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-04 12:15:22"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-04 12:12:17"
   }
  ]
 }
