@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:54:14-04:00",
+ "generated_at": "2026-11-04T06:58:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-04 06:54:13"
+  "title": "Day And Night",
+  "started": "2026-11-04 06:58:27"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-04 06:54:13"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-04 06:48:52"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-04 06:38:07"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-04 06:32:28"
   }
  ]
 }
