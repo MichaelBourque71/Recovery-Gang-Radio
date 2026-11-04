@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:39:00-04:00",
+ "generated_at": "2026-11-04T04:42:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-04 04:38:59"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-04 04:42:30"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-04 04:38:59"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-04 04:36:18"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-04 04:24:47"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-04 04:20:04"
   }
  ]
 }
