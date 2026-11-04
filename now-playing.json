@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:49:56-04:00",
+ "generated_at": "2026-11-04T09:53:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-04 09:49:53"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-04 09:52:59"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-04 09:49:53"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-04 09:47:04"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-04 09:33:58"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-04 09:31:04"
   }
  ]
 }
