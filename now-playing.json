@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:51:50-04:00",
+ "generated_at": "2026-11-04T13:54:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-04 13:51:45"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-04 13:54:44"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-04 13:51:45"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-04 13:47:15"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-04 13:34:05"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-04 13:29:47"
   }
  ]
 }
