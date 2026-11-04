@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:42:33-04:00",
+ "generated_at": "2026-11-04T16:45:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-04 16:42:29"
+  "title": "Mean Francine",
+  "started": "2026-11-04 16:45:10"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-04 16:42:29"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-04 16:38:32"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-04 16:27:00"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-04 16:24:05"
   }
  ]
 }
