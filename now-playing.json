@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:04:35-04:00",
+ "generated_at": "2026-11-04T13:08:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-04 13:04:34"
+  "title": "What They Want…",
+  "started": "2026-11-04 13:08:06"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-04 13:04:34"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-04 13:00:09"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-04 12:51:10"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-04 12:47:36"
   }
  ]
 }
