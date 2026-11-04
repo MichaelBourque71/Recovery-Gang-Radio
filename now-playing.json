@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T11:18:18-04:00",
+ "generated_at": "2026-11-04T11:22:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-04 11:18:15"
+  "title": "You",
+  "started": "2026-11-04 11:22:04"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-04 11:18:15"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-04 11:12:58"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-04 10:59:27"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-04 10:54:17"
   }
  ]
 }
