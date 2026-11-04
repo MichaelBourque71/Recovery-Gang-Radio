@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:13:58-04:00",
+ "generated_at": "2026-11-04T04:16:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-04 04:13:54"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-04 04:16:54"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-04 04:13:54"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-04 04:10:33"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-04 03:58:20"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-04 03:54:03"
   }
  ]
 }
