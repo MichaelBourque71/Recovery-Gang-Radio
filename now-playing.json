@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T13:08:08-04:00",
+ "generated_at": "2026-11-04T13:10:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-04 13:08:06"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-04 13:10:34"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-04 13:08:06"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-04 13:04:34"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-04 12:53:11"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-04 12:51:10"
   }
  ]
 }
