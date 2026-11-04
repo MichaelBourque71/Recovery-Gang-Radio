@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:29:17-04:00",
+ "generated_at": "2026-11-04T04:32:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-04 04:29:15"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-04 04:32:34"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-04 04:29:15"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-04 04:24:47"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-04 04:13:54"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-04 04:10:33"
   }
  ]
 }
