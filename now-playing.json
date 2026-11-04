@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T11:25:26-04:00",
+ "generated_at": "2026-11-04T11:29:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-04 11:25:21"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-04 11:29:47"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-04 11:25:21"
+  },
   {
    "title": "You",
    "started": "2026-11-04 11:22:04"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-04 11:09:09"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-04 11:04:11"
   }
  ]
 }
