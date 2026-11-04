@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:43:14-04:00",
+ "generated_at": "2026-11-04T01:47:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-04 01:43:07"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-04 01:47:20"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-04 01:43:07"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-04 01:38:16"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-04 01:26:41"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-04 01:23:26"
   }
  ]
 }
