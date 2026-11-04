@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T18:18:09-04:00",
+ "generated_at": "2026-11-04T18:22:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-04 18:18:05"
+  "title": "Stranger Danger",
+  "started": "2026-11-04 18:22:47"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-04 18:18:05"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-04 18:12:42"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-04 18:01:23"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-04 17:58:20"
   }
  ]
 }
