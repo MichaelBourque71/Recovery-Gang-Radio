@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T14:00:12-04:00",
+ "generated_at": "2026-11-04T14:03:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-04 14:00:12"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-04 14:03:48"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-04 14:00:12"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-04 13:57:50"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-04 13:47:15"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-04 13:43:39"
   }
  ]
 }
