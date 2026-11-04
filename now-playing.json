@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:14:15-04:00",
+ "generated_at": "2026-11-04T16:18:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-04 16:14:11"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-04 16:18:42"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-04 16:14:11"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-04 16:09:22"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-04 15:55:33"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-04 15:51:00"
   }
  ]
 }
