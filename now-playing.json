@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:26:08-04:00",
+ "generated_at": "2026-11-04T10:29:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-04 10:26:04"
+  "title": "Delaware Sniff",
+  "started": "2026-11-04 10:29:07"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-04 10:26:04"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-04 10:22:30"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-04 10:09:45"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-04 10:06:49"
   }
  ]
 }
