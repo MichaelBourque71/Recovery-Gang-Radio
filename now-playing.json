@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:22:34-04:00",
+ "generated_at": "2026-11-04T10:26:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-04 10:22:30"
+  "title": "Stand for Freedom",
+  "started": "2026-11-04 10:26:04"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-04 10:22:30"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-04 10:18:09"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-04 10:06:49"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-04 10:01:42"
   }
  ]
 }
