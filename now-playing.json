@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T05:14:09-04:00",
+ "generated_at": "2026-11-04T05:19:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-04 05:14:08"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-04 05:19:03"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-04 05:14:08"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-04 05:11:09"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-04 05:00:54"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-04 04:57:10"
   }
  ]
 }
