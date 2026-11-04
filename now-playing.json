@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:43:13-04:00",
+ "generated_at": "2026-11-04T12:47:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-04 12:43:10"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-04 12:47:36"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-04 12:43:10"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-04 12:39:56"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-04 12:28:43"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-04 12:23:21"
   }
  ]
 }
