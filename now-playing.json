@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T01:55:45-04:00",
+ "generated_at": "2026-11-04T01:59:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-04 01:55:39"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-04 01:58:58"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-04 01:55:39"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-04 01:50:52"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-04 01:38:16"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-04 01:34:30"
   }
  ]
 }
