@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:01:45-04:00",
+ "generated_at": "2026-11-04T10:06:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-04 10:01:42"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-04 10:06:49"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-04 10:01:42"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-04 09:57:21"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-04 09:47:04"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-04 09:42:40"
   }
  ]
 }
