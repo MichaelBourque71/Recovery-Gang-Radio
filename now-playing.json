@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:03:12-04:00",
+ "generated_at": "2026-11-04T09:06:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-04 09:03:10"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-04 09:06:30"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-04 09:03:10"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-04 08:58:53"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-04 08:47:24"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-04 08:42:41"
   }
  ]
 }
