@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T16:24:05-04:00",
+ "generated_at": "2026-11-04T16:27:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-04 16:24:05"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-04 16:27:00"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-04 16:24:05"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-04 16:18:42"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-04 16:04:54"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-04 15:59:27"
   }
  ]
 }
