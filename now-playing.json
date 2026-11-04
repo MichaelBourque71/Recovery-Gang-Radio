@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T05:53:19-04:00",
+ "generated_at": "2026-11-04T05:58:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-04 05:53:16"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-04 05:58:36"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-04 05:53:16"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-04 05:49:39"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-04 05:37:46"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-04 05:34:11"
   }
  ]
 }
