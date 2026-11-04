@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T12:28:22-04:00",
+ "generated_at": "2026-11-04T12:28:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-04 12:23:21"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-04 12:28:43"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-04 12:23:21"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-04 12:18:07"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-04 12:08:00"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-04 12:04:27"
   }
  ]
 }
