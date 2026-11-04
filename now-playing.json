@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:42:42-04:00",
+ "generated_at": "2026-11-04T09:47:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-04 09:42:40"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-04 09:47:04"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-04 09:42:40"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-04 09:38:03"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-04 09:26:36"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-04 09:23:02"
   }
  ]
 }
