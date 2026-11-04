@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T19:15:43-04:00",
+ "generated_at": "2026-11-04T19:20:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-04 19:15:43"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-04 19:20:23"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-04 19:15:43"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-04 19:11:54"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-04 19:02:01"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-04 18:58:57"
   }
  ]
 }
