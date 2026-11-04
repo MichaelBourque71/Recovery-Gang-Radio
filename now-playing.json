@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T06:45:35-04:00",
+ "generated_at": "2026-11-04T06:48:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-04 06:45:34"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-04 06:48:52"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-04 06:45:34"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-04 06:42:20"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-04 06:29:02"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-04 06:25:51"
   }
  ]
 }
