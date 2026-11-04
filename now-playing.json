@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:23:50-04:00",
+ "generated_at": "2026-11-04T07:27:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-04 07:23:49"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-04 07:27:02"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-04 07:23:49"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-04 07:21:06"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-04 07:11:07"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-04 07:07:03"
   }
  ]
 }
