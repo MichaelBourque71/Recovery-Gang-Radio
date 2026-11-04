@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T03:08:14-04:00",
+ "generated_at": "2026-11-04T03:13:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-04 03:08:11"
+  "title": "I'm Ready For This",
+  "started": "2026-11-04 03:13:38"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-04 03:08:11"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-04 03:03:53"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-04 02:53:44"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-04 02:51:08"
   }
  ]
 }
