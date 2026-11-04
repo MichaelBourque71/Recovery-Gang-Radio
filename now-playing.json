@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:03:08-04:00",
+ "generated_at": "2026-11-04T07:07:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-04 07:03:05"
+  "title": "Killdozer Army",
+  "started": "2026-11-04 07:07:03"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-04 07:03:05"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-04 06:58:27"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-04 06:45:34"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-04 06:42:20"
   }
  ]
 }
