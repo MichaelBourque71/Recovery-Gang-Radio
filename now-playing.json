@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T09:20:34-04:00",
+ "generated_at": "2026-11-04T09:23:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-04 09:20:31"
+  "title": "Living For Peace",
+  "started": "2026-11-04 09:23:02"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-04 09:20:31"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-04 09:17:08"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-04 09:03:10"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-04 08:58:53"
   }
  ]
 }
