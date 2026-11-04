@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T15:51:02-04:00",
+ "generated_at": "2026-11-04T15:55:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-04 15:51:00"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-04 15:55:33"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-04 15:51:00"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-04 15:46:30"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-04 15:33:36"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-04 15:29:20"
   }
  ]
 }
