@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:44:24-04:00",
+ "generated_at": "2026-11-04T07:49:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-04 07:44:23"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-04 07:49:31"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-04 07:44:23"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-04 07:40:25"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-04 07:27:02"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-04 07:23:49"
   }
  ]
 }
