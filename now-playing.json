@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T15:42:26-04:00",
+ "generated_at": "2026-11-04T15:46:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-04 15:42:21"
+  "title": "Killdozer Army",
+  "started": "2026-11-04 15:46:30"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-04 15:42:21"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-04 15:37:54"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-04 15:24:08"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-04 15:20:29"
   }
  ]
 }
