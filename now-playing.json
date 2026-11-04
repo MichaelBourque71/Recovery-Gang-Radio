@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T10:47:10-04:00",
+ "generated_at": "2026-11-04T10:50:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Woke Baby Sissy Dance 😂",
-  "started": "2026-11-04 10:47:08"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-04 10:50:12"
  },
  "previous": [
+  {
+   "title": "The Woke Baby Sissy Dance 😂",
+   "started": "2026-11-04 10:47:08"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-04 10:42:51"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-04 10:29:07"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-04 10:26:04"
   }
  ]
 }
