@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T02:57:12-04:00",
+ "generated_at": "2026-11-04T02:58:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-04 02:57:12"
+  "title": "Hard Way",
+  "started": "2026-11-04 02:58:10"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-04 02:57:12"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-04 02:53:44"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-04 02:43:13"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-04 02:39:41"
   }
  ]
 }
