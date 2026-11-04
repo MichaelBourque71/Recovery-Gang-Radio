@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T07:57:09-04:00",
+ "generated_at": "2026-11-04T08:02:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-04 07:57:05"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-04 08:02:04"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-04 07:57:05"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-04 07:54:01"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-04 07:40:25"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-04 07:36:31"
   }
  ]
 }
