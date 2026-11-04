@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T04:16:58-04:00",
+ "generated_at": "2026-11-04T04:20:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-04 04:16:54"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-04 04:20:04"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-04 04:16:54"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-04 04:13:54"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-04 04:01:44"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-04 03:58:20"
   }
  ]
 }
