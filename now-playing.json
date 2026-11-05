@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:51:31-04:00",
+ "generated_at": "2026-11-04T22:56:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-04 22:51:27"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-04 22:56:23"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-04 22:51:27"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-04 22:46:02"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-04 22:32:58"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-04 22:28:45"
   }
  ]
 }
