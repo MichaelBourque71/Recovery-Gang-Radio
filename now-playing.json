@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:52:21-04:00",
+ "generated_at": "2026-11-05T19:56:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-05 19:52:20"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-05 19:56:15"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-05 19:52:20"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-05 19:48:46"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-05 19:34:55"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-05 19:29:37"
   }
  ]
 }
