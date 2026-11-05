@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:29:57-04:00",
+ "generated_at": "2026-11-05T09:33:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-05 09:29:55"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-05 09:33:04"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-05 09:29:55"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-05 09:25:58"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-05 09:11:48"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-05 09:06:31"
   }
  ]
 }
