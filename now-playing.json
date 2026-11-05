@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:49:31-04:00",
+ "generated_at": "2026-11-05T06:54:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-05 06:49:27"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-05 06:54:38"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-05 06:49:27"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-05 06:44:20"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-05 06:32:36"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-05 06:29:07"
   }
  ]
 }
