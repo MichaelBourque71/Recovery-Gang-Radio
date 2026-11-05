@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T07:06:32-04:00",
+ "generated_at": "2026-11-05T07:09:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-05 07:06:29"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-05 07:09:02"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-05 07:06:29"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-05 07:01:15"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-05 06:49:27"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-05 06:44:20"
   }
  ]
 }
