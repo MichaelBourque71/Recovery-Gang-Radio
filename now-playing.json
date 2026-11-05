@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T12:59:46-04:00",
+ "generated_at": "2026-11-05T13:04:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-05 12:59:44"
+  "title": "GUMMERS",
+  "started": "2026-11-05 13:04:22"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-05 12:59:44"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-05 12:55:44"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-05 12:43:12"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-05 12:39:09"
   }
  ]
 }
