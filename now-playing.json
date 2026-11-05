@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T04:48:33-04:00",
+ "generated_at": "2026-11-05T04:53:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-05 04:48:29"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-05 04:53:35"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-05 04:48:29"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-05 04:44:50"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-05 04:31:48"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-05 04:28:02"
   }
  ]
 }
