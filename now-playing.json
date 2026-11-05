@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:39:09-04:00",
+ "generated_at": "2026-11-04T20:42:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-04 20:39:07"
+  "title": "Putz in a Suit",
+  "started": "2026-11-04 20:42:40"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-04 20:39:07"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-04 20:35:41"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-04 20:24:22"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-04 20:21:27"
   }
  ]
 }
