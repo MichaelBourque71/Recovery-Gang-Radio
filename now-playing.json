@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:08:34-04:00",
+ "generated_at": "2026-11-05T03:12:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-05 03:08:29"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-05 03:12:34"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-05 03:08:29"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-05 03:04:51"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-05 02:52:43"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-05 02:47:43"
   }
  ]
 }
