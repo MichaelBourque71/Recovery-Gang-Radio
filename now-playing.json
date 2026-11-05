@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:16:48-04:00",
+ "generated_at": "2026-11-05T02:21:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-05 02:16:42"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-05 02:21:33"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-05 02:16:42"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-05 02:15:58"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-05 02:02:36"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-05 01:59:04"
   }
  ]
 }
