@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:58:30-04:00",
+ "generated_at": "2026-11-05T15:01:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-05 14:58:26"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-05 15:01:21"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-05 14:58:26"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-05 14:53:02"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-05 14:41:02"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-05 14:35:09"
   }
  ]
 }
