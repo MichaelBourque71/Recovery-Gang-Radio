@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T10:07:32-04:00",
+ "generated_at": "2026-11-05T10:10:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-05 10:07:27"
+  "title": "Burn It Slow",
+  "started": "2026-11-05 10:10:06"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-05 10:07:27"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-05 10:03:00"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-05 09:52:19"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-05 09:48:51"
   }
  ]
 }
