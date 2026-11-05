@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-05T11:08:28-04:00",
+ "generated_at": "2026-11-05T11:16:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-05 11:08:24"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-05 11:16:11"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-05 11:11:56"
+  },
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-05 11:08:24"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-05 11:05:01"
@@ -17,14 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-05 10:57:54"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-05 10:53:55"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-05 10:49:01"
   }
  ]
 }
