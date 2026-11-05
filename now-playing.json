@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:46:44-04:00",
+ "generated_at": "2026-11-05T08:50:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-05 08:46:42"
+  "title": "Duck On The Dash",
+  "started": "2026-11-05 08:50:10"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-05 08:46:42"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-05 08:43:05"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-05 08:30:56"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-05 08:27:10"
   }
  ]
 }
