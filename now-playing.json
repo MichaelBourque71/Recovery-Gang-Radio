@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:46:51-04:00",
+ "generated_at": "2026-11-05T14:49:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-05 14:46:48"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-05 14:49:47"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-05 14:46:48"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-05 14:41:02"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-05 14:29:01"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-05 14:23:33"
   }
  ]
 }
