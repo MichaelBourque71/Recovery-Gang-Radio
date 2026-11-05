@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:08:29-04:00",
+ "generated_at": "2026-11-04T22:11:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-04 22:08:24"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-04 22:11:31"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-04 22:08:24"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-04 22:04:07"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-04 21:50:41"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-04 21:46:05"
   }
  ]
 }
