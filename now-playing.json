@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:32:39-04:00",
+ "generated_at": "2026-11-05T06:36:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-05 06:32:36"
+  "title": "Weaponized Children",
+  "started": "2026-11-05 06:36:20"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-05 06:32:36"
+  },
   {
    "title": "Yes",
    "started": "2026-11-05 06:29:07"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-05 06:19:08"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-05 06:14:50"
   }
  ]
 }
