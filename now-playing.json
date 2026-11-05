@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:35:45-04:00",
+ "generated_at": "2026-11-04T20:39:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-04 20:35:41"
+  "title": "Living For Peace",
+  "started": "2026-11-04 20:39:07"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-04 20:35:41"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-04 20:32:44"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-04 20:21:27"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-04 20:16:50"
   }
  ]
 }
