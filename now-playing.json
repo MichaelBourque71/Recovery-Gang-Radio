@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:34:14-04:00",
+ "generated_at": "2026-11-05T03:38:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-05 03:34:13"
+  "title": "Clown In A Crown",
+  "started": "2026-11-05 03:38:42"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-05 03:34:13"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-05 03:30:42"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-05 03:20:33"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-05 03:16:53"
   }
  ]
 }
