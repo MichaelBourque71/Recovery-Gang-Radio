@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T21:50:45-04:00",
+ "generated_at": "2026-11-04T21:55:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-04 21:50:41"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-04 21:55:40"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-04 21:50:41"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-04 21:46:05"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-04 21:33:39"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-04 21:29:35"
   }
  ]
 }
