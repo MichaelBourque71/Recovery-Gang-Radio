@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:41:41-04:00",
+ "generated_at": "2026-11-05T00:46:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-05 00:41:37"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-05 00:46:54"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-05 00:41:37"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-05 00:38:03"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-05 00:24:42"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-05 00:21:22"
   }
  ]
 }
