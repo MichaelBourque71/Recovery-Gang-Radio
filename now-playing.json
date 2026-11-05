@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T21:06:32-04:00",
+ "generated_at": "2026-11-04T21:11:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-04 21:06:29"
+  "title": "Follow The Trail",
+  "started": "2026-11-04 21:11:20"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-04 21:06:29"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-04 21:02:44"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-04 20:50:58"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-04 20:46:23"
   }
  ]
 }
