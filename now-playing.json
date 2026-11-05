@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:41:04-04:00",
+ "generated_at": "2026-11-05T05:44:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-05 05:41:03"
+  "title": "The Left Lies",
+  "started": "2026-11-05 05:44:57"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-05 05:41:03"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-05 05:37:00"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-05 05:24:50"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-05 05:19:58"
   }
  ]
 }
