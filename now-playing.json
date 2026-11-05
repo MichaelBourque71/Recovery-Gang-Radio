@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:23:34-04:00",
+ "generated_at": "2026-11-05T14:29:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-05 14:23:33"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-05 14:29:01"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-05 14:23:33"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-05 14:20:21"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-05 14:09:35"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-05 14:04:30"
   }
  ]
 }
