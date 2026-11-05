@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:11:00-04:00",
+ "generated_at": "2026-11-04T20:16:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-04 20:10:59"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-04 20:16:50"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-04 20:10:59"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-04 20:07:49"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-04 19:54:38"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-04 19:50:53"
   }
  ]
 }
