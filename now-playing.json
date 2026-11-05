@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:11:32-04:00",
+ "generated_at": "2026-11-04T22:14:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-04 22:11:31"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-04 22:14:42"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-04 22:11:31"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-04 22:08:24"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-04 21:55:40"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-04 21:50:41"
   }
  ]
 }
