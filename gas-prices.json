@@ -3,315 +3,939 @@
  "regions": {
   "US-AL": {
    "label": "Alabama",
-   "low": 3.6916,
-   "high": 4.5828,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.6916,
+     "high": 3.6916
+    },
+    "mid": {
+     "low": 4.1741,
+     "high": 4.1741
+    },
+    "premium": {
+     "low": 4.5828,
+     "high": 4.5828
+    }
+   }
   },
   "US-AK": {
    "label": "Alaska",
-   "low": 4.717,
-   "high": 5.1315,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.717,
+     "high": 4.717
+    },
+    "mid": {
+     "low": 4.9066,
+     "high": 4.9066
+    },
+    "premium": {
+     "low": 5.1315,
+     "high": 5.1315
+    }
+   }
   },
   "US-AZ": {
    "label": "Arizona",
-   "low": 4.3579,
-   "high": 5.0458,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.3579,
+     "high": 4.3579
+    },
+    "mid": {
+     "low": 4.7073,
+     "high": 4.7073
+    },
+    "premium": {
+     "low": 5.0458,
+     "high": 5.0458
+    }
+   }
   },
   "US-AR": {
    "label": "Arkansas",
-   "low": 3.7109,
-   "high": 4.6174,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.7109,
+     "high": 3.7109
+    },
+    "mid": {
+     "low": 4.2132,
+     "high": 4.2132
+    },
+    "premium": {
+     "low": 4.6174,
+     "high": 4.6174
+    }
+   }
   },
   "US-CA": {
    "label": "California",
-   "low": 5.8396,
-   "high": 6.276,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 5.8396,
+     "high": 5.8396
+    },
+    "mid": {
+     "low": 6.0863,
+     "high": 6.0863
+    },
+    "premium": {
+     "low": 6.276,
+     "high": 6.276
+    }
+   }
   },
   "US-CO": {
    "label": "Colorado",
-   "low": 4.0517,
-   "high": 4.7627,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.0517,
+     "high": 4.0517
+    },
+    "mid": {
+     "low": 4.446,
+     "high": 4.446
+    },
+    "premium": {
+     "low": 4.7627,
+     "high": 4.7627
+    }
+   }
   },
   "US-CT": {
    "label": "Connecticut",
-   "low": 4.2196,
-   "high": 5.2944,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2196,
+     "high": 4.2196
+    },
+    "mid": {
+     "low": 4.8925,
+     "high": 4.8925
+    },
+    "premium": {
+     "low": 5.2944,
+     "high": 5.2944
+    }
+   }
   },
   "US-DE": {
    "label": "Delaware",
-   "low": 3.923,
-   "high": 4.8376,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.923,
+     "high": 3.923
+    },
+    "mid": {
+     "low": 4.5279,
+     "high": 4.5279
+    },
+    "premium": {
+     "low": 4.8376,
+     "high": 4.8376
+    }
+   }
   },
   "US-DC": {
    "label": "District of Columbia",
-   "low": 4.2767,
-   "high": 5.2885,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2767,
+     "high": 4.2767
+    },
+    "mid": {
+     "low": 4.8919,
+     "high": 4.8919
+    },
+    "premium": {
+     "low": 5.2885,
+     "high": 5.2885
+    }
+   }
   },
   "US-FL": {
    "label": "Florida",
-   "low": 3.8344,
-   "high": 4.6626,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.8344,
+     "high": 3.8344
+    },
+    "mid": {
+     "low": 4.3195,
+     "high": 4.3195
+    },
+    "premium": {
+     "low": 4.6626,
+     "high": 4.6626
+    }
+   }
   },
   "US-GA": {
    "label": "Georgia",
-   "low": 3.5421,
-   "high": 4.4775,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.5421,
+     "high": 3.5421
+    },
+    "mid": {
+     "low": 4.0382,
+     "high": 4.0382
+    },
+    "premium": {
+     "low": 4.4775,
+     "high": 4.4775
+    }
+   }
   },
   "US-HI": {
    "label": "Hawaii",
-   "low": 5.648,
-   "high": 6.1892,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 5.648,
+     "high": 5.648
+    },
+    "mid": {
+     "low": 5.9242,
+     "high": 5.9242
+    },
+    "premium": {
+     "low": 6.1892,
+     "high": 6.1892
+    }
+   }
   },
   "US-ID": {
    "label": "Idaho",
-   "low": 4.44,
-   "high": 5.0353,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.44,
+     "high": 4.44
+    },
+    "mid": {
+     "low": 4.7665,
+     "high": 4.7665
+    },
+    "premium": {
+     "low": 5.0353,
+     "high": 5.0353
+    }
+   }
   },
   "US-IL": {
    "label": "Illinois",
-   "low": 4.6067,
-   "high": 5.794,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.6067,
+     "high": 4.6067
+    },
+    "mid": {
+     "low": 5.2399,
+     "high": 5.2399
+    },
+    "premium": {
+     "low": 5.794,
+     "high": 5.794
+    }
+   }
   },
   "US-IN": {
    "label": "Indiana",
-   "low": 3.7156,
-   "high": 4.8459,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.7156,
+     "high": 3.7156
+    },
+    "mid": {
+     "low": 4.3234,
+     "high": 4.3234
+    },
+    "premium": {
+     "low": 4.8459,
+     "high": 4.8459
+    }
+   }
   },
   "US-IA": {
    "label": "Iowa",
-   "low": 3.9377,
-   "high": 4.8365,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.9377,
+     "high": 3.9377
+    },
+    "mid": {
+     "low": 4.2765,
+     "high": 4.2765
+    },
+    "premium": {
+     "low": 4.8365,
+     "high": 4.8365
+    }
+   }
   },
   "US-KS": {
    "label": "Kansas",
-   "low": 3.8223,
-   "high": 4.5544,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.8223,
+     "high": 3.8223
+    },
+    "mid": {
+     "low": 4.1894,
+     "high": 4.1894
+    },
+    "premium": {
+     "low": 4.5544,
+     "high": 4.5544
+    }
+   }
   },
   "US-KY": {
    "label": "Kentucky",
-   "low": 3.8302,
-   "high": 4.8516,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.8302,
+     "high": 3.8302
+    },
+    "mid": {
+     "low": 4.4191,
+     "high": 4.4191
+    },
+    "premium": {
+     "low": 4.8516,
+     "high": 4.8516
+    }
+   }
   },
   "US-LA": {
    "label": "Louisiana",
-   "low": 3.6637,
-   "high": 4.5444,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.6637,
+     "high": 3.6637
+    },
+    "mid": {
+     "low": 4.1513,
+     "high": 4.1513
+    },
+    "premium": {
+     "low": 4.5444,
+     "high": 4.5444
+    }
+   }
   },
   "US-ME": {
    "label": "Maine",
-   "low": 4.2288,
-   "high": 5.2811,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2288,
+     "high": 4.2288
+    },
+    "mid": {
+     "low": 4.7995,
+     "high": 4.7995
+    },
+    "premium": {
+     "low": 5.2811,
+     "high": 5.2811
+    }
+   }
   },
   "US-MD": {
    "label": "Maryland",
-   "low": 3.9552,
-   "high": 4.8932,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.9552,
+     "high": 3.9552
+    },
+    "mid": {
+     "low": 4.5724,
+     "high": 4.5724
+    },
+    "premium": {
+     "low": 4.8932,
+     "high": 4.8932
+    }
+   }
   },
   "US-MA": {
    "label": "Massachusetts",
-   "low": 4.1444,
-   "high": 5.2259,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.1444,
+     "high": 4.1444
+    },
+    "mid": {
+     "low": 4.8147,
+     "high": 4.8147
+    },
+    "premium": {
+     "low": 5.2259,
+     "high": 5.2259
+    }
+   }
   },
   "US-MI": {
    "label": "Michigan",
-   "low": 4.3385,
-   "high": 5.6181,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.3385,
+     "high": 4.3385
+    },
+    "mid": {
+     "low": 5.0212,
+     "high": 5.0212
+    },
+    "premium": {
+     "low": 5.6181,
+     "high": 5.6181
+    }
+   }
   },
   "US-MN": {
    "label": "Minnesota",
-   "low": 3.9977,
-   "high": 5.0041,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.9977,
+     "high": 3.9977
+    },
+    "mid": {
+     "low": 4.4766,
+     "high": 4.4766
+    },
+    "premium": {
+     "low": 5.0041,
+     "high": 5.0041
+    }
+   }
   },
   "US-MS": {
    "label": "Mississippi",
-   "low": 3.7311,
-   "high": 4.6131,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.7311,
+     "high": 3.7311
+    },
+    "mid": {
+     "low": 4.2127,
+     "high": 4.2127
+    },
+    "premium": {
+     "low": 4.6131,
+     "high": 4.6131
+    }
+   }
   },
   "US-MO": {
    "label": "Missouri",
-   "low": 3.7738,
-   "high": 4.5129,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.7738,
+     "high": 3.7738
+    },
+    "mid": {
+     "low": 4.1484,
+     "high": 4.1484
+    },
+    "premium": {
+     "low": 4.5129,
+     "high": 4.5129
+    }
+   }
   },
   "US-MT": {
    "label": "Montana",
-   "low": 4.2306,
-   "high": 4.9101,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2306,
+     "high": 4.2306
+    },
+    "mid": {
+     "low": 4.5569,
+     "high": 4.5569
+    },
+    "premium": {
+     "low": 4.9101,
+     "high": 4.9101
+    }
+   }
   },
   "US-NE": {
    "label": "Nebraska",
-   "low": 4.1148,
-   "high": 4.8829,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.1148,
+     "high": 4.1148
+    },
+    "mid": {
+     "low": 4.3835,
+     "high": 4.3835
+    },
+    "premium": {
+     "low": 4.8829,
+     "high": 4.8829
+    }
+   }
   },
   "US-NV": {
    "label": "Nevada",
-   "low": 5.1802,
-   "high": 5.8053,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 5.1802,
+     "high": 5.1802
+    },
+    "mid": {
+     "low": 5.5025,
+     "high": 5.5025
+    },
+    "premium": {
+     "low": 5.8053,
+     "high": 5.8053
+    }
+   }
   },
   "US-NH": {
    "label": "New Hampshire",
-   "low": 4.1378,
-   "high": 5.2149,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.1378,
+     "high": 4.1378
+    },
+    "mid": {
+     "low": 4.7495,
+     "high": 4.7495
+    },
+    "premium": {
+     "low": 5.2149,
+     "high": 5.2149
+    }
+   }
   },
   "US-NJ": {
    "label": "New Jersey",
-   "low": 4.0957,
-   "high": 5.0394,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.0957,
+     "high": 4.0957
+    },
+    "mid": {
+     "low": 4.7227,
+     "high": 4.7227
+    },
+    "premium": {
+     "low": 5.0394,
+     "high": 5.0394
+    }
+   }
   },
   "US-NM": {
    "label": "New Mexico",
-   "low": 4.0002,
-   "high": 4.7539,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.0002,
+     "high": 4.0002
+    },
+    "mid": {
+     "low": 4.434,
+     "high": 4.434
+    },
+    "premium": {
+     "low": 4.7539,
+     "high": 4.7539
+    }
+   }
   },
   "US-NY": {
    "label": "New York",
-   "low": 4.3104,
-   "high": 5.2682,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.3104,
+     "high": 4.3104
+    },
+    "mid": {
+     "low": 4.8706,
+     "high": 4.8706
+    },
+    "premium": {
+     "low": 5.2682,
+     "high": 5.2682
+    }
+   }
   },
   "US-NC": {
    "label": "North Carolina",
-   "low": 3.3446,
-   "high": 4.2276,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.3446,
+     "high": 3.3446
+    },
+    "mid": {
+     "low": 3.7949,
+     "high": 3.7949
+    },
+    "premium": {
+     "low": 4.2276,
+     "high": 4.2276
+    }
+   }
   },
   "US-ND": {
    "label": "North Dakota",
-   "low": 3.9612,
-   "high": 4.8749,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.9612,
+     "high": 3.9612
+    },
+    "mid": {
+     "low": 4.4091,
+     "high": 4.4091
+    },
+    "premium": {
+     "low": 4.8749,
+     "high": 4.8749
+    }
+   }
   },
   "US-OH": {
    "label": "Ohio",
-   "low": 3.9793,
-   "high": 5.1017,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.9793,
+     "high": 3.9793
+    },
+    "mid": {
+     "low": 4.5616,
+     "high": 4.5616
+    },
+    "premium": {
+     "low": 5.1017,
+     "high": 5.1017
+    }
+   }
   },
   "US-OK": {
    "label": "Oklahoma",
-   "low": 3.7363,
-   "high": 4.4746,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.7363,
+     "high": 3.7363
+    },
+    "mid": {
+     "low": 4.1799,
+     "high": 4.1799
+    },
+    "premium": {
+     "low": 4.4746,
+     "high": 4.4746
+    }
+   }
   },
   "US-OR": {
    "label": "Oregon",
-   "low": 4.7371,
-   "high": 5.2993,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.7371,
+     "high": 4.7371
+    },
+    "mid": {
+     "low": 5.0085,
+     "high": 5.0085
+    },
+    "premium": {
+     "low": 5.2993,
+     "high": 5.2993
+    }
+   }
   },
   "US-PA": {
    "label": "Pennsylvania",
-   "low": 4.4019,
-   "high": 5.2743,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.4019,
+     "high": 4.4019
+    },
+    "mid": {
+     "low": 4.8229,
+     "high": 4.8229
+    },
+    "premium": {
+     "low": 5.2743,
+     "high": 5.2743
+    }
+   }
   },
   "US-RI": {
    "label": "Rhode Island",
-   "low": 4.0828,
-   "high": 5.2279,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.0828,
+     "high": 4.0828
+    },
+    "mid": {
+     "low": 4.8301,
+     "high": 4.8301
+    },
+    "premium": {
+     "low": 5.2279,
+     "high": 5.2279
+    }
+   }
   },
   "US-SC": {
    "label": "South Carolina",
-   "low": 3.6022,
-   "high": 4.4548,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.6022,
+     "high": 3.6022
+    },
+    "mid": {
+     "low": 4.0556,
+     "high": 4.0556
+    },
+    "premium": {
+     "low": 4.4548,
+     "high": 4.4548
+    }
+   }
   },
   "US-SD": {
    "label": "South Dakota",
-   "low": 4.054,
-   "high": 4.8423,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.054,
+     "high": 4.054
+    },
+    "mid": {
+     "low": 4.282,
+     "high": 4.282
+    },
+    "premium": {
+     "low": 4.8423,
+     "high": 4.8423
+    }
+   }
   },
   "US-TN": {
    "label": "Tennessee",
-   "low": 3.6816,
-   "high": 4.5631,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.6816,
+     "high": 3.6816
+    },
+    "mid": {
+     "low": 4.1498,
+     "high": 4.1498
+    },
+    "premium": {
+     "low": 4.5631,
+     "high": 4.5631
+    }
+   }
   },
   "US-TX": {
    "label": "Texas",
-   "low": 3.5807,
-   "high": 4.4719,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.5807,
+     "high": 3.5807
+    },
+    "mid": {
+     "low": 4.0936,
+     "high": 4.0936
+    },
+    "premium": {
+     "low": 4.4719,
+     "high": 4.4719
+    }
+   }
   },
   "US-UT": {
    "label": "Utah",
-   "low": 4.496,
-   "high": 5.0303,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.496,
+     "high": 4.496
+    },
+    "mid": {
+     "low": 4.7884,
+     "high": 4.7884
+    },
+    "premium": {
+     "low": 5.0303,
+     "high": 5.0303
+    }
+   }
   },
   "US-VT": {
    "label": "Vermont",
-   "low": 4.2969,
-   "high": 5.3036,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2969,
+     "high": 4.2969
+    },
+    "mid": {
+     "low": 4.8744,
+     "high": 4.8744
+    },
+    "premium": {
+     "low": 5.3036,
+     "high": 5.3036
+    }
+   }
   },
   "US-VA": {
    "label": "Virginia",
-   "low": 3.917,
-   "high": 4.8212,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 3.917,
+     "high": 3.917
+    },
+    "mid": {
+     "low": 4.4139,
+     "high": 4.4139
+    },
+    "premium": {
+     "low": 4.8212,
+     "high": 4.8212
+    }
+   }
   },
   "US-WA": {
    "label": "Washington",
-   "low": 5.1255,
-   "high": 5.6741,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 5.1255,
+     "high": 5.1255
+    },
+    "mid": {
+     "low": 5.422,
+     "high": 5.422
+    },
+    "premium": {
+     "low": 5.6741,
+     "high": 5.6741
+    }
+   }
   },
   "US-WV": {
    "label": "West Virginia",
-   "low": 4.1307,
-   "high": 5.0137,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.1307,
+     "high": 4.1307
+    },
+    "mid": {
+     "low": 4.5646,
+     "high": 4.5646
+    },
+    "premium": {
+     "low": 5.0137,
+     "high": 5.0137
+    }
+   }
   },
   "US-WI": {
    "label": "Wisconsin",
-   "low": 4.1015,
-   "high": 5.2934,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.1015,
+     "high": 4.1015
+    },
+    "mid": {
+     "low": 4.748,
+     "high": 4.748
+    },
+    "premium": {
+     "low": 5.2934,
+     "high": 5.2934
+    }
+   }
   },
   "US-WY": {
    "label": "Wyoming",
-   "low": 4.2588,
-   "high": 4.8423,
-   "unit": "usd_gal"
+   "unit": "usd_gal",
+   "grades": {
+    "regular": {
+     "low": 4.2588,
+     "high": 4.2588
+    },
+    "mid": {
+     "low": 4.5675,
+     "high": 4.5675
+    },
+    "premium": {
+     "low": 4.8423,
+     "high": 4.8423
+    }
+   }
   },
   "CA-NB": {
    "label": "New Brunswick",
-   "low": 175.29,
-   "high": 180.8,
-   "unit": "cad_litre"
+   "unit": "cad_litre",
+   "grades": {
+    "regular": {
+     "low": 175.29,
+     "high": 180.8
+    },
+    "mid": {
+     "low": 191.66,
+     "high": 197.1
+    },
+    "premium": {
+     "low": 208.04,
+     "high": 213.5
+    }
+   }
   }
  }
 }

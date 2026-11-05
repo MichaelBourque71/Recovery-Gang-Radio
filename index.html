@@ -137,14 +137,15 @@ Your browser does not support the audio player.
   }, function () { /* location unavailable: stays hidden */ }, { timeout: 8000, maximumAge: 600000 });
 })();
 
-/* Gas price range for the listener's own area - the same area the
+/* Gas prices for the listener's own area - the same area the
    weather line shows. The listener's region comes from the free
    BigDataCloud reverse geocoder; prices come from gas-prices.json,
    published alongside this page and refreshed daily (AAA state
-   averages for the US, the NBEUB weekly schedule for New Brunswick).
-   Shown ONLY when the location is available, the region has data,
-   and the data is current - otherwise the line stays hidden, and no
-   other place's prices are ever shown. */
+   averages for the US, the NBEUB weekly schedule for New Brunswick),
+   with regular, mid-grade and premium shown per grade. Shown ONLY
+   when the location is available, the region has data, and the data
+   is current - otherwise the line stays hidden, and no other place's
+   prices are ever shown. */
 (function () {
   var el = document.getElementById('gas');
   if (!('geolocation' in navigator)) return;
@@ -162,12 +163,18 @@ Your browser does not support the audio player.
           var ageDays = (Date.now() - Date.parse(data.asof)) / 86400000;
           if (!(ageDays >= -1 && ageDays <= 10)) return; /* stale: stays hidden */
           var g = data.regions[code];
-          if (!g) return;
-          if (g.unit === 'cad_litre') {
-            el.textContent = 'Gas in ' + g.label + ': ' + g.low.toFixed(1) + '–' + g.high.toFixed(1) + ' ¢/L';
-          } else {
-            el.textContent = 'Gas in ' + g.label + ': $' + g.low.toFixed(2) + '–$' + g.high.toFixed(2) + ' a gallon';
-          }
+          if (!g || !g.grades) return;
+          var cad = g.unit === 'cad_litre';
+          function fmt(v) { return cad ? v.toFixed(1) : '$' + v.toFixed(2); }
+          var names = [['regular', 'Reg'], ['mid', 'Mid'], ['premium', 'Prem']];
+          var parts = [];
+          names.forEach(function (pair) {
+            var gr = g.grades[pair[0]];
+            if (!gr) return; /* grade not published for this region: skip it */
+            parts.push(pair[1] + ' ' + (gr.low === gr.high ? fmt(gr.low) : fmt(gr.low) + '–' + fmt(gr.high)));
+          });
+          if (!parts.length) return;
+          el.textContent = 'Gas in ' + g.label + ': ' + parts.join(' · ') + (cad ? ' ¢/L' : ' a gallon');
           el.hidden = false;
         });
     }).catch(function () { /* stays hidden */ });
