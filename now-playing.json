@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-05T09:56:04-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-05T09:56:27-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-05 09:52:19"
+ },
  "previous": [
   {
    "title": "Show The World My Beaver",
