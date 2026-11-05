@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:19:59-04:00",
+ "generated_at": "2026-11-04T23:21:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-04 23:19:56"
+  "title": "Breath Of Policy",
+  "started": "2026-11-04 23:21:47"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-04 23:19:56"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-04 23:16:51"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-04 23:06:37"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-04 23:00:20"
   }
  ]
 }
