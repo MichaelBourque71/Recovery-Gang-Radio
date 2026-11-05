@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T15:47:26-04:00",
+ "generated_at": "2026-11-05T15:52:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-05 15:47:24"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-05 15:52:10"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-05 15:47:24"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-05 15:43:26"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-05 15:32:01"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-05 15:30:07"
   }
  ]
 }
