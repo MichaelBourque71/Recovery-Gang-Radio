@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:30:45-04:00",
+ "generated_at": "2026-11-05T03:34:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-05 03:30:42"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-05 03:34:13"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-05 03:30:42"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-05 03:26:51"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-05 03:16:53"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-05 03:12:34"
   }
  ]
 }
