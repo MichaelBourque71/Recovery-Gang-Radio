@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:20:00-04:00",
+ "generated_at": "2026-11-05T05:24:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-05 05:19:58"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-05 05:24:50"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-05 05:19:58"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-05 05:14:51"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-05 05:03:52"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-05 05:00:57"
   }
  ]
 }
