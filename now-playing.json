@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-05T10:20:59-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-05 10:20:55"
- },
+ "generated_at": "2026-11-05T10:24:29-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-05 10:20:55"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-05 10:17:37"
@@ -21,10 +22,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-05 10:07:27"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-05 10:03:00"
   }
  ]
 }
