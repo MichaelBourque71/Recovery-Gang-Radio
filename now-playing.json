@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:16:51-04:00",
+ "generated_at": "2026-11-04T20:21:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-04 20:16:50"
+  "title": "Lines In Stone",
+  "started": "2026-11-04 20:21:27"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-04 20:16:50"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-04 20:10:59"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-04 19:58:35"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-04 19:54:38"
   }
  ]
 }
