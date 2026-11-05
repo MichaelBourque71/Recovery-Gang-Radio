@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:29:40-04:00",
+ "generated_at": "2026-11-05T19:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-05 19:29:37"
+  "title": "Weed Coughs",
+  "started": "2026-11-05 19:34:55"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-05 19:29:37"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-05 19:25:24"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-05 19:11:22"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-05 19:08:05"
   }
  ]
 }
