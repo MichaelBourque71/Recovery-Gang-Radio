@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:28:02-04:00",
+ "generated_at": "2026-11-05T00:33:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-05 00:27:59"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-05 00:33:38"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-05 00:27:59"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-05 00:24:42"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-05 00:12:28"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-05 00:07:59"
   }
  ]
 }
