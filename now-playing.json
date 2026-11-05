@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:03:21-04:00",
+ "generated_at": "2026-11-04T20:07:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-04 20:03:20"
+  "title": "Here’s a Stack",
+  "started": "2026-11-04 20:07:49"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-04 20:03:20"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-04 19:58:35"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-04 19:47:03"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-04 19:38:45"
   }
  ]
 }
