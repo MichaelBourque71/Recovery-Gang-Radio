@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:42:44-04:00",
+ "generated_at": "2026-11-05T13:46:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-05 13:42:44"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-05 13:45:59"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-05 13:42:44"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-05 13:38:12"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-05 13:24:09"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-05 13:20:35"
   }
  ]
 }
