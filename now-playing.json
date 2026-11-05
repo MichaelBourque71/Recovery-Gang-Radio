@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:15:01-04:00",
+ "generated_at": "2026-11-05T19:20:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-05 19:14:56"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-05 19:20:08"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-05 19:14:56"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-05 19:11:22"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-05 18:59:45"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-05 18:55:14"
   }
  ]
 }
