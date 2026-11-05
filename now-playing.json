@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:13:13-04:00",
+ "generated_at": "2026-11-05T13:16:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-05 13:13:10"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-05 13:16:06"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-05 13:13:10"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-05 13:08:08"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-05 12:55:44"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-05 12:51:12"
   }
  ]
 }
