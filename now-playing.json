@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:46:02-04:00",
+ "generated_at": "2026-11-05T13:49:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-05 13:45:59"
+  "title": "Clown In A Crown",
+  "started": "2026-11-05 13:49:57"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-05 13:45:59"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-05 13:42:44"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-05 13:28:31"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-05 13:24:09"
   }
  ]
 }
