@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T18:47:39-04:00",
+ "generated_at": "2026-11-05T18:51:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-05 18:47:36"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-05 18:51:11"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-05 18:47:36"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-05 18:43:33"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-05 18:32:07"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-05 18:28:18"
   }
  ]
 }
