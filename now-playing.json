@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:08:11-04:00",
+ "generated_at": "2026-11-05T13:13:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-05 13:08:08"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-05 13:13:10"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-05 13:08:08"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-05 13:04:22"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-05 12:51:12"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-05 12:47:33"
   }
  ]
 }
