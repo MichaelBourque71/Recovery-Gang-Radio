@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:56:27-04:00",
+ "generated_at": "2026-11-05T09:56:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-05 09:52:19"
+  "title": "Southbound 737",
+  "started": "2026-11-05 09:56:31"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-05 09:52:19"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-05 09:48:51"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-05 09:35:45"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-05 09:33:04"
   }
  ]
 }
