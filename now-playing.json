@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:25:43-04:00",
+ "generated_at": "2026-11-05T02:30:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-05 02:25:38"
+  "title": "Painted Signals",
+  "started": "2026-11-05 02:30:00"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-05 02:25:38"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-05 02:21:33"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-05 02:10:58"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-05 02:06:47"
   }
  ]
 }
