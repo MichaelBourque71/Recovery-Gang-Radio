@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:38:06-04:00",
+ "generated_at": "2026-11-05T00:41:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-05 00:38:03"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-05 00:41:37"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-05 00:38:03"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-05 00:33:38"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-05 00:21:22"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-05 00:16:27"
   }
  ]
 }
