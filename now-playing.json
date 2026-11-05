@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:34:04-04:00",
+ "generated_at": "2026-11-05T08:39:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-05 08:34:02"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-05 08:39:28"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-05 08:34:02"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-05 08:30:56"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 08:17:27"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-05 08:12:46"
   }
  ]
 }
