@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:33:07-04:00",
+ "generated_at": "2026-11-05T09:35:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-05 09:33:04"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-05 09:35:45"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-05 09:33:04"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-05 09:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-05 09:17:35"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-05 09:11:48"
   }
  ]
 }
