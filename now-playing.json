@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:16:56-04:00",
+ "generated_at": "2026-11-04T23:19:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-04 23:16:51"
+  "title": "Doughnut Doug",
+  "started": "2026-11-04 23:19:56"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-04 23:16:51"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-04 23:14:57"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-04 23:00:20"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-04 22:56:23"
   }
  ]
 }
