@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:17:38-04:00",
+ "generated_at": "2026-11-05T09:22:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-05 09:17:35"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-05 09:22:33"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-05 09:17:35"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-05 09:11:48"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-05 08:56:15"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-05 08:53:34"
   }
  ]
 }
