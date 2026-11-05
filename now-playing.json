@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:15:44-04:00",
+ "generated_at": "2026-11-05T14:20:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-05 14:15:44"
+  "title": "Lines In Stone",
+  "started": "2026-11-05 14:20:21"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-05 14:15:44"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-05 14:13:16"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-05 14:01:25"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-05 13:57:36"
   }
  ]
 }
