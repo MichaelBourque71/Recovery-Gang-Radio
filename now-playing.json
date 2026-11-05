@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:48:48-04:00",
+ "generated_at": "2026-11-05T19:52:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-05 19:48:46"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-05 19:52:20"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-05 19:48:46"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-05 19:45:25"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-05 19:29:37"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-05 19:25:24"
   }
  ]
 }
