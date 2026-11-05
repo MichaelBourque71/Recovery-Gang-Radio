@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:53:36-04:00",
+ "generated_at": "2026-11-05T08:56:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-05 08:53:34"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-05 08:56:15"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-05 08:53:34"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-05 08:50:10"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-05 08:39:28"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-05 08:34:02"
   }
  ]
 }
