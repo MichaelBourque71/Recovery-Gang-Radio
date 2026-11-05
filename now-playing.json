@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:41:34-04:00",
+ "generated_at": "2026-11-05T11:46:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-05 11:41:30"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-05 11:46:27"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-05 11:41:30"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-05 11:37:41"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-05 11:26:46"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-05 11:24:09"
   }
  ]
 }
