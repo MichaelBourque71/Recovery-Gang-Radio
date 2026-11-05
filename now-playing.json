@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T21:59:37-04:00",
+ "generated_at": "2026-11-04T22:04:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-04 21:59:37"
+  "title": "It Was Time",
+  "started": "2026-11-04 22:04:07"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-04 21:59:37"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-04 21:55:40"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-04 21:42:10"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-04 21:37:26"
   }
  ]
 }
