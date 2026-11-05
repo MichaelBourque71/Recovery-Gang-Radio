@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:48:52-04:00",
+ "generated_at": "2026-11-05T09:52:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-05 09:48:51"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-05 09:52:19"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-05 09:48:51"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-05 09:43:45"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-05 09:33:04"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-05 09:29:55"
   }
  ]
 }
