@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:43:50-04:00",
+ "generated_at": "2026-11-04T23:47:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-04 23:43:50"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-04 23:47:21"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-04 23:43:50"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-04 23:38:06"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-04 23:27:19"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-04 23:21:47"
   }
  ]
 }
