@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:32:53-04:00",
+ "generated_at": "2026-11-05T05:37:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-05 05:32:52"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-05 05:37:00"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-05 05:32:52"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-05 05:28:09"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-05 05:14:51"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-05 05:12:10"
   }
  ]
 }
