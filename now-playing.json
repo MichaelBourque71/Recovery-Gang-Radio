@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T01:59:09-04:00",
+ "generated_at": "2026-11-05T02:02:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-05 01:59:04"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-05 02:02:36"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-05 01:59:04"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-05 01:54:59"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-05 01:42:34"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-05 01:36:33"
   }
  ]
 }
