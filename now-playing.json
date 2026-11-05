@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T04:03:39-04:00",
+ "generated_at": "2026-11-05T04:07:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-05 04:03:35"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-05 04:07:53"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-05 04:03:35"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-05 03:59:37"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-05 03:46:50"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-05 03:42:01"
   }
  ]
 }
