@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:54:35-04:00",
+ "generated_at": "2026-11-05T05:59:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-05 05:54:30"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-05 05:59:49"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-05 05:54:30"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-05 05:52:29"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-05 05:41:03"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-05 05:37:00"
   }
  ]
 }
