@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:16:14-04:00",
+ "generated_at": "2026-11-05T11:21:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-05 11:16:11"
+  "title": "Stand for Freedom",
+  "started": "2026-11-05 11:21:14"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-05 11:16:11"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-05 11:11:56"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-05 11:00:44"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-05 10:57:54"
   }
  ]
 }
