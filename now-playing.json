@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:05:05-04:00",
+ "generated_at": "2026-11-05T11:08:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-05 11:05:01"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-05 11:08:24"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-05 11:05:01"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-05 11:00:44"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-05 10:49:01"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-05 10:44:36"
   }
  ]
 }
