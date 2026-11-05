@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:21:16-04:00",
+ "generated_at": "2026-11-05T11:24:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-05 11:21:14"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-05 11:24:09"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-05 11:21:14"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-05 11:16:11"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-05 11:05:01"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-05 11:00:44"
   }
  ]
 }
