@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T17:40:51-04:00",
+ "generated_at": "2026-11-05T17:44:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-05 17:40:47"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-05 17:44:44"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-05 17:40:47"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-05 17:37:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-05 17:23:45"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-05 17:20:21"
   }
  ]
 }
