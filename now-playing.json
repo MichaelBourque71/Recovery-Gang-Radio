@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:00:28-04:00",
+ "generated_at": "2026-11-05T09:06:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-05 09:00:27"
+  "title": "Hard Way",
+  "started": "2026-11-05 09:06:31"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-05 09:00:27"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-05 08:56:15"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-05 08:46:42"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-05 08:43:05"
   }
  ]
 }
