@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:45:30-04:00",
+ "generated_at": "2026-11-05T19:48:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-05 19:45:25"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-05 19:48:46"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-05 19:45:25"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-05 19:39:23"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-05 19:25:24"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-05 19:20:08"
   }
  ]
 }
