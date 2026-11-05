@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:25:27-04:00",
+ "generated_at": "2026-11-05T19:29:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-05 19:25:24"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-05 19:29:37"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-05 19:25:24"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-05 19:20:08"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-05 19:08:05"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-05 19:05:03"
   }
  ]
 }
