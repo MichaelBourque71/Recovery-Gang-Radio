@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:59:27-04:00",
+ "generated_at": "2026-11-05T12:03:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-05 11:59:26"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-05 12:03:15"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-05 11:59:26"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-05 11:54:22"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-05 11:41:30"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-05 11:37:41"
   }
  ]
 }
