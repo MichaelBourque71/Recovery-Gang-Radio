@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:01:28-04:00",
+ "generated_at": "2026-11-05T14:04:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-05 14:01:25"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-05 14:04:30"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-05 14:01:25"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-05 13:57:36"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-05 13:45:59"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-05 13:42:44"
   }
  ]
 }
