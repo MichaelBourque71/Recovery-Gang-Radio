@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T12:11:28-04:00",
+ "generated_at": "2026-11-05T12:15:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-05 12:11:24"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-05 12:15:39"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-05 12:11:24"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-05 12:06:46"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-05 11:54:22"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-05 11:50:30"
   }
  ]
 }
