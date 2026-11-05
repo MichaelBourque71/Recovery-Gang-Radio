@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T15:04:56-04:00",
+ "generated_at": "2026-11-05T15:08:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-05 15:04:53"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-05 15:08:35"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-05 15:04:53"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-05 15:01:21"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-05 14:49:47"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-05 14:46:48"
   }
  ]
 }
