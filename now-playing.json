@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:27:11-04:00",
+ "generated_at": "2026-11-05T08:30:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-05 08:27:10"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-05 08:30:56"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-05 08:27:10"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-05 08:21:30"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-05 08:08:15"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-05 08:05:16"
   }
  ]
 }
