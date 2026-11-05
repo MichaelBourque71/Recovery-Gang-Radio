@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:29:02-04:00",
+ "generated_at": "2026-11-05T14:32:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-05 14:29:01"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-05 14:32:26"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-05 14:29:01"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-05 14:23:33"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-05 14:13:16"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-05 14:09:35"
   }
  ]
 }
