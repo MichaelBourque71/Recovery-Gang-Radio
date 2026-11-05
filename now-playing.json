@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:58:32-04:00",
+ "generated_at": "2026-11-05T01:01:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-05 00:58:29"
+  "title": "Day And Night",
+  "started": "2026-11-05 01:01:14"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-05 00:58:29"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-05 00:53:06"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-05 00:41:37"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-05 00:38:03"
   }
  ]
 }
