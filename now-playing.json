@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:56:27-04:00",
+ "generated_at": "2026-11-04T23:00:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-04 22:56:23"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-04 23:00:20"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-04 22:56:23"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-04 22:51:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-04 22:36:31"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-04 22:32:58"
   }
  ]
 }
