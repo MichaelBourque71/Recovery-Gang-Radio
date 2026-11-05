@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:37:03-04:00",
+ "generated_at": "2026-11-05T05:41:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-05 05:37:00"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-05 05:41:03"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-05 05:37:00"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-05 05:32:52"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-05 05:19:58"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-05 05:14:51"
   }
  ]
 }
