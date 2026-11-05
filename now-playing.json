@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T16:18:45-04:00",
+ "generated_at": "2026-11-05T16:23:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-05 16:18:43"
+  "title": "LGBTQ",
+  "started": "2026-11-05 16:23:44"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-05 16:18:43"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-05 16:13:34"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-05 16:00:29"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-05 15:56:52"
   }
  ]
 }
