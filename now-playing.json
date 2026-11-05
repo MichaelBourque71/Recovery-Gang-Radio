@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:56:35-04:00",
+ "generated_at": "2026-11-05T09:59:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-05 09:56:31"
+  "title": "Time For Talking",
+  "started": "2026-11-05 09:59:49"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-05 09:56:31"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-05 09:52:19"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-05 09:40:12"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-05 09:35:45"
   }
  ]
 }
