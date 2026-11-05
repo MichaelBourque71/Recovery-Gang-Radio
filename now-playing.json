@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T16:52:44-04:00",
+ "generated_at": "2026-11-05T16:56:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-05 16:52:41"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-05 16:56:45"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-05 16:52:41"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-05 16:48:24"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-05 16:35:57"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-05 16:30:51"
   }
  ]
 }
