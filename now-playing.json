@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T04:41:20-04:00",
+ "generated_at": "2026-11-05T04:44:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-05 04:41:16"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-05 04:44:50"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-05 04:41:16"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-05 04:35:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-05 04:23:15"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-05 04:20:12"
   }
  ]
 }
