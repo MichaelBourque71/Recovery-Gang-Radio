@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T18:26:22-04:00",
+ "generated_at": "2026-11-05T18:28:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-05 18:26:18"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-05 18:28:18"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-05 18:26:18"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-05 18:22:41"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-05 18:11:14"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-05 18:06:05"
   }
  ]
 }
