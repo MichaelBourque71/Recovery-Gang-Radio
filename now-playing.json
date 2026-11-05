@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:36:32-04:00",
+ "generated_at": "2026-11-04T22:40:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-04 22:36:31"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-04 22:40:29"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-04 22:36:31"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-04 22:32:58"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-04 22:21:34"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-04 22:18:23"
   }
  ]
 }
