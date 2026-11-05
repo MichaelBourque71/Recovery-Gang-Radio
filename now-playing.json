@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T16:23:44-04:00",
+ "generated_at": "2026-11-05T16:28:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-05 16:23:44"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-05 16:28:19"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-05 16:23:44"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-05 16:18:43"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-05 16:05:14"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-05 16:00:29"
   }
  ]
 }
