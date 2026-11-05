@@ -21,6 +21,7 @@
   #info h1 { margin:0 0 2px; font-size:20px; letter-spacing:.3px; }
   #clock { font-size:15px; opacity:.92; }
   #weather { font-size:15px; margin-top:2px; }
+  #gas { font-size:15px; margin-top:2px; }
   #np { margin-top:10px; border-top:1px solid rgba(255,255,255,.22); padding-top:9px; }
   #np .label, #prev .label {
     font-size:11px; text-transform:uppercase; letter-spacing:1.2px; opacity:.65;
@@ -46,6 +47,7 @@
   <h1>Recovery Gang Radio</h1>
   <div id="clock"></div>
   <div id="weather" hidden></div>
+  <div id="gas" hidden></div>
   <div id="np">
     <div class="label">Now Playing</div>
     <div id="np-title">…</div>
@@ -131,6 +133,43 @@ Your browser does not support the audio player.
       var label = CODES[data.current.weather_code] || 'Weather';
       el.textContent = 'Your weather: ' + t + '°C · ' + label;
       el.hidden = false;
+    }).catch(function () { /* stays hidden */ });
+  }, function () { /* location unavailable: stays hidden */ }, { timeout: 8000, maximumAge: 600000 });
+})();
+
+/* Gas price range for the listener's own area - the same area the
+   weather line shows. The listener's region comes from the free
+   BigDataCloud reverse geocoder; prices come from gas-prices.json,
+   published alongside this page and refreshed daily (AAA state
+   averages for the US, the NBEUB weekly schedule for New Brunswick).
+   Shown ONLY when the location is available, the region has data,
+   and the data is current - otherwise the line stays hidden, and no
+   other place's prices are ever shown. */
+(function () {
+  var el = document.getElementById('gas');
+  if (!('geolocation' in navigator)) return;
+  navigator.geolocation.getCurrentPosition(function (pos) {
+    var geo = 'https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=' +
+      encodeURIComponent(pos.coords.latitude.toFixed(4)) + '&longitude=' +
+      encodeURIComponent(pos.coords.longitude.toFixed(4)) + '&localityLanguage=en';
+    fetch(geo).then(function (r) { return r.json(); }).then(function (place) {
+      var code = place && place.principalSubdivisionCode;
+      if (!code) return;
+      return fetch('gas-prices.json', { cache: 'no-store' })
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (data) {
+          if (!data || !data.asof || !data.regions) return;
+          var ageDays = (Date.now() - Date.parse(data.asof)) / 86400000;
+          if (!(ageDays >= -1 && ageDays <= 10)) return; /* stale: stays hidden */
+          var g = data.regions[code];
+          if (!g) return;
+          if (g.unit === 'cad_litre') {
+            el.textContent = 'Gas in ' + g.label + ': ' + g.low.toFixed(1) + '–' + g.high.toFixed(1) + ' ¢/L';
+          } else {
+            el.textContent = 'Gas in ' + g.label + ': $' + g.low.toFixed(2) + '–$' + g.high.toFixed(2) + ' a gallon';
+          }
+          el.hidden = false;
+        });
     }).catch(function () { /* stays hidden */ });
   }, function () { /* location unavailable: stays hidden */ }, { timeout: 8000, maximumAge: 600000 });
 })();

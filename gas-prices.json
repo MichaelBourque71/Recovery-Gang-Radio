@@ -1,0 +1,317 @@
+{
+ "asof": "2026-11-05",
+ "regions": {
+  "US-AL": {
+   "label": "Alabama",
+   "low": 3.6916,
+   "high": 4.5828,
+   "unit": "usd_gal"
+  },
+  "US-AK": {
+   "label": "Alaska",
+   "low": 4.717,
+   "high": 5.1315,
+   "unit": "usd_gal"
+  },
+  "US-AZ": {
+   "label": "Arizona",
+   "low": 4.3579,
+   "high": 5.0458,
+   "unit": "usd_gal"
+  },
+  "US-AR": {
+   "label": "Arkansas",
+   "low": 3.7109,
+   "high": 4.6174,
+   "unit": "usd_gal"
+  },
+  "US-CA": {
+   "label": "California",
+   "low": 5.8396,
+   "high": 6.276,
+   "unit": "usd_gal"
+  },
+  "US-CO": {
+   "label": "Colorado",
+   "low": 4.0517,
+   "high": 4.7627,
+   "unit": "usd_gal"
+  },
+  "US-CT": {
+   "label": "Connecticut",
+   "low": 4.2196,
+   "high": 5.2944,
+   "unit": "usd_gal"
+  },
+  "US-DE": {
+   "label": "Delaware",
+   "low": 3.923,
+   "high": 4.8376,
+   "unit": "usd_gal"
+  },
+  "US-DC": {
+   "label": "District of Columbia",
+   "low": 4.2767,
+   "high": 5.2885,
+   "unit": "usd_gal"
+  },
+  "US-FL": {
+   "label": "Florida",
+   "low": 3.8344,
+   "high": 4.6626,
+   "unit": "usd_gal"
+  },
+  "US-GA": {
+   "label": "Georgia",
+   "low": 3.5421,
+   "high": 4.4775,
+   "unit": "usd_gal"
+  },
+  "US-HI": {
+   "label": "Hawaii",
+   "low": 5.648,
+   "high": 6.1892,
+   "unit": "usd_gal"
+  },
+  "US-ID": {
+   "label": "Idaho",
+   "low": 4.44,
+   "high": 5.0353,
+   "unit": "usd_gal"
+  },
+  "US-IL": {
+   "label": "Illinois",
+   "low": 4.6067,
+   "high": 5.794,
+   "unit": "usd_gal"
+  },
+  "US-IN": {
+   "label": "Indiana",
+   "low": 3.7156,
+   "high": 4.8459,
+   "unit": "usd_gal"
+  },
+  "US-IA": {
+   "label": "Iowa",
+   "low": 3.9377,
+   "high": 4.8365,
+   "unit": "usd_gal"
+  },
+  "US-KS": {
+   "label": "Kansas",
+   "low": 3.8223,
+   "high": 4.5544,
+   "unit": "usd_gal"
+  },
+  "US-KY": {
+   "label": "Kentucky",
+   "low": 3.8302,
+   "high": 4.8516,
+   "unit": "usd_gal"
+  },
+  "US-LA": {
+   "label": "Louisiana",
+   "low": 3.6637,
+   "high": 4.5444,
+   "unit": "usd_gal"
+  },
+  "US-ME": {
+   "label": "Maine",
+   "low": 4.2288,
+   "high": 5.2811,
+   "unit": "usd_gal"
+  },
+  "US-MD": {
+   "label": "Maryland",
+   "low": 3.9552,
+   "high": 4.8932,
+   "unit": "usd_gal"
+  },
+  "US-MA": {
+   "label": "Massachusetts",
+   "low": 4.1444,
+   "high": 5.2259,
+   "unit": "usd_gal"
+  },
+  "US-MI": {
+   "label": "Michigan",
+   "low": 4.3385,
+   "high": 5.6181,
+   "unit": "usd_gal"
+  },
+  "US-MN": {
+   "label": "Minnesota",
+   "low": 3.9977,
+   "high": 5.0041,
+   "unit": "usd_gal"
+  },
+  "US-MS": {
+   "label": "Mississippi",
+   "low": 3.7311,
+   "high": 4.6131,
+   "unit": "usd_gal"
+  },
+  "US-MO": {
+   "label": "Missouri",
+   "low": 3.7738,
+   "high": 4.5129,
+   "unit": "usd_gal"
+  },
+  "US-MT": {
+   "label": "Montana",
+   "low": 4.2306,
+   "high": 4.9101,
+   "unit": "usd_gal"
+  },
+  "US-NE": {
+   "label": "Nebraska",
+   "low": 4.1148,
+   "high": 4.8829,
+   "unit": "usd_gal"
+  },
+  "US-NV": {
+   "label": "Nevada",
+   "low": 5.1802,
+   "high": 5.8053,
+   "unit": "usd_gal"
+  },
+  "US-NH": {
+   "label": "New Hampshire",
+   "low": 4.1378,
+   "high": 5.2149,
+   "unit": "usd_gal"
+  },
+  "US-NJ": {
+   "label": "New Jersey",
+   "low": 4.0957,
+   "high": 5.0394,
+   "unit": "usd_gal"
+  },
+  "US-NM": {
+   "label": "New Mexico",
+   "low": 4.0002,
+   "high": 4.7539,
+   "unit": "usd_gal"
+  },
+  "US-NY": {
+   "label": "New York",
+   "low": 4.3104,
+   "high": 5.2682,
+   "unit": "usd_gal"
+  },
+  "US-NC": {
+   "label": "North Carolina",
+   "low": 3.3446,
+   "high": 4.2276,
+   "unit": "usd_gal"
+  },
+  "US-ND": {
+   "label": "North Dakota",
+   "low": 3.9612,
+   "high": 4.8749,
+   "unit": "usd_gal"
+  },
+  "US-OH": {
+   "label": "Ohio",
+   "low": 3.9793,
+   "high": 5.1017,
+   "unit": "usd_gal"
+  },
+  "US-OK": {
+   "label": "Oklahoma",
+   "low": 3.7363,
+   "high": 4.4746,
+   "unit": "usd_gal"
+  },
+  "US-OR": {
+   "label": "Oregon",
+   "low": 4.7371,
+   "high": 5.2993,
+   "unit": "usd_gal"
+  },
+  "US-PA": {
+   "label": "Pennsylvania",
+   "low": 4.4019,
+   "high": 5.2743,
+   "unit": "usd_gal"
+  },
+  "US-RI": {
+   "label": "Rhode Island",
+   "low": 4.0828,
+   "high": 5.2279,
+   "unit": "usd_gal"
+  },
+  "US-SC": {
+   "label": "South Carolina",
+   "low": 3.6022,
+   "high": 4.4548,
+   "unit": "usd_gal"
+  },
+  "US-SD": {
+   "label": "South Dakota",
+   "low": 4.054,
+   "high": 4.8423,
+   "unit": "usd_gal"
+  },
+  "US-TN": {
+   "label": "Tennessee",
+   "low": 3.6816,
+   "high": 4.5631,
+   "unit": "usd_gal"
+  },
+  "US-TX": {
+   "label": "Texas",
+   "low": 3.5807,
+   "high": 4.4719,
+   "unit": "usd_gal"
+  },
+  "US-UT": {
+   "label": "Utah",
+   "low": 4.496,
+   "high": 5.0303,
+   "unit": "usd_gal"
+  },
+  "US-VT": {
+   "label": "Vermont",
+   "low": 4.2969,
+   "high": 5.3036,
+   "unit": "usd_gal"
+  },
+  "US-VA": {
+   "label": "Virginia",
+   "low": 3.917,
+   "high": 4.8212,
+   "unit": "usd_gal"
+  },
+  "US-WA": {
+   "label": "Washington",
+   "low": 5.1255,
+   "high": 5.6741,
+   "unit": "usd_gal"
+  },
+  "US-WV": {
+   "label": "West Virginia",
+   "low": 4.1307,
+   "high": 5.0137,
+   "unit": "usd_gal"
+  },
+  "US-WI": {
+   "label": "Wisconsin",
+   "low": 4.1015,
+   "high": 5.2934,
+   "unit": "usd_gal"
+  },
+  "US-WY": {
+   "label": "Wyoming",
+   "low": 4.2588,
+   "high": 4.8423,
+   "unit": "usd_gal"
+  },
+  "CA-NB": {
+   "label": "New Brunswick",
+   "low": 175.29,
+   "high": 180.8,
+   "unit": "cad_litre"
+  }
+ }
+}
