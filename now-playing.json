@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:12:33-04:00",
+ "generated_at": "2026-11-05T00:16:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-05 00:12:28"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-05 00:16:27"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-05 00:12:28"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-05 00:07:59"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-04 23:57:27"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-04 23:54:17"
   }
  ]
 }
