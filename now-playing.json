@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T01:30:46-04:00",
+ "generated_at": "2026-11-05T01:36:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-05 01:30:42"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-05 01:36:33"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-05 01:30:42"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-05 01:25:46"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-05 01:15:31"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-05 01:11:52"
   }
  ]
 }
