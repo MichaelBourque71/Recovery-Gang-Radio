@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:59:42-04:00",
+ "generated_at": "2026-11-05T04:03:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-05 03:59:37"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-05 04:03:35"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-05 03:59:37"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-05 03:55:28"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-05 03:42:01"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-05 03:38:42"
   }
  ]
 }
