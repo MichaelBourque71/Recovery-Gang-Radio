@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:52:00-04:00",
+ "generated_at": "2026-11-05T03:55:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-05 03:51:57"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-05 03:55:28"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-05 03:51:57"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-05 03:46:50"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-05 03:34:13"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-05 03:30:42"
   }
  ]
 }
