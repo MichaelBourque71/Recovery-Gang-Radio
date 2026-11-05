@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T17:01:19-04:00",
+ "generated_at": "2026-11-05T17:05:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-05 17:01:16"
+  "title": "Stolen Democracy",
+  "started": "2026-11-05 17:05:15"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-05 17:01:16"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-05 16:56:45"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-05 16:43:29"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-05 16:39:52"
   }
  ]
 }
