@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:33:41-04:00",
+ "generated_at": "2026-11-05T00:38:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-05 00:33:38"
+  "title": "Upgraded",
+  "started": "2026-11-05 00:38:03"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-05 00:33:38"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-05 00:27:59"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-05 00:16:27"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-05 00:12:28"
   }
  ]
 }
