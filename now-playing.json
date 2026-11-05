@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T17:27:54-04:00",
+ "generated_at": "2026-11-05T17:33:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-05 17:27:52"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-05 17:33:07"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-05 17:27:52"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-05 17:23:45"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-05 17:11:55"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-05 17:08:22"
   }
  ]
 }
