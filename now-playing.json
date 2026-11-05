@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T15:52:14-04:00",
+ "generated_at": "2026-11-05T15:56:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-05 15:52:10"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-05 15:56:52"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-05 15:52:10"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-05 15:47:24"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-05 15:37:33"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-05 15:32:01"
   }
  ]
 }
