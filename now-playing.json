@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:04:22-04:00",
+ "generated_at": "2026-11-05T00:08:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-05 00:04:20"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-05 00:07:59"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-05 00:04:20"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-05 00:00:55"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-04 23:50:02"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-04 23:47:21"
   }
  ]
 }
