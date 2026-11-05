@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:55:30-04:00",
+ "generated_at": "2026-11-05T03:59:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-05 03:55:28"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-05 03:59:37"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-05 03:55:28"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-05 03:51:57"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-05 03:38:42"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-05 03:34:13"
   }
  ]
 }
