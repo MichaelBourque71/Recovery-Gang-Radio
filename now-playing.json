@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:19:12-04:00",
+ "generated_at": "2026-11-05T06:22:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-05 06:19:08"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-05 06:22:11"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-05 06:19:08"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-05 06:14:50"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-05 06:03:49"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-05 05:59:49"
   }
  ]
 }
