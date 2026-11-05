@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:02:39-04:00",
+ "generated_at": "2026-11-05T02:06:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-05 02:02:36"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-05 02:06:47"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-05 02:02:36"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-05 01:59:04"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-05 01:46:07"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-05 01:42:34"
   }
  ]
 }
