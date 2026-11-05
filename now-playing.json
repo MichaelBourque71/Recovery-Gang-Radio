@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T12:43:14-04:00",
+ "generated_at": "2026-11-05T12:47:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-05 12:43:12"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-05 12:47:33"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-05 12:43:12"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-05 12:39:09"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-05 12:24:34"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-05 12:20:47"
   }
  ]
 }
