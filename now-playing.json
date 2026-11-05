@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T12:15:42-04:00",
+ "generated_at": "2026-11-05T12:20:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-05 12:15:39"
+  "title": "I'm Ready For This",
+  "started": "2026-11-05 12:20:47"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-05 12:15:39"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-05 12:11:24"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-05 11:59:26"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-05 11:54:22"
   }
  ]
 }
