@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T20:56:51-04:00",
+ "generated_at": "2026-11-04T21:00:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-04 20:56:50"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-04 21:00:07"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-04 20:56:50"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-04 20:50:58"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-04 20:39:07"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-04 20:35:41"
   }
  ]
 }
