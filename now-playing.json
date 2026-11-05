@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:00:14-04:00",
+ "generated_at": "2026-11-05T03:04:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-05 03:00:13"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-05 03:04:51"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-05 03:00:13"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-05 02:57:33"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-05 02:41:41"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-05 02:37:38"
   }
  ]
 }
