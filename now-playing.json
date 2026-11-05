@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:16:10-04:00",
+ "generated_at": "2026-11-05T13:20:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-05 13:16:06"
+  "title": "Upgraded",
+  "started": "2026-11-05 13:20:35"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-05 13:16:06"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-05 13:13:10"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-05 12:59:44"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-05 12:55:44"
   }
  ]
 }
