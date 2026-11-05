@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T17:15:29-04:00",
+ "generated_at": "2026-11-05T17:20:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-05 17:15:29"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-05 17:20:21"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-05 17:15:29"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-05 17:11:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-05 17:01:16"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-05 16:56:45"
   }
  ]
 }
