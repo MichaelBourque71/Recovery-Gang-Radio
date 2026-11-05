@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:41:46-04:00",
+ "generated_at": "2026-11-05T02:47:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-05 02:41:41"
+  "title": "Keyboard Courage",
+  "started": "2026-11-05 02:47:43"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-05 02:41:41"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 02:37:38"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-05 02:25:38"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-05 02:21:33"
   }
  ]
 }
