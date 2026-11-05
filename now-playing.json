@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:57:30-04:00",
+ "generated_at": "2026-11-05T00:00:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-04 23:57:27"
+  "title": "Time For Talking",
+  "started": "2026-11-05 00:00:55"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-04 23:57:27"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-04 23:54:17"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-04 23:43:50"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-04 23:38:06"
   }
  ]
 }
