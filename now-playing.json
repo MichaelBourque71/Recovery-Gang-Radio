@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:29:09-04:00",
+ "generated_at": "2026-11-05T06:32:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-05 06:29:07"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-05 06:32:36"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-05 06:29:07"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-05 06:25:13"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-05 06:14:50"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-05 06:11:33"
   }
  ]
 }
