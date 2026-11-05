@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T10:42:07-04:00",
+ "generated_at": "2026-11-05T10:44:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-05 10:42:04"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-05 10:44:36"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-05 10:42:04"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-05 10:40:04"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-05 10:27:25"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-05 10:24:29"
   }
  ]
 }
