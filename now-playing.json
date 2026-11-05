@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:26:55-04:00",
+ "generated_at": "2026-11-05T03:30:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-05 03:26:51"
+  "title": "Duck On The Dash",
+  "started": "2026-11-05 03:30:42"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-05 03:26:51"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-05 03:23:32"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-05 03:12:34"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-05 03:08:29"
   }
  ]
 }
