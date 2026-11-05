@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:39:26-04:00",
+ "generated_at": "2026-11-05T19:45:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-05 19:39:23"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-05 19:45:25"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-05 19:39:23"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-05 19:34:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-05 19:20:08"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-05 19:14:56"
   }
  ]
 }
