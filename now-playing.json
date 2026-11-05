@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:03:49-04:00",
+ "generated_at": "2026-11-05T06:05:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-05 06:03:49"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-05 06:05:36"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-05 06:03:49"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-05 05:59:49"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-05 05:47:12"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-05 05:44:57"
   }
  ]
 }
