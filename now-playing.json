@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T07:28:50-04:00",
+ "generated_at": "2026-11-05T07:33:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-05 07:28:48"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-05 07:33:26"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-05 07:28:48"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-05 07:22:59"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-05 07:09:02"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-05 07:06:29"
   }
  ]
 }
