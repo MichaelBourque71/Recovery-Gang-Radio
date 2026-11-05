@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:00:22-04:00",
+ "generated_at": "2026-11-04T23:06:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-04 23:00:20"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-04 23:06:37"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-04 23:00:20"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-04 22:56:23"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-04 22:40:29"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-04 22:36:31"
   }
  ]
 }
