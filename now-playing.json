@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T18:43:34-04:00",
+ "generated_at": "2026-11-05T18:47:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-05 18:43:33"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-05 18:47:36"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-05 18:43:33"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-05 18:40:35"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-05 18:28:18"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-05 18:26:18"
   }
  ]
 }
