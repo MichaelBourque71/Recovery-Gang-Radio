@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T14:09:38-04:00",
+ "generated_at": "2026-11-05T14:13:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-05 14:09:35"
+  "title": "What They Want…",
+  "started": "2026-11-05 14:13:16"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-05 14:09:35"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-05 14:04:30"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-05 13:53:17"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-05 13:49:57"
   }
  ]
 }
