@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T12:20:49-04:00",
+ "generated_at": "2026-11-05T12:24:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-05 12:20:47"
+  "title": "Delaware Sniff",
+  "started": "2026-11-05 12:24:34"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-05 12:20:47"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-05 12:15:39"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-05 12:03:15"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-05 11:59:26"
   }
  ]
 }
