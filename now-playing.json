@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:30:57-04:00",
+ "generated_at": "2026-11-05T08:34:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-05 08:30:56"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-05 08:34:02"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-05 08:30:56"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-05 08:27:10"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-05 08:12:46"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-05 08:08:15"
   }
  ]
 }
