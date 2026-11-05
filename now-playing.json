@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T05:14:54-04:00",
+ "generated_at": "2026-11-05T05:20:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-05 05:14:51"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-05 05:19:58"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-05 05:14:51"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-05 05:12:10"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-05 05:00:57"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-05 04:57:10"
   }
  ]
 }
