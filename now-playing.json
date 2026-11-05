@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:21:34-04:00",
+ "generated_at": "2026-11-05T08:27:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-05 08:21:30"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-05 08:27:10"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-05 08:21:30"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 08:17:27"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-05 08:05:16"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-05 08:01:42"
   }
  ]
 }
