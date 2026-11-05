@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T15:08:37-04:00",
+ "generated_at": "2026-11-05T15:12:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-05 15:08:35"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-05 15:12:30"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-05 15:08:35"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-05 15:04:53"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-05 14:53:02"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-05 14:49:47"
   }
  ]
 }
