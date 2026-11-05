@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:49:59-04:00",
+ "generated_at": "2026-11-05T13:53:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-05 13:49:57"
+  "title": "Taste Your Honey",
+  "started": "2026-11-05 13:53:17"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-05 13:49:57"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-05 13:45:59"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-05 13:34:12"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-05 13:28:31"
   }
  ]
 }
