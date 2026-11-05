@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T01:55:04-04:00",
+ "generated_at": "2026-11-05T01:59:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-05 01:54:59"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-05 01:59:04"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-05 01:54:59"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-05 01:51:18"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-05 01:36:33"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-05 01:30:42"
   }
  ]
 }
