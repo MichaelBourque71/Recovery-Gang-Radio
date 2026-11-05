@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T10:40:09-04:00",
+ "generated_at": "2026-11-05T10:42:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-05 10:40:04"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-05 10:42:04"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-05 10:40:04"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-05 10:34:41"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-05 10:24:29"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-05 10:20:55"
   }
  ]
 }
