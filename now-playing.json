@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:30:03-04:00",
+ "generated_at": "2026-11-05T02:33:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-05 02:30:00"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-05 02:33:37"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-05 02:30:00"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-05 02:25:38"
@@ -21,10 +25,6 @@
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-05 02:15:58"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-05 02:10:58"
   }
  ]
 }
