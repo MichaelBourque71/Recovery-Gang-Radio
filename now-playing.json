@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:22:35-04:00",
+ "generated_at": "2026-11-05T09:26:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-05 09:22:33"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-05 09:25:58"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-05 09:22:33"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-05 09:17:35"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-05 09:00:27"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-05 08:56:15"
   }
  ]
 }
