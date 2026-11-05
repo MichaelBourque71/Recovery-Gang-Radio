@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T03:04:55-04:00",
+ "generated_at": "2026-11-05T03:08:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-05 03:04:51"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-05 03:08:29"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-05 03:04:51"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-05 03:00:13"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-05 02:47:43"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-05 02:41:41"
   }
  ]
 }
