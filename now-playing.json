@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T01:42:39-04:00",
+ "generated_at": "2026-11-05T01:46:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-05 01:42:34"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-05 01:46:07"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-05 01:42:34"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-05 01:36:33"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-05 01:21:48"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-05 01:18:59"
   }
  ]
 }
