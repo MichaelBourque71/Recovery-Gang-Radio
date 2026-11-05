@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:08:19-04:00",
+ "generated_at": "2026-11-05T08:12:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-05 08:08:15"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-05 08:12:46"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-05 08:08:15"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-05 08:05:16"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-05 07:54:13"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-05 07:49:01"
   }
  ]
 }
