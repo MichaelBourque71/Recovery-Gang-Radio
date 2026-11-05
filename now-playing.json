@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T13:34:13-04:00",
+ "generated_at": "2026-11-05T13:38:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-05 13:34:12"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-05 13:38:12"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-05 13:34:12"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-05 13:28:31"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-05 13:16:06"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-05 13:13:10"
   }
  ]
 }
