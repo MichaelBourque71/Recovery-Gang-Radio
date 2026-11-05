@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T02:21:35-04:00",
+ "generated_at": "2026-11-05T02:25:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-05 02:21:33"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-05 02:25:38"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-05 02:21:33"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-05 02:16:42"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-05 02:06:47"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-05 02:02:36"
   }
  ]
 }
