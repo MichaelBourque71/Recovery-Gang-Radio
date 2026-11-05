@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:43:48-04:00",
+ "generated_at": "2026-11-05T09:48:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-05 09:43:45"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-05 09:48:51"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-05 09:43:45"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-05 09:40:12"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-05 09:29:55"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-05 09:25:58"
   }
  ]
 }
