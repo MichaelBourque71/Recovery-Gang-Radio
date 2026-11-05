@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:46:58-04:00",
+ "generated_at": "2026-11-05T00:50:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-05 00:46:54"
+  "title": "The Left Lies",
+  "started": "2026-11-05 00:50:39"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-05 00:46:54"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-05 00:41:37"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-05 00:27:59"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-05 00:24:42"
   }
  ]
 }
