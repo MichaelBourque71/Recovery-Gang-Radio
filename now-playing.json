@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:10:40-04:00",
+ "generated_at": "2026-11-04T23:15:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-04 23:10:35"
+  "title": "420 Twice A Day",
+  "started": "2026-11-04 23:14:57"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-04 23:10:35"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-04 23:06:37"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-04 22:51:27"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-04 22:46:02"
   }
  ]
 }
