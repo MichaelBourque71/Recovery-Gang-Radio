@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:50:31-04:00",
+ "generated_at": "2026-11-05T11:54:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-05 11:50:30"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-05 11:54:22"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-05 11:50:30"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 11:46:27"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-05 11:34:57"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-05 11:31:11"
   }
  ]
 }
