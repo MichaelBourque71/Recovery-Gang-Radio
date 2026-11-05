@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:11:38-04:00",
+ "generated_at": "2026-11-05T06:14:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-05 06:11:33"
+  "title": "It Was Time",
+  "started": "2026-11-05 06:14:50"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-05 06:11:33"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-05 06:05:36"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-05 05:54:30"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-05 05:52:29"
   }
  ]
 }
