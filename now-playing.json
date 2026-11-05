@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:58:12-04:00",
+ "generated_at": "2026-11-05T07:01:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-05 06:58:10"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-05 07:01:15"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-05 06:58:10"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-05 06:54:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-05 06:40:08"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-05 06:36:20"
   }
  ]
 }
