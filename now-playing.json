@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:22:11-04:00",
+ "generated_at": "2026-11-05T06:25:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-05 06:22:11"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-05 06:25:13"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-05 06:22:11"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-05 06:19:08"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-05 06:05:36"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-05 06:03:49"
   }
  ]
 }
