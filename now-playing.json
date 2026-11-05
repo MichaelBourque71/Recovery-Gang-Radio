@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T10:57:59-04:00",
+ "generated_at": "2026-11-05T11:00:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-05 10:57:54"
+  "title": "Low-End Disorder",
+  "started": "2026-11-05 11:00:44"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-05 10:57:54"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-05 10:53:55"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-05 10:42:04"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-05 10:40:04"
   }
  ]
 }
