@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T15:21:25-04:00",
+ "generated_at": "2026-11-05T15:26:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-05 15:21:22"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-05 15:25:59"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-05 15:21:22"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-05 15:18:12"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-05 15:04:53"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-05 15:01:21"
   }
  ]
 }
