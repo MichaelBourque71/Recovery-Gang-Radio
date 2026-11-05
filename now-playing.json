@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T21:00:11-04:00",
+ "generated_at": "2026-11-04T21:02:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-04 21:00:07"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-04 21:02:44"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-04 21:00:07"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-04 20:56:50"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-04 20:42:40"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-04 20:39:07"
   }
  ]
 }
