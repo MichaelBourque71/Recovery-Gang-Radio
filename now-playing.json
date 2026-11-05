@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T06:14:52-04:00",
+ "generated_at": "2026-11-05T06:19:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-05 06:14:50"
+  "title": "Running With Scissors",
+  "started": "2026-11-05 06:19:08"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-05 06:14:50"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-05 06:11:33"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-05 05:59:49"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-05 05:54:30"
   }
  ]
 }
