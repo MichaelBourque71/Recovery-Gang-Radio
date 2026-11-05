@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T22:04:08-04:00",
+ "generated_at": "2026-11-04T22:08:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-04 22:04:07"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-04 22:08:24"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-04 22:04:07"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-04 21:59:37"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-04 21:46:05"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-04 21:42:10"
   }
  ]
 }
