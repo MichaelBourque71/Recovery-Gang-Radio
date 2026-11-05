@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:50:44-04:00",
+ "generated_at": "2026-11-05T00:53:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-05 00:50:39"
+  "title": "Feel Alright",
+  "started": "2026-11-05 00:53:06"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-05 00:50:39"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-05 00:46:54"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-05 00:33:38"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-05 00:27:59"
   }
  ]
 }
