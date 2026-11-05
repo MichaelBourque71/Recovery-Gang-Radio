@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T18:05:23-04:00",
+ "generated_at": "2026-11-05T18:06:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-05 18:05:21"
+  "title": "Heavy Denim",
+  "started": "2026-11-05 18:06:05"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-05 18:05:21"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-05 18:04:30"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-05 17:50:54"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-05 17:48:14"
   }
  ]
 }
