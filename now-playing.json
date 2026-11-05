@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T08:17:27-04:00",
+ "generated_at": "2026-11-05T08:21:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-05 08:17:27"
+  "title": "I Do What I Want",
+  "started": "2026-11-05 08:21:30"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-05 08:17:27"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-05 08:12:46"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-05 08:01:42"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-05 07:58:44"
   }
  ]
 }
