@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T09:06:32-04:00",
+ "generated_at": "2026-11-05T09:11:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-05 09:06:31"
+  "title": "My Harley Waits",
+  "started": "2026-11-05 09:11:48"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-05 09:06:31"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-05 09:00:27"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-05 08:50:10"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-05 08:46:42"
   }
  ]
 }
