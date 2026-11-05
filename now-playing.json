@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T04:20:12-04:00",
+ "generated_at": "2026-11-05T04:23:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-05 04:20:12"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-05 04:23:15"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-05 04:20:12"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-05 04:19:28"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-05 04:07:53"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-05 04:03:35"
   }
  ]
 }
