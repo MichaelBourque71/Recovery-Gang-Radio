@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T11:26:46-04:00",
+ "generated_at": "2026-11-05T11:31:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-05 11:26:46"
+  "title": "Putz in a Suit",
+  "started": "2026-11-05 11:31:11"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-05 11:26:46"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-05 11:24:09"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-05 11:11:56"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-05 11:08:24"
   }
  ]
 }
