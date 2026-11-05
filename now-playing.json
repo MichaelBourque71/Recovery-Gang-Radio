@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-04T23:38:09-04:00",
+ "generated_at": "2026-11-04T23:43:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-04 23:38:06"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-04 23:43:50"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-04 23:38:06"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-04 23:34:19"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-04 23:21:47"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-04 23:19:56"
   }
  ]
 }
