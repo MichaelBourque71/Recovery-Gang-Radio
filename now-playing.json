@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T17:11:55-04:00",
+ "generated_at": "2026-11-05T17:15:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-05 17:11:55"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-05 17:15:29"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-05 17:11:55"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-05 17:08:22"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-05 16:56:45"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-05 16:52:41"
   }
  ]
 }
