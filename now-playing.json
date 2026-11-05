@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T00:08:00-04:00",
+ "generated_at": "2026-11-05T00:12:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-05 00:07:59"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-05 00:12:28"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-05 00:07:59"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-05 00:04:20"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-04 23:54:17"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-04 23:50:02"
   }
  ]
 }
