@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:23:05-04:00",
+ "generated_at": "2026-11-06T16:28:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-06 16:23:03"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-06 16:28:08"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-06 16:23:03"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-06 16:19:49"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-06 16:09:29"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-06 16:06:18"
   }
  ]
 }
