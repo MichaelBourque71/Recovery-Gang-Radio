@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:03:41-04:00",
+ "generated_at": "2026-11-06T07:09:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-06 07:03:36"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-06 07:09:17"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-06 07:03:36"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-06 07:01:42"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-06 06:48:25"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-06 06:45:00"
   }
  ]
 }
