@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:36:53-04:00",
+ "generated_at": "2026-11-06T01:40:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-06 01:36:52"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-06 01:40:43"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-06 01:36:52"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-06 01:33:17"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-06 01:22:35"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-06 01:19:13"
   }
  ]
 }
