@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:19:33-04:00",
+ "generated_at": "2026-11-06T10:22:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-06 10:19:31"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-06 10:22:57"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-06 10:19:31"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-06 10:16:46"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-06 10:04:29"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-06 10:01:30"
   }
  ]
 }
