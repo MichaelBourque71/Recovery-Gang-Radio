@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:38:40-04:00",
+ "generated_at": "2026-11-05T23:43:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-05 23:38:36"
+  "title": "Mushroom Parade",
+  "started": "2026-11-05 23:43:02"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-05 23:38:36"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-05 23:35:00"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-05 23:23:32"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-05 23:19:12"
   }
  ]
 }
