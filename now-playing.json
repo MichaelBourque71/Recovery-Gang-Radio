@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:50:12-04:00",
+ "generated_at": "2026-11-06T16:54:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-06 16:50:11"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-06 16:54:22"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-06 16:50:11"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-06 16:46:47"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-06 16:35:58"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-06 16:31:25"
   }
  ]
 }
