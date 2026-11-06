@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:12:38-04:00",
+ "generated_at": "2026-11-06T06:18:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-06 06:12:35"
+  "title": "Killdozer Army",
+  "started": "2026-11-06 06:18:11"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-06 06:12:35"
+  },
   {
    "title": "Pair A - It Was Time + Built To Love",
    "started": "2026-11-06 06:01:16"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-06 05:47:51"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-06 05:44:17"
   }
  ]
 }
