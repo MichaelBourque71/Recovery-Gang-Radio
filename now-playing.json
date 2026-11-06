@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:59:14-04:00",
+ "generated_at": "2026-11-06T17:04:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-06 16:59:14"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-06 17:04:18"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-06 16:59:14"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-06 16:54:22"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-06 16:43:31"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-06 16:40:40"
   }
  ]
 }
