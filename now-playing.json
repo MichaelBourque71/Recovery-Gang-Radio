@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:01:32-04:00",
+ "generated_at": "2026-11-06T10:04:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-06 10:01:30"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-06 10:04:29"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-06 10:01:30"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-06 09:57:02"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-06 09:46:54"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-06 09:41:11"
   }
  ]
 }
