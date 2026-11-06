@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:42:25-04:00",
+ "generated_at": "2026-11-06T08:47:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-06 08:42:21"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-06 08:47:41"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-06 08:42:21"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-06 08:37:35"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-06 08:25:46"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-06 08:22:21"
   }
  ]
 }
