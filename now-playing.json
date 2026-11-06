@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:27:01-04:00",
+ "generated_at": "2026-11-06T00:32:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-06 00:26:59"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-06 00:32:50"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-06 00:26:59"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-06 00:23:28"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-06 00:09:25"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-06 00:05:30"
   }
  ]
 }
