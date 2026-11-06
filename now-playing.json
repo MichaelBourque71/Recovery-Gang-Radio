@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:01:45-04:00",
+ "generated_at": "2026-11-06T07:03:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-06 07:01:42"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-06 07:03:36"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-06 07:01:42"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-06 06:57:24"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-06 06:45:00"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-06 06:40:49"
   }
  ]
 }
