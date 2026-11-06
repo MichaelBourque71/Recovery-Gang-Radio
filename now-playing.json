@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:46:51-04:00",
+ "generated_at": "2026-11-06T11:51:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-06 11:46:47"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-06 11:51:57"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-06 11:46:47"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-06 11:42:05"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-06 11:29:24"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-06 11:26:00"
   }
  ]
 }
