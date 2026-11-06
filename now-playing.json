@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:02:54-04:00",
+ "generated_at": "2026-11-06T13:06:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-06 13:02:50"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-06 13:06:53"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-06 13:02:50"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-06 12:58:48"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-06 12:46:49"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-06 12:42:14"
   }
  ]
 }
