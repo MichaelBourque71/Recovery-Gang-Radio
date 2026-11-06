@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T02:11:25-04:00",
+ "generated_at": "2026-11-06T02:14:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-06 02:11:24"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-06 02:14:22"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-06 02:11:24"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-06 02:07:06"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-06 01:55:27"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-06 01:50:35"
   }
  ]
 }
