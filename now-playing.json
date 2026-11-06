@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:22:24-04:00",
+ "generated_at": "2026-11-06T08:25:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-06 08:22:21"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-06 08:25:46"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-06 08:22:21"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-06 08:19:01"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-06 08:08:35"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-06 08:05:11"
   }
  ]
 }
