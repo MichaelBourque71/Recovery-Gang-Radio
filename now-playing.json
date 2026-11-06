@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:05:16-04:00",
+ "generated_at": "2026-11-06T08:08:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-06 08:05:11"
+  "title": "Weaponized Children",
+  "started": "2026-11-06 08:08:35"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-06 08:05:11"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-06 08:02:13"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-06 07:44:46"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-06 07:41:09"
   }
  ]
 }
