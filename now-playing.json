@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:31:24-04:00",
+ "generated_at": "2026-11-05T23:35:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-05 23:31:23"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-05 23:35:00"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-05 23:31:23"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-05 23:28:12"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-05 23:16:39"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-05 23:12:11"
   }
  ]
 }
