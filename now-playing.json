@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:25:49-04:00",
+ "generated_at": "2026-11-06T18:29:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-06 18:25:45"
+  "title": "Fuck Winter",
+  "started": "2026-11-06 18:29:15"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-06 18:25:45"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-06 18:23:00"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-06 18:11:32"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-06 18:07:36"
   }
  ]
 }
