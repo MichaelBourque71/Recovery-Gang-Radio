@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:36:23-04:00",
+ "generated_at": "2026-11-06T13:39:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-06 13:36:20"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-06 13:39:39"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-06 13:36:20"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-06 13:33:07"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-06 13:24:31"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-06 13:19:27"
   }
  ]
 }
