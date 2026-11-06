@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:25:49-04:00",
+ "generated_at": "2026-11-06T08:30:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-06 08:25:46"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-06 08:30:10"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-06 08:25:46"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-06 08:22:21"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-06 08:11:48"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-06 08:08:35"
   }
  ]
 }
