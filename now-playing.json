@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T04:28:03-04:00",
+ "generated_at": "2026-11-06T04:32:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-06 04:28:01"
+  "title": "Putz in a Suit",
+  "started": "2026-11-06 04:32:29"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-06 04:28:01"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-06 04:24:47"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-06 04:11:50"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-06 04:09:07"
   }
  ]
 }
