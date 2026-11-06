@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:30:50-04:00",
+ "generated_at": "2026-11-06T15:35:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-06 15:30:50"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-06 15:35:11"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-06 15:30:50"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-06 15:25:27"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-06 15:12:33"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-06 15:08:06"
   }
  ]
 }
