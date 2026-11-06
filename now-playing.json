@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T02:07:10-04:00",
+ "generated_at": "2026-11-06T02:11:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-06 02:07:06"
+  "title": "Monopoly Mark",
+  "started": "2026-11-06 02:11:24"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-06 02:07:06"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-06 02:03:24"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-06 01:50:35"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-06 01:46:46"
   }
  ]
 }
