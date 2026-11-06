@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T09:54:53-04:00",
+ "generated_at": "2026-11-06T09:57:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-06 09:54:52"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-06 09:57:02"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-06 09:54:52"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-06 09:49:30"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 09:36:23"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-06 09:34:22"
   }
  ]
 }
