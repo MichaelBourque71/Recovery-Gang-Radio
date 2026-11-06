@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:49:20-04:00",
+ "generated_at": "2026-11-06T13:53:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-06 13:49:15"
+  "title": "Heavy Denim",
+  "started": "2026-11-06 13:53:02"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-06 13:49:15"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-06 13:45:18"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-06 13:33:07"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-06 13:30:04"
   }
  ]
 }
