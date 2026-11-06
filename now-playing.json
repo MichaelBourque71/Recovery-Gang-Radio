@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:56:42-04:00",
+ "generated_at": "2026-11-06T19:59:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-06 19:56:41"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-06 19:59:34"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-06 19:56:41"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-06 19:54:09"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-06 19:39:42"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-06 19:35:44"
   }
  ]
 }
