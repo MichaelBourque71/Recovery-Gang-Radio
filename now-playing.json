@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:58:38-04:00",
+ "generated_at": "2026-11-06T18:03:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-06 17:58:33"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-06 18:03:31"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-06 17:58:33"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-06 17:54:41"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-06 17:41:34"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-06 17:38:49"
   }
  ]
 }
