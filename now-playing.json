@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:28:55-04:00",
+ "generated_at": "2026-11-06T06:34:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-06 06:28:50"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-06 06:33:59"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-06 06:28:50"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-06 06:26:17"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-06 06:12:35"
-  },
-  {
-   "title": "Pair A - It Was Time + Built To Love",
-   "started": "2026-11-06 06:01:16"
   }
  ]
 }
