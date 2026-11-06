@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:45:04-04:00",
+ "generated_at": "2026-11-06T06:48:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-06 06:45:00"
+  "title": "Weed Coughs",
+  "started": "2026-11-06 06:48:25"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-06 06:45:00"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-06 06:40:49"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 06:28:50"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-06 06:26:17"
   }
  ]
 }
