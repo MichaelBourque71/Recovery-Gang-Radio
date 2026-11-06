@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T04:20:50-04:00",
+ "generated_at": "2026-11-06T04:24:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-06 04:20:48"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-06 04:24:47"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-06 04:20:48"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-06 04:16:01"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-06 04:05:12"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-06 04:00:00"
   }
  ]
 }
