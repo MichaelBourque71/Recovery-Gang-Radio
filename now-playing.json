@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:13:09-04:00",
+ "generated_at": "2026-11-06T07:16:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-06 07:13:08"
+  "title": "Doughnut Doug",
+  "started": "2026-11-06 07:16:55"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-06 07:13:08"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-06 07:09:17"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-06 06:57:24"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-06 06:53:38"
   }
  ]
 }
