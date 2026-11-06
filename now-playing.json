@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T14:33:54-04:00",
+ "generated_at": "2026-11-06T14:37:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-06 14:33:51"
+  "title": "Alignment",
+  "started": "2026-11-06 14:37:31"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-06 14:33:51"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-06 14:31:08"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-06 14:17:04"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-06 14:13:07"
   }
  ]
 }
