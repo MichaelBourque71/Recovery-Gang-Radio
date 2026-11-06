@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:54:27-04:00",
+ "generated_at": "2026-11-06T16:59:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-06 16:54:22"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-06 16:59:14"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-06 16:54:22"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-06 16:50:11"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-06 16:40:40"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-06 16:35:58"
   }
  ]
 }
