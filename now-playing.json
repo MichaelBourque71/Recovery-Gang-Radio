@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:40:22-04:00",
+ "generated_at": "2026-11-06T15:44:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-06 15:40:20"
+  "title": "Unstoppable Force",
+  "started": "2026-11-06 15:44:28"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-06 15:40:20"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 15:35:11"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-06 15:19:44"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-06 15:15:22"
   }
  ]
 }
