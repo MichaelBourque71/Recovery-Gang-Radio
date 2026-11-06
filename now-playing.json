@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:22:31-04:00",
+ "generated_at": "2026-11-06T19:26:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-06 19:22:29"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-06 19:26:46"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-06 19:22:29"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-06 19:16:59"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-06 19:03:35"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-06 18:59:02"
   }
  ]
 }
