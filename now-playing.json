@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:43:03-04:00",
+ "generated_at": "2026-11-06T00:47:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-06 00:43:00"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-06 00:47:01"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-06 00:43:00"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-06 00:37:54"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-06 00:23:28"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-06 00:15:41"
   }
  ]
 }
