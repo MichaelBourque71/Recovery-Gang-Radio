@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:14:23-04:00",
+ "generated_at": "2026-11-06T12:17:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-06 12:14:19"
+  "title": "Running With Scissors",
+  "started": "2026-11-06 12:17:07"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-06 12:14:19"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-06 12:12:24"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-06 11:58:56"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-06 11:55:30"
   }
  ]
 }
