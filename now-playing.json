@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T03:08:10-04:00",
+ "generated_at": "2026-11-06T03:11:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-06 03:08:07"
+  "title": "What They Want…",
+  "started": "2026-11-06 03:11:29"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-06 03:08:07"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-06 03:04:09"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-06 02:50:59"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-06 02:47:57"
   }
  ]
 }
