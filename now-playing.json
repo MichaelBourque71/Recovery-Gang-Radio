@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:03:33-04:00",
+ "generated_at": "2026-11-06T18:07:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-06 18:03:31"
+  "title": "One More Night",
+  "started": "2026-11-06 18:07:36"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-06 18:03:31"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-06 17:58:33"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-06 17:45:01"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-06 17:41:34"
   }
  ]
 }
