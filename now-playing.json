@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T22:44:11-04:00",
+ "generated_at": "2026-11-05T22:46:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-05 22:44:07"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-05 22:46:50"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-05 22:44:07"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-05 22:40:26"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-05 22:29:54"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-05 22:27:09"
   }
  ]
 }
