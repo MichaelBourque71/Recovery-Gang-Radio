@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:21:44-04:00",
+ "generated_at": "2026-11-06T11:26:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-06 11:21:42"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-06 11:26:00"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-06 11:21:42"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-06 11:16:43"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-06 11:06:49"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-06 11:01:29"
   }
  ]
 }
