@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-06T14:13:05-04:00",
+ "generated_at": "2026-11-06T14:17:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-06 14:08:19"
+  "title": "I Have Something to Say",
+  "started": "2026-11-06 14:17:04"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-06 14:13:07"
+  },
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-06 14:08:19"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-06 14:07:24"
@@ -17,14 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-06 14:01:33"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-06 13:58:06"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-06 13:53:02"
   }
  ]
 }
