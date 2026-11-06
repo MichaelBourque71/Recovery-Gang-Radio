@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:53:04-04:00",
+ "generated_at": "2026-11-06T13:58:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-06 13:53:02"
+  "title": "Dead Ideology ",
+  "started": "2026-11-06 13:58:06"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-06 13:53:02"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-06 13:49:15"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-06 13:36:20"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-06 13:33:07"
   }
  ]
 }
