@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T05:23:32-04:00",
+ "generated_at": "2026-11-06T05:26:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-06 05:23:28"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-06 05:26:53"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-06 05:23:28"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-06 05:18:50"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-06 05:08:31"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-06 05:04:13"
   }
  ]
 }
