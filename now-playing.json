@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:28:06-04:00",
+ "generated_at": "2026-11-06T13:30:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-06 13:28:02"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-06 13:30:04"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-06 13:28:02"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-06 13:24:31"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-06 13:10:52"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-06 13:06:53"
   }
  ]
 }
