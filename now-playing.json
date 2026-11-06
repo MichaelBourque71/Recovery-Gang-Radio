@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:08:12-04:00",
+ "generated_at": "2026-11-06T01:10:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-06 01:08:10"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-06 01:10:42"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-06 01:08:10"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-06 01:03:52"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-06 00:50:02"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-06 00:47:01"
   }
  ]
 }
