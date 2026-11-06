@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:08:35-04:00",
+ "generated_at": "2026-11-06T08:11:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-06 08:08:35"
+  "title": "Dead Ideology ",
+  "started": "2026-11-06 08:11:48"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-06 08:08:35"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-06 08:05:11"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-06 07:51:12"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-06 07:44:46"
   }
  ]
 }
