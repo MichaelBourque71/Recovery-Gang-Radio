@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:40:43-04:00",
+ "generated_at": "2026-11-06T16:43:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-06 16:40:40"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-06 16:43:31"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-06 16:40:40"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-06 16:35:58"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 16:23:03"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-06 16:19:49"
   }
  ]
 }
