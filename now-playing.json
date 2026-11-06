@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T09:34:27-04:00",
+ "generated_at": "2026-11-06T09:36:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-06 09:34:22"
+  "title": "Heavy Denim",
+  "started": "2026-11-06 09:36:23"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-06 09:34:22"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-06 09:30:19"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-06 09:17:25"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-06 09:11:37"
   }
  ]
 }
