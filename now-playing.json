@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:42:08-04:00",
+ "generated_at": "2026-11-06T18:45:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-06 18:42:08"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-06 18:45:22"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-06 18:42:08"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-06 18:37:30"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-06 18:25:45"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-06 18:23:00"
   }
  ]
 }
