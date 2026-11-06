@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:08:09-04:00",
+ "generated_at": "2026-11-06T15:12:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-06 15:08:06"
+  "title": "One Brain Cell",
+  "started": "2026-11-06 15:12:33"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-06 15:08:06"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-06 15:02:33"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-06 14:46:22"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-06 14:41:49"
   }
  ]
 }
