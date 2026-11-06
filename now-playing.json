@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:01:27-04:00",
+ "generated_at": "2026-11-06T16:06:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-06 16:01:22"
+  "title": "Time For Talking",
+  "started": "2026-11-06 16:06:18"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-06 16:01:22"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-06 15:58:13"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-06 15:48:15"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-06 15:44:28"
   }
  ]
 }
