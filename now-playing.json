@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:53:12-04:00",
+ "generated_at": "2026-11-06T15:55:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-06 15:53:07"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-06 15:55:02"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-06 15:53:07"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-06 15:48:15"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 15:35:11"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-06 15:30:50"
   }
  ]
 }
