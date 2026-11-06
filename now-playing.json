@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:27:52-04:00",
+ "generated_at": "2026-11-06T10:33:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-06 10:27:48"
+  "title": "Take Your Laws",
+  "started": "2026-11-06 10:33:21"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-06 10:27:48"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-06 10:22:57"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-06 10:13:41"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-06 10:09:12"
   }
  ]
 }
