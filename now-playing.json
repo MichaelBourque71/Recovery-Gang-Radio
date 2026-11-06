@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:19:45-04:00",
+ "generated_at": "2026-11-06T07:24:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-06 07:19:43"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-06 07:24:34"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-06 07:19:43"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-06 07:16:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-06 07:03:36"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-06 07:01:42"
   }
  ]
 }
