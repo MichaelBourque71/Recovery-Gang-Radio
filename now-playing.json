@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:37:19-04:00",
+ "generated_at": "2026-11-05T20:42:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-05 20:37:16"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-05 20:42:29"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-05 20:37:16"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-05 20:33:41"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-05 20:21:50"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-05 20:17:24"
   }
  ]
 }
