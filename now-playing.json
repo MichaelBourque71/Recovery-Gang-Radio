@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:40:53-04:00",
+ "generated_at": "2026-11-06T06:45:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-06 06:40:49"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-06 06:45:00"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-06 06:40:49"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-06 06:36:47"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-06 06:26:17"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-06 06:22:15"
   }
  ]
 }
