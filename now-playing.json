@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:38:49-04:00",
+ "generated_at": "2026-11-06T17:41:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-06 17:38:49"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-06 17:41:34"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-06 17:38:49"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-06 17:33:44"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-06 17:23:21"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-06 17:20:24"
   }
  ]
 }
