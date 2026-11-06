@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:25:32-04:00",
+ "generated_at": "2026-11-06T15:30:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-06 15:25:27"
+  "title": "Burn It Slow",
+  "started": "2026-11-06 15:30:50"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-06 15:25:27"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-06 15:19:44"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-06 15:08:06"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-06 15:02:33"
   }
  ]
 }
