@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:30:24-04:00",
+ "generated_at": "2026-11-06T17:33:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-06 17:30:24"
+  "title": "Breath Of Policy",
+  "started": "2026-11-06 17:33:44"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-06 17:30:24"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-06 17:26:30"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-06 17:17:14"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-06 17:11:51"
   }
  ]
 }
