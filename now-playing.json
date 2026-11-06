@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:24:33-04:00",
+ "generated_at": "2026-11-06T13:28:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-06 13:24:31"
+  "title": "Doughnut Doug",
+  "started": "2026-11-06 13:28:02"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-06 13:24:31"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-06 13:19:27"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-06 13:06:53"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-06 13:02:50"
   }
  ]
 }
