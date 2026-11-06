@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:41:12-04:00",
+ "generated_at": "2026-11-06T07:44:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-06 07:41:09"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-06 07:44:46"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-06 07:41:09"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-06 07:36:28"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-06 07:24:34"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-06 07:19:43"
   }
  ]
 }
