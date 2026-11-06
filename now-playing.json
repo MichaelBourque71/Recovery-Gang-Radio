@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:35:12-04:00",
+ "generated_at": "2026-11-06T15:40:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-06 15:35:11"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-06 15:40:20"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-06 15:35:11"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-06 15:30:50"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-06 15:15:22"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-06 15:12:33"
   }
  ]
 }
