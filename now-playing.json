@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:07:55-04:00",
+ "generated_at": "2026-11-06T17:11:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-06 17:07:53"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-06 17:11:51"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-06 17:07:53"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-06 17:04:18"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-06 16:50:11"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-06 16:46:47"
   }
  ]
 }
