@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T09:46:54-04:00",
+ "generated_at": "2026-11-06T09:49:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-06 09:46:54"
+  "title": "Feel Alright",
+  "started": "2026-11-06 09:49:30"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-06 09:46:54"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-06 09:41:11"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-06 09:30:19"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-06 09:25:30"
   }
  ]
 }
