@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:01:18-04:00",
+ "generated_at": "2026-11-05T20:06:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-05 20:01:16"
+  "title": "It Was Time",
+  "started": "2026-11-05 20:06:12"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-05 20:01:16"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-05 19:56:15"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-05 19:45:25"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-05 19:39:23"
   }
  ]
 }
