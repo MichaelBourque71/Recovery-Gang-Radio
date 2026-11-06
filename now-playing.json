@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:45:03-04:00",
+ "generated_at": "2026-11-06T17:49:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-06 17:45:01"
+  "title": "Take Our Country Back",
+  "started": "2026-11-06 17:49:14"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-06 17:45:01"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-06 17:41:34"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-06 17:30:24"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-06 17:26:30"
   }
  ]
 }
