@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:54:10-04:00",
+ "generated_at": "2026-11-06T19:56:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-06 19:54:09"
+  "title": "What They Want…",
+  "started": "2026-11-06 19:56:41"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-06 19:54:09"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-06 19:48:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-06 19:35:44"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-06 19:30:14"
   }
  ]
 }
