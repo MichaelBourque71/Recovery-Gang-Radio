@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T22:34:01-04:00",
+ "generated_at": "2026-11-05T22:37:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-05 22:33:58"
+  "title": "Mailer Demon",
+  "started": "2026-11-05 22:37:22"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-05 22:33:58"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-05 22:29:54"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-05 22:18:27"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-05 22:13:31"
   }
  ]
 }
