@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:39:41-04:00",
+ "generated_at": "2026-11-06T13:45:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-06 13:39:39"
+  "title": "History Collects",
+  "started": "2026-11-06 13:45:18"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-06 13:39:39"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-06 13:36:20"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-06 13:28:02"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-06 13:24:31"
   }
  ]
 }
