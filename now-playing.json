@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:41:39-04:00",
+ "generated_at": "2026-11-06T17:45:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-06 17:41:34"
+  "title": "There Was A Time",
+  "started": "2026-11-06 17:45:01"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-06 17:41:34"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-06 17:38:49"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-06 17:26:30"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-06 17:23:21"
   }
  ]
 }
