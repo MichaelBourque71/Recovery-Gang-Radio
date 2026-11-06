@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:29:16-04:00",
+ "generated_at": "2026-11-06T18:34:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-06 18:29:15"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-06 18:34:12"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-06 18:29:15"
+  },
   {
    "title": "You",
    "started": "2026-11-06 18:25:45"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-06 18:15:40"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-06 18:11:32"
   }
  ]
 }
