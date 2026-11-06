@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:01:35-04:00",
+ "generated_at": "2026-11-05T23:03:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-05 23:01:34"
+  "title": "Living For Peace",
+  "started": "2026-11-05 23:03:42"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-05 23:01:34"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 22:57:30"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-05 22:46:50"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-05 22:44:07"
   }
  ]
 }
