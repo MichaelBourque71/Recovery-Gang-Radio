@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:53:39-04:00",
+ "generated_at": "2026-11-06T06:57:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-06 06:53:38"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-06 06:57:24"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-06 06:53:38"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-06 06:48:25"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-06 06:36:47"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-06 06:33:59"
   }
  ]
 }
