@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:28:09-04:00",
+ "generated_at": "2026-11-06T16:31:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-06 16:28:08"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-06 16:31:25"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-06 16:28:08"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 16:23:03"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-06 16:12:43"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-06 16:09:29"
   }
  ]
 }
