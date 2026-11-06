@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:03:53-04:00",
+ "generated_at": "2026-11-06T01:08:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-06 01:03:52"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-06 01:08:10"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-06 01:03:52"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-06 00:58:34"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-06 00:47:01"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-06 00:43:00"
   }
  ]
 }
