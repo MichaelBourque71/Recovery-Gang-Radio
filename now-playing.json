@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T03:35:09-04:00",
+ "generated_at": "2026-11-06T03:38:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-06 03:35:04"
+  "title": "Day And Night",
+  "started": "2026-11-06 03:38:17"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-06 03:35:04"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-06 03:32:18"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-06 03:18:24"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-06 03:14:19"
   }
  ]
 }
