@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:33:08-04:00",
+ "generated_at": "2026-11-06T13:36:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-06 13:33:07"
+  "title": "Clown In A Crown",
+  "started": "2026-11-06 13:36:20"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-06 13:33:07"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-06 13:30:04"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-06 13:19:27"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-06 13:15:38"
   }
  ]
 }
