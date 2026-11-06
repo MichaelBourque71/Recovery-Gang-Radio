@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:58:36-04:00",
+ "generated_at": "2026-11-06T01:03:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-06 00:58:34"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-06 01:03:52"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-06 00:58:34"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-06 00:53:30"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-06 00:43:00"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-06 00:37:54"
   }
  ]
 }
