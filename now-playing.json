@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:38:17-04:00",
+ "generated_at": "2026-11-06T12:42:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-06 12:38:15"
+  "title": "Man With the Backbone",
+  "started": "2026-11-06 12:42:14"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-06 12:38:15"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-06 12:34:04"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-06 12:23:11"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-06 12:20:12"
   }
  ]
 }
