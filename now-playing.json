@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T03:46:27-04:00",
+ "generated_at": "2026-11-06T03:50:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-06 03:46:23"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-06 03:50:56"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-06 03:46:23"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-06 03:43:13"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-06 03:32:18"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-06 03:28:18"
   }
  ]
 }
