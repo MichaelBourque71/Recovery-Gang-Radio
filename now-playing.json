@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:24:37-04:00",
+ "generated_at": "2026-11-06T07:27:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-06 07:24:34"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-06 07:27:54"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-06 07:24:34"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-06 07:19:43"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-06 07:09:17"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-06 07:03:36"
   }
  ]
 }
