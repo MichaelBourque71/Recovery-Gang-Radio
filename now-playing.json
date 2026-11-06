@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:02:06-04:00",
+ "generated_at": "2026-11-06T12:07:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-06 12:02:05"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-06 12:07:57"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-06 12:02:05"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-06 11:58:56"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-06 11:46:47"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-06 11:42:05"
   }
  ]
 }
