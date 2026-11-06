@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:27:56-04:00",
+ "generated_at": "2026-11-06T07:33:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-06 07:27:54"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-06 07:33:18"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-06 07:27:54"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-06 07:24:34"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-06 07:13:08"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-06 07:09:17"
   }
  ]
 }
