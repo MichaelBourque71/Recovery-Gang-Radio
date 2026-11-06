@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T22:53:20-04:00",
+ "generated_at": "2026-11-05T22:57:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-05 22:53:19"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-05 22:57:30"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-05 22:53:19"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-05 22:50:25"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-05 22:40:26"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-05 22:37:22"
   }
  ]
 }
