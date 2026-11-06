@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:15:05-04:00",
+ "generated_at": "2026-11-06T01:19:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-06 01:15:04"
+  "title": "Weaponized Children",
+  "started": "2026-11-06 01:19:13"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-06 01:15:04"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-06 01:10:42"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-06 00:58:34"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-06 00:53:30"
   }
  ]
 }
