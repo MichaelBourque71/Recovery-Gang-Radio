@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T03:54:50-04:00",
+ "generated_at": "2026-11-06T03:57:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-06 03:54:49"
+  "title": "Here’s a Stack",
+  "started": "2026-11-06 03:57:01"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-06 03:54:49"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-06 03:50:56"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-06 03:38:17"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-06 03:35:04"
   }
  ]
 }
