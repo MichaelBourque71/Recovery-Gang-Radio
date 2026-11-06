@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:20:12-04:00",
+ "generated_at": "2026-11-06T12:23:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-06 12:20:12"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-06 12:23:11"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-06 12:20:12"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-06 12:17:07"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-06 12:07:57"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-06 12:02:05"
   }
  ]
 }
