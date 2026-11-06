@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:04:30-04:00",
+ "generated_at": "2026-11-06T10:09:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-06 10:04:29"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-06 10:09:12"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-06 10:04:29"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-06 10:01:30"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-06 09:49:30"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-06 09:46:54"
   }
  ]
 }
