@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:33:46-04:00",
+ "generated_at": "2026-11-05T20:37:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-05 20:33:41"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-05 20:37:16"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-05 20:33:41"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-05 20:29:46"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-05 20:17:24"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-05 20:14:39"
   }
  ]
 }
