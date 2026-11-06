@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:12:12-04:00",
+ "generated_at": "2026-11-05T23:16:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-05 23:12:11"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-05 23:16:39"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-05 23:12:11"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-05 23:07:15"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-05 22:57:30"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-05 22:53:19"
   }
  ]
 }
