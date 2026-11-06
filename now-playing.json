@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:54:40-04:00",
+ "generated_at": "2026-11-05T20:58:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-05 20:54:38"
+  "title": "Upgraded",
+  "started": "2026-11-05 20:57:56"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-05 20:54:38"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-05 20:49:44"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-05 20:37:16"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-05 20:33:41"
   }
  ]
 }
