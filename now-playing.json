@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:50:27-04:00",
+ "generated_at": "2026-11-06T10:54:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-06 10:50:23"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-06 10:54:31"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-06 10:50:23"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-06 10:47:00"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-06 10:36:13"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-06 10:33:21"
   }
  ]
 }
