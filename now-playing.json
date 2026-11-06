@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T04:24:48-04:00",
+ "generated_at": "2026-11-06T04:28:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-06 04:24:47"
+  "title": "Weed Coughs",
+  "started": "2026-11-06 04:28:01"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-06 04:24:47"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-06 04:20:48"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-06 04:09:07"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-06 04:05:12"
   }
  ]
 }
