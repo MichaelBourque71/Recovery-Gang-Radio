@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:16:24-04:00",
+ "generated_at": "2026-11-06T08:19:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-06 08:16:19"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-06 08:19:01"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-06 08:16:19"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-06 08:11:48"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-06 08:02:13"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-06 07:56:09"
   }
  ]
 }
