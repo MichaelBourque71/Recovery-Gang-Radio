@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:17:30-04:00",
+ "generated_at": "2026-11-06T16:19:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-06 16:17:27"
+  "title": "Youth In Asia",
+  "started": "2026-11-06 16:19:49"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-06 16:17:27"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-06 16:12:43"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-06 16:01:22"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-06 15:58:13"
   }
  ]
 }
