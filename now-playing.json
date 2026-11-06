@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:36:28-04:00",
+ "generated_at": "2026-11-06T07:41:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-06 07:36:28"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-06 07:41:09"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-06 07:36:28"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-06 07:33:18"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-06 07:19:43"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-06 07:16:55"
   }
  ]
 }
