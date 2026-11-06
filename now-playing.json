@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:35:48-04:00",
+ "generated_at": "2026-11-06T19:39:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-06 19:35:44"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-06 19:39:42"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-06 19:35:44"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 19:30:14"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-06 19:16:59"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-06 19:12:57"
   }
  ]
 }
