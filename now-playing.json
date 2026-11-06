@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T21:14:14-04:00",
+ "generated_at": "2026-11-05T21:18:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-05 21:14:10"
+  "title": "Stranger Danger",
+  "started": "2026-11-05 21:18:21"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-05 21:14:10"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-05 21:09:59"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-05 20:57:56"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-05 20:54:38"
   }
  ]
 }
