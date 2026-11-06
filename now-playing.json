@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:26:18-04:00",
+ "generated_at": "2026-11-06T06:28:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-06 06:26:17"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-06 06:28:50"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-06 06:26:17"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-06 06:22:15"
@@ -21,10 +25,6 @@
   {
    "title": "Pair A - It Was Time + Built To Love",
    "started": "2026-11-06 06:01:16"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-06 05:57:17"
   }
  ]
 }
