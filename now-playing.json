@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:47:04-04:00",
+ "generated_at": "2026-11-06T10:50:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-06 10:47:00"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-06 10:50:23"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-06 10:47:00"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-06 10:43:45"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-06 10:33:21"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-06 10:27:48"
   }
  ]
 }
