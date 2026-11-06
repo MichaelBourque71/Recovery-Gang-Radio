@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T14:07:28-04:00",
+ "generated_at": "2026-11-06T14:08:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-06 14:07:24"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-06 14:08:19"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-06 14:07:24"
+  },
   {
    "title": "Some People",
    "started": "2026-11-06 14:04:23"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 13:53:02"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-06 13:49:15"
   }
  ]
 }
