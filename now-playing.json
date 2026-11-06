@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:36:48-04:00",
+ "generated_at": "2026-11-06T06:40:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-06 06:36:47"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-06 06:40:49"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-06 06:36:47"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-06 06:33:59"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-06 06:22:15"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-06 06:18:11"
   }
  ]
 }
