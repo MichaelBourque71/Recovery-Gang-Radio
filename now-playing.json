@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:44:48-04:00",
+ "generated_at": "2026-11-06T01:46:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-06 01:44:46"
+  "title": "History Collects",
+  "started": "2026-11-06 01:46:46"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-06 01:44:46"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-06 01:40:43"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-06 01:29:13"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-06 01:25:20"
   }
  ]
 }
