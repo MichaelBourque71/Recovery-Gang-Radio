@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:10:55-04:00",
+ "generated_at": "2026-11-06T13:15:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-06 13:10:52"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-06 13:15:38"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-06 13:10:52"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-06 13:06:53"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-06 12:54:23"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-06 12:50:01"
   }
  ]
 }
