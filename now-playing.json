@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:16:48-04:00",
+ "generated_at": "2026-11-06T11:21:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-06 11:16:43"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-06 11:21:42"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-06 11:16:43"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-06 11:13:26"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-06 11:01:29"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-06 10:57:51"
   }
  ]
 }
