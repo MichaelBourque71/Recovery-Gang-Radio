@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T14:41:54-04:00",
+ "generated_at": "2026-11-06T14:46:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-06 14:41:49"
+  "title": "Nature Is Talking",
+  "started": "2026-11-06 14:46:22"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-06 14:41:49"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-06 14:37:31"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-06 14:26:38"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-06 14:22:36"
   }
  ]
 }
