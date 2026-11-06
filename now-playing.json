@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:28:16-04:00",
+ "generated_at": "2026-11-05T23:31:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-05 23:28:12"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-05 23:31:23"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-05 23:28:12"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-05 23:23:32"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-05 23:12:11"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-05 23:07:15"
   }
  ]
 }
