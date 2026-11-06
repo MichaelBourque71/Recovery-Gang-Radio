@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:03:40-04:00",
+ "generated_at": "2026-11-06T19:08:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-06 19:03:35"
+  "title": "Gaslight Halo",
+  "started": "2026-11-06 19:08:52"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-06 19:03:35"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-06 18:59:02"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-06 18:45:22"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-06 18:42:08"
   }
  ]
 }
