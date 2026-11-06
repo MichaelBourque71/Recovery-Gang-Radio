@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T04:05:13-04:00",
+ "generated_at": "2026-11-06T04:09:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-06 04:05:12"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-06 04:09:07"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-06 04:05:12"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-06 04:00:00"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-06 03:50:56"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-06 03:46:23"
   }
  ]
 }
