@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:55:02-04:00",
+ "generated_at": "2026-11-06T18:59:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-06 18:54:59"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-06 18:59:02"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-06 18:54:59"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-06 18:50:15"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-06 18:37:30"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-06 18:34:12"
   }
  ]
 }
