@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:26:05-04:00",
+ "generated_at": "2026-11-06T11:29:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-06 11:26:00"
+  "title": "Mean Francine",
+  "started": "2026-11-06 11:29:24"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-06 11:26:00"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-06 11:21:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-06 11:10:34"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-06 11:06:49"
   }
  ]
 }
