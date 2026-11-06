@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T23:23:37-04:00",
+ "generated_at": "2026-11-05T23:28:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-05 23:23:32"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-05 23:28:12"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-05 23:23:32"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-05 23:19:12"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-05 23:07:15"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-05 23:03:42"
   }
  ]
 }
