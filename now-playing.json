@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:37:39-04:00",
+ "generated_at": "2026-11-06T08:42:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-06 08:37:35"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-06 08:42:21"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-06 08:37:35"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-06 08:33:50"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-06 08:22:21"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-06 08:19:01"
   }
  ]
 }
