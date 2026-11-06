@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T01:46:46-04:00",
+ "generated_at": "2026-11-06T01:50:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-06 01:46:46"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-06 01:50:35"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-06 01:46:46"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-06 01:44:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-06 01:33:17"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-06 01:29:13"
   }
  ]
 }
