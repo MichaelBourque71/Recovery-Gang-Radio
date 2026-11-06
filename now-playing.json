@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T09:25:34-04:00",
+ "generated_at": "2026-11-06T09:30:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-06 09:25:30"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-06 09:30:19"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-06 09:25:30"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-06 09:20:31"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-06 09:08:38"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-06 09:05:18"
   }
  ]
 }
