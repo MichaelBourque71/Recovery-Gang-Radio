@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T16:06:19-04:00",
+ "generated_at": "2026-11-06T16:09:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-06 16:06:18"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-06 16:09:29"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-06 16:06:18"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-06 16:01:22"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-06 15:53:07"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-06 15:48:15"
   }
  ]
 }
