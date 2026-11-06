@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:58:09-04:00",
+ "generated_at": "2026-11-06T14:01:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-06 13:58:06"
+  "title": "Follow The Trail",
+  "started": "2026-11-06 14:01:33"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-06 13:58:06"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 13:53:02"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-06 13:39:39"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-06 13:36:20"
   }
  ]
 }
