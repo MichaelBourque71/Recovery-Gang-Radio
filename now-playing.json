@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T21:10:00-04:00",
+ "generated_at": "2026-11-05T21:14:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-05 21:09:59"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-05 21:14:10"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-05 21:09:59"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-05 21:06:25"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-05 20:54:38"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-05 20:49:44"
   }
  ]
 }
