@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:54:43-04:00",
+ "generated_at": "2026-11-06T17:58:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-06 17:54:41"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-06 17:58:33"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-06 17:54:41"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-06 17:49:14"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-06 17:38:49"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-06 17:33:44"
   }
  ]
 }
