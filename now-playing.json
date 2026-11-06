@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:21:51-04:00",
+ "generated_at": "2026-11-05T20:26:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-05 20:21:50"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-05 20:26:26"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-05 20:21:50"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-05 20:17:24"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-05 20:06:12"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-05 20:01:16"
   }
  ]
 }
