@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:42:10-04:00",
+ "generated_at": "2026-11-06T11:46:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-06 11:42:05"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-06 11:46:47"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-06 11:42:05"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 11:36:56"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-06 11:26:00"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-06 11:21:42"
   }
  ]
 }
