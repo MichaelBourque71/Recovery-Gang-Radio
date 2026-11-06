@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T05:57:19-04:00",
+ "generated_at": "2026-11-06T06:01:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Straight Ahead Jed",
-  "started": "2026-11-06 05:57:17"
+  "title": "Pair A - It Was Time + Built To Love",
+  "started": "2026-11-06 06:01:16"
  },
  "previous": [
+  {
+   "title": "Straight Ahead Jed",
+   "started": "2026-11-06 05:57:17"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-06 05:50:50"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-06 05:40:15"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-06 05:35:33"
   }
  ]
 }
