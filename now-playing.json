@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T22:02:31-04:00",
+ "generated_at": "2026-11-05T22:06:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-05 22:02:27"
+  "title": "Weed Coughs",
+  "started": "2026-11-05 22:06:04"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-05 22:02:27"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-05 22:00:09"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-05 21:49:35"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-05 21:44:51"
   }
  ]
 }
