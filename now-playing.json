@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:19:57-04:00",
+ "generated_at": "2026-11-06T00:23:33-04:00",
  "on_air": true,
  "now_playing": {
   "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-06 00:19:57"
+  "started": "2026-11-06 00:23:28"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-06 00:19:57"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-06 00:15:41"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 00:05:30"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-06 00:00:01"
   }
  ]
 }
