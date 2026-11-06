@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:07:36-04:00",
+ "generated_at": "2026-11-06T18:11:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-06 18:07:36"
+  "title": "Delaware Sniff",
+  "started": "2026-11-06 18:11:32"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-06 18:07:36"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-06 18:03:31"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-06 17:49:14"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-06 17:45:01"
   }
  ]
 }
