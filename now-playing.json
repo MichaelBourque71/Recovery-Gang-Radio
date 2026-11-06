@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:07:59-04:00",
+ "generated_at": "2026-11-06T12:12:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-06 12:07:57"
+  "title": "420 Twice A Day",
+  "started": "2026-11-06 12:12:24"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-06 12:07:57"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-06 12:02:05"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-06 11:51:57"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-06 11:46:47"
   }
  ]
 }
