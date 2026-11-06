@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:55:36-04:00",
+ "generated_at": "2026-11-06T09:00:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-06 08:55:31"
+  "title": "Day And Night",
+  "started": "2026-11-06 09:00:43"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-06 08:55:31"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-06 08:51:54"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-06 08:37:35"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-06 08:33:50"
   }
  ]
 }
