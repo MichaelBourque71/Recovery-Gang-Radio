@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:45:27-04:00",
+ "generated_at": "2026-11-06T18:50:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-06 18:45:22"
+  "title": "Man With the Backbone",
+  "started": "2026-11-06 18:50:15"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-06 18:45:22"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-06 18:42:08"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-06 18:29:15"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-06 18:25:45"
   }
  ]
 }
