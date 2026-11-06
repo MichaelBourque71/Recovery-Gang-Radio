@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:26:35-04:00",
+ "generated_at": "2026-11-06T17:30:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-06 17:26:30"
+  "title": "Putz in a Suit",
+  "started": "2026-11-06 17:30:24"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-06 17:26:30"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-06 17:23:21"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-06 17:11:51"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-06 17:07:53"
   }
  ]
 }
