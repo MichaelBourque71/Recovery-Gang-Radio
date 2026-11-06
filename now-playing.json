@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:34:01-04:00",
+ "generated_at": "2026-11-06T06:36:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-06 06:33:59"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-06 06:36:47"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-06 06:33:59"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 06:28:50"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-06 06:18:11"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-06 06:12:35"
   }
  ]
 }
