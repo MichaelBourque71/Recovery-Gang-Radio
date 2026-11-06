@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T08:19:02-04:00",
+ "generated_at": "2026-11-06T08:22:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-06 08:19:01"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-06 08:22:21"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-06 08:19:01"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-06 08:16:19"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-06 08:05:11"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-06 08:02:13"
   }
  ]
 }
