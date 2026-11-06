@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T22:57:35-04:00",
+ "generated_at": "2026-11-05T23:01:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-05 22:57:30"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-05 23:01:34"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-05 22:57:30"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-05 22:53:19"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-05 22:44:07"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-05 22:40:26"
   }
  ]
 }
