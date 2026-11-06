@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:34:13-04:00",
+ "generated_at": "2026-11-06T18:37:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-06 18:34:12"
+  "title": "Balls Intact",
+  "started": "2026-11-06 18:37:30"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-06 18:34:12"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-06 18:29:15"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-06 18:19:48"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-06 18:15:40"
   }
  ]
 }
