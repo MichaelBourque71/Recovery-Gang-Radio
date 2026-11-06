@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T04:16:05-04:00",
+ "generated_at": "2026-11-06T04:20:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-06 04:16:01"
+  "title": "Stranger Danger",
+  "started": "2026-11-06 04:20:48"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-06 04:16:01"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-06 04:11:50"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-06 04:00:00"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-06 03:57:01"
   }
  ]
 }
