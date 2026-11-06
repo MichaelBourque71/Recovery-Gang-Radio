@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:33:47-04:00",
+ "generated_at": "2026-11-06T17:38:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-06 17:33:44"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-06 17:38:49"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-06 17:33:44"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-06 17:30:24"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-06 17:20:24"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-06 17:17:14"
   }
  ]
 }
