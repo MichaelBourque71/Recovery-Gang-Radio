@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:37:32-04:00",
+ "generated_at": "2026-11-06T18:42:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-06 18:37:30"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-06 18:42:08"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-06 18:37:30"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-06 18:34:12"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-06 18:23:00"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-06 18:19:48"
   }
  ]
 }
