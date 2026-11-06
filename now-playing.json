@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T02:31:48-04:00",
+ "generated_at": "2026-11-06T02:35:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-06 02:31:48"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-06 02:35:41"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-06 02:31:48"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-06 02:28:03"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 02:14:22"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-06 02:11:24"
   }
  ]
 }
