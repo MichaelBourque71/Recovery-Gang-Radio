@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T06:57:25-04:00",
+ "generated_at": "2026-11-06T07:01:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-06 06:57:24"
+  "title": "420 Twice A Day",
+  "started": "2026-11-06 07:01:42"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-06 06:57:24"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-06 06:53:38"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-06 06:40:49"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-06 06:36:47"
   }
  ]
 }
