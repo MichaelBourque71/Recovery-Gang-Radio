@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:19:53-04:00",
+ "generated_at": "2026-11-06T18:23:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-06 18:19:48"
+  "title": "Acid Freak",
+  "started": "2026-11-06 18:23:00"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-06 18:19:48"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-06 18:15:40"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-06 18:03:31"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-06 17:58:33"
   }
  ]
 }
