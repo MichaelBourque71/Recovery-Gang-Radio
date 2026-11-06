@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T17:20:24-04:00",
+ "generated_at": "2026-11-06T17:23:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-06 17:20:24"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-06 17:23:21"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-06 17:20:24"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-06 17:17:14"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-06 17:04:18"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-06 16:59:14"
   }
  ]
 }
