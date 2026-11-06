@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T18:15:42-04:00",
+ "generated_at": "2026-11-06T18:19:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-06 18:15:40"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-06 18:19:48"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-06 18:15:40"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-06 18:11:32"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-06 17:58:33"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-06 17:54:41"
   }
  ]
 }
