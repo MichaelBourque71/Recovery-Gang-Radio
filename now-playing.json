@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T07:33:20-04:00",
+ "generated_at": "2026-11-06T07:36:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-06 07:33:18"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-06 07:36:28"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-06 07:33:18"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-06 07:27:54"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-06 07:16:55"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-06 07:13:08"
   }
  ]
 }
