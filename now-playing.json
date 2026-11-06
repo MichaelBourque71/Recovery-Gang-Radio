@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T12:17:09-04:00",
+ "generated_at": "2026-11-06T12:20:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-06 12:17:07"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-06 12:20:12"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-06 12:17:07"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-06 12:14:19"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-06 12:02:05"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-06 11:58:56"
   }
  ]
 }
