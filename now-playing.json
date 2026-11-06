@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:29:46-04:00",
+ "generated_at": "2026-11-05T20:33:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-05 20:29:46"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-05 20:33:41"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-05 20:29:46"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-05 20:26:26"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-05 20:14:39"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-05 20:10:30"
   }
  ]
 }
