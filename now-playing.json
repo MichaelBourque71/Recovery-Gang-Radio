@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:44:29-04:00",
+ "generated_at": "2026-11-06T15:48:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-06 15:44:28"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-06 15:48:15"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-06 15:44:28"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-06 15:40:20"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-06 15:25:27"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-06 15:19:44"
   }
  ]
 }
