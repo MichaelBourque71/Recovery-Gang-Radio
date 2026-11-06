@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T13:19:28-04:00",
+ "generated_at": "2026-11-06T13:24:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-06 13:19:27"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-06 13:24:31"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-06 13:19:27"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-06 13:15:38"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-06 13:02:50"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-06 12:58:48"
   }
  ]
 }
