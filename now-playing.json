@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:17:25-04:00",
+ "generated_at": "2026-11-05T20:21:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-05 20:17:24"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-05 20:21:50"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-05 20:17:24"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-05 20:14:39"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-05 20:01:16"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-05 19:56:15"
   }
  ]
 }
