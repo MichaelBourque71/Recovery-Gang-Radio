@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T10:22:58-04:00",
+ "generated_at": "2026-11-06T10:27:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-06 10:22:57"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-06 10:27:48"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-06 10:22:57"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-06 10:19:31"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-06 10:09:12"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-06 10:04:29"
   }
  ]
 }
