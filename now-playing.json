@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T02:18:19-04:00",
+ "generated_at": "2026-11-06T02:24:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-06 02:18:16"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-06 02:24:09"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-06 02:18:16"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 02:14:22"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-06 02:03:24"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-06 01:58:46"
   }
  ]
 }
