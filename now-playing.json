@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:15:27-04:00",
+ "generated_at": "2026-11-06T15:19:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-06 15:15:22"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-06 15:19:44"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-06 15:15:22"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-06 15:12:33"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-06 14:57:06"
-  },
-  {
-   "title": "So Take A Chance",
-   "started": "2026-11-06 14:52:39"
   }
  ]
 }
