@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:14:41-04:00",
+ "generated_at": "2026-11-05T20:17:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-05 20:14:39"
+  "title": "Greedy Bitch",
+  "started": "2026-11-05 20:17:24"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-05 20:14:39"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-05 20:10:30"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-05 19:56:15"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-05 19:52:20"
   }
  ]
 }
