@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T15:19:48-04:00",
+ "generated_at": "2026-11-06T15:25:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-06 15:19:44"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-06 15:25:27"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-06 15:19:44"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-06 15:15:22"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-06 15:02:33"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-06 14:57:06"
   }
  ]
 }
