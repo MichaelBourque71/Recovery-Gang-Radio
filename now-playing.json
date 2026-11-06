@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T14:52:43-04:00",
+ "generated_at": "2026-11-06T14:57:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take A Chance",
-  "started": "2026-11-06 14:52:39"
+  "title": "Take Our Country Back",
+  "started": "2026-11-06 14:57:06"
  },
  "previous": [
+  {
+   "title": "So Take A Chance",
+   "started": "2026-11-06 14:52:39"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-06 14:46:22"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-06 14:33:51"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-06 14:31:08"
   }
  ]
 }
