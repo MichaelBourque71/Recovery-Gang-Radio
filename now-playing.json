@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T19:17:02-04:00",
+ "generated_at": "2026-11-06T19:22:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-06 19:16:59"
+  "title": "It Was Time",
+  "started": "2026-11-06 19:22:29"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-06 19:16:59"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-06 19:12:57"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-06 18:59:02"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-06 18:54:59"
   }
  ]
 }
