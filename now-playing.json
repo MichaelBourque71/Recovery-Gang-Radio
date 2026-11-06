@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T03:38:19-04:00",
+ "generated_at": "2026-11-06T03:43:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-06 03:38:17"
+  "title": "Time For Talking",
+  "started": "2026-11-06 03:43:13"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-06 03:38:17"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-06 03:35:04"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-06 03:22:59"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-06 03:18:24"
   }
  ]
 }
