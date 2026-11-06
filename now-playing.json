@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:00:05-04:00",
+ "generated_at": "2026-11-06T00:05:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-06 00:00:01"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-06 00:05:30"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-06 00:00:01"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-05 23:55:33"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-05 23:43:02"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-05 23:38:36"
   }
  ]
 }
