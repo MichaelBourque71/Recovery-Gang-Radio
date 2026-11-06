@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T11:55:35-04:00",
+ "generated_at": "2026-11-06T11:58:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-06 11:55:30"
+  "title": "Not Enough Hours",
+  "started": "2026-11-06 11:58:56"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-06 11:55:30"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-06 11:51:57"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-06 11:36:56"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-06 11:34:01"
   }
  ]
 }
