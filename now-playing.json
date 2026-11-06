@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T14:46:24-04:00",
+ "generated_at": "2026-11-06T14:52:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-06 14:46:22"
+  "title": "So Take A Chance",
+  "started": "2026-11-06 14:52:39"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-06 14:46:22"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-06 14:41:49"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-06 14:31:08"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-06 14:26:38"
   }
  ]
 }
