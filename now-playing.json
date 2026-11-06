@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T19:56:16-04:00",
+ "generated_at": "2026-11-05T20:01:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-05 19:56:15"
+  "title": "Fuck Winter",
+  "started": "2026-11-05 20:01:16"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-05 19:56:15"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-05 19:52:20"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-05 19:39:23"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-05 19:34:55"
   }
  ]
 }
