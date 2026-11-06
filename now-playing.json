@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:06:15-04:00",
+ "generated_at": "2026-11-05T20:10:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-05 20:06:12"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-05 20:10:30"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-05 20:06:12"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-05 20:01:16"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-05 19:48:46"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-05 19:45:25"
   }
  ]
 }
