@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-05T20:58:00-04:00",
+ "generated_at": "2026-11-05T21:01:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-05 20:57:56"
+  "title": "Balls Intact",
+  "started": "2026-11-05 21:01:41"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-05 20:57:56"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-05 20:54:38"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-05 20:42:29"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-05 20:37:16"
   }
  ]
 }
