@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T00:47:03-04:00",
+ "generated_at": "2026-11-06T00:50:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-06 00:47:01"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-06 00:50:02"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-06 00:47:01"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-06 00:43:00"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-06 00:26:59"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-06 00:23:28"
   }
  ]
 }
