@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:13:07-04:00",
+ "generated_at": "2026-11-07T15:15:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-07 15:13:04"
+  "title": "Invisible String",
+  "started": "2026-11-07 15:15:49"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-07 15:13:04"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-07 15:08:31"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-07 14:58:23"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-07 14:53:57"
   }
  ]
 }
