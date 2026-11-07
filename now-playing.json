@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:34:00-04:00",
+ "generated_at": "2026-11-07T08:35:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-07 08:33:59"
+  "title": "Greedy Bitch",
+  "started": "2026-11-07 08:35:53"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-07 08:33:59"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-07 08:30:32"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-07 08:14:38"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-07 08:08:27"
   }
  ]
 }
