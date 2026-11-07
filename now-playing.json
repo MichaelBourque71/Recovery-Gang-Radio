@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:19:53-04:00",
+ "generated_at": "2026-11-07T00:21:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-07 00:19:51"
+  "title": "Yes",
+  "started": "2026-11-07 00:21:52"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-07 00:19:51"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-07 00:14:32"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-07 00:03:23"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-06 23:58:38"
   }
  ]
 }
