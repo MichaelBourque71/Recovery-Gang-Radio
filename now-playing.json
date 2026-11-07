@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:40:47-04:00",
+ "generated_at": "2026-11-06T22:43:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-06 22:40:44"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-06 22:43:26"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-06 22:40:44"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-06 22:35:52"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-06 22:26:31"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-06 22:23:11"
   }
  ]
 }
