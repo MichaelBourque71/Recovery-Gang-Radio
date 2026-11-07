@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T16:42:08-04:00",
+ "generated_at": "2026-11-07T16:48:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-07 16:42:04"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-07 16:48:12"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-07 16:42:04"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-07 16:38:53"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-07 16:27:35"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-07 16:24:53"
   }
  ]
 }
