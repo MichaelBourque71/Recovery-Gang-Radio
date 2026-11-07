@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T20:06:49-04:00",
+ "generated_at": "2026-11-06T20:11:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-06 20:06:44"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-06 20:10:59"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-06 20:06:44"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-06 20:04:03"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-06 19:54:09"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-06 19:48:27"
   }
  ]
 }
