@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T09:02:07-04:00",
+ "generated_at": "2026-11-07T09:06:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-07 09:02:04"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-07 09:06:07"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-07 09:02:04"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-07 08:58:02"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-07 08:49:28"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-07 08:43:50"
   }
  ]
 }
