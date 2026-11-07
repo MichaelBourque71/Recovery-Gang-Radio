@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T05:34:14-04:00",
+ "generated_at": "2026-11-07T05:37:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-07 05:34:10"
+  "title": "Taste Your Honey",
+  "started": "2026-11-07 05:37:46"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-07 05:34:10"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-07 05:30:13"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-07 05:16:43"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-07 05:10:14"
   }
  ]
 }
