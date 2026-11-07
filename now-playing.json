@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:36:51-04:00",
+ "generated_at": "2026-11-07T12:37:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-07 12:36:50"
+  "title": "Duck On The Dash",
+  "started": "2026-11-07 12:37:35"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-07 12:36:50"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 12:33:25"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-07 12:22:10"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-07 12:18:58"
   }
  ]
 }
