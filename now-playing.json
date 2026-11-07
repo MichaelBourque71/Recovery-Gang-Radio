@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:56:02-04:00",
+ "generated_at": "2026-11-07T18:59:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-07 18:56:00"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-07 18:59:06"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-07 18:56:00"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-07 18:52:03"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-07 18:40:18"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-07 18:35:48"
   }
  ]
 }
