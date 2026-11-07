@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:36:00-04:00",
+ "generated_at": "2026-11-07T17:40:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-07 17:35:56"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-07 17:40:03"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-07 17:35:56"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-07 17:34:02"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-07 17:21:53"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-07 17:18:03"
   }
  ]
 }
