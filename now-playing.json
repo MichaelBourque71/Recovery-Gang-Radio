@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T07:12:09-04:00",
+ "generated_at": "2026-11-07T07:16:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-07 07:12:07"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-07 07:16:06"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-07 07:12:07"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-07 07:07:54"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-07 06:54:40"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-07 06:48:41"
   }
  ]
 }
