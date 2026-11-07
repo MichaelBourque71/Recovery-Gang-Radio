@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:47:27-04:00",
+ "generated_at": "2026-11-06T22:53:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-06 22:47:24"
+  "title": "I'm Ready For This",
+  "started": "2026-11-06 22:53:26"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-06 22:47:24"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-06 22:43:26"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-06 22:33:04"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-06 22:29:35"
   }
  ]
 }
