@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:29:39-04:00",
+ "generated_at": "2026-11-06T22:33:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-06 22:29:35"
+  "title": "Orange Rage (TDS)",
+  "started": "2026-11-06 22:33:04"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-06 22:29:35"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-06 22:26:31"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-06 22:16:26"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-06 22:12:38"
   }
  ]
 }
