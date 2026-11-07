@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:36:51-04:00",
+ "generated_at": "2026-11-07T13:41:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-07 13:36:50"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-07 13:41:34"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-07 13:36:50"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-07 13:31:48"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-07 13:19:21"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-07 13:15:46"
   }
  ]
 }
