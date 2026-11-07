@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:26:32-04:00",
+ "generated_at": "2026-11-06T22:29:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-06 22:26:31"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-06 22:29:35"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-06 22:26:31"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-06 22:23:11"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-06 22:12:38"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-06 22:07:10"
   }
  ]
 }
