@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T10:22:32-04:00",
+ "generated_at": "2026-11-07T10:26:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-07 10:22:30"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-07 10:26:15"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-07 10:22:30"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-07 10:19:01"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 10:07:56"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-07 10:04:12"
   }
  ]
 }
