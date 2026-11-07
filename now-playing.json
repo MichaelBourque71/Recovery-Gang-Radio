@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:23:05-04:00",
+ "generated_at": "2026-11-07T11:26:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-07 11:23:03"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-07 11:26:03"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-07 11:23:03"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-07 11:17:59"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-07 11:07:47"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-07 11:03:08"
   }
  ]
 }
