@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:05:50-04:00",
+ "generated_at": "2026-11-07T12:08:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-07 12:05:45"
+  "title": "One More Night",
+  "started": "2026-11-07 12:08:40"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-07 12:05:45"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-07 12:02:53"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-07 11:51:33"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-07 11:48:39"
   }
  ]
 }
