@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:56:51-04:00",
+ "generated_at": "2026-11-07T14:01:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-07 13:56:50"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-07 14:01:46"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-07 13:56:50"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-07 13:52:33"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-07 13:41:34"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-07 13:36:50"
   }
  ]
 }
