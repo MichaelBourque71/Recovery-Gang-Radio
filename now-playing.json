@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:55:25-04:00",
+ "generated_at": "2026-11-07T08:58:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-07 08:55:21"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-07 08:58:02"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-07 08:55:21"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-07 08:52:29"
@@ -21,10 +25,6 @@
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-07 08:41:50"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-07 08:35:53"
   }
  ]
 }
