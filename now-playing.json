@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:38:37-04:00",
+ "generated_at": "2026-11-07T19:42:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-07 19:38:35"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-07 19:42:53"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-07 19:38:35"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-07 19:36:13"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-07 19:26:22"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-07 19:21:47"
   }
  ]
 }
