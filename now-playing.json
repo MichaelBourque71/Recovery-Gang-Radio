@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:59:10-04:00",
+ "generated_at": "2026-11-07T05:03:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-07 04:59:06"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-07 05:03:11"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-07 04:59:06"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-07 04:55:39"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-07 04:42:05"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-07 04:37:35"
   }
  ]
 }
