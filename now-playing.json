@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:58:24-04:00",
+ "generated_at": "2026-11-07T01:03:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-07 00:58:21"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-07 01:03:35"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-07 00:58:21"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-07 00:55:16"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-07 00:41:42"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-07 00:36:33"
   }
  ]
 }
