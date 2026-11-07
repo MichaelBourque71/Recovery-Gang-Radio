@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T10:12:35-04:00",
+ "generated_at": "2026-11-07T10:14:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-07 10:12:32"
+  "title": "Taste Your Honey",
+  "started": "2026-11-07 10:14:54"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-07 10:12:32"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 10:07:56"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-07 09:55:13"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-07 09:50:06"
   }
  ]
 }
