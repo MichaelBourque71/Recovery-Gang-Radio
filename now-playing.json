@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:46:23-04:00",
+ "generated_at": "2026-11-07T02:49:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-07 02:46:19"
+  "title": "Unstoppable Force",
+  "started": "2026-11-07 02:49:56"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-07 02:46:19"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-07 02:43:19"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-07 02:27:58"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-07 02:24:12"
   }
  ]
 }
