@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:23:21-04:00",
+ "generated_at": "2026-11-06T21:27:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-06 21:23:18"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-06 21:27:07"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-06 21:23:18"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-06 21:19:47"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-06 21:06:29"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-06 21:01:32"
   }
  ]
 }
