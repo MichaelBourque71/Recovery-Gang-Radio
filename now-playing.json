@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:31:47-04:00",
+ "generated_at": "2026-11-06T21:35:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-06 21:31:45"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-06 21:35:26"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-06 21:31:45"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-06 21:27:07"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-06 21:15:52"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-06 21:10:56"
   }
  ]
 }
