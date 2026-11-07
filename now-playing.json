@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:28:56-04:00",
+ "generated_at": "2026-11-07T04:32:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-07 04:28:55"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-07 04:32:55"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-07 04:28:55"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-07 04:25:56"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-07 04:15:18"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-07 04:10:05"
   }
  ]
 }
