@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:43:25-04:00",
+ "generated_at": "2026-11-07T14:47:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-07 14:43:22"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-07 14:47:19"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-07 14:43:22"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-07 14:40:22"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-07 14:29:35"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-07 14:26:10"
   }
  ]
 }
