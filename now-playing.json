@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:35:31-04:00",
+ "generated_at": "2026-11-06T21:39:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-06 21:35:26"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-06 21:39:20"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-06 21:35:26"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-06 21:31:45"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-06 21:19:47"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-06 21:15:52"
   }
  ]
 }
