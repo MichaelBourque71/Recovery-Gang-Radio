@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:45:58-04:00",
+ "generated_at": "2026-11-06T23:49:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-06 23:45:54"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-06 23:49:46"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-06 23:45:54"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-06 23:42:07"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-06 23:30:51"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-06 23:26:56"
   }
  ]
 }
