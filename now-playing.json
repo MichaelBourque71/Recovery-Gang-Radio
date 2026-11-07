@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:43:04-04:00",
+ "generated_at": "2026-11-06T21:45:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-06 21:43:02"
+  "title": "Living For Peace",
+  "started": "2026-11-06 21:44:55"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-06 21:43:02"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-06 21:39:20"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-06 21:27:07"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-06 21:23:18"
   }
  ]
 }
