@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:21:53-04:00",
+ "generated_at": "2026-11-07T17:25:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-07 17:21:53"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-07 17:25:32"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-07 17:21:53"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-07 17:18:03"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-07 17:05:27"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-07 16:59:58"
   }
  ]
 }
