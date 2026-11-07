@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:39:25-04:00",
+ "generated_at": "2026-11-06T21:43:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-06 21:39:20"
+  "title": "420 Twice A Day",
+  "started": "2026-11-06 21:43:02"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-06 21:39:20"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 21:35:26"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-06 21:23:18"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-06 21:19:47"
   }
  ]
 }
