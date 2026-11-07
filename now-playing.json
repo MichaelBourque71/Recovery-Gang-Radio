@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:29:20-04:00",
+ "generated_at": "2026-11-07T17:34:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-07 17:29:18"
+  "title": "420 Twice A Day",
+  "started": "2026-11-07 17:34:02"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-07 17:29:18"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-07 17:25:32"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-07 17:13:09"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-07 17:09:31"
   }
  ]
 }
