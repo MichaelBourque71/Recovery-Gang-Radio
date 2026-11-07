@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:12:26-04:00",
+ "generated_at": "2026-11-07T19:16:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-07 19:12:25"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-07 19:16:12"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-07 19:12:25"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-07 19:11:40"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-07 18:59:06"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-07 18:56:00"
   }
  ]
 }
