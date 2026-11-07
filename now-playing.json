@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:55:41-04:00",
+ "generated_at": "2026-11-07T04:59:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-07 04:55:39"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-07 04:59:06"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-07 04:55:39"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-07 04:51:40"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-07 04:37:35"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-07 04:32:55"
   }
  ]
 }
