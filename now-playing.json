@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:45:06-04:00",
+ "generated_at": "2026-11-07T17:48:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-07 17:45:01"
+  "title": "The Left Lies",
+  "started": "2026-11-07 17:48:38"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-07 17:45:01"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-07 17:40:03"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-07 17:29:18"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-07 17:25:32"
   }
  ]
 }
