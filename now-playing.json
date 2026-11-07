@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T10:32:09-04:00",
+ "generated_at": "2026-11-07T10:36:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-07 10:32:07"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-07 10:36:13"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-07 10:32:07"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-07 10:26:15"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-07 10:14:54"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-07 10:12:32"
   }
  ]
 }
