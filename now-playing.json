@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:38:54-04:00",
+ "generated_at": "2026-11-07T02:43:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-07 02:38:50"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-07 02:43:19"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-07 02:38:50"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-07 02:32:53"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-07 02:21:15"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-07 02:15:02"
   }
  ]
 }
