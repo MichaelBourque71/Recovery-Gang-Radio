@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:11:42-04:00",
+ "generated_at": "2026-11-07T19:12:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-07 19:11:40"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-07 19:12:25"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-07 19:11:40"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-07 19:07:30"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-07 18:56:00"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-07 18:52:03"
   }
  ]
 }
