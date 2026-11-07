@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:29:58-04:00",
+ "generated_at": "2026-11-07T19:33:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-07 19:29:54"
+  "title": "Take Your Laws",
+  "started": "2026-11-07 19:33:21"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-07 19:29:54"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-07 19:26:22"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-07 19:12:25"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-07 19:11:40"
   }
  ]
 }
