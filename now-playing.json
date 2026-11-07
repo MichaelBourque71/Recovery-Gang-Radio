@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:59:53-04:00",
+ "generated_at": "2026-11-07T18:04:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-07 17:59:50"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-07 18:04:51"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-07 17:59:50"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-07 17:54:20"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-07 17:45:01"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-07 17:40:03"
   }
  ]
 }
