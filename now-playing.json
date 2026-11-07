@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:26:59-04:00",
+ "generated_at": "2026-11-06T23:30:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-06 23:26:56"
+  "title": "Heavy Denim",
+  "started": "2026-11-06 23:30:51"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-06 23:26:56"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-06 23:22:53"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-06 23:11:16"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-06 23:07:17"
   }
  ]
 }
