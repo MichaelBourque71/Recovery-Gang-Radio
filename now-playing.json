@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:52:33-04:00",
+ "generated_at": "2026-11-07T08:55:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-07 08:52:29"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-07 08:55:21"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-07 08:52:29"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-07 08:49:28"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-07 08:35:53"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-07 08:33:59"
   }
  ]
 }
