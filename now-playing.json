@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:09:32-04:00",
+ "generated_at": "2026-11-07T17:13:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-07 17:09:31"
+  "title": "Roadside Puddles",
+  "started": "2026-11-07 17:13:09"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-07 17:09:31"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-07 17:05:27"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-07 16:52:11"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-07 16:48:12"
   }
  ]
 }
