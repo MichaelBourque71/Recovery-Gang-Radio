@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:47:24-04:00",
+ "generated_at": "2026-11-07T14:50:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-07 14:47:19"
+  "title": "Some People",
+  "started": "2026-11-07 14:50:56"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-07 14:47:19"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-07 14:43:22"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-07 14:33:39"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-07 14:29:35"
   }
  ]
 }
