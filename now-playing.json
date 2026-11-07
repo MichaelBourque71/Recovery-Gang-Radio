@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:08:50-04:00",
+ "generated_at": "2026-11-07T13:12:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-07 13:08:45"
+  "title": "Here’s a Stack",
+  "started": "2026-11-07 13:12:35"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-07 13:08:45"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-07 13:02:54"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-07 12:50:21"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-07 12:45:22"
   }
  ]
 }
