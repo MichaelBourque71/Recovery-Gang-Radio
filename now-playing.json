@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T07:21:57-04:00",
+ "generated_at": "2026-11-07T07:24:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-07 07:21:55"
+  "title": "History Collects",
+  "started": "2026-11-07 07:24:54"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-07 07:21:55"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-07 07:16:06"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-07 07:03:14"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-07 06:58:30"
   }
  ]
 }
