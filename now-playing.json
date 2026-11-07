@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:49:30-04:00",
+ "generated_at": "2026-11-07T08:52:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-07 08:49:28"
+  "title": "Running With Scissors",
+  "started": "2026-11-07 08:52:29"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-07 08:49:28"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-07 08:43:50"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-07 08:33:59"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-07 08:30:32"
   }
  ]
 }
