@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:28:17-04:00",
+ "generated_at": "2026-11-07T15:32:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-07 15:28:17"
+  "title": "Living For Peace",
+  "started": "2026-11-07 15:32:41"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-07 15:28:17"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-07 15:26:45"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-07 15:15:49"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-07 15:13:04"
   }
  ]
 }
