@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:11:21-04:00",
+ "generated_at": "2026-11-07T11:14:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-07 11:11:21"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-07 11:14:34"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-07 11:11:21"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-07 11:07:47"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-07 10:53:54"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-07 10:49:20"
   }
  ]
 }
