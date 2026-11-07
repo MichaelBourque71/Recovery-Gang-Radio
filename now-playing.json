@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:55:37-04:00",
+ "generated_at": "2026-11-07T11:58:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-07 11:55:35"
+  "title": "Stranger Danger",
+  "started": "2026-11-07 11:58:40"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-07 11:55:35"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-07 11:51:33"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-07 11:39:55"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-07 11:36:14"
   }
  ]
 }
