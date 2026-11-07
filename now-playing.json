@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:01:32-04:00",
+ "generated_at": "2026-11-06T21:06:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-06 21:01:32"
+  "title": "Burn It Slow",
+  "started": "2026-11-06 21:06:29"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-06 21:01:32"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-06 20:57:07"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-06 20:46:21"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-06 20:42:58"
   }
  ]
 }
