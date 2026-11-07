@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:35:56-04:00",
+ "generated_at": "2026-11-07T08:41:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-07 08:35:53"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-07 08:41:50"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-07 08:35:53"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-07 08:33:59"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-07 08:20:01"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-07 08:14:38"
   }
  ]
 }
