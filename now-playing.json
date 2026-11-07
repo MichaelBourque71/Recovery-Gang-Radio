@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:39:40-04:00",
+ "generated_at": "2026-11-07T15:43:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-07 15:39:39"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-07 15:43:07"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-07 15:39:39"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-07 15:36:15"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-07 15:26:45"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-07 15:23:31"
   }
  ]
 }
