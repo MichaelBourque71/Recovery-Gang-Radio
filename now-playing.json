@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:02:55-04:00",
+ "generated_at": "2026-11-07T12:05:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-07 12:02:53"
+  "title": "Lines In Stone",
+  "started": "2026-11-07 12:05:45"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-07 12:02:53"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-07 11:58:40"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-07 11:48:39"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-07 11:44:27"
   }
  ]
 }
