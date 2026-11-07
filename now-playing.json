@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T03:05:34-04:00",
+ "generated_at": "2026-11-07T03:09:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-07 03:05:32"
+  "title": "Delaware Sniff",
+  "started": "2026-11-07 03:09:09"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-07 03:05:32"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-07 03:01:29"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 02:49:56"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-07 02:46:19"
   }
  ]
 }
