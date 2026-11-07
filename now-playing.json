@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:24:13-04:00",
+ "generated_at": "2026-11-07T02:27:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-07 02:24:12"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-07 02:27:58"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-07 02:24:12"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-07 02:21:15"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-07 02:07:05"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-07 02:03:04"
   }
  ]
 }
