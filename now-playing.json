@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:58:45-04:00",
+ "generated_at": "2026-11-07T12:02:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-07 11:58:40"
+  "title": "Take Your Laws",
+  "started": "2026-11-07 12:02:53"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-07 11:58:40"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-07 11:55:35"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-07 11:44:27"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-07 11:39:55"
   }
  ]
 }
