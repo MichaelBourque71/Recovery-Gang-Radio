@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:45:24-04:00",
+ "generated_at": "2026-11-07T12:50:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-07 12:45:22"
+  "title": "History Collects",
+  "started": "2026-11-07 12:50:21"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-07 12:45:22"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-07 12:41:18"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 12:33:25"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-07 12:29:08"
   }
  ]
 }
