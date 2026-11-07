@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T20:11:04-04:00",
+ "generated_at": "2026-11-06T20:14:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-06 20:10:59"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-06 20:14:45"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-06 20:10:59"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-06 20:06:44"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-06 19:56:41"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-06 19:54:09"
   }
  ]
 }
