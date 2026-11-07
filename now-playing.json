@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:26:46-04:00",
+ "generated_at": "2026-11-07T15:28:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-07 15:26:45"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-07 15:28:17"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-07 15:26:45"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-07 15:23:31"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-07 15:13:04"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-07 15:08:31"
   }
  ]
 }
