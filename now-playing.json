@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:19:22-04:00",
+ "generated_at": "2026-11-07T13:22:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-07 13:19:21"
+  "title": "Yes",
+  "started": "2026-11-07 13:22:32"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-07 13:19:21"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-07 13:15:46"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-07 13:02:54"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-07 12:58:26"
   }
  ]
 }
