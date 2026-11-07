@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:19:55-04:00",
+ "generated_at": "2026-11-07T06:21:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-07 06:19:51"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-07 06:21:50"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-07 06:19:51"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-07 06:15:00"
@@ -21,10 +25,6 @@
   {
    "title": "Pair B - Living For Peace + You",
    "started": "2026-11-07 06:00:29"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-07 05:56:02"
   }
  ]
 }
