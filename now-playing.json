@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:11:20-04:00",
+ "generated_at": "2026-11-06T23:14:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-06 23:11:16"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-06 23:14:46"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-06 23:11:16"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-06 23:07:17"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-06 22:57:41"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-06 22:53:26"
   }
  ]
 }
