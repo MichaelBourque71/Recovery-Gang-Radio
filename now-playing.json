@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-07T05:10:20-04:00",
+ "generated_at": "2026-11-07T05:19:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-07 05:10:14"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-07 05:19:54"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-07 05:16:43"
+  },
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-07 05:10:14"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-07 05:06:55"
@@ -17,14 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-07 04:59:06"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-07 04:55:39"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-07 04:51:40"
   }
  ]
 }
