@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:10:08-04:00",
+ "generated_at": "2026-11-07T04:15:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-07 04:10:05"
+  "title": "You",
+  "started": "2026-11-07 04:15:18"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-07 04:10:05"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-07 04:05:48"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-07 03:51:12"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-07 03:47:58"
   }
  ]
 }
