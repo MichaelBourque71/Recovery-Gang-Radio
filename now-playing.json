@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:53:25-04:00",
+ "generated_at": "2026-11-07T02:56:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-07 02:53:22"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-07 02:56:53"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-07 02:53:22"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 02:49:56"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-07 02:38:50"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-07 02:32:53"
   }
  ]
 }
