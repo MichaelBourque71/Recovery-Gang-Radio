@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T03:33:11-04:00",
+ "generated_at": "2026-11-07T03:35:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-07 03:33:07"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-07 03:35:42"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-07 03:33:07"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-07 03:28:42"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-07 03:13:38"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-07 03:09:09"
   }
  ]
 }
