@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:29:37-04:00",
+ "generated_at": "2026-11-07T14:33:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-07 14:29:35"
+  "title": "Living For Peace",
+  "started": "2026-11-07 14:33:39"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-07 14:29:35"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 14:26:10"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-07 14:12:35"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-07 14:08:08"
   }
  ]
 }
