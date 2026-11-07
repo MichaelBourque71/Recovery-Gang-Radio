@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T16:48:15-04:00",
+ "generated_at": "2026-11-07T16:52:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-07 16:48:12"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-07 16:52:11"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-07 16:48:12"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-07 16:42:04"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-07 16:32:44"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-07 16:27:35"
   }
  ]
 }
