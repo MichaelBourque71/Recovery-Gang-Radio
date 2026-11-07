@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:43:27-04:00",
+ "generated_at": "2026-11-06T22:47:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-06 22:43:26"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-06 22:47:24"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-06 22:43:26"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-06 22:40:44"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-06 22:29:35"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-06 22:26:31"
   }
  ]
 }
