@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T07:57:10-04:00",
+ "generated_at": "2026-11-07T08:01:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-07 07:57:09"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-07 08:01:56"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-07 07:57:09"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-07 07:54:12"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-07 07:42:21"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-07 07:38:13"
   }
  ]
 }
