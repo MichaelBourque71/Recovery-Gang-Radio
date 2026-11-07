@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:01:47-04:00",
+ "generated_at": "2026-11-07T04:05:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-07 04:01:44"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-07 04:05:48"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-07 04:01:44"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-07 03:56:37"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-07 03:44:44"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-07 03:41:17"
   }
  ]
 }
