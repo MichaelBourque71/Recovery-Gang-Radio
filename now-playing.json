@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:04:52-04:00",
+ "generated_at": "2026-11-07T18:08:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-07 18:04:51"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-07 18:08:54"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-07 18:04:51"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-07 17:59:50"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-07 17:48:38"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-07 17:45:01"
   }
  ]
 }
