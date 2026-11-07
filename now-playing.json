@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:03:08-04:00",
+ "generated_at": "2026-11-07T11:07:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-07 11:03:08"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-07 11:07:47"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-07 11:03:08"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-07 10:58:59"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-07 10:44:23"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-07 10:41:20"
   }
  ]
 }
