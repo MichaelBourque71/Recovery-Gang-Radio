@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:12:37-04:00",
+ "generated_at": "2026-11-07T14:16:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-07 14:12:35"
+  "title": "Breath Of Policy",
+  "started": "2026-11-07 14:16:22"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-07 14:12:35"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-07 14:08:08"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-07 13:56:50"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-07 13:52:33"
   }
  ]
 }
