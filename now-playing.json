@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T20:27:07-04:00",
+ "generated_at": "2026-11-06T20:31:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-06 20:27:06"
+  "title": "Youth In Asia",
+  "started": "2026-11-06 20:31:29"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-06 20:27:06"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-06 20:23:30"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-06 20:10:59"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-06 20:06:44"
   }
  ]
 }
