@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:02:56-04:00",
+ "generated_at": "2026-11-07T13:08:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-07 13:02:54"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-07 13:08:45"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-07 13:02:54"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-07 12:58:26"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-07 12:45:22"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-07 12:41:18"
   }
  ]
 }
