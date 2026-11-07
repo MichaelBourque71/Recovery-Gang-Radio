@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:16:31-04:00",
+ "generated_at": "2026-11-06T22:20:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-06 22:16:26"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-06 22:20:35"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-06 22:16:26"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-06 22:12:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-06 22:00:27"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-06 21:55:44"
   }
  ]
 }
