@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:05:53-04:00",
+ "generated_at": "2026-11-07T04:10:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-07 04:05:48"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-07 04:10:05"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-07 04:05:48"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-07 04:01:44"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-07 03:47:58"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-07 03:44:44"
   }
  ]
 }
