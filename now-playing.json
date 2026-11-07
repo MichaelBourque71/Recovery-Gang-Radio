@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T07:28:45-04:00",
+ "generated_at": "2026-11-07T07:35:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-07 07:28:43"
+  "title": "Acid Freak",
+  "started": "2026-11-07 07:35:40"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-07 07:28:43"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-07 07:24:54"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-07 07:12:07"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-07 07:07:54"
   }
  ]
 }
