@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:22:35-04:00",
+ "generated_at": "2026-11-07T13:26:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-07 13:22:32"
+  "title": "My Harley Waits",
+  "started": "2026-11-07 13:26:00"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-07 13:22:32"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-07 13:19:21"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-07 13:08:45"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-07 13:02:54"
   }
  ]
 }
