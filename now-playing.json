@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:41:33-04:00",
+ "generated_at": "2026-11-07T06:45:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-07 06:41:32"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-07 06:45:06"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-07 06:41:32"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-07 06:36:38"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-07 06:26:23"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-07 06:21:50"
   }
  ]
 }
