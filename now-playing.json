@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:00:25-04:00",
+ "generated_at": "2026-11-07T17:05:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-07 16:59:58"
+  "title": "Killdozer Army",
+  "started": "2026-11-07 17:05:27"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-07 16:59:58"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-07 16:56:12"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-07 16:42:04"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-07 16:38:53"
   }
  ]
 }
