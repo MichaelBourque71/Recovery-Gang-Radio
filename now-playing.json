@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:05:38-04:00",
+ "generated_at": "2026-11-07T15:08:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-07 15:05:37"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-07 15:08:31"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-07 15:05:37"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-07 15:02:44"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-07 14:50:56"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-07 14:47:19"
   }
  ]
 }
