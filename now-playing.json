@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:08:43-04:00",
+ "generated_at": "2026-11-07T12:12:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-07 12:08:40"
+  "title": "Orange Rage (TDS)",
+  "started": "2026-11-07 12:12:25"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-07 12:08:40"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-07 12:05:45"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-07 11:55:35"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-07 11:51:33"
   }
  ]
 }
