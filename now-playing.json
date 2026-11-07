@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:49:33-04:00",
+ "generated_at": "2026-11-07T15:53:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-07 15:49:33"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-07 15:53:22"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-07 15:49:33"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-07 15:43:07"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-07 15:32:41"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-07 15:28:17"
   }
  ]
 }
