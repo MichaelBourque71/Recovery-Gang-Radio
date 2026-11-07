@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:20:40-04:00",
+ "generated_at": "2026-11-06T22:23:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-06 22:20:35"
+  "title": "Clown In A Crown",
+  "started": "2026-11-06 22:23:11"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-06 22:20:35"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-06 22:16:26"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-06 22:03:07"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-06 22:00:27"
   }
  ]
 }
