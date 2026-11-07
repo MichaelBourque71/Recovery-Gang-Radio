@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:50:53-04:00",
+ "generated_at": "2026-11-07T17:54:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-07 17:50:52"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-07 17:54:20"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-07 17:50:52"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-07 17:48:38"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-07 17:35:56"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-07 17:34:02"
   }
  ]
 }
