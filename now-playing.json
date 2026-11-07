@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T07:42:23-04:00",
+ "generated_at": "2026-11-07T07:48:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-07 07:42:21"
+  "title": "Take Your Laws",
+  "started": "2026-11-07 07:48:26"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-07 07:42:21"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 07:38:13"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-07 07:24:54"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-07 07:21:55"
   }
  ]
 }
