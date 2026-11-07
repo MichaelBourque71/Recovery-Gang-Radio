@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T16:05:00-04:00",
+ "generated_at": "2026-11-07T16:10:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-07 16:04:57"
+  "title": "It Was Time",
+  "started": "2026-11-07 16:10:13"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-07 16:04:57"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-07 16:01:03"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-07 15:49:33"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-07 15:43:07"
   }
  ]
 }
