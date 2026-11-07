@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:41:37-04:00",
+ "generated_at": "2026-11-07T13:46:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-07 13:41:34"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-07 13:46:24"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-07 13:41:34"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-07 13:36:50"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-07 13:22:32"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-07 13:19:21"
   }
  ]
 }
