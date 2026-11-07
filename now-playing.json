@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:07:52-04:00",
+ "generated_at": "2026-11-07T11:11:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-07 11:07:47"
+  "title": "Weaponized Children",
+  "started": "2026-11-07 11:11:21"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-07 11:07:47"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-07 11:03:08"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-07 10:49:20"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-07 10:44:23"
   }
  ]
 }
