@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T09:06:12-04:00",
+ "generated_at": "2026-11-07T09:11:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-07 09:06:07"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-07 09:11:20"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-07 09:06:07"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-07 09:02:04"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-07 08:52:29"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-07 08:49:28"
   }
  ]
 }
