@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:03:10-04:00",
+ "generated_at": "2026-11-06T22:07:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-06 22:03:07"
+  "title": "Hard Way",
+  "started": "2026-11-06 22:07:10"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-06 22:03:07"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-06 22:00:27"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-06 21:48:40"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-06 21:44:55"
   }
  ]
 }
