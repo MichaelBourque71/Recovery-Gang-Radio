@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:28:21-04:00",
+ "generated_at": "2026-11-07T18:31:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-07 18:28:19"
+  "title": "Low-End Disorder",
+  "started": "2026-11-07 18:31:54"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-07 18:28:19"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-07 18:23:28"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-07 18:11:47"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-07 18:08:54"
   }
  ]
 }
