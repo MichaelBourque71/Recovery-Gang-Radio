@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:16:24-04:00",
+ "generated_at": "2026-11-07T14:22:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-07 14:16:22"
+  "title": "Space Cadet",
+  "started": "2026-11-07 14:22:10"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-07 14:16:22"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-07 14:12:35"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-07 14:01:46"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-07 13:56:50"
   }
  ]
 }
