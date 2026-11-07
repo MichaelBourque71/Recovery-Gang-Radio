@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T01:35:54-04:00",
+ "generated_at": "2026-11-07T01:40:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-07 01:35:52"
+  "title": "Greedy Bitch",
+  "started": "2026-11-07 01:40:00"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-07 01:35:52"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-07 01:31:05"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-07 01:20:04"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-07 01:15:47"
   }
  ]
 }
