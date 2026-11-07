@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:03:28-04:00",
+ "generated_at": "2026-11-07T00:06:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-07 00:03:23"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-07 00:06:51"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-07 00:03:23"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-06 23:58:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-06 23:45:54"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-06 23:42:07"
   }
  ]
 }
