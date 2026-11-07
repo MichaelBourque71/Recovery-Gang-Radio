@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:23:32-04:00",
+ "generated_at": "2026-11-07T15:26:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-07 15:23:31"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-07 15:26:45"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-07 15:23:31"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-07 15:19:52"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-07 15:08:31"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-07 15:05:37"
   }
  ]
 }
