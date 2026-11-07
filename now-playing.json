@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:42:11-04:00",
+ "generated_at": "2026-11-06T23:45:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-06 23:42:07"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-06 23:45:54"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-06 23:42:07"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-06 23:39:02"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 23:26:56"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-06 23:22:53"
   }
  ]
 }
