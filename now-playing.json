@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:31:56-04:00",
+ "generated_at": "2026-11-07T18:35:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-07 18:31:54"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-07 18:35:48"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-07 18:31:54"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-07 18:28:19"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-07 18:15:12"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-07 18:11:47"
   }
  ]
 }
