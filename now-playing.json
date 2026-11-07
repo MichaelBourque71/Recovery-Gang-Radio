@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:07:33-04:00",
+ "generated_at": "2026-11-07T06:11:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-07 06:07:30"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-07 06:11:31"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-07 06:07:30"
+  },
   {
    "title": "Pair B - Living For Peace + You",
    "started": "2026-11-07 06:00:29"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-07 05:46:43"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-07 05:42:38"
   }
  ]
 }
