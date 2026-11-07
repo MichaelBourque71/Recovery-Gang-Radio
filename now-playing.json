@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:15:02-04:00",
+ "generated_at": "2026-11-07T02:21:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-07 02:15:02"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-07 02:21:15"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-07 02:15:02"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-07 02:11:08"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-07 01:59:37"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-07 01:56:19"
   }
  ]
 }
