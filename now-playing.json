@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:33:22-04:00",
+ "generated_at": "2026-11-07T19:36:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-07 19:33:21"
+  "title": "Acid Freak",
+  "started": "2026-11-07 19:36:13"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-07 19:33:21"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-07 19:29:54"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-07 19:16:12"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-07 19:12:25"
   }
  ]
 }
