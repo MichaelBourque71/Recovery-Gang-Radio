@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T20:34:45-04:00",
+ "generated_at": "2026-11-06T20:39:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-06 20:34:43"
+  "title": "Upgraded",
+  "started": "2026-11-06 20:39:01"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-06 20:34:43"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-06 20:31:29"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-06 20:18:49"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-06 20:14:45"
   }
  ]
 }
