@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:21:56-04:00",
+ "generated_at": "2026-11-07T00:25:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-07 00:21:52"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-07 00:25:20"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-07 00:21:52"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-07 00:19:51"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-07 00:06:51"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-07 00:03:23"
   }
  ]
 }
