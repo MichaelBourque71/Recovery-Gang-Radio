@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T21:48:44-04:00",
+ "generated_at": "2026-11-06T21:52:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-06 21:48:40"
+  "title": "Take Your Laws",
+  "started": "2026-11-06 21:52:52"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-06 21:48:40"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-06 21:44:55"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 21:35:26"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-06 21:31:45"
   }
  ]
 }
