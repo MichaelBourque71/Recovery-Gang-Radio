@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:58:03-04:00",
+ "generated_at": "2026-11-07T09:02:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-07 08:58:02"
+  "title": "Invisible String",
+  "started": "2026-11-07 09:02:04"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-07 08:58:02"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-07 08:55:21"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-07 08:43:50"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-07 08:41:50"
   }
  ]
 }
