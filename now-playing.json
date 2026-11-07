@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-07T15:53:27-04:00",
+ "generated_at": "2026-11-07T16:01:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-07 15:53:22"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-07 16:01:03"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-07 15:55:38"
+  },
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-07 15:53:22"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-07 15:49:33"
@@ -17,14 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-07 15:39:39"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-07 15:36:15"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-07 15:32:41"
   }
  ]
 }
