@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T12:22:12-04:00",
+ "generated_at": "2026-11-07T12:24:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-07 12:22:10"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-07 12:24:43"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-07 12:22:10"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-07 12:18:58"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-07 12:08:40"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-07 12:05:45"
   }
  ]
 }
