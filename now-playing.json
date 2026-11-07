@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:40:00-04:00",
+ "generated_at": "2026-11-07T11:44:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-07 11:39:55"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-07 11:44:27"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-07 11:39:55"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-07 11:36:14"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-07 11:23:03"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-07 11:17:59"
   }
  ]
 }
