@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:54:44-04:00",
+ "generated_at": "2026-11-07T06:58:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-07 06:54:40"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-07 06:58:30"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-07 06:54:40"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-07 06:48:41"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-07 06:36:38"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-07 06:33:10"
   }
  ]
 }
