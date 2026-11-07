@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T16:17:50-04:00",
+ "generated_at": "2026-11-07T16:21:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-07 16:17:49"
+  "title": "Stolen Democracy",
+  "started": "2026-11-07 16:21:54"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-07 16:17:49"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-07 16:14:57"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-07 16:01:03"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-07 15:55:38"
   }
  ]
 }
