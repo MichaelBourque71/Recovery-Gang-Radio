@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:37:38-04:00",
+ "generated_at": "2026-11-07T04:42:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-07 04:37:35"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-07 04:42:05"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-07 04:37:35"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-07 04:32:55"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-07 04:23:33"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-07 04:18:35"
   }
  ]
 }
