@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:32:43-04:00",
+ "generated_at": "2026-11-07T15:36:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-07 15:32:41"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-07 15:36:15"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-07 15:32:41"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-07 15:28:17"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-07 15:19:52"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-07 15:15:49"
   }
  ]
 }
