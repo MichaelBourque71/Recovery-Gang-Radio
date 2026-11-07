@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T02:07:05-04:00",
+ "generated_at": "2026-11-07T02:11:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-07 02:07:05"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-07 02:11:08"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-07 02:07:05"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-07 02:03:04"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-07 01:51:31"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-07 01:48:31"
   }
  ]
 }
