@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T20:31:32-04:00",
+ "generated_at": "2026-11-06T20:34:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-06 20:31:29"
+  "title": "Balls Intact",
+  "started": "2026-11-06 20:34:43"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-06 20:31:29"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-06 20:27:06"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-06 20:14:45"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-06 20:10:59"
   }
  ]
 }
