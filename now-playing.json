@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T03:13:39-04:00",
+ "generated_at": "2026-11-07T03:18:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-07 03:13:38"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-07 03:18:48"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-07 03:13:38"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 03:09:09"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-07 02:56:53"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-07 02:53:22"
   }
  ]
 }
