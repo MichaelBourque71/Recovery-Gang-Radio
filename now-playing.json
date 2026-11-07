@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:08:56-04:00",
+ "generated_at": "2026-11-07T18:11:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-07 18:08:54"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-07 18:11:47"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-07 18:08:54"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-07 18:04:51"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-07 17:50:52"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-07 17:48:38"
   }
  ]
 }
