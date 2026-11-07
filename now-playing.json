@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:14:49-04:00",
+ "generated_at": "2026-11-06T23:19:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-06 23:14:46"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-06 23:19:16"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-06 23:14:46"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-06 23:11:16"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-06 23:00:45"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-06 22:57:41"
   }
  ]
 }
