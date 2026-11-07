@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:19:54-04:00",
+ "generated_at": "2026-11-07T15:23:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-07 15:19:52"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-07 15:23:31"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-07 15:19:52"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-07 15:15:49"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-07 15:05:37"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-07 15:02:44"
   }
  ]
 }
