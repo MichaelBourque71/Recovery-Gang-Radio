@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T17:18:06-04:00",
+ "generated_at": "2026-11-07T17:21:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-07 17:18:03"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-07 17:21:53"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-07 17:18:03"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-07 17:13:09"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-07 16:59:58"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-07 16:56:12"
   }
  ]
 }
