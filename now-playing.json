@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T01:24:37-04:00",
+ "generated_at": "2026-11-07T01:28:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-07 01:24:32"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-07 01:28:16"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-07 01:24:32"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-07 01:20:04"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-07 01:08:48"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-07 01:03:35"
   }
  ]
 }
