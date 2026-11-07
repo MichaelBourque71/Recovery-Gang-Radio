@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T22:12:42-04:00",
+ "generated_at": "2026-11-06T22:16:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-06 22:12:38"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-06 22:16:26"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-06 22:12:38"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-06 22:07:10"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-06 21:55:44"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-06 21:52:52"
   }
  ]
 }
