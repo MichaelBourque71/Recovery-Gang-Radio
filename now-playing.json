@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T15:02:46-04:00",
+ "generated_at": "2026-11-07T15:05:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-07 15:02:44"
+  "title": "Lines In Stone",
+  "started": "2026-11-07 15:05:37"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-07 15:02:44"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-07 14:58:23"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-07 14:47:19"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-07 14:43:22"
   }
  ]
 }
