@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:26:22-04:00",
+ "generated_at": "2026-11-07T19:29:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-07 19:26:22"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-07 19:29:54"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-07 19:26:22"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-07 19:21:47"
@@ -21,10 +25,6 @@
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-07 19:11:40"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-07 19:07:30"
   }
  ]
 }
