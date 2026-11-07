@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:40:20-04:00",
+ "generated_at": "2026-11-07T18:43:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-07 18:40:18"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-07 18:43:45"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-07 18:40:18"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-07 18:35:48"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-07 18:23:28"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-07 18:19:44"
   }
  ]
 }
