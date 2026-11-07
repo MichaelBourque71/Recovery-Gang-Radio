@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:21:50-04:00",
+ "generated_at": "2026-11-07T06:26:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-07 06:21:50"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-07 06:26:23"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-07 06:21:50"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-07 06:19:51"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-07 06:07:30"
-  },
-  {
-   "title": "Pair B - Living For Peace + You",
-   "started": "2026-11-07 06:00:29"
   }
  ]
 }
