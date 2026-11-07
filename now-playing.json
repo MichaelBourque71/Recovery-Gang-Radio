@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:44:30-04:00",
+ "generated_at": "2026-11-07T11:48:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-07 11:44:27"
+  "title": "Stand for Freedom",
+  "started": "2026-11-07 11:48:39"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-07 11:44:27"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-07 11:39:55"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-07 11:26:03"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-07 11:23:03"
   }
  ]
 }
