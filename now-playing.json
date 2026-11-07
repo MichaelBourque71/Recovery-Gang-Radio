@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-07T16:32:47-04:00",
+ "generated_at": "2026-11-07T16:38:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-07 16:32:44"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-07 16:38:53"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-07 16:35:25"
+  },
+  {
+   "title": "What They Want…",
+   "started": "2026-11-07 16:32:44"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-07 16:27:35"
@@ -17,14 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-07 16:21:54"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-07 16:17:49"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-07 16:14:57"
   }
  ]
 }
