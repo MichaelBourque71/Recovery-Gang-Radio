@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:01:57-04:00",
+ "generated_at": "2026-11-07T08:05:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-07 08:01:56"
+  "title": "Stolen Democracy",
+  "started": "2026-11-07 08:05:28"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-07 08:01:56"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-07 07:57:09"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-07 07:48:26"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-07 07:42:21"
   }
  ]
 }
