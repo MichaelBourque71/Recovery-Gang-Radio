@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T16:01:07-04:00",
+ "generated_at": "2026-11-07T16:05:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-07 16:01:03"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-07 16:04:57"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-07 16:01:03"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-07 15:55:38"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-07 15:43:07"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-07 15:39:39"
   }
  ]
 }
