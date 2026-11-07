@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:33:01-04:00",
+ "generated_at": "2026-11-07T00:36:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-07 00:32:57"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-07 00:36:33"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-07 00:32:57"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-07 00:29:19"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-07 00:19:51"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-07 00:14:32"
   }
  ]
 }
