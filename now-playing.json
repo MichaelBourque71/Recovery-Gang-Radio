@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T04:46:08-04:00",
+ "generated_at": "2026-11-07T04:51:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-07 04:46:04"
+  "title": "Stranger Danger",
+  "started": "2026-11-07 04:51:40"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-07 04:46:04"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-07 04:42:05"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-07 04:28:55"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-07 04:25:56"
   }
  ]
 }
