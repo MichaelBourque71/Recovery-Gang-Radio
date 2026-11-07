@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T19:42:58-04:00",
+ "generated_at": "2026-11-07T19:47:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-07 19:42:53"
+  "title": "It Was Time",
+  "started": "2026-11-07 19:47:46"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-07 19:42:53"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 19:38:35"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-07 19:29:54"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-07 19:26:22"
   }
  ]
 }
