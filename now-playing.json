@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T00:41:46-04:00",
+ "generated_at": "2026-11-07T00:47:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-07 00:41:42"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-07 00:47:18"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-07 00:41:42"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-07 00:36:33"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-07 00:25:20"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-07 00:21:52"
   }
  ]
 }
