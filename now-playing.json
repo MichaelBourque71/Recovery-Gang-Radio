@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T08:41:51-04:00",
+ "generated_at": "2026-11-07T08:43:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-07 08:41:50"
+  "title": "Feel Alright",
+  "started": "2026-11-07 08:43:50"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-07 08:41:50"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-07 08:35:53"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-07 08:26:27"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-07 08:20:01"
   }
  ]
 }
