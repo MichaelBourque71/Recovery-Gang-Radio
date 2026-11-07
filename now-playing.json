@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T18:43:45-04:00",
+ "generated_at": "2026-11-07T18:48:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-07 18:43:45"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-07 18:48:22"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-07 18:43:45"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-07 18:40:18"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-07 18:28:19"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-07 18:23:28"
   }
  ]
 }
