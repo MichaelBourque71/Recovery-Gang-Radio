@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T01:40:04-04:00",
+ "generated_at": "2026-11-07T01:44:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-07 01:40:00"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-07 01:44:26"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-07 01:40:00"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-07 01:35:52"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-07 01:24:32"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-07 01:20:04"
   }
  ]
 }
