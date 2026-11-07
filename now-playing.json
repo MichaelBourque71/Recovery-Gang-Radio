@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T06:45:07-04:00",
+ "generated_at": "2026-11-07T06:48:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-07 06:45:06"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-07 06:48:41"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-07 06:45:06"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-07 06:41:32"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-07 06:29:06"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-07 06:26:23"
   }
  ]
 }
