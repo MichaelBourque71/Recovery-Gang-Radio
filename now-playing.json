@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:33:43-04:00",
+ "generated_at": "2026-11-07T14:37:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-07 14:33:39"
+  "title": "Stand for Freedom",
+  "started": "2026-11-07 14:37:27"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-07 14:33:39"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-07 14:29:35"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-07 14:16:22"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-07 14:12:35"
   }
  ]
 }
