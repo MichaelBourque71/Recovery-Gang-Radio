@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:39:04-04:00",
+ "generated_at": "2026-11-06T23:42:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-06 23:39:02"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-06 23:42:07"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-06 23:39:02"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-06 23:36:04"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-06 23:22:53"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-06 23:19:16"
   }
  ]
 }
