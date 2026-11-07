@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:00:49-04:00",
+ "generated_at": "2026-11-06T23:04:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-06 23:00:45"
+  "title": "Stand for Freedom",
+  "started": "2026-11-06 23:04:22"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-06 23:00:45"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-06 22:57:41"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-06 22:43:26"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-06 22:40:44"
   }
  ]
 }
