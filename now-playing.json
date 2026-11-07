@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-06T23:30:54-04:00",
+ "generated_at": "2026-11-06T23:36:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-06 23:30:51"
+  "title": "One Brain Cell",
+  "started": "2026-11-06 23:36:04"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-06 23:30:51"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-06 23:26:56"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-06 23:14:46"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-06 23:11:16"
   }
  ]
 }
