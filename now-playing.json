@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T11:48:40-04:00",
+ "generated_at": "2026-11-07T11:51:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-07 11:48:39"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-07 11:51:33"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-07 11:48:39"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-07 11:44:27"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-07 11:30:56"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-07 11:26:03"
   }
  ]
 }
