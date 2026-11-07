@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T14:50:57-04:00",
+ "generated_at": "2026-11-07T14:54:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-07 14:50:56"
+  "title": "Greedy Bitch",
+  "started": "2026-11-07 14:53:57"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-07 14:50:56"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-07 14:47:19"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-07 14:37:27"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-07 14:33:39"
   }
  ]
 }
