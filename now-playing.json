@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T13:15:48-04:00",
+ "generated_at": "2026-11-07T13:19:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-07 13:15:46"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-07 13:19:21"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-07 13:15:46"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-07 13:12:35"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-07 12:58:26"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-07 12:54:20"
   }
  ]
 }
