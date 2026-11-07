@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T10:53:54-04:00",
+ "generated_at": "2026-11-07T10:58:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-07 10:53:54"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-07 10:58:59"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-07 10:53:54"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-07 10:49:20"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-07 10:36:13"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-07 10:32:07"
   }
  ]
 }
