@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T09:15:37-04:00",
+ "generated_at": "2026-11-07T09:19:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-07 09:15:35"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-07 09:19:35"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-07 09:15:35"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-07 09:11:20"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-07 08:58:02"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-07 08:55:21"
   }
  ]
 }
