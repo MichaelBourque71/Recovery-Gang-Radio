@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:07:17-04:00",
+ "generated_at": "2026-11-07T22:11:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-07 22:07:17"
+  "title": "Back Down While You Still Can (Alt version)",
+  "started": "2026-11-07 22:11:49"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-07 22:07:17"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-07 22:03:15"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-07 21:49:51"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-07 21:46:11"
   }
  ]
 }
