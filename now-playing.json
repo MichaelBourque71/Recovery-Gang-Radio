@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:39:55-04:00",
+ "generated_at": "2026-11-08T06:42:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-08 06:39:53"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-08 06:42:57"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-08 06:39:53"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-08 06:35:48"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 06:23:53"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-08 06:20:15"
   }
  ]
 }
