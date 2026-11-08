@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:24:38-04:00",
+ "generated_at": "2026-11-08T15:28:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-08 15:24:34"
+  "title": "I Do What I Want",
+  "started": "2026-11-08 15:28:03"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-08 15:24:34"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-08 15:19:35"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-08 15:07:21"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-08 15:04:00"
   }
  ]
 }
