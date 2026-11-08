@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T03:35:13-04:00",
+ "generated_at": "2026-11-08T03:38:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-08 03:35:12"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-08 03:38:53"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-08 03:35:12"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 03:30:34"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-08 03:16:39"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-08 03:11:58"
   }
  ]
 }
