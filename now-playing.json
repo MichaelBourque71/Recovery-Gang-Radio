@@ -1,8 +1,19 @@
 {
- "generated_at": "2026-11-08T13:56:16-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-08T13:59:32-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Killdozer Army",
+  "started": "2026-11-08 13:59:30"
+ },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-08 13:56:26"
+  },
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-08 13:51:45"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-08 13:47:45"
@@ -14,14 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-08 13:39:43"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-08 13:36:18"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-08 13:33:35"
   }
  ]
 }
