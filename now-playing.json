@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T09:35:18-04:00",
+ "generated_at": "2026-11-08T09:38:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-08 09:35:15"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-08 09:38:03"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-08 09:35:15"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-08 09:30:27"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-08 09:15:29"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-08 09:11:46"
   }
  ]
 }
