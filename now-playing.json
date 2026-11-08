@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:32:47-04:00",
+ "generated_at": "2026-11-08T15:36:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-08 15:32:44"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-08 15:36:13"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-08 15:32:44"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-08 15:28:03"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-08 15:15:33"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-08 15:12:13"
   }
  ]
 }
