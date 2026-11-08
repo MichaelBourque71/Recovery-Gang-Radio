@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T05:04:52-04:00",
+ "generated_at": "2026-11-08T05:08:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-08 05:04:50"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-08 05:08:48"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-08 05:04:50"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-08 05:00:11"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 04:49:10"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-08 04:44:51"
   }
  ]
 }
