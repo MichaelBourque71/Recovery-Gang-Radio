@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:27:56-04:00",
+ "generated_at": "2026-11-08T06:31:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-08 06:27:52"
+  "title": "Gaslight Halo",
+  "started": "2026-11-08 06:31:43"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-08 06:27:52"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 06:23:53"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-08 06:11:06"
-  },
-  {
-   "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
-   "started": "2026-11-08 06:03:12"
   }
  ]
 }
