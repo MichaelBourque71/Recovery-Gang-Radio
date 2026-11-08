@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:11:09-04:00",
+ "generated_at": "2026-11-08T06:16:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-08 06:11:06"
+  "title": "LGBTQ",
+  "started": "2026-11-08 06:16:02"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-08 06:11:06"
+  },
   {
    "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
    "started": "2026-11-08 06:03:12"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-08 05:52:09"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-08 05:49:15"
   }
  ]
 }
