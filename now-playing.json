@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:12:13-04:00",
+ "generated_at": "2026-11-08T15:15:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-08 15:12:13"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-08 15:15:33"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-08 15:12:13"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-08 15:07:21"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-08 14:56:00"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-08 14:52:38"
   }
  ]
 }
