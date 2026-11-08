@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:03:09-04:00",
+ "generated_at": "2026-11-07T20:05:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-07 20:00:23"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-07 20:03:44"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-07 20:00:23"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-07 19:55:22"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-07 19:42:53"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-07 19:38:35"
   }
  ]
 }
