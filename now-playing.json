@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:34:59-04:00",
+ "generated_at": "2026-11-08T17:38:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-08 17:34:56"
+  "title": "One More Night",
+  "started": "2026-11-08 17:38:17"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-08 17:34:56"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-08 17:30:29"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-08 17:16:04"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-08 17:12:34"
   }
  ]
 }
