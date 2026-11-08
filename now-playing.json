@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:16:45-04:00",
+ "generated_at": "2026-11-08T10:20:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-08 10:16:44"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-08 10:20:07"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-08 10:16:44"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-08 10:11:21"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-08 10:02:17"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-08 09:59:16"
   }
  ]
 }
