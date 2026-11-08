@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:29:44-04:00",
+ "generated_at": "2026-11-08T12:33:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-08 12:29:41"
+  "title": "One More Night",
+  "started": "2026-11-08 12:33:25"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-08 12:29:41"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-08 12:25:31"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-08 12:13:15"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-08 12:08:16"
   }
  ]
 }
