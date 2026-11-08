@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:53:30-04:00",
+ "generated_at": "2026-11-08T15:56:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-08 15:53:27"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-08 15:56:42"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-08 15:53:27"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-08 15:49:28"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-08 15:36:13"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-08 15:32:44"
   }
  ]
 }
