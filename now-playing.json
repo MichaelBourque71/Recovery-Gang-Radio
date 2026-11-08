@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:22:46-04:00",
+ "generated_at": "2026-11-08T02:27:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-08 02:22:17"
+  "title": "Man With the Backbone",
+  "started": "2026-11-08 02:26:24"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-08 02:22:17"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-08 02:19:03"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 02:06:35"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-08 02:02:58"
   }
  ]
 }
