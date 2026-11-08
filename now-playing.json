@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:20:32-04:00",
+ "generated_at": "2026-11-08T02:22:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-08 02:19:03"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-08 02:22:17"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-08 02:19:03"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-08 02:14:04"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-08 02:02:58"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-08 01:59:05"
   }
  ]
 }
