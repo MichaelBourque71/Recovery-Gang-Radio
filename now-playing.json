@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:35:53-04:00",
+ "generated_at": "2026-11-08T02:41:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-08 02:35:52"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-08 02:41:28"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-08 02:35:52"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-08 02:30:47"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-08 02:19:03"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-08 02:14:04"
   }
  ]
 }
