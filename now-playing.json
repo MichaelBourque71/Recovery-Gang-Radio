@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:13:16-04:00",
+ "generated_at": "2026-11-08T12:16:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-08 12:13:15"
+  "title": "Time For Talking",
+  "started": "2026-11-08 12:16:52"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-08 12:13:15"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-08 12:08:16"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-08 11:56:54"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-08 11:53:41"
   }
  ]
 }
