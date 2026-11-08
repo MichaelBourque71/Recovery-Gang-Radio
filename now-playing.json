@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:38:03-04:00",
+ "generated_at": "2026-11-08T13:40:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-08 13:36:18"
+  "title": "Balls Intact",
+  "started": "2026-11-08 13:39:43"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-08 13:36:18"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-08 13:33:35"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-08 13:23:46"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-08 13:19:17"
   }
  ]
 }
