@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:37:16-04:00",
+ "generated_at": "2026-11-08T12:39:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-08 12:37:14"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-08 12:39:15"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-08 12:37:14"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-08 12:33:25"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-08 12:20:02"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-08 12:16:52"
   }
  ]
 }
