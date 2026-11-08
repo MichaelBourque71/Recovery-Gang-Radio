@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T00:28:03-04:00",
+ "generated_at": "2026-11-08T00:30:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-08 00:26:44"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-08 00:29:55"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-08 00:26:44"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-08 00:22:53"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-08 00:10:54"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-08 00:07:01"
   }
  ]
 }
