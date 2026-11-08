@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:56:52-04:00",
+ "generated_at": "2026-11-08T11:00:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-08 10:56:49"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-08 11:00:09"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-08 10:56:49"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-08 10:53:31"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-08 10:40:25"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-08 10:35:26"
   }
  ]
 }
