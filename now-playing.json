@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:05:12-04:00",
+ "generated_at": "2026-11-08T17:09:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-08 17:05:08"
+  "title": "Freedom Wave",
+  "started": "2026-11-08 17:09:12"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-08 17:05:08"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 17:01:18"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-08 16:49:01"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-08 16:44:27"
   }
  ]
 }
