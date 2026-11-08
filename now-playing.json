@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:59:36-04:00",
+ "generated_at": "2026-11-08T18:03:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-08 17:59:36"
+  "title": "420 Twice A Day",
+  "started": "2026-11-08 18:03:30"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-08 17:59:36"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-08 17:56:45"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-08 17:45:44"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-08 17:42:11"
   }
  ]
 }
