@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:25:33-04:00",
+ "generated_at": "2026-11-08T12:29:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-08 12:25:31"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-08 12:29:41"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-08 12:25:31"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-08 12:20:02"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-08 12:08:16"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-08 12:04:31"
   }
  ]
 }
