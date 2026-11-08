@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:56:54-04:00",
+ "generated_at": "2026-11-08T07:00:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-08 06:56:54"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-08 07:00:08"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-08 06:56:54"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-08 06:54:06"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 06:42:57"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-08 06:39:53"
   }
  ]
 }
