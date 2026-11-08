@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:47:02-04:00",
+ "generated_at": "2026-11-08T06:51:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-08 06:47:01"
+  "title": "Acid Freak",
+  "started": "2026-11-08 06:51:09"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-08 06:47:01"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 06:42:57"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-08 06:31:43"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-08 06:27:52"
   }
  ]
 }
