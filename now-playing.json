@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:15:11-04:00",
+ "generated_at": "2026-11-08T07:18:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-08 07:15:08"
+  "title": "Stolen Democracy",
+  "started": "2026-11-08 07:18:51"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-08 07:15:08"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-08 07:10:55"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-08 07:00:08"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-08 06:56:54"
   }
  ]
 }
