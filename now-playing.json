@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:07:12-04:00",
+ "generated_at": "2026-11-08T16:11:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-08 16:07:10"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-08 16:11:06"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-08 16:07:10"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 16:01:45"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-08 15:49:28"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-08 15:44:46"
   }
  ]
 }
