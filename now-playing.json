@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T01:59:10-04:00",
+ "generated_at": "2026-11-08T02:03:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-08 01:59:05"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-08 02:02:58"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-08 01:59:05"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-08 01:56:25"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-08 01:47:20"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-08 01:41:57"
   }
  ]
 }
