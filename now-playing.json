@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:29:57-04:00",
+ "generated_at": "2026-11-08T16:33:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-08 16:29:55"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-08 16:33:54"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-08 16:29:55"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-08 16:25:58"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-08 16:16:46"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-08 16:11:06"
   }
  ]
 }
