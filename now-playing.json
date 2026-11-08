@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:46:30-04:00",
+ "generated_at": "2026-11-07T23:49:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-07 23:46:26"
+  "title": "Stand for Freedom",
+  "started": "2026-11-07 23:48:49"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-07 23:46:26"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-07 23:41:28"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-07 23:27:30"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-07 23:23:37"
   }
  ]
 }
