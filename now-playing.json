@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:10:41-04:00",
+ "generated_at": "2026-11-08T02:15:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-08 02:10:39"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-08 02:14:04"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-08 02:10:39"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 02:06:35"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-08 01:56:25"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-08 01:53:28"
   }
  ]
 }
