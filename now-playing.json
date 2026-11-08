@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:52:51-04:00",
+ "generated_at": "2026-11-08T07:56:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-08 07:52:51"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-08 07:56:11"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-08 07:52:51"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 07:48:52"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-08 07:33:04"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-08 07:30:14"
   }
  ]
 }
