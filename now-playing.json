@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T03:07:14-04:00",
+ "generated_at": "2026-11-08T03:11:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-08 03:07:13"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-08 03:11:58"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-08 03:07:13"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-08 03:03:21"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-08 02:50:39"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-08 02:46:30"
   }
  ]
 }
