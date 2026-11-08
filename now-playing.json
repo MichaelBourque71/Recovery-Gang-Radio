@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:33:37-04:00",
+ "generated_at": "2026-11-07T20:38:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-07 20:32:58"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-07 20:37:14"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-07 20:32:58"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-07 20:28:32"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-07 20:16:45"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-07 20:13:51"
   }
  ]
 }
