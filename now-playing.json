@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:45:02-04:00",
+ "generated_at": "2026-11-08T18:49:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-08 18:44:58"
+  "title": "Here’s a Stack",
+  "started": "2026-11-08 18:49:23"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-08 18:44:58"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-08 18:39:17"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 18:26:06"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-08 18:20:34"
   }
  ]
 }
