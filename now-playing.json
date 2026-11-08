@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:48:54-04:00",
+ "generated_at": "2026-11-08T07:52:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-08 07:48:52"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-08 07:52:51"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-08 07:48:52"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-08 07:42:46"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-08 07:30:14"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-08 07:27:14"
   }
  ]
 }
