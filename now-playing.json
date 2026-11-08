@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T05:15:57-04:00",
+ "generated_at": "2026-11-08T05:21:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-08 05:15:56"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-08 05:21:06"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-08 05:15:56"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-08 05:11:28"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-08 05:00:11"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-08 04:58:10"
   }
  ]
 }
