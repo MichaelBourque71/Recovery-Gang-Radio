@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T04:58:11-04:00",
+ "generated_at": "2026-11-08T05:00:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-08 04:58:10"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-08 05:00:11"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-08 04:58:10"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 04:52:45"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-08 04:40:46"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-08 04:36:59"
   }
  ]
 }
