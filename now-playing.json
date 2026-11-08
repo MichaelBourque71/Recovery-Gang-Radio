@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:46:11-04:00",
+ "generated_at": "2026-11-08T11:50:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-08 11:46:06"
+  "title": "The Woke Baby Sissy Dance 😂",
+  "started": "2026-11-08 11:50:53"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-08 11:46:06"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-08 11:43:44"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 11:29:25"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-08 11:25:24"
   }
  ]
 }
