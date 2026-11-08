@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:31:32-04:00",
+ "generated_at": "2026-11-08T18:34:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-08 18:31:30"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-08 18:34:50"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-08 18:31:30"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 18:26:06"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-08 18:13:07"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-08 18:09:18"
   }
  ]
 }
