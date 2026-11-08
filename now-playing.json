@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T03:48:36-04:00",
+ "generated_at": "2026-11-08T03:52:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-08 03:48:32"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-08 03:52:07"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-08 03:48:32"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-08 03:45:06"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-08 03:35:12"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-08 03:30:34"
   }
  ]
 }
