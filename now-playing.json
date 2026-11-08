@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T05:11:28-04:00",
+ "generated_at": "2026-11-08T05:15:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-08 05:11:28"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-08 05:15:56"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-08 05:11:28"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-08 05:08:48"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-08 04:58:10"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-08 04:52:45"
   }
  ]
 }
