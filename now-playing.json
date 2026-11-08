@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:15:10-04:00",
+ "generated_at": "2026-11-07T23:19:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-07 23:15:08"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-07 23:19:38"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-07 23:15:08"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-07 23:10:28"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-07 22:57:05"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-07 22:54:22"
   }
  ]
 }
