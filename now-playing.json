@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:23:56-04:00",
+ "generated_at": "2026-11-08T06:27:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-08 06:23:53"
+  "title": "Painted Signals",
+  "started": "2026-11-08 06:27:52"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-08 06:23:53"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-08 06:20:15"
@@ -21,10 +25,6 @@
   {
    "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
    "started": "2026-11-08 06:03:12"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-08 05:58:59"
   }
  ]
 }
