@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T21:20:01-04:00",
+ "generated_at": "2026-11-07T21:26:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-07 21:19:33"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-07 21:25:06"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-07 21:19:33"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-07 21:15:42"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-07 21:01:22"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-07 20:55:57"
   }
  ]
 }
