@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:15:36-04:00",
+ "generated_at": "2026-11-08T15:19:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-08 15:15:33"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-08 15:19:35"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-08 15:15:33"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-08 15:12:13"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-08 14:59:00"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-08 14:56:00"
   }
  ]
 }
