@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:28:01-04:00",
+ "generated_at": "2026-11-08T19:30:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-08 19:27:59"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-08 19:30:31"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-08 19:27:59"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-08 19:23:48"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-08 19:11:35"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-08 19:08:36"
   }
  ]
 }
