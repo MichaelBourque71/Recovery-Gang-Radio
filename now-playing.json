@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T21:58:47-04:00",
+ "generated_at": "2026-11-07T22:03:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-07 21:58:33"
+  "title": "Invisible String",
+  "started": "2026-11-07 22:03:15"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-07 21:58:33"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-07 21:54:17"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-07 21:43:13"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-07 21:39:45"
   }
  ]
 }
