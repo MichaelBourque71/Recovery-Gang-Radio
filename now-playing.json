@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:41:32-04:00",
+ "generated_at": "2026-11-07T23:46:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-07 23:41:28"
+  "title": "Acid Freak",
+  "started": "2026-11-07 23:46:26"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-07 23:41:28"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-07 23:37:05"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-07 23:23:37"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-07 23:19:38"
   }
  ]
 }
