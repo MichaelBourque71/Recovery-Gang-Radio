@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:42:05-04:00",
+ "generated_at": "2026-11-08T16:44:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-08 16:42:05"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-08 16:44:27"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-08 16:42:05"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-08 16:38:03"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-08 16:25:58"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-08 16:22:58"
   }
  ]
 }
