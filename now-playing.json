@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:08:36-04:00",
+ "generated_at": "2026-11-08T19:11:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-08 19:08:36"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-08 19:11:35"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-08 19:08:36"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-08 19:04:27"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-08 18:52:43"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-08 18:49:23"
   }
  ]
 }
