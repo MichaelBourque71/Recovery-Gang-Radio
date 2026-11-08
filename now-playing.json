@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T21:17:39-04:00",
+ "generated_at": "2026-11-07T21:20:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-07 21:15:42"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-07 21:19:33"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-07 21:15:42"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-07 21:10:55"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-07 20:55:57"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-07 20:52:11"
   }
  ]
 }
