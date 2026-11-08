@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:09:17-04:00",
+ "generated_at": "2026-11-08T17:12:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-08 17:09:12"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-08 17:12:34"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-08 17:09:12"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-08 17:05:08"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-08 16:53:19"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-08 16:49:01"
   }
  ]
 }
