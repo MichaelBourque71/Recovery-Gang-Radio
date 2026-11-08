@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:56:15-04:00",
+ "generated_at": "2026-11-08T08:00:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-08 07:56:11"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-08 08:00:11"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-08 07:56:11"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-08 07:52:51"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-08 07:39:22"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-08 07:33:04"
   }
  ]
 }
