@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:44:57-04:00",
+ "generated_at": "2026-11-08T10:49:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-08 10:44:56"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-08 10:49:32"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-08 10:44:56"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-08 10:40:25"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-08 10:27:24"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-08 10:24:00"
   }
  ]
 }
