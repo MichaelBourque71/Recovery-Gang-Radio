@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:53:12-04:00",
+ "generated_at": "2026-11-08T17:56:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-08 17:53:12"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-08 17:56:45"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-08 17:53:12"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-08 17:49:08"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-08 17:38:17"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-08 17:34:56"
   }
  ]
 }
