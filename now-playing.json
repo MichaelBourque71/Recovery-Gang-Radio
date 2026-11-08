@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-08T13:59:32-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-08 13:59:30"
- },
+ "generated_at": "2026-11-08T14:03:35-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Burn Through The Spin",
