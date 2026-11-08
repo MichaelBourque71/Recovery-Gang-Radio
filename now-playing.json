@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:42:57-04:00",
+ "generated_at": "2026-11-08T06:47:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-08 06:42:57"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-08 06:47:01"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-08 06:42:57"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-08 06:39:53"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-08 06:27:52"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-08 06:23:53"
   }
  ]
 }
