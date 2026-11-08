@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-08T03:16:40-04:00",
+ "generated_at": "2026-11-08T03:26:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-08 03:16:39"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-08 03:26:50"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-08 03:21:18"
+  },
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-08 03:16:39"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-08 03:11:58"
@@ -17,14 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-08 03:03:21"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-08 02:59:58"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-08 02:56:31"
   }
  ]
 }
