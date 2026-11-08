@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:06:56-04:00",
+ "generated_at": "2026-11-08T07:10:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-08 07:06:54"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-08 07:10:55"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-08 07:06:54"
+  },
   {
    "title": "You",
    "started": "2026-11-08 07:03:20"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-08 06:54:06"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-08 06:51:09"
   }
  ]
 }
