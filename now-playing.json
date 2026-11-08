@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:30:49-04:00",
+ "generated_at": "2026-11-07T22:33:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-07 22:30:48"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-07 22:33:30"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-07 22:30:48"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-07 22:25:37"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-07 22:11:49"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-07 22:07:17"
   }
  ]
 }
