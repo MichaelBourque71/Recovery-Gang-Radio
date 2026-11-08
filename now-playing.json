@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:11:07-04:00",
+ "generated_at": "2026-11-08T16:16:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-08 16:11:06"
+  "title": "Start Living Again",
+  "started": "2026-11-08 16:16:46"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-08 16:11:06"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-08 16:07:10"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-08 15:53:27"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-08 15:49:28"
   }
  ]
 }
