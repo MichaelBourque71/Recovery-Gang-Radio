@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:33:54-04:00",
+ "generated_at": "2026-11-08T16:38:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-08 16:33:54"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-08 16:38:03"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-08 16:33:54"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 16:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-08 16:21:11"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-08 16:16:46"
   }
  ]
 }
