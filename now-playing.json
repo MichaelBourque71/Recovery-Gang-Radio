@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:39:27-04:00",
+ "generated_at": "2026-11-08T11:43:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-08 11:39:23"
+  "title": "Acid Freak",
+  "started": "2026-11-08 11:43:44"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-08 11:39:23"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-08 11:35:01"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-08 11:21:30"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-08 11:17:12"
   }
  ]
 }
