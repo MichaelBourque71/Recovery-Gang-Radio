@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:16:28-04:00",
+ "generated_at": "2026-11-08T19:20:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-08 19:16:25"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-08 19:20:14"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-08 19:16:25"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-08 19:11:35"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-08 18:59:47"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-08 18:55:43"
   }
  ]
 }
