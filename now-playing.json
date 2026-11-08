@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:50:51-04:00",
+ "generated_at": "2026-11-08T12:57:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-08 12:49:48"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-08 12:54:37"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-08 12:49:48"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-08 12:46:02"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-08 12:37:14"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-08 12:33:25"
   }
  ]
 }
