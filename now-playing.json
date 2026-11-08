@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:33:09-04:00",
+ "generated_at": "2026-11-08T07:39:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-08 07:33:04"
+  "title": "Duck On The Dash",
+  "started": "2026-11-08 07:39:22"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-08 07:33:04"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-08 07:30:14"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-08 07:18:51"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-08 07:15:08"
   }
  ]
 }
