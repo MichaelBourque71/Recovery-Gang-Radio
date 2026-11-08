@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T01:29:44-04:00",
+ "generated_at": "2026-11-08T01:34:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-08 01:27:46"
+  "title": "I Have Something to Say",
+  "started": "2026-11-08 01:32:54"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-08 01:27:46"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-08 01:22:56"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-08 01:11:53"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-08 01:07:42"
   }
  ]
 }
