@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:48:54-04:00",
+ "generated_at": "2026-11-07T22:54:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-07 22:48:46"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-07 22:54:22"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-07 22:48:46"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-07 22:43:36"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-07 22:33:30"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-07 22:30:48"
   }
  ]
 }
