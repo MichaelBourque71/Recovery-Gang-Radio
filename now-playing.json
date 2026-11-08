@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:22:58-04:00",
+ "generated_at": "2026-11-08T16:26:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-08 16:22:58"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-08 16:25:58"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-08 16:22:58"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-08 16:21:11"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-08 16:07:10"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-08 16:01:45"
   }
  ]
 }
