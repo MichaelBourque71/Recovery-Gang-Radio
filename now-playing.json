@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:16:38-04:00",
+ "generated_at": "2026-11-08T18:20:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-08 18:16:35"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-08 18:20:34"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-08 18:16:35"
+  },
   {
    "title": "You",
    "started": "2026-11-08 18:13:07"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-08 18:03:30"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-08 17:59:36"
   }
  ]
 }
