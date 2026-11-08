@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:44:55-04:00",
+ "generated_at": "2026-11-08T13:48:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-08 13:44:16"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-08 13:47:45"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-08 13:44:16"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-08 13:39:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 13:29:24"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-08 13:26:35"
   }
  ]
 }
