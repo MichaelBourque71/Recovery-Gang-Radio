@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:39:36-04:00",
+ "generated_at": "2026-11-08T15:44:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-08 15:39:33"
+  "title": "Weed Coughs",
+  "started": "2026-11-08 15:44:46"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-08 15:39:33"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-08 15:36:13"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-08 15:24:34"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-08 15:19:35"
   }
  ]
 }
