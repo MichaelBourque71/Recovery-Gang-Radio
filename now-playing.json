@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:20:03-04:00",
+ "generated_at": "2026-11-08T12:25:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-08 12:20:02"
+  "title": "Start Living Again",
+  "started": "2026-11-08 12:25:31"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-08 12:20:02"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-08 12:16:52"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-08 12:04:31"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-08 12:01:21"
   }
  ]
 }
