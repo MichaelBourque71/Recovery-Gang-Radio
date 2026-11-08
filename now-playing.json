@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T05:08:52-04:00",
+ "generated_at": "2026-11-08T05:11:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-08 05:08:48"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-08 05:11:28"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-08 05:08:48"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 05:04:50"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 04:52:45"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-08 04:49:10"
   }
  ]
 }
