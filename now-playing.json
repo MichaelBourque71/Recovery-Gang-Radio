@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:40:20-04:00",
+ "generated_at": "2026-11-08T13:44:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-08 13:39:43"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-08 13:44:16"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-08 13:39:43"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-08 13:36:18"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-08 13:26:35"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-08 13:23:46"
   }
  ]
 }
