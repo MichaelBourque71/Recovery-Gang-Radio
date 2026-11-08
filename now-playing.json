@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-08T07:18:53-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-08 07:18:51"
- },
+ "generated_at": "2026-11-08T07:21:51-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-08 07:18:51"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-08 07:15:08"
@@ -21,10 +22,6 @@
   {
    "title": "You",
    "started": "2026-11-08 07:03:20"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-08 07:00:08"
   }
  ]
 }
