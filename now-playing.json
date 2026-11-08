@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T09:02:26-04:00",
+ "generated_at": "2026-11-08T09:05:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-08 09:02:23"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-08 09:05:52"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-08 09:02:23"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-08 08:57:30"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-08 08:43:27"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-08 08:39:41"
   }
  ]
 }
