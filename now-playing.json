@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:39:26-04:00",
+ "generated_at": "2026-11-08T07:42:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-08 07:39:22"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-08 07:42:46"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-08 07:39:22"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-08 07:33:04"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-08 07:21:51"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-08 07:18:51"
   }
  ]
 }
