@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:41:29-04:00",
+ "generated_at": "2026-11-08T02:47:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-08 02:41:28"
+  "title": "Stranger Danger",
+  "started": "2026-11-08 02:46:30"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-08 02:41:28"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-08 02:35:52"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-08 02:22:17"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-08 02:19:03"
   }
  ]
 }
