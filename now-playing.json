@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:26:10-04:00",
+ "generated_at": "2026-11-08T18:31:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-08 18:26:06"
+  "title": "Putz in a Suit",
+  "started": "2026-11-08 18:31:30"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-08 18:26:06"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-08 18:20:34"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-08 18:09:18"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-08 18:05:24"
   }
  ]
 }
