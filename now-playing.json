@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:38:05-04:00",
+ "generated_at": "2026-11-08T16:42:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-08 16:38:03"
+  "title": "Acid Freak",
+  "started": "2026-11-08 16:42:05"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-08 16:38:03"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 16:33:54"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-08 16:22:58"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-08 16:21:11"
   }
  ]
 }
