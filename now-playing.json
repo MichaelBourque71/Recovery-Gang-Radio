@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T17:56:49-04:00",
+ "generated_at": "2026-11-08T17:59:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-08 17:56:45"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-08 17:59:36"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-08 17:56:45"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-08 17:53:12"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-08 17:42:11"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-08 17:38:17"
   }
  ]
 }
