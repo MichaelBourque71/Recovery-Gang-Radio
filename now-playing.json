@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T00:45:43-04:00",
+ "generated_at": "2026-11-08T00:47:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-08 00:43:53"
+  "title": "Weed Coughs",
+  "started": "2026-11-08 00:47:06"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-08 00:43:53"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-08 00:40:53"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-08 00:26:44"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-08 00:22:53"
   }
  ]
 }
