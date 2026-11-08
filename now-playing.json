@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T04:11:05-04:00",
+ "generated_at": "2026-11-08T04:14:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-08 04:11:00"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-08 04:14:14"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-08 04:11:00"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-08 04:05:38"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-08 03:52:07"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-08 03:48:32"
   }
  ]
 }
