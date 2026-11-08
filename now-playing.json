@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:04:11-04:00",
+ "generated_at": "2026-11-08T13:10:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-08 13:02:55"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-08 13:07:37"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-08 13:02:55"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-08 12:57:50"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-08 12:46:02"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-08 12:41:51"
   }
  ]
 }
