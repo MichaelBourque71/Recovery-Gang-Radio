@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:49:02-04:00",
+ "generated_at": "2026-11-08T16:53:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-08 16:49:01"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-08 16:53:19"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-08 16:49:01"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-08 16:44:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 16:33:54"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-08 16:29:55"
   }
  ]
 }
