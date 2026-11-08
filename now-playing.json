@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:30:33-04:00",
+ "generated_at": "2026-11-08T19:34:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-08 19:30:31"
+  "title": "Freedom Wave",
+  "started": "2026-11-08 19:34:10"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-08 19:30:31"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-08 19:27:59"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-08 19:16:25"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-08 19:11:35"
   }
  ]
 }
