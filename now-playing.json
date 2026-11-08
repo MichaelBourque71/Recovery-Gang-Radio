@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:00:13-04:00",
+ "generated_at": "2026-11-08T07:03:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-08 07:00:08"
+  "title": "You",
+  "started": "2026-11-08 07:03:20"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-08 07:00:08"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-08 06:56:54"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-08 06:47:01"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-08 06:42:57"
   }
  ]
 }
