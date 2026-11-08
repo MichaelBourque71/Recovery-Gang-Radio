@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:27:34-04:00",
+ "generated_at": "2026-11-07T23:31:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-07 23:27:30"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-07 23:31:25"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-07 23:27:30"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-07 23:23:37"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-07 23:10:28"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-07 23:05:59"
   }
  ]
 }
