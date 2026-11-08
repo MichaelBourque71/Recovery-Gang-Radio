@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:17:32-04:00",
+ "generated_at": "2026-11-07T20:19:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority 2",
-  "started": "2026-11-07 20:16:45"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-07 20:19:32"
  },
  "previous": [
+  {
+   "title": "Disobey Authority 2",
+   "started": "2026-11-07 20:16:45"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-07 20:13:51"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-07 20:03:44"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-07 20:00:23"
   }
  ]
 }
