@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:56:43-04:00",
+ "generated_at": "2026-11-08T16:01:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-08 15:56:42"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-08 16:01:45"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-08 15:56:42"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-08 15:53:27"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-08 15:39:33"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-08 15:36:13"
   }
  ]
 }
