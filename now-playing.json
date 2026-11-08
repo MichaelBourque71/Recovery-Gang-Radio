@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T07:03:25-04:00",
+ "generated_at": "2026-11-08T07:06:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-08 07:03:20"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-08 07:06:54"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-08 07:03:20"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-08 07:00:08"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-08 06:51:09"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-08 06:47:01"
   }
  ]
 }
