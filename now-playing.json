@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:25:29-04:00",
+ "generated_at": "2026-11-08T11:29:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-08 11:25:24"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-08 11:29:25"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-08 11:25:24"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-08 11:21:30"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-08 11:09:22"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-08 11:05:23"
   }
  ]
 }
