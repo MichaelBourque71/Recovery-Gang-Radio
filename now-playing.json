@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T00:37:18-04:00",
+ "generated_at": "2026-11-08T00:40:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-08 00:35:30"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-08 00:40:53"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-08 00:35:30"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-08 00:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-08 00:18:58"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-08 00:14:59"
   }
  ]
 }
