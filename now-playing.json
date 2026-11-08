@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T14:40:55-04:00",
+ "generated_at": "2026-11-08T14:44:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-08 14:40:50"
+  "title": "Running With Scissors",
+  "started": "2026-11-08 14:44:19"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-08 14:40:50"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-08 14:35:31"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-08 14:21:24"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-08 14:18:04"
   }
  ]
 }
