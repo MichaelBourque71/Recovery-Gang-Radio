@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:07:22-04:00",
+ "generated_at": "2026-11-08T15:12:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-08 15:07:21"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-08 15:12:13"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-08 15:07:21"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-08 15:04:00"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-08 14:52:38"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-08 14:47:11"
   }
  ]
 }
