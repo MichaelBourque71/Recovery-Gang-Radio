@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:24:04-04:00",
+ "generated_at": "2026-11-08T10:27:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-08 10:24:00"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-08 10:27:24"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-08 10:24:00"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-08 10:20:07"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-08 10:08:30"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-08 10:06:15"
   }
  ]
 }
