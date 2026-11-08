@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:52:48-04:00",
+ "generated_at": "2026-11-08T18:55:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-08 18:52:43"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-08 18:55:43"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-08 18:52:43"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-08 18:49:23"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-08 18:34:50"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-08 18:31:30"
   }
  ]
 }
