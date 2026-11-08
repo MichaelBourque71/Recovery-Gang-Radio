@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:13:10-04:00",
+ "generated_at": "2026-11-08T18:16:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-08 18:13:07"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-08 18:16:35"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-08 18:13:07"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-08 18:09:18"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-08 17:59:36"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-08 17:56:45"
   }
  ]
 }
