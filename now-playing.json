@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:35:46-04:00",
+ "generated_at": "2026-11-08T13:38:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-08 13:33:35"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-08 13:36:18"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-08 13:33:35"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 13:29:24"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-08 13:19:17"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-08 13:16:00"
   }
  ]
 }
