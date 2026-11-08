@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T00:02:54-04:00",
+ "generated_at": "2026-11-08T00:07:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-08 00:02:49"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-08 00:07:01"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-08 00:02:49"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-07 23:59:03"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-07 23:48:49"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-07 23:46:26"
   }
  ]
 }
