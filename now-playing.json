@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:38:24-04:00",
+ "generated_at": "2026-11-07T20:40:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-07 20:37:14"
+  "title": "Fuck Winter",
+  "started": "2026-11-07 20:40:28"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-07 20:37:14"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-07 20:32:58"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-07 20:19:32"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-07 20:16:45"
   }
  ]
 }
