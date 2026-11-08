@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T09:59:18-04:00",
+ "generated_at": "2026-11-08T10:02:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-08 09:59:16"
+  "title": "Stranger Danger",
+  "started": "2026-11-08 10:02:17"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-08 09:59:16"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-08 09:55:43"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-08 09:43:12"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-08 09:38:03"
   }
  ]
 }
