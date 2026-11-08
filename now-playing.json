@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:13:02-04:00",
+ "generated_at": "2026-11-08T11:17:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-08 11:12:58"
+  "title": "It Was Time",
+  "started": "2026-11-08 11:17:12"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-08 11:12:58"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-08 11:09:22"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-08 10:56:49"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-08 10:53:31"
   }
  ]
 }
