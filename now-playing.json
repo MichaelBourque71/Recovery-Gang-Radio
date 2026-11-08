@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:04:04-04:00",
+ "generated_at": "2026-11-08T15:07:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-08 15:04:00"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-08 15:07:21"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-08 15:04:00"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-08 14:59:00"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-08 14:47:11"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-08 14:44:19"
   }
  ]
 }
