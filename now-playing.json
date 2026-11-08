@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T14:07:28-04:00",
+ "generated_at": "2026-11-08T14:10:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-08 14:07:26"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-08 14:10:45"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-08 14:07:26"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-08 14:03:50"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-08 13:51:45"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-08 13:47:45"
   }
  ]
 }
