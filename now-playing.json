@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-08T13:53:13-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-08 13:51:45"
- },
+ "generated_at": "2026-11-08T13:56:16-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "The Truth Walks Slow",
