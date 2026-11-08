@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T14:21:28-04:00",
+ "generated_at": "2026-11-08T14:25:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-08 14:21:24"
+  "title": "Nature Is Talking",
+  "started": "2026-11-08 14:25:16"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-08 14:21:24"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-08 14:18:04"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-08 14:07:26"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-08 14:03:50"
   }
  ]
 }
