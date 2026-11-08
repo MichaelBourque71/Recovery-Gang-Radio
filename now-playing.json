@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T01:56:28-04:00",
+ "generated_at": "2026-11-08T01:59:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-08 01:56:25"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-08 01:59:05"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-08 01:56:25"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-08 01:53:28"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-08 01:41:57"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-08 01:38:25"
   }
  ]
 }
