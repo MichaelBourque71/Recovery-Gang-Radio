@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:57:06-04:00",
+ "generated_at": "2026-11-07T23:00:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-07 22:57:05"
+  "title": "Breath Of Policy",
+  "started": "2026-11-07 23:00:54"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-07 22:57:05"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-07 22:54:22"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-07 22:41:48"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-07 22:38:00"
   }
  ]
 }
