@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-08T01:11:44-04:00",
+ "generated_at": "2026-11-08T01:15:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-08 01:07:42"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-08 01:15:15"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-08 01:11:53"
+  },
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-08 01:07:42"
+  },
   {
    "title": "Yes",
    "started": "2026-11-08 01:04:14"
@@ -17,14 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-08 00:55:33"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-08 00:51:34"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-08 00:47:06"
   }
  ]
 }
