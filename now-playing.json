@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T14:44:23-04:00",
+ "generated_at": "2026-11-08T14:47:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-08 14:44:19"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-08 14:47:11"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-08 14:44:19"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-08 14:40:50"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-08 14:25:16"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-08 14:21:24"
   }
  ]
 }
