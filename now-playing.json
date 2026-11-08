@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:27:28-04:00",
+ "generated_at": "2026-11-08T10:31:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-08 10:27:24"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-08 10:31:27"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-08 10:27:24"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-08 10:24:00"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-08 10:11:21"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-08 10:08:30"
   }
  ]
 }
