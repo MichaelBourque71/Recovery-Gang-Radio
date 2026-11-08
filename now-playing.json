@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:57:18-04:00",
+ "generated_at": "2026-11-08T12:59:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-08 12:54:37"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-08 12:57:50"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-08 12:54:37"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-08 12:49:48"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-08 12:39:15"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-08 12:37:14"
   }
  ]
 }
