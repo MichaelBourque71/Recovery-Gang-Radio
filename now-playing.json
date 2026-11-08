@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T18:59:49-04:00",
+ "generated_at": "2026-11-08T19:04:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-08 18:59:47"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-08 19:04:27"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-08 18:59:47"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 18:55:43"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-08 18:44:58"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-08 18:39:17"
   }
  ]
 }
