@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:44:32-04:00",
+ "generated_at": "2026-11-08T16:49:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-08 16:44:27"
+  "title": "It Was Time",
+  "started": "2026-11-08 16:49:01"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-08 16:44:27"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-08 16:42:05"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 16:29:55"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-08 16:25:58"
   }
  ]
 }
