@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-08T02:03:29-04:00",
+ "generated_at": "2026-11-08T02:10:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-08 02:02:58"
+  "title": "Unstoppable Force",
+  "started": "2026-11-08 02:10:39"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-08 02:06:35"
+  },
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-08 02:02:58"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-08 01:59:05"
@@ -17,14 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-08 01:53:28"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-08 01:50:28"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-08 01:47:20"
   }
  ]
 }
