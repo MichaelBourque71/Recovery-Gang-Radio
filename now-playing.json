@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:21:13-04:00",
+ "generated_at": "2026-11-08T16:22:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-08 16:21:11"
+  "title": "Here’s a Stack",
+  "started": "2026-11-08 16:22:58"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-08 16:21:11"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-08 16:16:46"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-08 16:01:45"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-08 15:56:42"
   }
  ]
 }
