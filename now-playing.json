@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T03:11:58-04:00",
+ "generated_at": "2026-11-08T03:16:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-08 03:11:58"
+  "title": "Weed Coughs",
+  "started": "2026-11-08 03:16:39"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-08 03:11:58"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-08 03:07:13"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-08 02:56:31"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-08 02:50:39"
   }
  ]
 }
