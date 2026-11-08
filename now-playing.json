@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:30:50-04:00",
+ "generated_at": "2026-11-08T02:35:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-08 02:30:47"
+  "title": "Feel Alright",
+  "started": "2026-11-08 02:35:52"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-08 02:30:47"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-08 02:26:24"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-08 02:14:04"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-08 02:10:39"
   }
  ]
 }
