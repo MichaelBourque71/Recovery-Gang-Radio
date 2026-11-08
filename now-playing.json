@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:49:37-04:00",
+ "generated_at": "2026-11-08T10:53:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-08 10:49:32"
+  "title": "Southbound 737",
+  "started": "2026-11-08 10:53:31"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-08 10:49:32"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-08 10:44:56"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-08 10:31:27"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-08 10:27:24"
   }
  ]
 }
