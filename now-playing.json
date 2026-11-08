@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T00:55:59-04:00",
+ "generated_at": "2026-11-08T01:02:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-08 00:55:33"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-08 01:00:08"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-08 00:55:33"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-08 00:51:34"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-08 00:40:53"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-08 00:35:30"
   }
  ]
 }
