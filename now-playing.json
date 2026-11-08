@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T10:53:32-04:00",
+ "generated_at": "2026-11-08T10:56:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-08 10:53:31"
+  "title": "Clown In A Crown",
+  "started": "2026-11-08 10:56:49"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-08 10:53:31"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 10:49:32"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-08 10:35:26"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-08 10:31:27"
   }
  ]
 }
