@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:33:29-04:00",
+ "generated_at": "2026-11-08T12:37:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-08 12:33:25"
+  "title": "Doughnut Doug",
+  "started": "2026-11-08 12:37:14"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-08 12:33:25"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-08 12:29:41"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-08 12:16:52"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-08 12:13:15"
   }
  ]
 }
