@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T04:52:49-04:00",
+ "generated_at": "2026-11-08T04:58:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-08 04:52:45"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-08 04:58:10"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-08 04:52:45"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 04:49:10"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-08 04:36:59"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-08 04:34:19"
   }
  ]
 }
