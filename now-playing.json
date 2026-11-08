@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-07T20:00:39-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-07T20:03:09-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-07 20:00:23"
+ },
  "previous": [
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
