@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:27:39-04:00",
+ "generated_at": "2026-11-08T13:29:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-08 13:26:35"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-08 13:29:24"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-08 13:26:35"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-08 13:23:46"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-08 13:13:05"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-08 13:07:37"
   }
  ]
 }
