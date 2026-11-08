@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T12:16:55-04:00",
+ "generated_at": "2026-11-08T12:20:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-08 12:16:52"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-08 12:20:02"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-08 12:16:52"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-08 12:13:15"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-08 12:01:21"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-08 11:56:54"
   }
  ]
 }
