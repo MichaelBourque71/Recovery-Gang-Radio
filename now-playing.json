@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T08:57:35-04:00",
+ "generated_at": "2026-11-08T09:02:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-08 08:57:30"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-08 09:02:23"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-08 08:57:30"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-08 08:53:41"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-08 08:39:41"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-08 08:34:53"
   }
  ]
 }
