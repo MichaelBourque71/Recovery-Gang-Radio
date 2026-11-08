@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T06:16:04-04:00",
+ "generated_at": "2026-11-08T06:20:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-08 06:16:02"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-08 06:20:15"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-08 06:16:02"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-08 06:11:06"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-08 05:55:02"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-08 05:52:09"
   }
  ]
 }
