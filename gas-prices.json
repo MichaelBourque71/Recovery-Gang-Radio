@@ -1,21 +1,21 @@
 {
- "asof": "2026-11-07",
+ "asof": "2026-11-08",
  "regions": {
   "US-AL": {
    "label": "Alabama",
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6432,
-     "high": 3.6432
+     "low": 3.6301,
+     "high": 3.6301
     },
     "mid": {
-     "low": 4.1264,
-     "high": 4.1264
+     "low": 4.1023,
+     "high": 4.1023
     },
     "premium": {
-     "low": 4.5313,
-     "high": 4.5313
+     "low": 4.5116,
+     "high": 4.5116
     }
    }
   },
@@ -24,16 +24,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.6432,
-     "high": 4.6432
+     "low": 4.6156,
+     "high": 4.6156
     },
     "mid": {
-     "low": 4.7884,
-     "high": 4.7884
+     "low": 4.7478,
+     "high": 4.7478
     },
     "premium": {
-     "low": 5.074,
-     "high": 5.074
+     "low": 4.9935,
+     "high": 4.9935
     }
    }
   },
@@ -42,16 +42,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.287,
-     "high": 4.287
+     "low": 4.265,
+     "high": 4.265
     },
     "mid": {
-     "low": 4.6456,
-     "high": 4.6456
+     "low": 4.6168,
+     "high": 4.6168
     },
     "premium": {
-     "low": 4.9861,
-     "high": 4.9861
+     "low": 4.9615,
+     "high": 4.9615
     }
    }
   },
@@ -60,16 +60,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6687,
-     "high": 3.6687
+     "low": 3.6494,
+     "high": 3.6494
     },
     "mid": {
-     "low": 4.1852,
-     "high": 4.1852
+     "low": 4.1664,
+     "high": 4.1664
     },
     "premium": {
-     "low": 4.5715,
-     "high": 4.5715
+     "low": 4.5423,
+     "high": 4.5423
     }
    }
   },
@@ -78,16 +78,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 5.7646,
-     "high": 5.7646
+     "low": 5.7512,
+     "high": 5.7512
     },
     "mid": {
-     "low": 6.0146,
-     "high": 6.0146
+     "low": 5.9939,
+     "high": 5.9939
     },
     "premium": {
-     "low": 6.2044,
-     "high": 6.2044
+     "low": 6.1861,
+     "high": 6.1861
     }
    }
   },
@@ -96,16 +96,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9407,
-     "high": 3.9407
+     "low": 3.9038,
+     "high": 3.9038
     },
     "mid": {
-     "low": 4.3353,
-     "high": 4.3353
+     "low": 4.2898,
+     "high": 4.2898
     },
     "premium": {
-     "low": 4.6553,
-     "high": 4.6553
+     "low": 4.6135,
+     "high": 4.6135
     }
    }
   },
@@ -114,16 +114,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.1669,
-     "high": 4.1669
+     "low": 4.154,
+     "high": 4.154
     },
     "mid": {
-     "low": 4.8469,
-     "high": 4.8469
+     "low": 4.847,
+     "high": 4.847
     },
     "premium": {
-     "low": 5.262,
-     "high": 5.262
+     "low": 5.2491,
+     "high": 5.2491
     }
    }
   },
@@ -132,16 +132,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9089,
-     "high": 3.9089
+     "low": 3.9017,
+     "high": 3.9017
     },
     "mid": {
-     "low": 4.5016,
-     "high": 4.5016
+     "low": 4.508,
+     "high": 4.508
     },
     "premium": {
-     "low": 4.8264,
-     "high": 4.8264
+     "low": 4.8144,
+     "high": 4.8144
     }
    }
   },
@@ -150,16 +150,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.2749,
-     "high": 4.2749
+     "low": 4.2571,
+     "high": 4.2571
     },
     "mid": {
-     "low": 4.9434,
-     "high": 4.9434
+     "low": 4.9256,
+     "high": 4.9256
     },
     "premium": {
-     "low": 5.2699,
-     "high": 5.2699
+     "low": 5.2815,
+     "high": 5.2815
     }
    }
   },
@@ -168,16 +168,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.8147,
-     "high": 3.8147
+     "low": 3.8032,
+     "high": 3.8032
     },
     "mid": {
-     "low": 4.3014,
-     "high": 4.3014
+     "low": 4.2876,
+     "high": 4.2876
     },
     "premium": {
-     "low": 4.6443,
-     "high": 4.6443
+     "low": 4.633,
+     "high": 4.633
     }
    }
   },
@@ -186,16 +186,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.4961,
-     "high": 3.4961
+     "low": 3.4823,
+     "high": 3.4823
     },
     "mid": {
-     "low": 4.0,
-     "high": 4.0
+     "low": 3.978,
+     "high": 3.978
     },
     "premium": {
-     "low": 4.4407,
-     "high": 4.4407
+     "low": 4.4147,
+     "high": 4.4147
     }
    }
   },
@@ -204,16 +204,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 5.6497,
-     "high": 5.6497
+     "low": 5.6634,
+     "high": 5.6634
     },
     "mid": {
-     "low": 5.9102,
-     "high": 5.9102
+     "low": 5.9224,
+     "high": 5.9224
     },
     "premium": {
-     "low": 6.1785,
-     "high": 6.1785
+     "low": 6.1687,
+     "high": 6.1687
     }
    }
   },
@@ -222,16 +222,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.3734,
-     "high": 4.3734
+     "low": 4.3532,
+     "high": 4.3532
     },
     "mid": {
-     "low": 4.6992,
-     "high": 4.6992
+     "low": 4.6703,
+     "high": 4.6703
     },
     "premium": {
-     "low": 4.9544,
-     "high": 4.9544
+     "low": 4.9312,
+     "high": 4.9312
     }
    }
   },
@@ -240,16 +240,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.5194,
-     "high": 4.5194
+     "low": 4.4949,
+     "high": 4.4949
     },
     "mid": {
-     "low": 5.1455,
-     "high": 5.1455
+     "low": 5.1182,
+     "high": 5.1182
     },
     "premium": {
-     "low": 5.7054,
-     "high": 5.7054
+     "low": 5.6773,
+     "high": 5.6773
     }
    }
   },
@@ -258,16 +258,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6423,
-     "high": 3.6423
+     "low": 3.6209,
+     "high": 3.6209
     },
     "mid": {
-     "low": 4.25,
-     "high": 4.25
+     "low": 4.2241,
+     "high": 4.2241
     },
     "premium": {
-     "low": 4.7855,
-     "high": 4.7855
+     "low": 4.7589,
+     "high": 4.7589
     }
    }
   },
@@ -276,16 +276,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.8892,
-     "high": 3.8892
+     "low": 3.8686,
+     "high": 3.8686
     },
     "mid": {
-     "low": 4.2489,
-     "high": 4.2489
+     "low": 4.2125,
+     "high": 4.2125
     },
     "premium": {
-     "low": 4.7867,
-     "high": 4.7867
+     "low": 4.7638,
+     "high": 4.7638
     }
    }
   },
@@ -294,16 +294,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.7592,
-     "high": 3.7592
+     "low": 3.7451,
+     "high": 3.7451
     },
     "mid": {
-     "low": 4.1549,
-     "high": 4.1549
+     "low": 4.1217,
+     "high": 4.1217
     },
     "premium": {
-     "low": 4.5091,
-     "high": 4.5091
+     "low": 4.4734,
+     "high": 4.4734
     }
    }
   },
@@ -312,16 +312,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.7746,
-     "high": 3.7746
+     "low": 3.7581,
+     "high": 3.7581
     },
     "mid": {
-     "low": 4.3698,
-     "high": 4.3698
+     "low": 4.3492,
+     "high": 4.3492
     },
     "premium": {
-     "low": 4.8078,
-     "high": 4.8078
+     "low": 4.7787,
+     "high": 4.7787
     }
    }
   },
@@ -330,16 +330,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6094,
-     "high": 3.6094
+     "low": 3.5943,
+     "high": 3.5943
     },
     "mid": {
-     "low": 4.1066,
-     "high": 4.1066
+     "low": 4.0746,
+     "high": 4.0746
     },
     "premium": {
-     "low": 4.5129,
-     "high": 4.5129
+     "low": 4.48,
+     "high": 4.48
     }
    }
   },
@@ -348,16 +348,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.1797,
-     "high": 4.1797
+     "low": 4.1703,
+     "high": 4.1703
     },
     "mid": {
-     "low": 4.7818,
-     "high": 4.7818
+     "low": 4.7721,
+     "high": 4.7721
     },
     "premium": {
-     "low": 5.2573,
-     "high": 5.2573
+     "low": 5.2427,
+     "high": 5.2427
     }
    }
   },
@@ -366,16 +366,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9292,
-     "high": 3.9292
+     "low": 3.9229,
+     "high": 3.9229
     },
     "mid": {
-     "low": 4.5534,
-     "high": 4.5534
+     "low": 4.5485,
+     "high": 4.5485
     },
     "premium": {
-     "low": 4.8694,
-     "high": 4.8694
+     "low": 4.8689,
+     "high": 4.8689
     }
    }
   },
@@ -384,16 +384,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.1049,
-     "high": 4.1049
+     "low": 4.0906,
+     "high": 4.0906
     },
     "mid": {
-     "low": 4.7773,
-     "high": 4.7773
+     "low": 4.7662,
+     "high": 4.7662
     },
     "premium": {
-     "low": 5.1877,
-     "high": 5.1877
+     "low": 5.1652,
+     "high": 5.1652
     }
    }
   },
@@ -402,16 +402,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.2079,
-     "high": 4.2079
+     "low": 4.1701,
+     "high": 4.1701
     },
     "mid": {
-     "low": 4.9012,
-     "high": 4.9012
+     "low": 4.8658,
+     "high": 4.8658
     },
     "premium": {
-     "low": 5.4931,
-     "high": 5.4931
+     "low": 5.4527,
+     "high": 5.4527
     }
    }
   },
@@ -420,16 +420,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9303,
-     "high": 3.9303
+     "low": 3.9111,
+     "high": 3.9111
     },
     "mid": {
-     "low": 4.4096,
-     "high": 4.4096
+     "low": 4.3805,
+     "high": 4.3805
     },
     "premium": {
-     "low": 4.9412,
-     "high": 4.9412
+     "low": 4.9213,
+     "high": 4.9213
     }
    }
   },
@@ -438,16 +438,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6872,
-     "high": 3.6872
+     "low": 3.6731,
+     "high": 3.6731
     },
     "mid": {
-     "low": 4.1816,
-     "high": 4.1816
+     "low": 4.1515,
+     "high": 4.1515
     },
     "premium": {
-     "low": 4.5706,
-     "high": 4.5706
+     "low": 4.5548,
+     "high": 4.5548
     }
    }
   },
@@ -456,16 +456,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.716,
-     "high": 3.716
+     "low": 3.7015,
+     "high": 3.7015
     },
     "mid": {
-     "low": 4.1002,
-     "high": 4.1002
+     "low": 4.0845,
+     "high": 4.0845
     },
     "premium": {
-     "low": 4.4683,
-     "high": 4.4683
+     "low": 4.4501,
+     "high": 4.4501
     }
    }
   },
@@ -474,16 +474,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.0988,
-     "high": 4.0988
+     "low": 4.0704,
+     "high": 4.0704
     },
     "mid": {
-     "low": 4.4249,
-     "high": 4.4249
+     "low": 4.3902,
+     "high": 4.3902
     },
     "premium": {
-     "low": 4.7871,
-     "high": 4.7871
+     "low": 4.7512,
+     "high": 4.7512
     }
    }
   },
@@ -492,16 +492,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.0704,
-     "high": 4.0704
+     "low": 4.0315,
+     "high": 4.0315
     },
     "mid": {
-     "low": 4.3204,
-     "high": 4.3204
+     "low": 4.2693,
+     "high": 4.2693
     },
     "premium": {
-     "low": 4.8248,
-     "high": 4.8248
+     "low": 4.8189,
+     "high": 4.8189
     }
    }
   },
@@ -510,16 +510,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 5.1099,
-     "high": 5.1099
+     "low": 5.0814,
+     "high": 5.0814
     },
     "mid": {
-     "low": 5.4435,
-     "high": 5.4435
+     "low": 5.4151,
+     "high": 5.4151
     },
     "premium": {
-     "low": 5.7518,
-     "high": 5.7518
+     "low": 5.7239,
+     "high": 5.7239
     }
    }
   },
@@ -528,16 +528,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.1046,
-     "high": 4.1046
+     "low": 4.098,
+     "high": 4.098
     },
     "mid": {
-     "low": 4.7177,
-     "high": 4.7177
+     "low": 4.7134,
+     "high": 4.7134
     },
     "premium": {
-     "low": 5.1812,
-     "high": 5.1812
+     "low": 5.1708,
+     "high": 5.1708
     }
    }
   },
@@ -546,16 +546,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.0631,
-     "high": 4.0631
+     "low": 4.0551,
+     "high": 4.0551
     },
     "mid": {
-     "low": 4.6925,
-     "high": 4.6925
+     "low": 4.6892,
+     "high": 4.6892
     },
     "premium": {
-     "low": 5.0088,
-     "high": 5.0088
+     "low": 4.9969,
+     "high": 4.9969
     }
    }
   },
@@ -564,16 +564,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9193,
-     "high": 3.9193
+     "low": 3.8921,
+     "high": 3.8921
     },
     "mid": {
-     "low": 4.3363,
-     "high": 4.3363
+     "low": 4.3091,
+     "high": 4.3091
     },
     "premium": {
-     "low": 4.6682,
-     "high": 4.6682
+     "low": 4.6309,
+     "high": 4.6309
     }
    }
   },
@@ -582,16 +582,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.2719,
-     "high": 4.2719
+     "low": 4.2605,
+     "high": 4.2605
     },
     "mid": {
-     "low": 4.8336,
-     "high": 4.8336
+     "low": 4.8186,
+     "high": 4.8186
     },
     "premium": {
-     "low": 5.2321,
-     "high": 5.2321
+     "low": 5.2158,
+     "high": 5.2158
     }
    }
   },
@@ -600,16 +600,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.2902,
-     "high": 3.2902
+     "low": 3.2733,
+     "high": 3.2733
     },
     "mid": {
-     "low": 3.7473,
-     "high": 3.7473
+     "low": 3.7283,
+     "high": 3.7283
     },
     "premium": {
-     "low": 4.1782,
-     "high": 4.1782
+     "low": 4.1588,
+     "high": 4.1588
     }
    }
   },
@@ -618,16 +618,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.8832,
-     "high": 3.8832
+     "low": 3.8654,
+     "high": 3.8654
     },
     "mid": {
-     "low": 4.3618,
-     "high": 4.3618
+     "low": 4.2859,
+     "high": 4.2859
     },
     "premium": {
-     "low": 4.7731,
-     "high": 4.7731
+     "low": 4.767,
+     "high": 4.767
     }
    }
   },
@@ -636,16 +636,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.86,
-     "high": 3.86
+     "low": 3.8315,
+     "high": 3.8315
     },
     "mid": {
-     "low": 4.446,
-     "high": 4.446
+     "low": 4.4126,
+     "high": 4.4126
     },
     "premium": {
-     "low": 4.9937,
-     "high": 4.9937
+     "low": 4.9526,
+     "high": 4.9526
     }
    }
   },
@@ -654,16 +654,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.6703,
-     "high": 3.6703
+     "low": 3.6291,
+     "high": 3.6291
     },
     "mid": {
-     "low": 4.0871,
-     "high": 4.0871
+     "low": 4.0576,
+     "high": 4.0576
     },
     "premium": {
-     "low": 4.4012,
-     "high": 4.4012
+     "low": 4.3593,
+     "high": 4.3593
     }
    }
   },
@@ -672,16 +672,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.6792,
-     "high": 4.6792
+     "low": 4.6646,
+     "high": 4.6646
     },
     "mid": {
-     "low": 4.9419,
-     "high": 4.9419
+     "low": 4.9213,
+     "high": 4.9213
     },
     "premium": {
-     "low": 5.2386,
-     "high": 5.2386
+     "low": 5.2192,
+     "high": 5.2192
     }
    }
   },
@@ -690,16 +690,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.3675,
-     "high": 4.3675
+     "low": 4.3591,
+     "high": 4.3591
     },
     "mid": {
-     "low": 4.8004,
-     "high": 4.8004
+     "low": 4.7911,
+     "high": 4.7911
     },
     "premium": {
-     "low": 5.2467,
-     "high": 5.2467
+     "low": 5.2355,
+     "high": 5.2355
     }
    }
   },
@@ -708,16 +708,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.0333,
-     "high": 4.0333
+     "low": 4.0243,
+     "high": 4.0243
     },
     "mid": {
-     "low": 4.8119,
-     "high": 4.8119
+     "low": 4.7951,
+     "high": 4.7951
     },
     "premium": {
-     "low": 5.1849,
-     "high": 5.1849
+     "low": 5.1378,
+     "high": 5.1378
     }
    }
   },
@@ -726,16 +726,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.5383,
-     "high": 3.5383
+     "low": 3.517,
+     "high": 3.517
     },
     "mid": {
-     "low": 3.9914,
-     "high": 3.9914
+     "low": 3.9683,
+     "high": 3.9683
     },
     "premium": {
-     "low": 4.389,
-     "high": 4.389
+     "low": 4.3693,
+     "high": 4.3693
     }
    }
   },
@@ -744,16 +744,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9716,
-     "high": 3.9716
+     "low": 3.9426,
+     "high": 3.9426
     },
     "mid": {
-     "low": 4.2234,
-     "high": 4.2234
+     "low": 4.1925,
+     "high": 4.1925
     },
     "premium": {
-     "low": 4.7482,
-     "high": 4.7482
+     "low": 4.7428,
+     "high": 4.7428
     }
    }
   },
@@ -762,16 +762,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.627,
-     "high": 3.627
+     "low": 3.6124,
+     "high": 3.6124
     },
     "mid": {
-     "low": 4.1011,
-     "high": 4.1011
+     "low": 4.0803,
+     "high": 4.0803
     },
     "premium": {
-     "low": 4.5199,
-     "high": 4.5199
+     "low": 4.4967,
+     "high": 4.4967
     }
    }
   },
@@ -780,16 +780,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.5119,
-     "high": 3.5119
+     "low": 3.4888,
+     "high": 3.4888
     },
     "mid": {
-     "low": 4.0282,
-     "high": 4.0282
+     "low": 3.9965,
+     "high": 3.9965
     },
     "premium": {
-     "low": 4.4093,
-     "high": 4.4093
+     "low": 4.3746,
+     "high": 4.3746
     }
    }
   },
@@ -798,16 +798,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.4038,
-     "high": 4.4038
+     "low": 4.3729,
+     "high": 4.3729
     },
     "mid": {
-     "low": 4.7008,
-     "high": 4.7008
+     "low": 4.6549,
+     "high": 4.6549
     },
     "premium": {
-     "low": 4.9503,
-     "high": 4.9503
+     "low": 4.9114,
+     "high": 4.9114
     }
    }
   },
@@ -816,16 +816,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.2749,
-     "high": 4.2749
+     "low": 4.268,
+     "high": 4.268
     },
     "mid": {
-     "low": 4.8443,
-     "high": 4.8443
+     "low": 4.851,
+     "high": 4.851
     },
     "premium": {
-     "low": 5.2838,
-     "high": 5.2838
+     "low": 5.2889,
+     "high": 5.2889
     }
    }
   },
@@ -834,16 +834,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.8722,
-     "high": 3.8722
+     "low": 3.861,
+     "high": 3.861
     },
     "mid": {
-     "low": 4.3667,
-     "high": 4.3667
+     "low": 4.351,
+     "high": 4.351
     },
     "premium": {
-     "low": 4.7806,
-     "high": 4.7806
+     "low": 4.7686,
+     "high": 4.7686
     }
    }
   },
@@ -852,16 +852,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 5.0512,
-     "high": 5.0512
+     "low": 5.0321,
+     "high": 5.0321
     },
     "mid": {
-     "low": 5.3371,
-     "high": 5.3371
+     "low": 5.2883,
+     "high": 5.2883
     },
     "premium": {
-     "low": 5.5939,
-     "high": 5.5939
+     "low": 5.5538,
+     "high": 5.5538
     }
    }
   },
@@ -870,16 +870,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.082,
-     "high": 4.082
+     "low": 4.069,
+     "high": 4.069
     },
     "mid": {
-     "low": 4.501,
-     "high": 4.501
+     "low": 4.4895,
+     "high": 4.4895
     },
     "premium": {
-     "low": 4.9585,
-     "high": 4.9585
+     "low": 4.9472,
+     "high": 4.9472
     }
    }
   },
@@ -888,16 +888,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 3.9928,
-     "high": 3.9928
+     "low": 3.9535,
+     "high": 3.9535
     },
     "mid": {
-     "low": 4.6523,
-     "high": 4.6523
+     "low": 4.6109,
+     "high": 4.6109
     },
     "premium": {
-     "low": 5.2014,
-     "high": 5.2014
+     "low": 5.1468,
+     "high": 5.1468
     }
    }
   },
@@ -906,16 +906,16 @@
    "unit": "usd_gal",
    "grades": {
     "regular": {
-     "low": 4.1796,
-     "high": 4.1796
+     "low": 4.1397,
+     "high": 4.1397
     },
     "mid": {
-     "low": 4.4556,
-     "high": 4.4556
+     "low": 4.4228,
+     "high": 4.4228
     },
     "premium": {
-     "low": 4.7539,
-     "high": 4.7539
+     "low": 4.7496,
+     "high": 4.7496
     }
    }
   },
