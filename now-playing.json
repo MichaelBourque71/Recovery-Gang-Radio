@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:00:12-04:00",
+ "generated_at": "2026-11-08T11:05:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-08 11:00:09"
+  "title": "Space Cadet",
+  "started": "2026-11-08 11:05:23"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-08 11:00:09"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-08 10:56:49"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-08 10:44:56"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-08 10:40:25"
   }
  ]
 }
