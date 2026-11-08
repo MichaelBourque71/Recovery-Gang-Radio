@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:20:18-04:00",
+ "generated_at": "2026-11-08T19:23:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-08 19:20:14"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-08 19:23:48"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-08 19:20:14"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-08 19:16:25"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-08 19:04:27"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-08 18:59:47"
   }
  ]
 }
