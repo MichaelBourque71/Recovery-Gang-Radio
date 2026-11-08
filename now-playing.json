@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T16:01:50-04:00",
+ "generated_at": "2026-11-08T16:07:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-08 16:01:45"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-08 16:07:10"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-08 16:01:45"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-08 15:56:42"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-08 15:44:46"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-08 15:39:33"
   }
  ]
 }
