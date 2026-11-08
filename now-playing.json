@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:19:36-04:00",
+ "generated_at": "2026-11-08T15:24:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-08 15:19:35"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-08 15:24:34"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-08 15:19:35"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-08 15:15:33"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-08 15:04:00"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-08 14:59:00"
   }
  ]
 }
