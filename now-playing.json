@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:15:10-04:00",
+ "generated_at": "2026-11-07T20:17:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-07 20:13:51"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-07 20:16:45"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-07 20:13:51"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-07 20:10:26"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-07 20:00:23"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-07 19:55:22"
   }
  ]
 }
