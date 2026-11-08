@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T02:50:44-04:00",
+ "generated_at": "2026-11-08T02:56:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-08 02:50:39"
+  "title": "Dead Ideology ",
+  "started": "2026-11-08 02:56:31"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-08 02:50:39"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-08 02:46:30"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-08 02:30:47"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-08 02:26:24"
   }
  ]
 }
