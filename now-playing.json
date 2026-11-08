@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T13:16:59-04:00",
+ "generated_at": "2026-11-08T13:23:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-08 13:16:00"
+  "title": "Back Down While You Still Can (Alt version)",
+  "started": "2026-11-08 13:19:17"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-08 13:16:00"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-08 13:13:05"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-08 12:57:50"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-08 12:54:37"
   }
  ]
 }
