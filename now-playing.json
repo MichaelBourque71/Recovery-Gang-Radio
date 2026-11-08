@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:10:30-04:00",
+ "generated_at": "2026-11-07T23:15:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-07 23:10:28"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-07 23:15:08"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-07 23:10:28"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-07 23:05:59"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-07 22:54:22"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-07 22:48:46"
   }
  ]
 }
