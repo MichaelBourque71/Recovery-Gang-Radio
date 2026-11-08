@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:11:37-04:00",
+ "generated_at": "2026-11-08T19:16:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-08 19:11:35"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-08 19:16:25"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-08 19:11:35"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-08 19:08:36"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-08 18:55:43"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-08 18:52:43"
   }
  ]
 }
