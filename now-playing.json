@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T04:49:10-04:00",
+ "generated_at": "2026-11-08T04:52:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-08 04:49:10"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-08 04:52:45"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-08 04:49:10"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-08 04:44:51"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-08 04:34:19"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-08 04:30:30"
   }
  ]
 }
