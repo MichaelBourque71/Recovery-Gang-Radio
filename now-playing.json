@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T19:34:12-04:00",
+ "generated_at": "2026-11-08T19:37:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-08 19:34:10"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-08 19:37:20"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-08 19:34:10"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-08 19:30:31"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-08 19:20:14"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-08 19:16:25"
   }
  ]
 }
