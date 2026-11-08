@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:54:23-04:00",
+ "generated_at": "2026-11-07T22:57:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-07 22:54:22"
+  "title": "History Collects",
+  "started": "2026-11-07 22:57:05"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-07 22:54:22"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-07 22:48:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-07 22:38:00"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-07 22:33:30"
   }
  ]
 }
