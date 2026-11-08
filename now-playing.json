@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T20:56:48-04:00",
+ "generated_at": "2026-11-07T21:01:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-07 20:55:57"
+  "title": "So Take a Chance",
+  "started": "2026-11-07 21:01:22"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-07 20:55:57"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-07 20:52:11"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-07 20:40:28"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-07 20:37:14"
   }
  ]
 }
