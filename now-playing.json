@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T05:27:43-04:00",
+ "generated_at": "2026-11-08T05:33:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-08 05:27:42"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-08 05:33:46"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-08 05:27:42"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-08 05:23:47"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-08 05:11:28"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-08 05:08:48"
   }
  ]
 }
