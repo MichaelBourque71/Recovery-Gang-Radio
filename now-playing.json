@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T08:04:23-04:00",
+ "generated_at": "2026-11-08T08:08:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Straight Ahead Jed",
-  "started": "2026-11-08 08:04:19"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-08 08:08:19"
  },
  "previous": [
+  {
+   "title": "Straight Ahead Jed",
+   "started": "2026-11-08 08:04:19"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-08 08:00:11"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-08 07:48:52"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-08 07:42:46"
   }
  ]
 }
