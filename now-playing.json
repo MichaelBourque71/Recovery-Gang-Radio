@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T01:52:36-04:00",
+ "generated_at": "2026-11-08T01:54:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-08 01:50:28"
+  "title": "Monopoly Mark",
+  "started": "2026-11-08 01:53:28"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-08 01:50:28"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-08 01:47:20"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-08 01:32:54"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-08 01:27:46"
   }
  ]
 }
