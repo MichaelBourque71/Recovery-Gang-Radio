@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T08:39:43-04:00",
+ "generated_at": "2026-11-08T08:43:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-08 08:39:41"
+  "title": "Heavy Denim",
+  "started": "2026-11-08 08:43:27"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-08 08:39:41"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-08 08:34:53"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-08 08:22:13"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-08 08:18:13"
   }
  ]
 }
