@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T11:43:44-04:00",
+ "generated_at": "2026-11-08T11:46:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-08 11:43:44"
+  "title": "Heavy Denim",
+  "started": "2026-11-08 11:46:06"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-08 11:43:44"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-08 11:39:23"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-08 11:25:24"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-08 11:21:30"
   }
  ]
 }
