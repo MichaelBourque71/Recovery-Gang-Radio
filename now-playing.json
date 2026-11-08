@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T15:49:31-04:00",
+ "generated_at": "2026-11-08T15:53:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-08 15:49:28"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-08 15:53:27"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-08 15:49:28"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-08 15:44:46"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-08 15:32:44"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-08 15:28:03"
   }
  ]
 }
