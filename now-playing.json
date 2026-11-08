@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T03:42:10-04:00",
+ "generated_at": "2026-11-08T03:45:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-08 03:42:06"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-08 03:45:06"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-08 03:42:06"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-08 03:38:53"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-08 03:26:50"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-08 03:21:18"
   }
  ]
 }
