@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T08:27:08-04:00",
+ "generated_at": "2026-11-08T08:31:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-08 08:27:04"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-08 08:31:49"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-08 08:27:04"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-08 08:22:13"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-08 08:11:53"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-08 08:08:19"
   }
  ]
 }
