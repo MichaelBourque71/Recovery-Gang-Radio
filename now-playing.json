@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-07T19:55:23-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-07 19:55:22"
- },
+ "generated_at": "2026-11-07T20:00:39-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-07 19:55:22"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-07 19:52:03"
@@ -21,10 +22,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-07 19:38:35"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-07 19:36:13"
   }
  ]
 }
