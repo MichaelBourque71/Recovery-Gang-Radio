@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:00:55-04:00",
+ "generated_at": "2026-11-07T23:06:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-07 23:00:54"
+  "title": "Balls Intact",
+  "started": "2026-11-07 23:05:59"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-07 23:00:54"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-07 22:57:05"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-07 22:43:36"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-07 22:41:48"
   }
  ]
 }
