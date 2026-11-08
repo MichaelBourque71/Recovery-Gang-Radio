@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T22:38:05-04:00",
+ "generated_at": "2026-11-07T22:41:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-07 22:38:00"
+  "title": "Doughnut Doug",
+  "started": "2026-11-07 22:41:48"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-07 22:38:00"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-07 22:33:30"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-07 22:20:29"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-07 22:16:49"
   }
  ]
 }
