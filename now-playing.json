@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T08:00:14-04:00",
+ "generated_at": "2026-11-08T08:04:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-08 08:00:11"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-08 08:04:19"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-08 08:00:11"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-08 07:56:11"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-08 07:42:46"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-08 07:39:22"
   }
  ]
 }
