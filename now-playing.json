@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T23:19:41-04:00",
+ "generated_at": "2026-11-07T23:23:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-07 23:19:38"
+  "title": "Upgraded",
+  "started": "2026-11-07 23:23:37"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-07 23:19:38"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-07 23:15:08"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-07 23:00:54"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-07 22:57:05"
   }
  ]
 }
