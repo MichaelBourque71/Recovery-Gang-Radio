@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-07T21:06:07-04:00",
+ "generated_at": "2026-11-07T21:13:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-07 21:05:27"
+  "title": "Day And Night",
+  "started": "2026-11-07 21:10:55"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-07 21:05:27"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-07 21:01:22"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-07 20:48:33"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-07 20:45:26"
   }
  ]
 }
