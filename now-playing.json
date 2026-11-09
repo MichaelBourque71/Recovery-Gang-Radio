@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:20:14-04:00",
+ "generated_at": "2026-11-09T10:23:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-09 10:20:09"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-09 10:23:03"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-09 10:20:09"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-09 10:16:34"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-09 10:05:11"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-09 10:00:41"
   }
  ]
 }
