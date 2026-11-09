@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:23:32-04:00",
+ "generated_at": "2026-11-09T00:28:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-09 00:23:27"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-09 00:28:10"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-09 00:23:27"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-09 00:19:59"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-09 00:07:14"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-09 00:02:39"
   }
  ]
 }
