@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-09T11:47:30-04:00",
+ "generated_at": "2026-11-09T11:56:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-09 11:47:29"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-09 11:56:19"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-09 11:53:09"
+  },
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-09 11:47:29"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-09 11:42:33"
@@ -17,14 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-09 11:34:37"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-09 11:29:13"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-09 11:24:12"
   }
  ]
 }
