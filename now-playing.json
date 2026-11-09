@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:31:23-04:00",
+ "generated_at": "2026-11-09T06:35:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-09 06:31:22"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-09 06:35:20"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-09 06:31:22"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-09 06:26:54"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-09 06:15:30"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-09 06:11:41"
   }
  ]
 }
