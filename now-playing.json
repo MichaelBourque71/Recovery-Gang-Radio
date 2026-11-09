@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:48:43-04:00",
+ "generated_at": "2026-11-09T12:53:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-09 12:48:42"
+  "title": "Greedy Bitch",
+  "started": "2026-11-09 12:53:40"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-09 12:48:42"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-09 12:45:10"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-09 12:33:22"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-09 12:29:45"
   }
  ]
 }
