@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:45:17-04:00",
+ "generated_at": "2026-11-09T13:49:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-09 13:45:13"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-09 13:49:31"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-09 13:45:13"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-09 13:41:19"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 13:31:58"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-09 13:28:05"
   }
  ]
 }
