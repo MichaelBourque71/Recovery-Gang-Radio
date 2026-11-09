@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:02:41-04:00",
+ "generated_at": "2026-11-09T00:07:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-09 00:02:39"
+  "title": "Acid Freak",
+  "started": "2026-11-09 00:07:14"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-09 00:02:39"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-09 00:01:54"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-08 23:50:50"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-08 23:46:21"
   }
  ]
 }
