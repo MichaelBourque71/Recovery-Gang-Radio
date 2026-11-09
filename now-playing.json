@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T03:39:46-04:00",
+ "generated_at": "2026-11-09T03:44:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-09 03:39:45"
+  "title": "Alignment",
+  "started": "2026-11-09 03:43:58"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-09 03:39:45"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-09 03:36:28"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-09 03:23:00"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-09 03:20:08"
   }
  ]
 }
