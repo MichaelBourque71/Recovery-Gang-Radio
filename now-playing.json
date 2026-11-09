@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T08:25:03-04:00",
+ "generated_at": "2026-11-09T08:29:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-09 08:25:00"
+  "title": "Weed Coughs",
+  "started": "2026-11-09 08:29:28"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-09 08:25:00"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-09 08:21:12"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-09 08:06:40"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-09 08:03:14"
   }
  ]
 }
