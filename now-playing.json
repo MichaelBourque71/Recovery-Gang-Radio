@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:02:29-04:00",
+ "generated_at": "2026-11-09T09:05:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-09 09:02:29"
+  "title": "Here’s a Stack",
+  "started": "2026-11-09 09:05:39"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-09 09:02:29"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-09 08:57:56"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-09 08:48:44"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-09 08:44:07"
   }
  ]
 }
