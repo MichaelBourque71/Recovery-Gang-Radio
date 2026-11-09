@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T08:34:00-04:00",
+ "generated_at": "2026-11-09T08:36:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-09 08:33:56"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-09 08:36:50"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-09 08:33:56"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-09 08:29:28"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-09 08:15:47"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-09 08:09:51"
   }
  ]
 }
