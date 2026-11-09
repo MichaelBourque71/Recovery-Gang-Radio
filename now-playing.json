@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:26:50-04:00",
+ "generated_at": "2026-11-09T18:31:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-09 18:26:46"
+  "title": "Man With the Backbone",
+  "started": "2026-11-09 18:31:12"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-09 18:26:46"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-09 18:21:15"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-09 18:11:02"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-09 18:06:01"
   }
  ]
 }
