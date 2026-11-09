@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T03:17:17-04:00",
+ "generated_at": "2026-11-09T03:20:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Woke Baby Sissy Dance 😂",
-  "started": "2026-11-09 03:17:17"
+  "title": "Running With Scissors",
+  "started": "2026-11-09 03:20:08"
  },
  "previous": [
+  {
+   "title": "The Woke Baby Sissy Dance 😂",
+   "started": "2026-11-09 03:17:17"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-09 03:12:55"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-09 03:01:53"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-09 02:55:55"
   }
  ]
 }
