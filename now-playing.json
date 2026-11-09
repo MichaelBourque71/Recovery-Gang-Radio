@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:38:47-04:00",
+ "generated_at": "2026-11-09T18:42:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-09 18:38:47"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-09 18:42:06"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-09 18:38:47"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-09 18:35:35"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-09 18:21:15"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-09 18:17:39"
   }
  ]
 }
