@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:45:13-04:00",
+ "generated_at": "2026-11-09T12:48:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-09 12:45:10"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-09 12:48:42"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-09 12:45:10"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-09 12:40:14"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-09 12:29:45"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-09 12:23:50"
   }
  ]
 }
