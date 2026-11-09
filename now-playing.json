@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T07:36:56-04:00",
+ "generated_at": "2026-11-09T07:41:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-09 07:36:54"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-09 07:41:01"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-09 07:36:54"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-09 07:31:03"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-09 07:22:33"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-09 07:18:25"
   }
  ]
 }
