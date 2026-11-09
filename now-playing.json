@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:31:09-04:00",
+ "generated_at": "2026-11-09T01:33:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-09 01:31:04"
+  "title": "I'm Ready For This",
+  "started": "2026-11-09 01:33:36"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-09 01:31:04"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-09 01:28:05"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-09 01:14:17"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-09 01:11:06"
   }
  ]
 }
