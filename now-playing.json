@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:50:35-04:00",
+ "generated_at": "2026-11-09T14:53:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-09 14:50:31"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-09 14:53:42"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-09 14:50:31"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-09 14:47:49"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-09 14:37:57"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-09 14:32:37"
   }
  ]
 }
