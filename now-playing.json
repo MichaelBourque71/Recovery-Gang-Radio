@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:14:21-04:00",
+ "generated_at": "2026-11-09T01:19:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-09 01:14:17"
+  "title": "Mean Francine",
+  "started": "2026-11-09 01:19:42"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-09 01:14:17"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-09 01:11:06"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-09 00:57:54"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-09 00:53:29"
   }
  ]
 }
