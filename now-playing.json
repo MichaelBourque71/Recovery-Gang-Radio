@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:06:39-04:00",
+ "generated_at": "2026-11-09T15:10:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-09 15:06:37"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-09 15:10:09"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-09 15:06:37"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-09 15:03:25"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-09 14:50:31"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-09 14:47:49"
   }
  ]
 }
