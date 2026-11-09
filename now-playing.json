@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:25:19-04:00",
+ "generated_at": "2026-11-09T11:29:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-09 11:24:12"
+  "title": "Feel Alright",
+  "started": "2026-11-09 11:29:13"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-09 11:24:12"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-09 11:19:35"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-09 11:09:17"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-09 11:04:04"
   }
  ]
 }
