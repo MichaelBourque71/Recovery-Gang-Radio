@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:01:50-04:00",
+ "generated_at": "2026-11-09T14:05:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-09 14:01:46"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-09 14:05:24"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-09 14:01:46"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-09 13:58:29"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-09 13:45:13"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-09 13:41:19"
   }
  ]
 }
