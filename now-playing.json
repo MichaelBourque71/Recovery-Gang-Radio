@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:06:47-04:00",
+ "generated_at": "2026-11-09T05:09:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-09 05:06:44"
+  "title": "Clown In A Crown",
+  "started": "2026-11-09 05:09:32"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-09 05:06:44"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-09 05:03:32"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-09 04:53:16"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-09 04:50:42"
   }
  ]
 }
