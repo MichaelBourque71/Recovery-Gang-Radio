@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:57:38-04:00",
+ "generated_at": "2026-11-09T19:02:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-09 18:57:33"
+  "title": "GUMMERS",
+  "started": "2026-11-09 19:02:02"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-09 18:57:33"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-09 18:53:34"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-09 18:42:06"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-09 18:38:47"
   }
  ]
 }
