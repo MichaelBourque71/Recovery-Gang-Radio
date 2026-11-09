@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:03:25-04:00",
+ "generated_at": "2026-11-09T15:06:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-09 15:03:25"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-09 15:06:37"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-09 15:03:25"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-09 14:58:34"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-09 14:47:49"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-09 14:45:13"
   }
  ]
 }
