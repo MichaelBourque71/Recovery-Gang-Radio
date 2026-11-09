@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:42:41-04:00",
+ "generated_at": "2026-11-09T10:46:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-09 10:42:39"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-09 10:46:48"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-09 10:42:39"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-09 10:37:31"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-09 10:27:15"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-09 10:23:03"
   }
  ]
 }
