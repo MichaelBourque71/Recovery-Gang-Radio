@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:42:38-04:00",
+ "generated_at": "2026-11-08T22:47:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-08 22:42:37"
+  "title": "Alignment",
+  "started": "2026-11-08 22:47:00"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-08 22:42:37"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-08 22:36:10"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-08 22:23:50"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-08 22:21:08"
   }
  ]
 }
