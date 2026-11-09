@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:43:19-04:00",
+ "generated_at": "2026-11-09T05:47:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-09 05:43:14"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-09 05:47:14"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-09 05:43:14"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-09 05:37:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-09 05:24:30"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-09 05:19:50"
   }
  ]
 }
