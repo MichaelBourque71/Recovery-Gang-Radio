@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:50:57-04:00",
+ "generated_at": "2026-11-08T22:53:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-08 22:50:55"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-08 22:53:45"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-08 22:50:55"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-08 22:47:00"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 22:32:38"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-08 22:27:58"
   }
  ]
 }
