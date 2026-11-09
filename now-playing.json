@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:33:29-04:00",
+ "generated_at": "2026-11-09T05:37:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-09 05:33:25"
+  "title": "Weed Coughs",
+  "started": "2026-11-09 05:37:43"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-09 05:33:25"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-09 05:30:02"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-09 05:16:27"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-09 05:12:52"
   }
  ]
 }
