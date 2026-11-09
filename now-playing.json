@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:21:16-04:00",
+ "generated_at": "2026-11-09T18:26:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-09 18:21:15"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-09 18:26:46"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-09 18:21:15"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-09 18:17:39"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-09 18:06:01"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-09 18:01:55"
   }
  ]
 }
