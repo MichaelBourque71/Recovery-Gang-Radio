@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:00:50-04:00",
+ "generated_at": "2026-11-09T11:06:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-09 10:58:44"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-09 11:04:04"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-09 10:58:44"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-09 10:55:22"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-09 10:42:39"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-09 10:37:31"
   }
  ]
 }
