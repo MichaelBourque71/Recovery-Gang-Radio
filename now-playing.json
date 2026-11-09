@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:20:25-04:00",
+ "generated_at": "2026-11-09T19:23:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-09 19:20:24"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-09 19:23:13"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-09 19:20:24"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-09 19:17:32"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-09 19:06:09"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-09 19:02:02"
   }
  ]
 }
