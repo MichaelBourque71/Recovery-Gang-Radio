@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:17:42-04:00",
+ "generated_at": "2026-11-09T18:21:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-09 18:17:39"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-09 18:21:15"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-09 18:17:39"
+  },
   {
    "title": "You",
    "started": "2026-11-09 18:14:21"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-09 18:01:55"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-09 17:58:37"
   }
  ]
 }
