@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:33:41-04:00",
+ "generated_at": "2026-11-09T01:37:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-09 01:33:36"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-09 01:37:24"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-09 01:33:36"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-09 01:31:04"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-09 01:19:42"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-09 01:14:17"
   }
  ]
 }
