@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:13:47-04:00",
+ "generated_at": "2026-11-09T10:16:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-09 10:13:44"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-09 10:16:34"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-09 10:13:44"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-09 10:08:48"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-09 09:56:18"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-09 09:55:33"
   }
  ]
 }
