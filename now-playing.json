@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:46:52-04:00",
+ "generated_at": "2026-11-09T10:52:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-09 10:46:48"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-09 10:51:57"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-09 10:46:48"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-09 10:42:39"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-09 10:31:23"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-09 10:27:15"
   }
  ]
 }
