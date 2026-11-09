@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:17:34-04:00",
+ "generated_at": "2026-11-08T22:21:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-08 22:17:33"
+  "title": "What They Want…",
+  "started": "2026-11-08 22:21:08"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-08 22:17:33"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-08 22:14:10"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-08 22:01:41"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-08 21:56:49"
   }
  ]
 }
