@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:10:19-04:00",
+ "generated_at": "2026-11-09T12:15:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-09 12:10:17"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-09 12:15:05"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-09 12:10:17"
+  },
   {
    "title": "Yes",
    "started": "2026-11-09 12:06:49"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-09 11:56:19"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-09 11:53:09"
   }
  ]
 }
