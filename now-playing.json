@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:09:59-04:00",
+ "generated_at": "2026-11-09T19:12:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-09 19:09:54"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-09 19:12:25"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-09 19:09:54"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-09 19:06:09"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-09 18:53:34"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-09 18:50:19"
   }
  ]
 }
