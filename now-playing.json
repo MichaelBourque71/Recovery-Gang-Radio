@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:14:25-04:00",
+ "generated_at": "2026-11-09T02:19:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-09 02:14:24"
+  "title": "Heavy Denim",
+  "started": "2026-11-09 02:18:57"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-09 02:14:24"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-09 02:10:07"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-09 01:58:11"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-09 01:54:44"
   }
  ]
 }
