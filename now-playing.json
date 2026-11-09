@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:23:07-04:00",
+ "generated_at": "2026-11-09T10:27:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-09 10:23:03"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-09 10:27:15"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-09 10:23:03"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 10:20:09"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-09 10:08:48"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-09 10:05:11"
   }
  ]
 }
