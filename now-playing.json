@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:31:28-04:00",
+ "generated_at": "2026-11-09T10:34:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-09 10:31:23"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-09 10:34:35"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-09 10:31:23"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-09 10:27:15"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-09 10:16:34"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-09 10:13:44"
   }
  ]
 }
