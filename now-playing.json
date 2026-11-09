@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:12:41-04:00",
+ "generated_at": "2026-11-09T09:17:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-09 09:12:39"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-09 09:17:49"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-09 09:12:39"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-09 09:08:50"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-09 08:57:56"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-09 08:54:50"
   }
  ]
 }
