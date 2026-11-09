@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:38:08-04:00",
+ "generated_at": "2026-11-09T15:40:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-09 15:38:04"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-09 15:40:47"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-09 15:38:04"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-09 15:33:35"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-09 15:20:43"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-09 15:17:33"
   }
  ]
 }
