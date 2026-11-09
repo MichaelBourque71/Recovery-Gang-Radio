@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:01:43-04:00",
+ "generated_at": "2026-11-08T22:05:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-08 22:01:41"
+  "title": "One More Night",
+  "started": "2026-11-08 22:05:25"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-08 22:01:41"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-08 21:56:49"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-08 21:45:31"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-08 21:41:33"
   }
  ]
 }
