@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:32:02-04:00",
+ "generated_at": "2026-11-09T13:34:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-09 13:31:58"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-09 13:34:52"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-09 13:31:58"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-09 13:28:05"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-09 13:14:24"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-09 13:09:56"
   }
  ]
 }
