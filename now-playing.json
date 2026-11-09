@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:20:48-04:00",
+ "generated_at": "2026-11-09T15:24:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-09 15:20:43"
+  "title": "Breath Of Policy",
+  "started": "2026-11-09 15:24:38"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-09 15:20:43"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-09 15:17:33"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-09 15:06:37"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-09 15:03:25"
   }
  ]
 }
