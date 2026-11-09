@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T08:48:50-04:00",
+ "generated_at": "2026-11-09T08:51:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-09 08:48:44"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-09 08:51:32"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-09 08:48:44"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-09 08:44:07"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 08:33:56"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-09 08:29:28"
   }
  ]
 }
