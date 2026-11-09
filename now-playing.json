@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:43:57-04:00",
+ "generated_at": "2026-11-09T09:48:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-09 09:43:54"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-09 09:48:05"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-09 09:43:54"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-09 09:40:12"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-09 09:28:10"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-09 09:24:15"
   }
  ]
 }
