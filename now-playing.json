@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:06:09-04:00",
+ "generated_at": "2026-11-09T19:09:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-09 19:06:09"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-09 19:09:54"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-09 19:06:09"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-09 19:02:02"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 18:50:19"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-09 18:45:27"
   }
  ]
 }
