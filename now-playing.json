@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:29:21-04:00",
+ "generated_at": "2026-11-09T02:33:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-09 02:29:21"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-09 02:33:37"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-09 02:29:21"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-09 02:24:22"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-09 02:10:07"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-09 02:06:15"
   }
  ]
 }
