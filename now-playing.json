@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:30:07-04:00",
+ "generated_at": "2026-11-09T05:33:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-09 05:30:02"
+  "title": "It Was Time",
+  "started": "2026-11-09 05:33:25"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-09 05:30:02"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-09 05:24:30"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-09 05:12:52"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-09 05:09:32"
   }
  ]
 }
