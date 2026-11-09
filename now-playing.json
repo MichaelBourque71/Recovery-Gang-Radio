@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:14:23-04:00",
+ "generated_at": "2026-11-09T18:17:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-09 18:14:21"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-09 18:17:39"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-09 18:14:21"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-09 18:11:02"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-09 17:58:37"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-09 17:53:39"
   }
  ]
 }
