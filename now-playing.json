@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:50:58-04:00",
+ "generated_at": "2026-11-09T01:54:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-09 01:50:57"
+  "title": "Dead Ideology ",
+  "started": "2026-11-09 01:54:44"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-09 01:50:57"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-09 01:47:36"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-09 01:33:36"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-09 01:31:04"
   }
  ]
 }
