@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:03:08-04:00",
+ "generated_at": "2026-11-09T01:05:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-09 01:03:05"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-09 01:05:57"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-09 01:03:05"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-09 00:57:54"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-09 00:45:19"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-09 00:41:42"
   }
  ]
 }
