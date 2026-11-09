@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:04:30-04:00",
+ "generated_at": "2026-11-09T04:07:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-09 04:04:26"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-09 04:07:07"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-09 04:04:26"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-09 04:00:29"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-09 03:47:53"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-09 03:43:58"
   }
  ]
 }
