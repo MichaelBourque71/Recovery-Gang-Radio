@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:20:09-04:00",
+ "generated_at": "2026-11-09T04:25:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-09 04:20:06"
+  "title": "Gaslight Halo",
+  "started": "2026-11-09 04:25:00"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-09 04:20:06"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-09 04:15:48"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-09 04:04:26"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-09 04:00:29"
   }
  ]
 }
