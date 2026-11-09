@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:05:29-04:00",
+ "generated_at": "2026-11-08T22:09:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-08 22:05:25"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-08 22:08:59"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-08 22:05:25"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-08 22:01:41"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-08 21:48:52"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-08 21:45:31"
   }
  ]
 }
