@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:06:11-04:00",
+ "generated_at": "2026-11-09T11:11:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-09 11:04:04"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-09 11:09:17"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-09 11:04:04"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-09 10:58:44"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-09 10:46:48"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-09 10:42:39"
   }
  ]
 }
