@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:41:21-04:00",
+ "generated_at": "2026-11-09T13:45:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-09 13:41:19"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-09 13:45:13"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-09 13:41:19"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-09 13:37:58"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-09 13:28:05"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-09 13:24:31"
   }
  ]
 }
