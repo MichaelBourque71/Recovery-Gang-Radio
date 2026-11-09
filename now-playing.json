@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:47:53-04:00",
+ "generated_at": "2026-11-09T14:50:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-09 14:47:49"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-09 14:50:31"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-09 14:47:49"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-09 14:45:13"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-09 14:32:37"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-09 14:28:48"
   }
  ]
 }
