@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:40:43-04:00",
+ "generated_at": "2026-11-09T02:44:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-09 02:40:39"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-09 02:44:05"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-09 02:40:39"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-09 02:37:07"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-09 02:24:22"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-09 02:18:57"
   }
  ]
 }
