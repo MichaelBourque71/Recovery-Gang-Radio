@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:05:58-04:00",
+ "generated_at": "2026-11-09T01:11:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-09 01:05:57"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-09 01:11:06"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-09 01:05:57"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-09 01:03:05"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-09 00:49:32"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-09 00:45:19"
   }
  ]
 }
