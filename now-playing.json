@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:28:13-04:00",
+ "generated_at": "2026-11-09T00:33:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-09 00:28:10"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-09 00:33:37"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-09 00:28:10"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-09 00:23:27"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-09 00:09:51"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-09 00:07:14"
   }
  ]
 }
