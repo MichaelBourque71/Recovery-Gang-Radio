@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:58:31-04:00",
+ "generated_at": "2026-11-09T14:01:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-09 13:58:29"
+  "title": "Yes",
+  "started": "2026-11-09 14:01:46"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-09 13:58:29"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-09 13:52:49"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-09 13:41:19"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-09 13:37:58"
   }
  ]
 }
