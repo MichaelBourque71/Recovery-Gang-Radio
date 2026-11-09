@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:29:45-04:00",
+ "generated_at": "2026-11-09T12:33:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-09 12:29:45"
+  "title": "Mushroom Parade",
+  "started": "2026-11-09 12:33:22"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-09 12:29:45"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-09 12:23:50"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-09 12:10:17"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-09 12:06:49"
   }
  ]
 }
