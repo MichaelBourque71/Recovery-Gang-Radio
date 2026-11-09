@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:17:50-04:00",
+ "generated_at": "2026-11-09T06:20:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-09 06:17:50"
+  "title": "Hard Way",
+  "started": "2026-11-09 06:20:30"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-09 06:17:50"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-09 06:15:30"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-09 05:58:36"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-09 05:54:12"
   }
  ]
 }
