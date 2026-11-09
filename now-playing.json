@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:37:02-04:00",
+ "generated_at": "2026-11-09T09:40:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-09 09:36:58"
+  "title": "Putz in a Suit",
+  "started": "2026-11-09 09:40:12"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-09 09:36:58"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-09 09:31:57"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-09 09:21:38"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-09 09:17:49"
   }
  ]
 }
