@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:33:37-04:00",
+ "generated_at": "2026-11-09T02:37:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-09 02:33:37"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-09 02:37:07"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-09 02:33:37"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-09 02:29:21"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-09 02:14:24"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-09 02:10:07"
   }
  ]
 }
