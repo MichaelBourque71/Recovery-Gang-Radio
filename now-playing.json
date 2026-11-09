@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:52:03-04:00",
+ "generated_at": "2026-11-09T15:56:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-09 15:52:00"
+  "title": "I Do What I Want",
+  "started": "2026-11-09 15:56:12"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-09 15:52:00"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-09 15:48:15"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-09 15:38:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-09 15:33:35"
   }
  ]
 }
