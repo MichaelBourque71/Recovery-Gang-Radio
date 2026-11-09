@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T03:55:39-04:00",
+ "generated_at": "2026-11-09T04:00:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-09 03:55:38"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-09 04:00:29"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-09 03:55:38"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-09 03:51:11"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-09 03:39:45"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-09 03:36:28"
   }
  ]
 }
