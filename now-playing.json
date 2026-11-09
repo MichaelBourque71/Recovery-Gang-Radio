@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:57:55-04:00",
+ "generated_at": "2026-11-09T01:03:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-09 00:57:54"
+  "title": "Take Your Laws",
+  "started": "2026-11-09 01:03:05"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-09 00:57:54"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-09 00:53:29"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-09 00:41:42"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-09 00:38:38"
   }
  ]
 }
