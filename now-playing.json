@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:56:51-04:00",
+ "generated_at": "2026-11-08T22:01:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-08 21:56:49"
+  "title": "Living For Peace",
+  "started": "2026-11-08 22:01:41"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-08 21:56:49"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-08 21:52:41"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-08 21:41:33"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-08 21:36:33"
   }
  ]
 }
