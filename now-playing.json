@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T07:55:51-04:00",
+ "generated_at": "2026-11-09T07:59:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-09 07:55:48"
+  "title": "Stolen Democracy",
+  "started": "2026-11-09 07:59:03"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-09 07:55:48"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-09 07:51:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-09 07:41:01"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-09 07:36:54"
   }
  ]
 }
