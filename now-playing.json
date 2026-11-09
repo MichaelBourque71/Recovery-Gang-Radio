@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:52:41-04:00",
+ "generated_at": "2026-11-08T21:56:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-08 21:52:41"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-08 21:56:49"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-08 21:52:41"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-08 21:48:52"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-08 21:36:33"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-08 21:32:31"
   }
  ]
 }
