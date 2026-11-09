@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:23:14-04:00",
+ "generated_at": "2026-11-09T19:27:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-09 19:23:13"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-09 19:27:02"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-09 19:23:13"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-09 19:20:24"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-09 19:09:54"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-09 19:06:09"
   }
  ]
 }
