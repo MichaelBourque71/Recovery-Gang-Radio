@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:23:50-04:00",
+ "generated_at": "2026-11-09T12:29:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-09 12:23:50"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-09 12:29:45"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-09 12:23:50"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-09 12:19:53"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-09 12:06:49"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-09 12:02:42"
   }
  ]
 }
