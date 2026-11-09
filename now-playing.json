@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T07:00:13-04:00",
+ "generated_at": "2026-11-09T07:06:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-09 07:00:08"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-09 07:06:39"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-09 07:00:08"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-09 06:56:09"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-09 06:41:31"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-09 06:35:20"
   }
  ]
 }
