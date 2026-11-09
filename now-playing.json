@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:05:29-04:00",
+ "generated_at": "2026-11-09T14:11:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-09 14:05:24"
+  "title": "Clown In A Crown",
+  "started": "2026-11-09 14:11:13"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-09 14:05:24"
+  },
   {
    "title": "Yes",
    "started": "2026-11-09 14:01:46"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-09 13:49:31"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-09 13:45:13"
   }
  ]
 }
