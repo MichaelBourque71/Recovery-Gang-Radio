@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:24:09-04:00",
+ "generated_at": "2026-11-09T01:28:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-09 01:24:07"
+  "title": "Stolen Democracy",
+  "started": "2026-11-09 01:28:05"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-09 01:24:07"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-09 01:19:42"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-09 01:05:57"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-09 01:03:05"
   }
  ]
 }
