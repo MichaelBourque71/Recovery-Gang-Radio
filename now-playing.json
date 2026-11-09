@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:32:41-04:00",
+ "generated_at": "2026-11-08T22:36:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-08 22:32:38"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-08 22:36:10"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-08 22:32:38"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-08 22:27:58"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-08 22:17:33"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-08 22:14:10"
   }
  ]
 }
