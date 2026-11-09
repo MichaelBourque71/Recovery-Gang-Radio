@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:45:18-04:00",
+ "generated_at": "2026-11-09T11:47:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-09 11:42:33"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-09 11:47:29"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-09 11:42:33"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-09 11:38:21"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-09 11:24:12"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-09 11:19:35"
   }
  ]
 }
