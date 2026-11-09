@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:24:31-04:00",
+ "generated_at": "2026-11-09T05:30:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-09 05:24:30"
+  "title": "Duck On The Dash",
+  "started": "2026-11-09 05:30:02"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-09 05:24:30"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-09 05:19:50"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-09 05:09:32"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-09 05:06:44"
   }
  ]
 }
