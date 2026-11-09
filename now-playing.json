@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T23:17:36-04:00",
+ "generated_at": "2026-11-08T23:22:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-08 23:17:33"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-08 23:22:20"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-08 23:17:33"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-08 23:13:36"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-08 23:00:56"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-08 22:57:56"
   }
  ]
 }
