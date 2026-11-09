@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:34:55-04:00",
+ "generated_at": "2026-11-09T13:38:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-09 13:34:52"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-09 13:37:58"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-09 13:34:52"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 13:31:58"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-09 13:20:29"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-09 13:14:24"
   }
  ]
 }
