@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:33:39-04:00",
+ "generated_at": "2026-11-09T00:38:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-09 00:33:37"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-09 00:38:38"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-09 00:33:37"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-09 00:28:10"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-09 00:15:13"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-09 00:09:51"
   }
  ]
 }
