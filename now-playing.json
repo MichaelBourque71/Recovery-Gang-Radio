@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:20:40-04:00",
+ "generated_at": "2026-11-09T11:25:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-09 11:19:35"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-09 11:24:12"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-09 11:19:35"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-09 11:16:15"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-09 11:04:04"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-09 10:58:44"
   }
  ]
 }
