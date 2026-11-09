@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:47:57-04:00",
+ "generated_at": "2026-11-08T20:52:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-08 20:47:54"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-08 20:52:23"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-08 20:47:54"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-08 20:41:36"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-08 20:30:45"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-08 20:24:43"
   }
  ]
 }
