@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:06:53-04:00",
+ "generated_at": "2026-11-09T12:10:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-09 12:06:49"
+  "title": "Heavy Denim",
+  "started": "2026-11-09 12:10:17"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-09 12:06:49"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-09 12:02:42"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-09 11:53:09"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-09 11:47:29"
   }
  ]
 }
