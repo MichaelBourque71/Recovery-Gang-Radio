@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:45:27-04:00",
+ "generated_at": "2026-11-09T18:50:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-09 18:45:27"
+  "title": "Stand for Freedom",
+  "started": "2026-11-09 18:50:19"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-09 18:45:27"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-09 18:42:06"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-09 18:31:12"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-09 18:26:46"
   }
  ]
 }
