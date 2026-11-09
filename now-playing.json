@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:53:44-04:00",
+ "generated_at": "2026-11-09T14:58:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-09 14:53:42"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-09 14:58:34"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-09 14:53:42"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-09 14:50:31"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-09 14:42:07"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-09 14:37:57"
   }
  ]
 }
