@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:33:49-04:00",
+ "generated_at": "2026-11-09T04:37:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-09 04:33:46"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-09 04:37:21"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-09 04:33:46"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-09 04:29:18"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-09 04:15:48"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-09 04:10:25"
   }
  ]
 }
