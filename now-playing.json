@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:20:33-04:00",
+ "generated_at": "2026-11-09T13:24:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-09 13:20:29"
+  "title": "Living For Peace",
+  "started": "2026-11-09 13:24:31"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-09 13:20:29"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-09 13:14:24"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-09 13:02:21"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-09 12:58:09"
   }
  ]
 }
