@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:40:17-04:00",
+ "generated_at": "2026-11-09T11:45:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-09 11:38:21"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-09 11:42:33"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-09 11:38:21"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-09 11:34:37"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-09 11:19:35"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-09 11:16:15"
   }
  ]
 }
