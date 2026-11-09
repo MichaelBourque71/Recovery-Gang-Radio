@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T17:34:50-04:00",
+ "generated_at": "2026-11-09T17:37:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-09 17:34:50"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-09 17:37:12"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-09 17:34:50"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-09 17:32:18"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-09 17:20:31"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-09 17:17:04"
   }
  ]
 }
