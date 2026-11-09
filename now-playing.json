@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:52:01-04:00",
+ "generated_at": "2026-11-09T10:57:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-09 10:51:57"
+  "title": "Lines In Stone",
+  "started": "2026-11-09 10:55:22"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-09 10:51:57"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-09 10:46:48"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-09 10:34:35"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-09 10:31:23"
   }
  ]
 }
