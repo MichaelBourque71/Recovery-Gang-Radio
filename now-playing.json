@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:56:37-04:00",
+ "generated_at": "2026-11-09T04:59:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-09 04:56:36"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-09 04:59:49"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-09 04:56:36"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-09 04:53:16"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-09 04:44:48"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-09 04:42:10"
   }
  ]
 }
