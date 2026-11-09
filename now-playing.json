@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:07:11-04:00",
+ "generated_at": "2026-11-08T21:12:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-08 21:07:09"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-08 21:12:34"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-08 21:07:09"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-08 21:01:46"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 20:52:23"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-08 20:47:54"
   }
  ]
 }
