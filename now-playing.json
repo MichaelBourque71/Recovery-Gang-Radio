@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:11:44-04:00",
+ "generated_at": "2026-11-09T06:15:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-09 06:11:41"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-09 06:15:30"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-09 06:11:41"
+  },
   {
    "title": "Pair D - Unstoppable Force + Won't Stop Being Me",
    "started": "2026-11-09 06:03:43"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-09 05:49:25"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-09 05:47:14"
   }
  ]
 }
