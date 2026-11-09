@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:34:38-04:00",
+ "generated_at": "2026-11-09T10:37:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-09 10:34:35"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-09 10:37:31"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-09 10:34:35"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-09 10:31:23"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-09 10:20:09"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-09 10:16:34"
   }
  ]
 }
