@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T17:11:53-04:00",
+ "generated_at": "2026-11-09T17:17:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-09 17:11:50"
+  "title": "Dead Ideology ",
+  "started": "2026-11-09 17:17:04"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-09 17:11:50"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-09 17:07:47"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-09 16:54:12"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-09 16:51:32"
   }
  ]
 }
