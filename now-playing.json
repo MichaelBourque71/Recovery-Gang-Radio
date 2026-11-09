@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:48:08-04:00",
+ "generated_at": "2026-11-09T09:52:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-09 09:48:05"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-09 09:52:22"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-09 09:48:05"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-09 09:43:54"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-09 09:31:57"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-09 09:28:10"
   }
  ]
 }
