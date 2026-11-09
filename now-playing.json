@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T16:54:16-04:00",
+ "generated_at": "2026-11-09T16:58:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-09 16:54:12"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-09 16:58:12"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-09 16:54:12"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-09 16:51:32"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-09 16:40:02"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-09 16:34:39"
   }
  ]
 }
