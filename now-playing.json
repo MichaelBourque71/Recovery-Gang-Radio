@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:07:34-04:00",
+ "generated_at": "2026-11-08T20:11:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-08 20:07:30"
+  "title": "Acid Freak",
+  "started": "2026-11-08 20:11:06"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-08 20:07:30"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-08 20:03:20"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-08 19:50:01"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-08 19:45:20"
   }
  ]
 }
