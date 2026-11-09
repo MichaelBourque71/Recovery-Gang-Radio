@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:50:10-04:00",
+ "generated_at": "2026-11-09T06:56:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-09 06:50:05"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-09 06:56:09"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-09 06:50:05"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-09 06:45:56"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-09 06:31:22"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-09 06:26:54"
   }
  ]
 }
