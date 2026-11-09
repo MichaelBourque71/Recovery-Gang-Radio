@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:36:34-04:00",
+ "generated_at": "2026-11-08T21:41:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-08 21:36:33"
+  "title": "Stranger Danger",
+  "started": "2026-11-08 21:41:33"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-08 21:36:33"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-08 21:32:31"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-08 21:24:05"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-08 21:20:21"
   }
  ]
 }
