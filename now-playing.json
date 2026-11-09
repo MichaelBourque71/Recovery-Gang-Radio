@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T12:02:56-04:00",
+ "generated_at": "2026-11-09T12:06:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-09 12:02:42"
+  "title": "Yes",
+  "started": "2026-11-09 12:06:49"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-09 12:02:42"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-09 11:59:51"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-09 11:47:29"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-09 11:42:33"
   }
  ]
 }
