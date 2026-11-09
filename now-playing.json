@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:41:34-04:00",
+ "generated_at": "2026-11-08T21:45:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-08 21:41:33"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-08 21:45:31"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-08 21:41:33"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-08 21:36:33"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-08 21:26:57"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-08 21:24:05"
   }
  ]
 }
