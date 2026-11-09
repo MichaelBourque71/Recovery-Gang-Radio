@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:05:40-04:00",
+ "generated_at": "2026-11-09T09:08:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-09 09:05:39"
+  "title": "History Collects",
+  "started": "2026-11-09 09:08:50"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-09 09:05:39"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-09 09:02:29"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-09 08:51:32"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-09 08:48:44"
   }
  ]
 }
