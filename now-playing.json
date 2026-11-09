@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:47:29-04:00",
+ "generated_at": "2026-11-09T04:50:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-09 04:47:27"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-09 04:50:42"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-09 04:47:27"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-09 04:44:48"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-09 04:33:46"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-09 04:29:18"
   }
  ]
 }
