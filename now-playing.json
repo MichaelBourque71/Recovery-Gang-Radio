@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:38:53-04:00",
+ "generated_at": "2026-11-09T19:42:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-09 19:38:52"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-09 19:42:23"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-09 19:38:52"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-09 19:35:03"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-09 19:23:13"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-09 19:20:24"
   }
  ]
 }
