@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T23:46:26-04:00",
+ "generated_at": "2026-11-08T23:50:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-08 23:46:21"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-08 23:50:50"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-08 23:46:21"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-08 23:44:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-08 23:29:49"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-08 23:26:52"
   }
  ]
 }
