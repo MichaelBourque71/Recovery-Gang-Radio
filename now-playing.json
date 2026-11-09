@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:48:39-04:00",
+ "generated_at": "2026-11-09T02:52:14-04:00",
  "on_air": true,
  "now_playing": {
   "title": "Living For Peace",
-  "started": "2026-11-09 02:48:37"
+  "started": "2026-11-09 02:52:11"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-09 02:48:37"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-09 02:44:05"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-09 02:33:37"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-09 02:29:21"
   }
  ]
 }
