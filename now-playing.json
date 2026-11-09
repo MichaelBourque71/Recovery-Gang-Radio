@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:20:32-04:00",
+ "generated_at": "2026-11-09T06:26:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-09 06:20:30"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-09 06:26:54"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-09 06:20:30"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-09 06:17:50"
@@ -21,10 +25,6 @@
   {
    "title": "Pair D - Unstoppable Force + Won't Stop Being Me",
    "started": "2026-11-09 06:03:43"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-09 05:58:36"
   }
  ]
 }
