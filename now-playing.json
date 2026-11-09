@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:36:10-04:00",
+ "generated_at": "2026-11-08T22:42:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-08 22:36:10"
+  "title": "LGBTQ",
+  "started": "2026-11-08 22:42:37"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-08 22:36:10"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 22:32:38"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-08 22:21:08"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-08 22:17:33"
   }
  ]
 }
