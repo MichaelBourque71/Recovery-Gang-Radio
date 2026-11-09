@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:50:23-04:00",
+ "generated_at": "2026-11-09T18:53:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-09 18:50:19"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-09 18:53:34"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-09 18:50:19"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-09 18:45:27"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-09 18:35:35"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-09 18:31:12"
   }
  ]
 }
