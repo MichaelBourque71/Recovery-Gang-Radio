@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:30:46-04:00",
+ "generated_at": "2026-11-08T20:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-08 20:30:45"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-08 20:34:53"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-08 20:30:45"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-08 20:24:43"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 20:14:01"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-08 20:11:06"
   }
  ]
 }
