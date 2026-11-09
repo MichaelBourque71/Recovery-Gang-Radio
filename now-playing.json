@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T16:58:15-04:00",
+ "generated_at": "2026-11-09T17:02:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-09 16:58:12"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-09 17:02:24"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-09 16:58:12"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-09 16:54:12"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-09 16:43:36"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-09 16:40:02"
   }
  ]
 }
