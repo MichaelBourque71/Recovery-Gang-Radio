@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:08:54-04:00",
+ "generated_at": "2026-11-09T09:12:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-09 09:08:50"
+  "title": "Heavy Denim",
+  "started": "2026-11-09 09:12:39"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-09 09:08:50"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-09 09:05:39"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-09 08:54:50"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-09 08:51:32"
   }
  ]
 }
