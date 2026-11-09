@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:01:59-04:00",
+ "generated_at": "2026-11-09T18:06:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-09 18:01:55"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-09 18:06:01"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-09 18:01:55"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-09 17:58:37"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-09 17:45:38"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-09 17:41:18"
   }
  ]
 }
