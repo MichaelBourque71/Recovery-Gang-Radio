@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:28:06-04:00",
+ "generated_at": "2026-11-09T01:31:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-09 01:28:05"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-09 01:31:04"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-09 01:28:05"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-09 01:24:07"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-09 01:11:06"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-09 01:05:57"
   }
  ]
 }
