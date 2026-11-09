@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T05:16:32-04:00",
+ "generated_at": "2026-11-09T05:19:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-09 05:16:27"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-09 05:19:50"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-09 05:16:27"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-09 05:12:52"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-09 05:03:32"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-09 04:59:49"
   }
  ]
 }
