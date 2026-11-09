@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:55:36-04:00",
+ "generated_at": "2026-11-09T10:00:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-09 09:55:33"
+  "title": "Painted Signals",
+  "started": "2026-11-09 09:56:18"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-09 09:55:33"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-09 09:52:22"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-09 09:40:12"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-09 09:36:58"
   }
  ]
 }
