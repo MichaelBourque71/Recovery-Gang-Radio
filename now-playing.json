@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T16:00:43-04:00",
+ "generated_at": "2026-11-09T16:04:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-09 16:00:43"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-09 16:04:41"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-09 16:00:43"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-09 15:56:12"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-09 15:44:36"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-09 15:40:47"
   }
  ]
 }
