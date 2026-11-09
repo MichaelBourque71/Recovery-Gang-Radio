@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:11:08-04:00",
+ "generated_at": "2026-11-08T20:14:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-08 20:11:06"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-08 20:14:01"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-08 20:11:06"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-08 20:07:30"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-08 19:54:46"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-08 19:50:01"
   }
  ]
 }
