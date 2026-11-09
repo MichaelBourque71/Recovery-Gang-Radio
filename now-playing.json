@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:11:06-04:00",
+ "generated_at": "2026-11-09T11:13:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-09 11:09:17"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-09 11:13:08"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-09 11:09:17"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-09 11:04:04"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-09 10:51:57"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-09 10:46:48"
   }
  ]
 }
