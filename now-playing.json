@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T06:56:10-04:00",
+ "generated_at": "2026-11-09T07:00:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Straight Ahead Jed",
-  "started": "2026-11-09 06:56:09"
+  "title": "My Harley Waits",
+  "started": "2026-11-09 07:00:08"
  },
  "previous": [
+  {
+   "title": "Straight Ahead Jed",
+   "started": "2026-11-09 06:56:09"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-09 06:50:05"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-09 06:35:20"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-09 06:31:22"
   }
  ]
 }
