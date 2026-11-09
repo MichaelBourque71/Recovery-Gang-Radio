@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:22:47-04:00",
+ "generated_at": "2026-11-09T14:25:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-09 14:22:43"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-09 14:25:15"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-09 14:22:43"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-09 14:18:41"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-09 14:05:24"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-09 14:01:46"
   }
  ]
 }
