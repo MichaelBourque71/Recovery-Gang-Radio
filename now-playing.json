@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:44:40-04:00",
+ "generated_at": "2026-11-09T15:48:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-09 15:44:36"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-09 15:48:15"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-09 15:44:36"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-09 15:40:47"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-09 15:29:57"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-09 15:24:38"
   }
  ]
 }
