@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:10:09-04:00",
+ "generated_at": "2026-11-09T15:13:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-09 15:10:09"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-09 15:13:05"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-09 15:10:09"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-09 15:06:37"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-09 14:53:42"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-09 14:50:31"
   }
  ]
 }
