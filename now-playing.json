@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:53:46-04:00",
+ "generated_at": "2026-11-08T22:57:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-08 22:53:45"
+  "title": "Stolen Democracy",
+  "started": "2026-11-08 22:57:56"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-08 22:53:45"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-08 22:50:55"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-08 22:36:10"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-08 22:32:38"
   }
  ]
 }
