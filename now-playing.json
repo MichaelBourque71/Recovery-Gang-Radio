@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T22:09:03-04:00",
+ "generated_at": "2026-11-08T22:14:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-08 22:08:59"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-08 22:14:10"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-08 22:08:59"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-08 22:05:25"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-08 21:52:41"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-08 21:48:52"
   }
  ]
 }
