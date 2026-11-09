@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:37:10-04:00",
+ "generated_at": "2026-11-09T02:40:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-09 02:37:07"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-09 02:40:39"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-09 02:37:07"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-09 02:33:37"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-09 02:18:57"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-09 02:14:24"
   }
  ]
 }
