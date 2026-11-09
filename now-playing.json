@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T07:15:03-04:00",
+ "generated_at": "2026-11-09T07:18:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-09 07:15:00"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-09 07:18:25"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-09 07:15:00"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-09 07:11:40"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-09 06:56:09"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-09 06:50:05"
   }
  ]
 }
