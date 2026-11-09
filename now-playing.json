@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T03:44:00-04:00",
+ "generated_at": "2026-11-09T03:47:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-09 03:43:58"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-09 03:47:53"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-09 03:43:58"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-09 03:39:45"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-09 03:27:12"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-09 03:23:00"
   }
  ]
 }
