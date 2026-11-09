@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T15:13:05-04:00",
+ "generated_at": "2026-11-09T15:17:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-09 15:13:05"
+  "title": "Time For Talking",
+  "started": "2026-11-09 15:17:33"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-09 15:13:05"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-09 15:10:09"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-09 14:58:34"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-09 14:53:42"
   }
  ]
 }
