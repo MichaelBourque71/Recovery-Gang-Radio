@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T14:58:35-04:00",
+ "generated_at": "2026-11-09T15:03:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-09 14:58:34"
+  "title": "Weaponized Children",
+  "started": "2026-11-09 15:03:25"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-09 14:58:34"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-09 14:53:42"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-09 14:45:13"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-09 14:42:07"
   }
  ]
 }
