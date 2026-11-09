@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T01:47:40-04:00",
+ "generated_at": "2026-11-09T01:50:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-09 01:47:36"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-09 01:50:57"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-09 01:47:36"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-09 01:42:18"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-09 01:31:04"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-09 01:28:05"
   }
  ]
 }
