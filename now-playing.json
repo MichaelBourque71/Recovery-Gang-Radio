@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T21:45:34-04:00",
+ "generated_at": "2026-11-08T21:48:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-08 21:45:31"
+  "title": "History Collects",
+  "started": "2026-11-08 21:48:52"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-08 21:45:31"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-08 21:41:33"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-08 21:29:55"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-08 21:26:57"
   }
  ]
 }
