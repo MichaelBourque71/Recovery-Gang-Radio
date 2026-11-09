@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T03:20:08-04:00",
+ "generated_at": "2026-11-09T03:23:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-09 03:20:08"
+  "title": "LGBTQ",
+  "started": "2026-11-09 03:23:00"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-09 03:20:08"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-09 03:17:17"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-09 03:05:04"
-  },
-  {
-   "title": "Same Dust, Same Road",
-   "started": "2026-11-09 03:01:53"
   }
  ]
 }
