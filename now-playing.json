@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T18:11:05-04:00",
+ "generated_at": "2026-11-09T18:14:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-09 18:11:02"
+  "title": "You",
+  "started": "2026-11-09 18:14:21"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-09 18:11:02"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-09 18:06:01"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-09 17:53:39"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-09 17:49:43"
   }
  ]
 }
