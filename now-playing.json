@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T16:19:19-04:00",
+ "generated_at": "2026-11-09T16:22:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-09 16:19:18"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-09 16:22:53"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-09 16:19:18"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-09 16:15:05"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-09 16:04:41"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-09 16:00:43"
   }
  ]
 }
