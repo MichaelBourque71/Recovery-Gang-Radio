@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T17:45:39-04:00",
+ "generated_at": "2026-11-09T17:49:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-09 17:45:38"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-09 17:49:43"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-09 17:45:38"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-09 17:41:18"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-09 17:32:18"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-09 17:27:41"
   }
  ]
 }
