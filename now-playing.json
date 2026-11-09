@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:57:47-04:00",
+ "generated_at": "2026-11-09T11:00:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-09 10:55:22"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-09 10:58:44"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-09 10:55:22"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-09 10:51:57"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-09 10:37:31"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-09 10:34:35"
   }
  ]
 }
