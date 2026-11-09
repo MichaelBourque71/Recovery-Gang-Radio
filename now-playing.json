@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T09:40:17-04:00",
+ "generated_at": "2026-11-09T09:43:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-09 09:40:12"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-09 09:43:54"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-09 09:40:12"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-09 09:36:58"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-09 09:24:15"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-09 09:21:38"
   }
  ]
 }
