@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:29:58-04:00",
+ "generated_at": "2026-11-09T11:38:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-09 11:29:13"
+  "title": "Duck On The Dash",
+  "started": "2026-11-09 11:34:37"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-09 11:29:13"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-09 11:24:12"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-09 11:13:08"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-09 11:09:17"
   }
  ]
 }
