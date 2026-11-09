@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:15:17-04:00",
+ "generated_at": "2026-11-09T00:20:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-09 00:15:13"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-09 00:19:59"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-09 00:15:13"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-09 00:09:51"
@@ -21,10 +25,6 @@
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-09 00:01:54"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-08 23:57:28"
   }
  ]
 }
