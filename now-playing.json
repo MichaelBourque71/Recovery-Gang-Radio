@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:15:48-04:00",
+ "generated_at": "2026-11-09T04:20:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-09 04:15:48"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-09 04:20:06"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-09 04:15:48"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-09 04:10:25"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-09 04:00:29"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-09 03:55:38"
   }
  ]
 }
