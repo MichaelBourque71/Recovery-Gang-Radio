@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T02:55:57-04:00",
+ "generated_at": "2026-11-09T03:01:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-09 02:55:55"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-09 03:01:53"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-09 02:55:55"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-09 02:52:11"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-09 02:37:07"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-09 02:33:37"
   }
  ]
 }
