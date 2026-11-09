@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:38:01-04:00",
+ "generated_at": "2026-11-09T13:41:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-09 13:37:58"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-09 13:41:19"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-09 13:37:58"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-09 13:34:52"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-09 13:24:31"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-09 13:20:29"
   }
  ]
 }
