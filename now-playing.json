@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:57:14-04:00",
+ "generated_at": "2026-11-08T20:59:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-08 20:57:14"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-08 20:59:05"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-08 20:57:14"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-08 20:52:23"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-08 20:38:15"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-08 20:34:53"
   }
  ]
 }
