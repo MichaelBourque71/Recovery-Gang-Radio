@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T10:05:15-04:00",
+ "generated_at": "2026-11-09T10:08:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-09 10:05:11"
+  "title": "Keyboard Courage",
+  "started": "2026-11-09 10:08:48"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-09 10:05:11"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-09 10:00:41"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-09 09:52:22"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-09 09:48:05"
   }
  ]
 }
