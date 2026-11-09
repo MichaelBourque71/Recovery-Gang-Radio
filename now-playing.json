@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T17:32:23-04:00",
+ "generated_at": "2026-11-09T17:34:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-09 17:32:18"
+  "title": "Acid Freak",
+  "started": "2026-11-09 17:34:50"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-09 17:32:18"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-09 17:27:41"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-09 17:17:04"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-09 17:11:50"
   }
  ]
 }
