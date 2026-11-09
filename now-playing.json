@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T00:20:04-04:00",
+ "generated_at": "2026-11-09T00:23:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-09 00:19:59"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-09 00:23:27"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-09 00:19:59"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-09 00:15:13"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-09 00:02:39"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-09 00:01:54"
   }
  ]
 }
