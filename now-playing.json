@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T07:41:04-04:00",
+ "generated_at": "2026-11-09T07:44:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-09 07:41:01"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-09 07:44:32"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-09 07:41:01"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-09 07:36:54"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-09 07:25:32"
-  },
-  {
-   "title": "Disobey Authority 2",
-   "started": "2026-11-09 07:22:33"
   }
  ]
 }
