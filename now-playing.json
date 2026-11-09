@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T13:24:32-04:00",
+ "generated_at": "2026-11-09T13:28:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-09 13:24:31"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-09 13:28:05"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-09 13:24:31"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-09 13:20:29"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-09 13:06:01"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-09 13:02:21"
   }
  ]
 }
