@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T11:38:04-04:00",
+ "generated_at": "2026-11-09T11:40:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-09 11:34:37"
+  "title": "Roadside Puddles",
+  "started": "2026-11-09 11:38:21"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-09 11:34:37"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-09 11:29:13"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-09 11:16:15"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-09 11:13:08"
   }
  ]
 }
