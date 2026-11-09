@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T04:50:43-04:00",
+ "generated_at": "2026-11-09T04:53:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-09 04:50:42"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-09 04:53:16"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-09 04:50:42"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-09 04:47:27"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-09 04:37:21"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-09 04:33:46"
   }
  ]
 }
