@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:03:24-04:00",
+ "generated_at": "2026-11-08T20:07:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-08 20:03:20"
+  "title": "Unstoppable Force",
+  "started": "2026-11-08 20:07:30"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-08 20:03:20"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-08 19:57:34"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-08 19:45:20"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-08 19:40:46"
   }
  ]
 }
