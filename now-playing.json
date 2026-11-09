@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:14:01-04:00",
+ "generated_at": "2026-11-08T20:17:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-08 20:14:01"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-08 20:17:32"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-08 20:14:01"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-08 20:11:06"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-08 19:57:34"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-08 19:54:46"
   }
  ]
 }
