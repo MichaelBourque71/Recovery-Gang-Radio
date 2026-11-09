@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-08T20:17:35-04:00",
+ "generated_at": "2026-11-08T20:22:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-08 20:17:32"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-08 20:22:01"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-08 20:17:32"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-08 20:14:01"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-08 20:03:20"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-08 19:57:34"
   }
  ]
 }
