@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T12:21:26-04:00",
+ "generated_at": "2026-11-10T12:26:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-10 12:21:21"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-10 12:26:44"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-10 12:21:21"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-10 12:16:53"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-10 12:03:25"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-10 11:59:10"
   }
  ]
 }
