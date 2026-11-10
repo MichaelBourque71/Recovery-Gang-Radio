@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:35:53-04:00",
+ "generated_at": "2026-11-10T05:39:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-10 05:35:52"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-10 05:39:08"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-10 05:35:52"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-10 05:30:54"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-10 05:16:32"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-10 05:12:13"
   }
  ]
 }
