@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:58:30-04:00",
+ "generated_at": "2026-11-10T16:03:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-10 15:58:27"
+  "title": "Fuck Winter",
+  "started": "2026-11-10 16:03:35"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-10 15:58:27"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-10 15:54:32"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-10 15:42:29"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-10 15:36:35"
   }
  ]
 }
