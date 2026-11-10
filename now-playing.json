@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:01:29-04:00",
+ "generated_at": "2026-11-10T07:07:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-10 07:01:28"
+  "title": "There Was A Time",
+  "started": "2026-11-10 07:07:56"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-10 07:01:28"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-10 06:57:25"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-10 06:45:09"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-10 06:40:26"
   }
  ]
 }
