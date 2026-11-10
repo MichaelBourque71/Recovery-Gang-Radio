@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:22:00-04:00",
+ "generated_at": "2026-11-10T08:27:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-10 08:21:57"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-10 08:27:08"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-10 08:21:57"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-10 08:17:01"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-10 08:02:38"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-10 07:59:03"
   }
  ]
 }
