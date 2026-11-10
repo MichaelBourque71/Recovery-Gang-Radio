@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T19:56:45-04:00",
+ "generated_at": "2026-11-09T20:00:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-09 19:56:41"
+  "title": "LGBTQ",
+  "started": "2026-11-09 20:00:37"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-09 19:56:41"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-09 19:53:19"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-09 19:42:23"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-09 19:38:52"
   }
  ]
 }
