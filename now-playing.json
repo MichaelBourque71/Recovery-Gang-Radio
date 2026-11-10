@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:29:32-04:00",
+ "generated_at": "2026-11-10T15:32:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-10 15:29:30"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-10 15:32:12"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-10 15:29:30"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-10 15:25:56"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-10 15:15:09"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-10 15:11:44"
   }
  ]
 }
