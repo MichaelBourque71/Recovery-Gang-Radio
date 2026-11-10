@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:34:44-04:00",
+ "generated_at": "2026-11-10T02:39:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-10 02:34:42"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-10 02:39:36"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-10 02:34:42"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-10 02:30:22"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-10 02:20:15"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-10 02:16:29"
   }
  ]
 }
