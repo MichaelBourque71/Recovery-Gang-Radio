@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T04:08:18-04:00",
+ "generated_at": "2026-11-10T04:12:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-10 04:08:15"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-10 04:12:52"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-10 04:08:15"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-10 04:02:33"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-10 03:50:45"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-10 03:46:10"
   }
  ]
 }
