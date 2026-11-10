@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T11:28:40-04:00",
+ "generated_at": "2026-11-10T11:33:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-10 11:28:37"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-10 11:33:36"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-10 11:28:37"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-10 11:24:34"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-10 11:12:26"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-10 11:09:11"
   }
  ]
 }
