@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:07:39-04:00",
+ "generated_at": "2026-11-10T05:12:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-10 05:07:34"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-10 05:12:13"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-10 05:07:34"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-10 05:03:17"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-10 04:51:06"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-10 04:47:39"
   }
  ]
 }
