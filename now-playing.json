@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:59:57-04:00",
+ "generated_at": "2026-11-10T18:05:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-10 17:59:54"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-10 18:05:01"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-10 17:59:54"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-10 17:54:07"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-10 17:43:13"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-10 17:38:31"
   }
  ]
 }
