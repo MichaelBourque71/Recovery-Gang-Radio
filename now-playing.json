@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:22:16-04:00",
+ "generated_at": "2026-11-10T03:25:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-10 03:22:13"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-10 03:25:32"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-10 03:22:13"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-10 03:19:23"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-10 03:08:12"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-10 03:04:18"
   }
  ]
 }
