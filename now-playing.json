@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:16:10-04:00",
+ "generated_at": "2026-11-10T10:19:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-10 10:16:08"
+  "title": "History Collects",
+  "started": "2026-11-10 10:19:20"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-10 10:16:08"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-10 10:12:25"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-10 09:59:14"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-10 09:53:22"
   }
  ]
 }
