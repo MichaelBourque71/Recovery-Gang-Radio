@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T13:09:15-04:00",
+ "generated_at": "2026-11-10T13:12:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-10 13:09:11"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-10 13:12:22"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-10 13:09:11"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-10 13:03:35"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-10 12:49:49"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-10 12:45:38"
   }
  ]
 }
