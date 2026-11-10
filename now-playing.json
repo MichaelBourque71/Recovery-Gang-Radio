@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:08:44-04:00",
+ "generated_at": "2026-11-10T16:12:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-10 16:08:42"
+  "title": "I'm Ready For This",
+  "started": "2026-11-10 16:12:01"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-10 16:08:42"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-10 16:03:35"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-10 15:50:17"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-10 15:45:31"
   }
  ]
 }
