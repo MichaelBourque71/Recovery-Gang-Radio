@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:34:21-04:00",
+ "generated_at": "2026-11-10T01:39:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-10 01:34:16"
+  "title": "You",
+  "started": "2026-11-10 01:38:58"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-10 01:34:16"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-10 01:30:19"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-10 01:18:34"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-10 01:15:40"
   }
  ]
 }
