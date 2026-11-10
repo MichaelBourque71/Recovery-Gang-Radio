@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:22:00-04:00",
+ "generated_at": "2026-11-10T15:25:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-10 15:21:57"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-10 15:25:56"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-10 15:21:57"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-10 15:18:51"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-10 15:08:09"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-10 15:03:26"
   }
  ]
 }
