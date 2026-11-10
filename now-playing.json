@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T23:01:14-04:00",
+ "generated_at": "2026-11-09T23:06:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Have Something to Say",
-  "started": "2026-11-09 23:01:09"
+  "title": "Follow The Trail",
+  "started": "2026-11-09 23:06:41"
  },
  "previous": [
+  {
+   "title": "I Have Something to Say",
+   "started": "2026-11-09 23:01:09"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-09 22:56:31"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-09 22:46:02"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-09 22:40:21"
   }
  ]
 }
