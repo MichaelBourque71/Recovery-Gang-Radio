@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:39:40-04:00",
+ "generated_at": "2026-11-10T02:43:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-10 02:39:36"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-10 02:43:32"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-10 02:39:36"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-10 02:34:42"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-10 02:23:29"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-10 02:20:15"
   }
  ]
 }
