@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T14:44:52-04:00",
+ "generated_at": "2026-11-10T14:47:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-10 14:44:50"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-10 14:47:50"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-10 14:44:50"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-10 14:40:46"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-10 14:26:39"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-10 14:21:30"
   }
  ]
 }
