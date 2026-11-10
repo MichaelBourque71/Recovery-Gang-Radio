@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T04:33:38-04:00",
+ "generated_at": "2026-11-10T04:40:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-10 04:33:35"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-10 04:40:13"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-10 04:33:35"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-10 04:29:38"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-10 04:17:58"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-10 04:12:52"
   }
  ]
 }
