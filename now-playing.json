@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:05:14-04:00",
+ "generated_at": "2026-11-10T02:09:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-10 02:05:11"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-10 02:09:18"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-10 02:05:11"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-10 02:01:22"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-10 01:45:52"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-10 01:42:37"
   }
  ]
 }
