@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:51:10-04:00",
+ "generated_at": "2026-11-10T08:54:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-10 08:51:06"
+  "title": "Burn It Slow",
+  "started": "2026-11-10 08:54:17"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-10 08:51:06"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-10 08:46:16"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-10 08:36:06"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-10 08:31:46"
   }
  ]
 }
