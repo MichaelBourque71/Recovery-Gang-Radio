@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:54:27-04:00",
+ "generated_at": "2026-11-10T18:58:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-10 18:54:24"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-10 18:58:52"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-10 18:54:24"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-10 18:48:39"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-10 18:33:26"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-10 18:30:45"
   }
  ]
 }
