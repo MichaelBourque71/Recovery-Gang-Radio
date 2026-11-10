@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:39:02-04:00",
+ "generated_at": "2026-11-10T01:42:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-10 01:38:58"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-10 01:42:37"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-10 01:38:58"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-10 01:34:16"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-10 01:23:01"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-10 01:18:34"
   }
  ]
 }
