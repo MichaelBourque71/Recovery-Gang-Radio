@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:48:41-04:00",
+ "generated_at": "2026-11-10T10:52:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-10 10:48:39"
+  "title": "One More Night",
+  "started": "2026-11-10 10:52:00"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-10 10:48:39"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-10 10:46:37"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-10 10:34:23"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-10 10:30:38"
   }
  ]
 }
