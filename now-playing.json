@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:37:12-04:00",
+ "generated_at": "2026-11-10T16:40:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-10 16:37:08"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-10 16:39:56"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-10 16:37:08"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-10 16:33:48"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-10 16:20:44"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-10 16:16:06"
   }
  ]
 }
