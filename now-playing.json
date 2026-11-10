@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:44:53-04:00",
+ "generated_at": "2026-11-10T05:47:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-10 05:44:50"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-10 05:47:42"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-10 05:44:50"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-10 05:39:08"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-10 05:25:09"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-10 05:21:02"
   }
  ]
 }
