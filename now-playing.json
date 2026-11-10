@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:02:42-04:00",
+ "generated_at": "2026-11-10T08:07:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-10 08:02:38"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-10 08:07:20"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-10 08:02:38"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-10 07:59:03"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-10 07:49:14"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-10 07:46:40"
   }
  ]
 }
