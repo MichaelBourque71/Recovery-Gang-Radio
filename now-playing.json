@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:57:05-04:00",
+ "generated_at": "2026-11-10T17:00:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-10 16:57:03"
+  "title": "Dead Ideology ",
+  "started": "2026-11-10 17:00:23"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-10 16:57:03"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-10 16:52:48"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-10 16:39:56"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-10 16:37:08"
   }
  ]
 }
