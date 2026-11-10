@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T23:42:26-04:00",
+ "generated_at": "2026-11-09T23:45:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-09 23:42:23"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-09 23:45:42"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-09 23:42:23"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-09 23:37:41"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-09 23:23:47"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-09 23:20:41"
   }
  ]
 }
