@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T06:16:32-04:00",
+ "generated_at": "2026-11-10T06:20:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-10 06:16:31"
+  "title": "Mailer Demon",
+  "started": "2026-11-10 06:20:35"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-10 06:16:31"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-10 06:12:54"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-10 05:54:31"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-10 05:50:54"
   }
  ]
 }
