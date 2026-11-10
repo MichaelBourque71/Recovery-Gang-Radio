@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T23:49:55-04:00",
+ "generated_at": "2026-11-09T23:54:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-09 23:49:53"
+  "title": "Keyboard Courage",
+  "started": "2026-11-09 23:54:56"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-09 23:49:53"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-09 23:45:42"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-09 23:31:39"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-09 23:26:51"
   }
  ]
 }
