@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:14:20-04:00",
+ "generated_at": "2026-11-09T20:17:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-09 20:14:20"
+  "title": "Hard Way",
+  "started": "2026-11-09 20:17:09"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-09 20:14:20"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-09 20:10:21"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-09 20:00:37"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-09 19:56:41"
   }
  ]
 }
