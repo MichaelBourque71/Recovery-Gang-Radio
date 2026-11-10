@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:27:17-04:00",
+ "generated_at": "2026-11-10T18:30:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-10 18:27:17"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-10 18:30:45"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-10 18:27:17"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-10 18:24:38"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-10 18:11:38"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-10 18:08:16"
   }
  ]
 }
