@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:04:22-04:00",
+ "generated_at": "2026-11-10T03:08:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-10 03:04:18"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-10 03:08:12"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-10 03:04:18"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-10 03:02:17"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-10 02:51:01"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-10 02:47:29"
   }
  ]
 }
