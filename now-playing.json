@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:02:19-04:00",
+ "generated_at": "2026-11-10T03:04:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-10 03:02:17"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-10 03:04:18"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-10 03:02:17"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-10 02:58:23"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-10 02:47:29"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-10 02:43:32"
   }
  ]
 }
