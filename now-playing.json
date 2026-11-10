@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:33:19-04:00",
+ "generated_at": "2026-11-10T03:38:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-10 03:33:18"
+  "title": "Doughnut Doug",
+  "started": "2026-11-10 03:37:58"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-10 03:33:18"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-10 03:29:10"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-10 03:19:23"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-10 03:16:43"
   }
  ]
 }
