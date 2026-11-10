@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:47:32-04:00",
+ "generated_at": "2026-11-10T02:51:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-10 02:47:29"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-10 02:51:01"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-10 02:47:29"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-10 02:43:32"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-10 02:30:22"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-10 02:27:34"
   }
  ]
 }
