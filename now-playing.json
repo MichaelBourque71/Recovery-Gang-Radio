@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T00:15:42-04:00",
+ "generated_at": "2026-11-10T00:19:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-10 00:15:40"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-10 00:19:08"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-10 00:15:40"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-10 00:13:04"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-09 23:59:31"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-09 23:54:56"
   }
  ]
 }
