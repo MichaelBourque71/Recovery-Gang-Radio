@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:45:34-04:00",
+ "generated_at": "2026-11-10T15:50:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-10 15:45:31"
+  "title": "Mean Francine",
+  "started": "2026-11-10 15:50:17"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-10 15:45:31"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-10 15:42:29"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-10 15:29:30"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-10 15:25:56"
   }
  ]
 }
