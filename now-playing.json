@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:08:17-04:00",
+ "generated_at": "2026-11-10T18:11:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-10 18:08:16"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-10 18:11:38"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-10 18:08:16"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-10 18:05:01"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-10 17:50:03"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-10 17:47:30"
   }
  ]
 }
