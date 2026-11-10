@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:16:36-04:00",
+ "generated_at": "2026-11-10T05:21:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-10 05:16:32"
+  "title": "Delaware Sniff",
+  "started": "2026-11-10 05:21:02"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-10 05:16:32"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-10 05:12:13"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-10 04:59:39"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-10 04:56:05"
   }
  ]
 }
