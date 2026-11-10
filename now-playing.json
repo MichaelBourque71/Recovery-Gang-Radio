@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:47:46-04:00",
+ "generated_at": "2026-11-10T05:50:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-10 05:47:42"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-10 05:50:54"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-10 05:47:42"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-10 05:44:50"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-10 05:30:54"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-10 05:25:09"
   }
  ]
 }
