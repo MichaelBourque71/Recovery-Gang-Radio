@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:12:55-04:00",
+ "generated_at": "2026-11-10T02:16:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-10 02:12:55"
+  "title": "Painted Signals",
+  "started": "2026-11-10 02:16:29"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-10 02:12:55"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-10 02:09:18"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-10 01:56:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-10 01:51:09"
   }
  ]
 }
