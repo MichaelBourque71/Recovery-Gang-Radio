@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T09:17:55-04:00",
+ "generated_at": "2026-11-10T09:22:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-10 09:17:51"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-10 09:22:19"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-10 09:17:51"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-10 09:14:39"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-10 09:02:28"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-10 08:58:21"
   }
  ]
 }
