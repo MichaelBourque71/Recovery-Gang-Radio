@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T00:59:22-04:00",
+ "generated_at": "2026-11-10T01:05:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-10 00:59:20"
+  "title": "Some People",
+  "started": "2026-11-10 01:05:16"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-10 00:59:20"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-10 00:56:03"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-10 00:43:24"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-10 00:40:04"
   }
  ]
 }
