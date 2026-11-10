@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:42:09-04:00",
+ "generated_at": "2026-11-10T03:46:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-10 03:42:08"
+  "title": "Day And Night",
+  "started": "2026-11-10 03:46:10"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-10 03:42:08"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-10 03:39:46"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-10 03:29:10"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-10 03:25:32"
   }
  ]
 }
