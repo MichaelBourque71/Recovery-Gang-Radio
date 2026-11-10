@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:25:34-04:00",
+ "generated_at": "2026-11-10T03:29:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-10 03:25:32"
+  "title": "GUMMERS",
+  "started": "2026-11-10 03:29:10"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-10 03:25:32"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-10 03:22:13"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-10 03:13:25"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-10 03:08:12"
   }
  ]
 }
