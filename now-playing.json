@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:23:12-04:00",
+ "generated_at": "2026-11-10T10:27:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-10 10:23:09"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-10 10:27:01"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-10 10:23:09"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-10 10:19:20"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-10 10:08:04"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-10 10:02:12"
   }
  ]
 }
