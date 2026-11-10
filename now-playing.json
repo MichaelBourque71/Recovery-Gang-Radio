@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:49:15-04:00",
+ "generated_at": "2026-11-10T07:52:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-10 07:49:14"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-10 07:52:24"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-10 07:49:14"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-10 07:46:40"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-10 07:32:47"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-10 07:26:28"
   }
  ]
 }
