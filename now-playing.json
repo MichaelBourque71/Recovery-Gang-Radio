@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:12:03-04:00",
+ "generated_at": "2026-11-10T16:16:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-10 16:12:01"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-10 16:16:06"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-10 16:12:01"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-10 16:08:42"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-10 15:54:32"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-10 15:50:17"
   }
  ]
 }
