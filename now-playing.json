@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:26:35-04:00",
+ "generated_at": "2026-11-10T01:30:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-10 01:26:34"
+  "title": "Space Cadet",
+  "started": "2026-11-10 01:30:19"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-10 01:26:34"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-10 01:23:01"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-10 01:11:08"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-10 01:08:17"
   }
  ]
 }
