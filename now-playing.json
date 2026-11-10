@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T04:18:01-04:00",
+ "generated_at": "2026-11-10T04:21:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-10 04:17:58"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-10 04:21:13"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-10 04:17:58"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 04:12:52"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-10 03:57:08"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-10 03:54:03"
   }
  ]
 }
