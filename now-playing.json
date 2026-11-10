@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T22:40:24-04:00",
+ "generated_at": "2026-11-09T22:46:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-09 22:40:21"
+  "title": "Take Your Laws",
+  "started": "2026-11-09 22:46:02"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-09 22:40:21"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-09 22:36:13"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-09 22:25:39"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-09 22:23:45"
   }
  ]
 }
