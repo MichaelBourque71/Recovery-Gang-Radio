@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T14:26:40-04:00",
+ "generated_at": "2026-11-10T14:31:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-10 14:26:39"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-10 14:31:01"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-10 14:26:39"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-10 14:21:30"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-10 14:11:32"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-10 14:08:32"
   }
  ]
 }
