@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:41:56-04:00",
+ "generated_at": "2026-11-09T20:45:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-09 20:41:51"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-09 20:45:06"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-09 20:41:51"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-09 20:38:07"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-09 20:26:42"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-09 20:22:26"
   }
  ]
 }
