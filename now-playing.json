@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T19:35:58-04:00",
+ "generated_at": "2026-11-10T19:39:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-10 19:35:56"
+  "title": "Low-End Disorder",
+  "started": "2026-11-10 19:39:54"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-10 19:35:56"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-10 19:33:23"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-10 19:22:03"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-10 19:18:49"
   }
  ]
 }
