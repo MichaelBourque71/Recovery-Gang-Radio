@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T14:58:57-04:00",
+ "generated_at": "2026-11-10T15:03:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-10 14:58:56"
+  "title": "Greedy Bitch",
+  "started": "2026-11-10 15:03:26"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-10 14:58:56"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-10 14:54:58"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-10 14:44:50"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-10 14:40:46"
   }
  ]
 }
