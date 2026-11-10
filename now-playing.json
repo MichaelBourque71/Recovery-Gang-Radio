@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:55:59-04:00",
+ "generated_at": "2026-11-10T10:59:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-10 10:55:56"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-10 10:59:50"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-10 10:55:56"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-10 10:52:00"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-10 10:41:41"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-10 10:37:49"
   }
  ]
 }
