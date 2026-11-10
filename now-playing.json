@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T21:22:02-04:00",
+ "generated_at": "2026-11-09T21:26:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-09 21:22:02"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-09 21:26:15"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-09 21:22:02"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-09 21:16:13"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-09 21:01:46"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-09 20:58:01"
   }
  ]
 }
