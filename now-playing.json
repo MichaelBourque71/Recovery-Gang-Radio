@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:54:32-04:00",
+ "generated_at": "2026-11-10T05:58:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-10 05:54:31"
+  "title": "Mean Francine",
+  "started": "2026-11-10 05:58:58"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-10 05:54:31"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-10 05:50:54"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-10 05:39:08"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-10 05:35:52"
   }
  ]
 }
