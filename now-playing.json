@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:17:11-04:00",
+ "generated_at": "2026-11-09T20:22:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-09 20:17:09"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-09 20:22:26"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-09 20:17:09"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-09 20:14:20"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-09 20:04:49"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-09 20:00:37"
   }
  ]
 }
