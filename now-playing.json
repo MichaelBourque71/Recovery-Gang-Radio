@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T06:20:36-04:00",
+ "generated_at": "2026-11-10T06:24:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-10 06:20:35"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-10 06:24:48"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-10 06:20:35"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-10 06:16:31"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-10 05:58:58"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-10 05:54:31"
   }
  ]
 }
