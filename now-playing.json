@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:19:28-04:00",
+ "generated_at": "2026-11-10T03:22:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-10 03:19:23"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-10 03:22:13"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-10 03:19:23"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-10 03:16:43"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-10 03:04:18"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-10 03:02:17"
   }
  ]
 }
