@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:50:59-04:00",
+ "generated_at": "2026-11-10T05:54:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-10 05:50:54"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-10 05:54:31"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-10 05:50:54"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-10 05:47:42"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-10 05:35:52"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-10 05:30:54"
   }
  ]
 }
