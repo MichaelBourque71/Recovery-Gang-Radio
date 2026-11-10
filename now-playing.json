@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:50:22-04:00",
+ "generated_at": "2026-11-09T20:54:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-09 20:50:19"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-09 20:54:25"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-09 20:50:19"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-09 20:45:06"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-09 20:33:09"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-09 20:31:09"
   }
  ]
 }
