@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:03:52-04:00",
+ "generated_at": "2026-11-10T17:06:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-10 17:03:50"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-10 17:06:04"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-10 17:03:50"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-10 17:00:23"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-10 16:50:26"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-10 16:45:09"
   }
  ]
 }
