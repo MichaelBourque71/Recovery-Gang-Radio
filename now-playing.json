@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:16:35-04:00",
+ "generated_at": "2026-11-10T18:21:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-10 18:16:34"
+  "title": "Weaponized Children",
+  "started": "2026-11-10 18:21:04"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-10 18:16:34"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-10 18:11:38"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-10 17:59:54"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-10 17:54:07"
   }
  ]
 }
