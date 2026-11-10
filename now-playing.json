@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T13:12:27-04:00",
+ "generated_at": "2026-11-10T13:15:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-10 13:12:22"
+  "title": "Follow The Trail",
+  "started": "2026-11-10 13:15:09"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-10 13:12:22"
+  },
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-10 13:09:11"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-10 12:55:25"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-10 12:49:49"
   }
  ]
 }
