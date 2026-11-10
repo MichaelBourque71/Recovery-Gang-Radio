@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:46:21-04:00",
+ "generated_at": "2026-11-10T08:51:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-10 08:46:16"
+  "title": "Same Dust, Same Road",
+  "started": "2026-11-10 08:51:06"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-10 08:46:16"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-10 08:43:39"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-10 08:31:46"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-10 08:27:08"
   }
  ]
 }
