@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T19:22:04-04:00",
+ "generated_at": "2026-11-10T19:24:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-10 19:22:03"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-10 19:23:57"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-10 19:22:03"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-10 19:18:49"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-10 19:06:53"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-10 19:04:21"
   }
  ]
 }
