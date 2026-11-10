@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T04:26:14-04:00",
+ "generated_at": "2026-11-10T04:29:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-10 04:26:13"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-10 04:29:38"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-10 04:26:13"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-10 04:21:13"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-10 04:08:15"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-10 04:02:33"
   }
  ]
 }
