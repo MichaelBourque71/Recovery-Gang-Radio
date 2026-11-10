@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:47:32-04:00",
+ "generated_at": "2026-11-10T17:50:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-10 17:47:30"
+  "title": "Killdozer Army",
+  "started": "2026-11-10 17:50:03"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-10 17:47:30"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-10 17:43:13"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-10 17:31:33"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-10 17:26:36"
   }
  ]
 }
