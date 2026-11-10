@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T23:14:37-04:00",
+ "generated_at": "2026-11-09T23:18:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-09 23:14:35"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-09 23:18:41"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-09 23:14:35"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-09 23:09:33"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-09 22:56:31"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-09 22:53:04"
   }
  ]
 }
