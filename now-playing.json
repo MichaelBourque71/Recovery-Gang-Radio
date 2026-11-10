@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:37:03-04:00",
+ "generated_at": "2026-11-10T07:41:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-10 07:37:00"
+  "title": "Balls Intact",
+  "started": "2026-11-10 07:41:19"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-10 07:37:00"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-10 07:32:47"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-10 07:19:15"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-10 07:15:53"
   }
  ]
 }
