@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:45:54-04:00",
+ "generated_at": "2026-11-10T01:51:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-10 01:45:52"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-10 01:51:09"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-10 01:45:52"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-10 01:42:37"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-10 01:30:19"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-10 01:26:34"
   }
  ]
 }
