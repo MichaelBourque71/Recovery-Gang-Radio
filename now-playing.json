@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:57:13-04:00",
+ "generated_at": "2026-11-10T04:02:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-10 03:57:08"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-10 04:02:33"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-10 03:57:08"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-10 03:54:03"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-10 03:42:08"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-10 03:39:46"
   }
  ]
 }
