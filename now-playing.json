@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:02:17-04:00",
+ "generated_at": "2026-11-10T10:08:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-10 10:02:12"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-10 10:08:04"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-10 10:02:12"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-10 09:59:14"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-10 09:45:55"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-10 09:40:32"
   }
  ]
 }
