@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:48:40-04:00",
+ "generated_at": "2026-11-10T18:54:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-10 18:48:39"
+  "title": "Weed Coughs",
+  "started": "2026-11-10 18:54:24"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-10 18:48:39"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-10 18:43:45"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-10 18:30:45"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-10 18:27:17"
   }
  ]
 }
