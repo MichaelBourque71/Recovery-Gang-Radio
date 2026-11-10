@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:50:30-04:00",
+ "generated_at": "2026-11-10T16:52:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-10 16:50:26"
+  "title": "Burn It Slow",
+  "started": "2026-11-10 16:52:48"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-10 16:50:26"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 16:45:09"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-10 16:33:48"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-10 16:28:58"
   }
  ]
 }
