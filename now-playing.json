@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:58:23-04:00",
+ "generated_at": "2026-11-10T09:02:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-10 08:58:21"
+  "title": "Mean Francine",
+  "started": "2026-11-10 09:02:28"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-10 08:58:21"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-10 08:54:17"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-10 08:43:39"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-10 08:40:14"
   }
  ]
 }
