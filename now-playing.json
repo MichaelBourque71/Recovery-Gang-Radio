@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:50:04-04:00",
+ "generated_at": "2026-11-10T17:54:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-10 17:50:03"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-10 17:54:07"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-10 17:50:03"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-10 17:47:30"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-10 17:35:18"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-10 17:31:33"
   }
  ]
 }
