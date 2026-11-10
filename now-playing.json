@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T00:19:11-04:00",
+ "generated_at": "2026-11-10T00:22:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-10 00:19:08"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-10 00:22:43"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-10 00:19:08"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-10 00:15:40"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-10 00:05:08"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-09 23:59:31"
   }
  ]
 }
