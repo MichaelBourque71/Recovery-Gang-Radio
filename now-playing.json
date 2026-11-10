@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T11:03:49-04:00",
+ "generated_at": "2026-11-10T11:09:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-10 11:03:46"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-10 11:09:11"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-10 11:03:46"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-10 10:59:50"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-10 10:48:39"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-10 10:46:37"
   }
  ]
 }
