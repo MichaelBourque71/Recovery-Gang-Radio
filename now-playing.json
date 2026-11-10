@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:11:13-04:00",
+ "generated_at": "2026-11-10T01:15:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-10 01:11:08"
+  "title": "Lines In Stone",
+  "started": "2026-11-10 01:15:40"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-10 01:11:08"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-10 01:08:17"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-10 00:56:03"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-10 00:51:34"
   }
  ]
 }
