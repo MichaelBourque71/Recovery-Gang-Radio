@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:38:35-04:00",
+ "generated_at": "2026-11-10T17:43:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-10 17:38:31"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-10 17:43:13"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-10 17:38:31"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-10 17:35:18"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-10 17:23:09"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-10 17:16:51"
   }
  ]
 }
