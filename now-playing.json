@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:54:36-04:00",
+ "generated_at": "2026-11-10T15:58:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-10 15:54:32"
+  "title": "Heavy Denim",
+  "started": "2026-11-10 15:58:27"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-10 15:54:32"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-10 15:50:17"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-10 15:36:35"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-10 15:32:12"
   }
  ]
 }
