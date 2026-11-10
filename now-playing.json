@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:51:01-04:00",
+ "generated_at": "2026-11-10T02:55:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-10 02:51:01"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-10 02:55:45"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-10 02:51:01"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-10 02:47:29"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-10 02:34:42"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-10 02:30:22"
   }
  ]
 }
