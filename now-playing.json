@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T19:18:51-04:00",
+ "generated_at": "2026-11-10T19:22:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-10 19:18:49"
+  "title": "420 Twice A Day",
+  "started": "2026-11-10 19:22:03"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-10 19:18:49"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-10 19:15:12"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-10 19:04:21"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-10 18:58:52"
   }
  ]
 }
