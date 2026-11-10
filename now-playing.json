@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T04:29:38-04:00",
+ "generated_at": "2026-11-10T04:33:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-10 04:29:38"
+  "title": "Built To Love",
+  "started": "2026-11-10 04:33:35"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-10 04:29:38"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-10 04:26:13"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 04:12:52"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-10 04:08:15"
   }
  ]
 }
