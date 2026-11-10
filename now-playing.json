@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:58:52-04:00",
+ "generated_at": "2026-11-10T19:04:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-10 18:58:52"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-10 19:04:21"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-10 18:58:52"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-10 18:54:24"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-10 18:38:04"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-10 18:33:26"
   }
  ]
 }
