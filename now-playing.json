@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:16:08-04:00",
+ "generated_at": "2026-11-10T16:20:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-10 16:16:06"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-10 16:20:44"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-10 16:16:06"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-10 16:12:01"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-10 15:58:27"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-10 15:54:32"
   }
  ]
 }
