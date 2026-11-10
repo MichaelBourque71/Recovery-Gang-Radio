@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T19:51:04-04:00",
+ "generated_at": "2026-11-10T19:54:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-10 19:50:59"
+  "title": "Doughnut Doug",
+  "started": "2026-11-10 19:54:38"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-10 19:50:59"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-10 19:48:15"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-10 19:35:56"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-10 19:33:23"
   }
  ]
 }
