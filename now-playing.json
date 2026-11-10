@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:52:26-04:00",
+ "generated_at": "2026-11-10T07:54:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-10 07:52:24"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-10 07:54:36"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-10 07:52:24"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-10 07:49:14"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-10 07:37:00"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-10 07:32:47"
   }
  ]
 }
