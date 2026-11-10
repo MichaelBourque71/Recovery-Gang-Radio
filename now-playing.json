@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T11:33:39-04:00",
+ "generated_at": "2026-11-10T11:38:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-10 11:33:36"
+  "title": "Space Cadet",
+  "started": "2026-11-10 11:38:56"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-10 11:33:36"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-10 11:28:37"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-10 11:15:11"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-10 11:12:26"
   }
  ]
 }
