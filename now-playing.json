@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T00:22:44-04:00",
+ "generated_at": "2026-11-10T00:27:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-10 00:22:43"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-10 00:27:24"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-10 00:22:43"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-10 00:19:08"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-10 00:09:09"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-10 00:05:08"
   }
  ]
 }
