@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T14:51:51-04:00",
+ "generated_at": "2026-11-10T14:55:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-10 14:51:48"
+  "title": "Duck On The Dash",
+  "started": "2026-11-10 14:54:58"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-10 14:51:48"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-10 14:47:50"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-10 14:36:07"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-10 14:31:01"
   }
  ]
 }
