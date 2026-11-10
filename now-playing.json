@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T22:03:51-04:00",
+ "generated_at": "2026-11-09T22:08:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-09 22:03:46"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-09 22:08:22"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-09 22:03:46"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-09 22:01:05"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-09 21:44:50"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-09 21:41:30"
   }
  ]
 }
