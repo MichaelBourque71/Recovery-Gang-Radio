@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T06:03:13-04:00",
+ "generated_at": "2026-11-10T06:16:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Pair E - Yes + Your Feet On Steady Ground",
-  "started": "2026-11-10 06:03:12"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-10 06:12:54"
  },
  "previous": [
+  {
+   "title": "Pair E - Yes + Your Feet On Steady Ground",
+   "started": "2026-11-10 06:03:12"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-10 05:58:58"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-10 05:47:42"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-10 05:44:50"
   }
  ]
 }
