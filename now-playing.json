@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:32:50-04:00",
+ "generated_at": "2026-11-10T07:37:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-10 07:32:47"
+  "title": "It Was Time",
+  "started": "2026-11-10 07:37:00"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-10 07:32:47"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 07:26:28"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-10 07:15:53"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-10 07:12:35"
   }
  ]
 }
