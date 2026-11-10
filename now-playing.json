@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:54:04-04:00",
+ "generated_at": "2026-11-10T03:57:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-10 03:54:03"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-10 03:57:08"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-10 03:54:03"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-10 03:50:45"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-10 03:39:46"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-10 03:37:58"
   }
  ]
 }
