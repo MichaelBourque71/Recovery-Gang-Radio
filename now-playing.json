@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T16:33:53-04:00",
+ "generated_at": "2026-11-10T16:37:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-10 16:33:48"
+  "title": "Orange Rage (TDS)",
+  "started": "2026-11-10 16:37:08"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-10 16:33:48"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-10 16:28:58"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-10 16:16:06"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-10 16:12:01"
   }
  ]
 }
