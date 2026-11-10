@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:51:11-04:00",
+ "generated_at": "2026-11-10T01:56:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-10 01:51:09"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-10 01:56:04"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-10 01:51:09"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-10 01:45:52"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-10 01:34:16"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-10 01:30:19"
   }
  ]
 }
