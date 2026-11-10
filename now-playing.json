@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T09:14:44-04:00",
+ "generated_at": "2026-11-10T09:17:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-10 09:14:39"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-10 09:17:51"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-10 09:14:39"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-10 09:10:30"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-10 08:58:21"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-10 08:54:17"
   }
  ]
 }
