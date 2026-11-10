@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:34:25-04:00",
+ "generated_at": "2026-11-10T10:37:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-10 10:34:23"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-10 10:37:49"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-10 10:34:23"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-10 10:30:38"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-10 10:19:20"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-10 10:16:08"
   }
  ]
 }
