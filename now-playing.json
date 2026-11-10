@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T09:45:56-04:00",
+ "generated_at": "2026-11-10T09:50:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-10 09:45:55"
+  "title": "Time For Talking",
+  "started": "2026-11-10 09:50:12"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-10 09:45:55"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-10 09:40:32"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-10 09:29:15"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-10 09:25:55"
   }
  ]
 }
