@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T22:17:36-04:00",
+ "generated_at": "2026-11-09T22:21:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-09 22:17:35"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-09 22:21:02"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-09 22:17:35"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-09 22:13:53"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-09 22:03:46"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-09 22:01:05"
   }
  ]
 }
