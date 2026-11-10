@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T21:10:36-04:00",
+ "generated_at": "2026-11-09T21:16:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-09 21:10:36"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-09 21:16:13"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-09 21:10:36"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-09 21:05:50"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-09 20:54:25"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-09 20:50:19"
   }
  ]
 }
