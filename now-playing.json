@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T06:16:20-04:00",
+ "generated_at": "2026-11-10T06:16:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-10 06:12:54"
+  "title": "Killdozer Army",
+  "started": "2026-11-10 06:16:31"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-10 06:12:54"
+  },
   {
    "title": "Pair E - Yes + Your Feet On Steady Ground",
    "started": "2026-11-10 06:03:12"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-10 05:50:54"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-10 05:47:42"
   }
  ]
 }
