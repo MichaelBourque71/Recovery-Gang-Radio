@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:46:40-04:00",
+ "generated_at": "2026-11-10T10:48:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-10 10:46:37"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-10 10:48:39"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-10 10:46:37"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-10 10:41:41"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-10 10:30:38"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-10 10:27:01"
   }
  ]
 }
