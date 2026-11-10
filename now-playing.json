@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:39:47-04:00",
+ "generated_at": "2026-11-10T03:42:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-10 03:39:46"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-10 03:42:08"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-10 03:39:46"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-10 03:37:58"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-10 03:25:32"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-10 03:22:13"
   }
  ]
 }
