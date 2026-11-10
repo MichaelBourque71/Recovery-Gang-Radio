@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T00:33:07-04:00",
+ "generated_at": "2026-11-10T00:36:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-10 00:33:06"
+  "title": "Weaponized Children",
+  "started": "2026-11-10 00:36:52"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-10 00:33:06"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-10 00:27:24"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-10 00:15:40"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-10 00:13:04"
   }
  ]
 }
