@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-10T07:41:22-04:00",
+ "generated_at": "2026-11-10T07:49:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-10 07:41:19"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-10 07:49:14"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-10 07:46:40"
+  },
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-10 07:41:19"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-10 07:37:00"
@@ -17,14 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 07:26:28"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-10 07:23:38"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-10 07:19:15"
   }
  ]
 }
