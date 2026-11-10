@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T14:40:50-04:00",
+ "generated_at": "2026-11-10T14:44:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-10 14:40:46"
+  "title": "Stolen Democracy",
+  "started": "2026-11-10 14:44:50"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-10 14:40:46"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-10 14:36:07"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-10 14:21:30"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-10 14:17:55"
   }
  ]
 }
