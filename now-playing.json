@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T01:56:04-04:00",
+ "generated_at": "2026-11-10T02:01:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-10 01:56:04"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-10 02:01:22"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-10 01:56:04"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-10 01:51:09"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-10 01:38:58"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-10 01:34:16"
   }
  ]
 }
