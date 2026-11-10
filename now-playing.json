@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:39:09-04:00",
+ "generated_at": "2026-11-10T05:44:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-10 05:39:08"
+  "title": "Running With Scissors",
+  "started": "2026-11-10 05:44:50"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-10 05:39:08"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-10 05:35:52"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-10 05:21:02"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-10 05:16:32"
   }
  ]
 }
