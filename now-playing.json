@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T08:43:44-04:00",
+ "generated_at": "2026-11-10T08:46:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-10 08:43:39"
+  "title": "Day And Night",
+  "started": "2026-11-10 08:46:16"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-10 08:43:39"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-10 08:40:14"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-10 08:27:08"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-10 08:21:57"
   }
  ]
 }
