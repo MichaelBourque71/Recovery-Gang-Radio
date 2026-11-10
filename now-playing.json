@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:24:40-04:00",
+ "generated_at": "2026-11-10T18:27:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-10 18:24:38"
+  "title": "Yes",
+  "started": "2026-11-10 18:27:17"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-10 18:24:38"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-10 18:21:04"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-10 18:08:16"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-10 18:05:01"
   }
  ]
 }
