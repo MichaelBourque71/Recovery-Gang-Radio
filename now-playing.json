@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:19:17-04:00",
+ "generated_at": "2026-11-10T07:23:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-10 07:19:15"
+  "title": "One Brain Cell",
+  "started": "2026-11-10 07:23:38"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-10 07:19:15"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-10 07:15:53"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-10 07:01:28"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-10 06:57:25"
   }
  ]
 }
