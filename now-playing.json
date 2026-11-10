@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T23:20:45-04:00",
+ "generated_at": "2026-11-09T23:23:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-09 23:20:41"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-09 23:23:47"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-09 23:20:41"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-09 23:18:41"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-09 23:06:41"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-09 23:01:09"
   }
  ]
 }
