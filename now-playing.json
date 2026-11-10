@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:26:31-04:00",
+ "generated_at": "2026-11-10T07:32:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-10 07:26:28"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-10 07:32:47"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-10 07:26:28"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-10 07:23:38"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-10 07:12:35"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-10 07:07:56"
   }
  ]
 }
