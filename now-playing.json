@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T11:51:41-04:00",
+ "generated_at": "2026-11-10T11:55:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-10 11:51:39"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-10 11:55:37"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-10 11:51:39"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-10 11:46:11"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-10 11:33:36"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-10 11:28:37"
   }
  ]
 }
