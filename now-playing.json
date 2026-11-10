@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T18:38:04-04:00",
+ "generated_at": "2026-11-10T18:43:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-10 18:38:04"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-10 18:43:45"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-10 18:38:04"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-10 18:33:26"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-10 18:24:38"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-10 18:21:04"
   }
  ]
 }
