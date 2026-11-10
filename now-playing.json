@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T03:50:46-04:00",
+ "generated_at": "2026-11-10T03:54:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-10 03:50:45"
+  "title": "Mailer Demon",
+  "started": "2026-11-10 03:54:03"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-10 03:50:45"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-10 03:46:10"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-10 03:37:58"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-10 03:33:18"
   }
  ]
 }
