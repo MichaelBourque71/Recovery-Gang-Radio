@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T21:16:14-04:00",
+ "generated_at": "2026-11-09T21:22:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-09 21:16:13"
+  "title": "There Was A Time",
+  "started": "2026-11-09 21:22:02"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-09 21:16:13"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-09 21:10:36"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-09 20:58:01"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-09 20:54:25"
   }
  ]
 }
