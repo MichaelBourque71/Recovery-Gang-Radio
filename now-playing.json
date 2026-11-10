@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T11:09:15-04:00",
+ "generated_at": "2026-11-10T11:12:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-10 11:09:11"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-10 11:12:26"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-10 11:09:11"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-10 11:03:46"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-10 10:52:00"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-10 10:48:39"
   }
  ]
 }
