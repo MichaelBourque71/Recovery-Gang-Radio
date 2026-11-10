@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:26:45-04:00",
+ "generated_at": "2026-11-09T20:31:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-09 20:26:42"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-09 20:31:09"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-09 20:26:42"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-09 20:22:26"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-09 20:10:21"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-09 20:08:20"
   }
  ]
 }
