@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:33:11-04:00",
+ "generated_at": "2026-11-09T20:38:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-09 20:33:09"
+  "title": "Duck On The Dash",
+  "started": "2026-11-09 20:38:07"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-09 20:33:09"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-09 20:31:09"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-09 20:17:09"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-09 20:14:20"
   }
  ]
 }
