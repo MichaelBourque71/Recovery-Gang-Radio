@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T02:09:21-04:00",
+ "generated_at": "2026-11-10T02:12:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-10 02:09:18"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-10 02:12:55"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-10 02:09:18"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-10 02:05:11"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-10 01:51:09"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-10 01:45:52"
   }
  ]
 }
