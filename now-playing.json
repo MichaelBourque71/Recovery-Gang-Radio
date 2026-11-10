@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T10:41:42-04:00",
+ "generated_at": "2026-11-10T10:46:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-10 10:41:41"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-10 10:46:37"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-10 10:41:41"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-10 10:37:49"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-10 10:27:01"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-10 10:23:09"
   }
  ]
 }
