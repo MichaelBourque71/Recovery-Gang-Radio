@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T22:01:09-04:00",
+ "generated_at": "2026-11-09T22:03:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-09 22:01:05"
+  "title": "Day And Night",
+  "started": "2026-11-09 22:03:46"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-09 22:01:05"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-09 21:55:29"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-09 21:41:30"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-09 21:36:07"
   }
  ]
 }
