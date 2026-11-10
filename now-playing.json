@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-09T20:31:10-04:00",
+ "generated_at": "2026-11-09T20:33:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-09 20:31:09"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-09 20:33:09"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-09 20:31:09"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-09 20:26:42"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-09 20:14:20"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-09 20:10:21"
   }
  ]
 }
