@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T07:54:37-04:00",
+ "generated_at": "2026-11-10T07:59:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-10 07:54:36"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-10 07:59:03"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-10 07:54:36"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-10 07:52:24"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-10 07:41:19"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-10 07:37:00"
   }
  ]
 }
