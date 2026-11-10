@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T15:18:56-04:00",
+ "generated_at": "2026-11-10T15:22:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-10 15:18:51"
+  "title": "Stranger Danger",
+  "started": "2026-11-10 15:21:57"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-10 15:18:51"
+  },
   {
    "title": "You",
    "started": "2026-11-10 15:15:09"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-10 15:03:26"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-10 14:58:56"
   }
  ]
 }
