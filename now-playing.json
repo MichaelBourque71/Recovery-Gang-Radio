@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T06:50:15-04:00",
+ "generated_at": "2026-11-10T06:54:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-10 06:50:13"
+  "title": "Here’s a Stack",
+  "started": "2026-11-10 06:54:25"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-10 06:50:13"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-10 06:45:09"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-10 06:29:36"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-10 06:24:48"
   }
  ]
 }
