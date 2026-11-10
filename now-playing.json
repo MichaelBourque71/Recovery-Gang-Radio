@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T17:26:38-04:00",
+ "generated_at": "2026-11-10T17:31:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-10 17:26:36"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-10 17:31:33"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-10 17:26:36"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-10 17:23:09"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-10 17:09:15"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-10 17:06:04"
   }
  ]
 }
