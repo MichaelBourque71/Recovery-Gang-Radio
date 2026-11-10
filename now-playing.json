@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T05:30:54-04:00",
+ "generated_at": "2026-11-10T05:35:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-10 05:30:54"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-10 05:35:52"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-10 05:30:54"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-10 05:25:09"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-10 05:12:13"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-10 05:07:34"
   }
  ]
 }
