@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:47:59-04:00",
+ "generated_at": "2026-11-11T18:52:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-11 18:47:55"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-11 18:52:16"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-11 18:47:55"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-11 18:45:33"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-11 18:30:50"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-11 18:25:54"
   }
  ]
 }
