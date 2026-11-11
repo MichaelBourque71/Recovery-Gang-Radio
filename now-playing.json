@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:23:34-04:00",
+ "generated_at": "2026-11-11T17:27:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-11 17:23:30"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-11 17:27:55"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-11 17:23:30"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-11 17:19:57"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-11 17:08:12"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-11 17:04:41"
   }
  ]
 }
