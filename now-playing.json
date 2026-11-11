@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T23:14:48-04:00",
+ "generated_at": "2026-11-10T23:17:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-10 23:14:48"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-10 23:17:53"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-10 23:14:48"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-10 23:10:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-10 22:55:37"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-10 22:49:41"
   }
  ]
 }
