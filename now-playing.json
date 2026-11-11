@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:36:47-04:00",
+ "generated_at": "2026-11-11T07:37:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-11 07:36:44"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-11 07:37:32"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-11 07:36:44"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-11 07:33:39"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-11 07:19:31"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-11 07:15:46"
   }
  ]
 }
