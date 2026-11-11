@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-11T14:19:23-04:00",
+ "generated_at": "2026-11-11T14:25:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-11 14:17:59"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-11 14:23:46"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-11 14:20:40"
+  },
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-11 14:17:59"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-11 14:14:49"
@@ -17,14 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-11 14:06:15"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-11 14:03:47"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-11 13:58:30"
   }
  ]
 }
