@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T16:51:21-04:00",
+ "generated_at": "2026-11-11T16:57:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-11 16:51:18"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-11 16:57:09"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-11 16:51:18"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-11 16:46:01"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-11 16:35:02"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-11 16:31:53"
   }
  ]
 }
