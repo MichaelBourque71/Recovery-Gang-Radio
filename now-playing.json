@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:20:09-04:00",
+ "generated_at": "2026-11-11T09:25:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-11 09:20:05"
+  "title": "Doughnut Doug",
+  "started": "2026-11-11 09:25:04"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-11 09:20:05"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-11 09:17:01"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-11 09:05:43"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-11 09:01:45"
   }
  ]
 }
