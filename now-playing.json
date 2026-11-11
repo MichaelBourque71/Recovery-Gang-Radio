@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:51:43-04:00",
+ "generated_at": "2026-11-11T02:55:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-11 02:51:41"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-11 02:55:05"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-11 02:51:41"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-11 02:48:07"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-11 02:35:09"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-11 02:32:21"
   }
  ]
 }
