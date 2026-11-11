@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T16:46:04-04:00",
+ "generated_at": "2026-11-11T16:51:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-11 16:46:01"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-11 16:51:18"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-11 16:46:01"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-11 16:42:48"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-11 16:31:53"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-11 16:27:24"
   }
  ]
 }
