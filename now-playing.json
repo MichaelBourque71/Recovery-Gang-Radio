@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T16:35:06-04:00",
+ "generated_at": "2026-11-11T16:40:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-11 16:35:02"
+  "title": "Mushroom Parade",
+  "started": "2026-11-11 16:39:59"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-11 16:35:02"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-11 16:31:53"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-11 16:17:35"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-11 16:13:31"
   }
  ]
 }
