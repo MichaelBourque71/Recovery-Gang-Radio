@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:12:27-04:00",
+ "generated_at": "2026-11-11T17:15:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-11 17:12:26"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-11 17:15:19"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-11 17:12:26"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-11 17:08:12"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-11 16:57:09"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-11 16:51:18"
   }
  ]
 }
