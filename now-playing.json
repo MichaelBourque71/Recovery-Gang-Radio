@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T20:50:25-04:00",
+ "generated_at": "2026-11-10T20:55:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-10 20:50:23"
+  "title": "One More Night",
+  "started": "2026-11-10 20:55:54"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-10 20:50:23"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-10 20:47:18"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-10 20:37:04"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-10 20:33:00"
   }
  ]
 }
