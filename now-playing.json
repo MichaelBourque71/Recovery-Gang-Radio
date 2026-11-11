@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:12:38-04:00",
+ "generated_at": "2026-11-11T06:16:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-11 06:12:35"
+  "title": "My Harley Waits",
+  "started": "2026-11-11 06:16:53"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-11 06:12:35"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-11 06:07:23"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-11 05:56:33"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-11 05:51:58"
   }
  ]
 }
