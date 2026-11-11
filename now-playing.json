@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:35:44-04:00",
+ "generated_at": "2026-11-11T14:39:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Not Enough Hours",
-  "started": "2026-11-11 14:35:43"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-11 14:39:01"
  },
  "previous": [
+  {
+   "title": "Not Enough Hours",
+   "started": "2026-11-11 14:35:43"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-11 14:32:06"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-11 14:23:46"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-11 14:20:40"
   }
  ]
 }
