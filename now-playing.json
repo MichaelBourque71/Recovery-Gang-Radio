@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:37:36-04:00",
+ "generated_at": "2026-11-11T07:41:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-11 07:37:32"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-11 07:41:09"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-11 07:37:32"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-11 07:36:44"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-11 07:23:54"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-11 07:19:31"
   }
  ]
 }
