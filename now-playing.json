@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:54:20-04:00",
+ "generated_at": "2026-11-11T14:57:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-11 14:53:32"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-11 14:57:05"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-11 14:53:32"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-11 14:52:13"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-11 14:39:01"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-11 14:35:43"
   }
  ]
 }
