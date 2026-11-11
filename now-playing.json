@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:30:40-04:00",
+ "generated_at": "2026-11-11T12:32:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-11 12:28:59"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-11 12:32:24"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-11 12:28:59"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-11 12:23:25"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-11 12:11:39"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-11 12:07:16"
   }
  ]
 }
