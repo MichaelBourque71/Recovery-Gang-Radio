@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:02:43-04:00",
+ "generated_at": "2026-11-11T10:07:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-11 10:02:41"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-11 10:07:50"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-11 10:02:41"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-11 09:58:26"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 09:47:02"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-11 09:44:13"
   }
  ]
 }
