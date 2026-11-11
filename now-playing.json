@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:15:48-04:00",
+ "generated_at": "2026-11-11T07:19:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-11 07:15:46"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-11 07:19:31"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-11 07:15:46"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-11 07:12:43"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-11 07:02:38"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-11 06:58:18"
   }
  ]
 }
