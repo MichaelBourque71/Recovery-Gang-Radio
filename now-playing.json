@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:25:30-04:00",
+ "generated_at": "2026-11-11T10:30:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-11 10:25:28"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-11 10:30:50"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-11 10:25:28"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-11 10:20:47"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-11 10:07:50"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-11 10:02:41"
   }
  ]
 }
