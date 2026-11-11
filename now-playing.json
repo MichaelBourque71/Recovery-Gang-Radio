@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:53:54-04:00",
+ "generated_at": "2026-11-11T09:58:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-11 09:53:50"
+  "title": "Mean Francine",
+  "started": "2026-11-11 09:58:26"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-11 09:53:50"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-11 09:50:47"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-11 09:40:21"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-11 09:37:40"
   }
  ]
 }
