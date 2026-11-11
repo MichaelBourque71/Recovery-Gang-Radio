@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T03:51:24-04:00",
+ "generated_at": "2026-11-11T03:57:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-11 03:51:24"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-11 03:57:43"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-11 03:51:24"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-11 03:47:15"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-11 03:37:21"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-11 03:31:45"
   }
  ]
 }
