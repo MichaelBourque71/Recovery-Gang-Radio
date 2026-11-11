@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T19:56:28-04:00",
+ "generated_at": "2026-11-10T20:02:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-10 19:56:26"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-10 20:02:14"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-10 19:56:26"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-10 19:54:38"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-10 19:44:10"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-10 19:39:54"
   }
  ]
 }
