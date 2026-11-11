@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:58:23-04:00",
+ "generated_at": "2026-11-11T03:00:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-11 02:58:19"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-11 03:00:44"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-11 02:58:19"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-11 02:55:05"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-11 02:43:51"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-11 02:39:06"
   }
  ]
 }
