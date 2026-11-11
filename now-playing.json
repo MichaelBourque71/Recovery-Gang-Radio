@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T20:05:14-04:00",
+ "generated_at": "2026-11-10T20:08:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-10 20:05:13"
+  "title": "Fuck Winter",
+  "started": "2026-11-10 20:08:03"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-10 20:05:13"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-10 20:02:14"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-10 19:50:59"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-10 19:48:15"
   }
  ]
 }
