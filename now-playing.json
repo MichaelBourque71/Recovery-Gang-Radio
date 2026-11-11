@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:02:13-04:00",
+ "generated_at": "2026-11-11T04:07:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-11 04:02:11"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-11 04:07:01"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-11 04:02:11"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-11 03:57:43"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-11 03:44:43"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-11 03:40:38"
   }
  ]
 }
