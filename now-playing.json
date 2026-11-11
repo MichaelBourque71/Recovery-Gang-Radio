@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T20:59:36-04:00",
+ "generated_at": "2026-11-10T21:03:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-10 20:59:32"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-10 21:03:41"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-10 20:59:32"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-10 20:55:54"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-10 20:44:04"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-10 20:41:01"
   }
  ]
 }
