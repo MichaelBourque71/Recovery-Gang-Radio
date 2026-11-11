@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:22:51-04:00",
+ "generated_at": "2026-11-11T19:25:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-11 19:22:48"
+  "title": "Putz in a Suit",
+  "started": "2026-11-11 19:24:59"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-11 19:22:48"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-11 19:18:24"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-11 19:08:00"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-11 19:04:00"
   }
  ]
 }
