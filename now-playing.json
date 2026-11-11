@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:07:26-04:00",
+ "generated_at": "2026-11-11T06:12:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-11 06:07:23"
+  "title": "Balls Intact",
+  "started": "2026-11-11 06:12:35"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-11 06:07:23"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-11 06:02:35"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-11 05:51:58"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-11 05:48:48"
   }
  ]
 }
