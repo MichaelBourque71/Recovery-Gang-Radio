@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:12:47-04:00",
+ "generated_at": "2026-11-10T22:17:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-10 22:12:45"
+  "title": "Weaponized Children",
+  "started": "2026-11-10 22:17:23"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-10 22:12:45"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-10 22:07:33"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-10 21:56:10"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-10 21:54:16"
   }
  ]
 }
