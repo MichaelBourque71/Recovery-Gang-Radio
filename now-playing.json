@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:02:40-04:00",
+ "generated_at": "2026-11-11T06:07:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-11 06:02:35"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-11 06:07:23"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-11 06:02:35"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-11 05:59:53"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-11 05:48:48"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-11 05:44:30"
   }
  ]
 }
