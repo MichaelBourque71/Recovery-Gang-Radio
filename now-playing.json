@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:25:57-04:00",
+ "generated_at": "2026-11-11T18:30:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-11 18:25:54"
+  "title": "Built To Love",
+  "started": "2026-11-11 18:30:50"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-11 18:25:54"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-11 18:20:37"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-11 18:09:16"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-11 18:06:01"
   }
  ]
 }
