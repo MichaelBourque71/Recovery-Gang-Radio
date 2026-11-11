@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T11:16:10-04:00",
+ "generated_at": "2026-11-11T11:20:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-11 11:16:05"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-11 11:20:43"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-11 11:16:05"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-11 11:05:09"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-11 10:53:12"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-11 10:49:30"
   }
  ]
 }
