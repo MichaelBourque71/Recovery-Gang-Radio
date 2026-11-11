@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:17:05-04:00",
+ "generated_at": "2026-11-10T21:20:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-10 21:17:01"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-10 21:20:30"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-10 21:17:01"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-10 21:12:32"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-10 20:55:54"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-10 20:50:23"
   }
  ]
 }
