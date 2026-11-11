@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:34:15-04:00",
+ "generated_at": "2026-11-10T22:37:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-10 22:34:12"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-10 22:37:27"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-10 22:34:12"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-10 22:29:30"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-10 22:17:23"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-10 22:12:45"
   }
  ]
 }
