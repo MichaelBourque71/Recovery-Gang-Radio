@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:15:39-04:00",
+ "generated_at": "2026-11-11T04:20:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-11 04:15:35"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-11 04:20:59"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-11 04:15:35"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-11 04:11:09"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-11 03:57:43"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-11 03:51:24"
   }
  ]
 }
