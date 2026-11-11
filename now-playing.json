@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T01:19:06-04:00",
+ "generated_at": "2026-11-11T01:21:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-11 01:19:06"
+  "title": "Gaslight Halo",
+  "started": "2026-11-11 01:21:38"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-11 01:19:06"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-11 01:14:58"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-11 01:03:06"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-11 00:57:53"
   }
  ]
 }
