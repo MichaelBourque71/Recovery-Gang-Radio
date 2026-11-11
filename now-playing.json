@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:53:20-04:00",
+ "generated_at": "2026-11-11T08:57:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-11 08:53:19"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-11 08:57:31"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-11 08:53:19"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-11 08:48:42"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-11 08:37:06"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-11 08:33:11"
   }
  ]
 }
