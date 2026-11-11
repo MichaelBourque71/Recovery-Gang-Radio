@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T05:48:49-04:00",
+ "generated_at": "2026-11-11T05:52:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-11 05:48:48"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-11 05:51:58"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-11 05:48:48"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-11 05:44:30"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 05:29:26"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-11 05:23:51"
   }
  ]
 }
