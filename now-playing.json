@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T11:42:31-04:00",
+ "generated_at": "2026-11-11T11:47:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-11 11:42:28"
+  "title": "Stand for Freedom",
+  "started": "2026-11-11 11:47:28"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-11 11:42:28"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-11 11:39:03"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-11 11:26:35"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-11 11:20:43"
   }
  ]
 }
