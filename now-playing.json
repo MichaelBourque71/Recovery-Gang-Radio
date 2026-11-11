@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:20:49-04:00",
+ "generated_at": "2026-11-11T10:25:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-11 10:20:47"
+  "title": "Feel Alright",
+  "started": "2026-11-11 10:25:28"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-11 10:20:47"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-11 10:16:19"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-11 10:02:41"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-11 09:58:26"
   }
  ]
 }
