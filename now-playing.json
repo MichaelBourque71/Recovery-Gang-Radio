@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:29:52-04:00",
+ "generated_at": "2026-11-11T14:32:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-11 14:29:06"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-11 14:32:06"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-11 14:29:06"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-11 14:28:11"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-11 14:17:59"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-11 14:14:49"
   }
  ]
 }
