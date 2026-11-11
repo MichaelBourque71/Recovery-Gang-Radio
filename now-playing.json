@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:02:40-04:00",
+ "generated_at": "2026-11-11T07:07:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-11 07:02:38"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-11 07:07:10"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-11 07:02:38"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-11 06:58:18"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-11 06:44:27"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-11 06:41:13"
   }
  ]
 }
