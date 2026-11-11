@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T00:50:17-04:00",
+ "generated_at": "2026-11-11T00:54:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-11 00:50:16"
+  "title": "Weaponized Children",
+  "started": "2026-11-11 00:54:12"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-11 00:50:16"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-11 00:44:59"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-11 00:32:59"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-11 00:29:09"
   }
  ]
 }
