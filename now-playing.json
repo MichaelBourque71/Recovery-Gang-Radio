@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:33:15-04:00",
+ "generated_at": "2026-11-11T08:37:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-11 08:33:11"
+  "title": "Living For Peace",
+  "started": "2026-11-11 08:37:06"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-11 08:33:11"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-11 08:27:44"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-11 08:14:07"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-11 08:09:52"
   }
  ]
 }
