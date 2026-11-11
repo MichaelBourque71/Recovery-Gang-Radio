@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:25:01-04:00",
+ "generated_at": "2026-11-11T19:28:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-11 19:24:59"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-11 19:28:19"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-11 19:24:59"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-11 19:22:48"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 19:11:00"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-11 19:08:00"
   }
  ]
 }
