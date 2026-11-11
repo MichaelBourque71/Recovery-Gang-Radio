@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:20:37-04:00",
+ "generated_at": "2026-11-10T22:25:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-10 22:20:35"
+  "title": "Duck On The Dash",
+  "started": "2026-11-10 22:25:27"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-10 22:20:35"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-10 22:17:23"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-10 22:04:23"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-10 21:58:48"
   }
  ]
 }
