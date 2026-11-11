@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-11T04:58:14-04:00",
+ "generated_at": "2026-11-11T05:06:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-11 04:58:14"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-11 05:06:03"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-11 05:02:20"
+  },
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-11 04:58:14"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-11 04:54:14"
@@ -17,14 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-11 04:46:54"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-11 04:42:46"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-11 04:38:41"
   }
  ]
 }
