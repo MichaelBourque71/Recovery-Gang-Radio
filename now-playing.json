@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:58:49-04:00",
+ "generated_at": "2026-11-10T22:04:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-10 21:58:48"
+  "title": "Stolen Democracy",
+  "started": "2026-11-10 22:04:23"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-10 21:58:48"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-10 21:56:10"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-10 21:46:03"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-10 21:41:58"
   }
  ]
 }
