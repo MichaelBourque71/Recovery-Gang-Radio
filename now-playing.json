@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:03:44-04:00",
+ "generated_at": "2026-11-10T21:08:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-10 21:03:41"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-10 21:08:02"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-10 21:03:41"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-10 20:59:32"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-10 20:47:18"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-10 20:44:04"
   }
  ]
 }
