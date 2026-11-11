@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:09:52-04:00",
+ "generated_at": "2026-11-11T07:12:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-11 07:09:51"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-11 07:12:43"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-11 07:09:51"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-11 07:07:10"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-11 06:54:43"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-11 06:48:46"
   }
  ]
 }
