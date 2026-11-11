@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T16:27:28-04:00",
+ "generated_at": "2026-11-11T16:31:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-11 16:27:24"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-11 16:31:53"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-11 16:27:24"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 16:22:00"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-11 16:08:18"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-11 16:04:00"
   }
  ]
 }
