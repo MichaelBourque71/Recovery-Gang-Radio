@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:03:51-04:00",
+ "generated_at": "2026-11-11T14:06:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-11 14:03:47"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-11 14:06:15"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-11 14:03:47"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-11 13:58:30"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-11 13:45:45"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-11 13:40:36"
   }
  ]
 }
