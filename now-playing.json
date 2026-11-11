@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:52:19-04:00",
+ "generated_at": "2026-11-11T18:56:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-11 18:52:16"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-11 18:56:01"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-11 18:52:16"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-11 18:47:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-11 18:36:43"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-11 18:30:50"
   }
  ]
 }
