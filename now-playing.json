@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:09:37-04:00",
+ "generated_at": "2026-11-11T02:13:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-11 02:09:32"
+  "title": "Recovery Gang Radio - Beat The Algorithm",
+  "started": "2026-11-11 02:13:45"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-11 02:09:32"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-11 02:05:37"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-11 01:55:06"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-11 01:48:51"
   }
  ]
 }
