@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:38:44-04:00",
+ "generated_at": "2026-11-10T21:42:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-10 21:38:39"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-10 21:41:58"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-10 21:38:39"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-10 21:35:21"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-10 21:20:30"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-10 21:17:01"
   }
  ]
 }
