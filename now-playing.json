@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:53:45-04:00",
+ "generated_at": "2026-11-11T07:57:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-11 07:53:40"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-11 07:57:23"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-11 07:53:40"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-11 07:48:30"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 07:37:32"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-11 07:36:44"
   }
  ]
 }
