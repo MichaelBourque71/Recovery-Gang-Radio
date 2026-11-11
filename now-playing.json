@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T03:44:48-04:00",
+ "generated_at": "2026-11-11T03:47:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-11 03:44:43"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-11 03:47:15"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-11 03:44:43"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-11 03:40:38"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-11 03:28:25"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-11 03:23:30"
   }
  ]
 }
