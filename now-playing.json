@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-10T23:38:03-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-10T23:38:32-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Lines In Stone",
+  "started": "2026-11-10 23:38:31"
+ },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-10 23:33:05"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-10 23:29:39"
@@ -18,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-10 23:17:53"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-10 23:14:48"
   }
  ]
 }
