@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:53:12-04:00",
+ "generated_at": "2026-11-11T10:56:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-11 10:53:12"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-11 10:56:49"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-11 10:53:12"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-11 10:49:30"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-11 10:35:01"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-11 10:30:50"
   }
  ]
 }
