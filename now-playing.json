@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:20:34-04:00",
+ "generated_at": "2026-11-10T21:25:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-10 21:20:30"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-10 21:25:35"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-10 21:20:30"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-10 21:17:01"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-10 20:59:32"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-10 20:55:54"
   }
  ]
 }
