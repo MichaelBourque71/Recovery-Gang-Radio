@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:57:54-04:00",
+ "generated_at": "2026-11-11T13:02:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-11 12:56:36"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-11 13:02:10"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-11 12:56:36"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-11 12:52:32"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-11 12:42:35"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-11 12:36:46"
   }
  ]
 }
