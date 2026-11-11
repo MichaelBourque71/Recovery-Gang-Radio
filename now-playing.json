@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:07:35-04:00",
+ "generated_at": "2026-11-10T22:12:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-10 22:07:33"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-10 22:12:45"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-10 22:07:33"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-10 22:04:23"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-10 21:54:16"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-10 21:49:09"
   }
  ]
 }
