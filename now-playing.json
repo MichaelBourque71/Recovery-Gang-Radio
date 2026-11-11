@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:04:29-04:00",
+ "generated_at": "2026-11-10T22:07:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-10 22:04:23"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-10 22:07:33"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-10 22:04:23"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-10 21:58:48"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 21:49:09"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-10 21:46:03"
   }
  ]
 }
