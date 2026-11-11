@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:45:36-04:00",
+ "generated_at": "2026-11-11T18:47:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-11 18:45:33"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-11 18:47:55"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-11 18:45:33"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-11 18:41:51"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-11 18:25:54"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-11 18:20:37"
   }
  ]
 }
