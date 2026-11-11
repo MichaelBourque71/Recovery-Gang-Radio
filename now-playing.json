@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:47:30-04:00",
+ "generated_at": "2026-11-11T19:52:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-11 19:47:25"
+  "title": "420 Twice A Day",
+  "started": "2026-11-11 19:52:48"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-11 19:47:25"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-11 19:44:31"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-11 19:31:56"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-11 19:28:19"
   }
  ]
 }
