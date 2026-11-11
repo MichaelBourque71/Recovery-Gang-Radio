@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:44:14-04:00",
+ "generated_at": "2026-11-11T09:47:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-11 09:44:13"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-11 09:47:02"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-11 09:44:13"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-11 09:40:21"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-11 09:30:59"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-11 09:26:52"
   }
  ]
 }
