@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T20:08:07-04:00",
+ "generated_at": "2026-11-10T20:13:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-10 20:08:03"
+  "title": "Roadside Puddles",
+  "started": "2026-11-10 20:13:23"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-10 20:08:03"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-10 20:05:13"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-10 19:54:38"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-10 19:50:59"
   }
  ]
 }
