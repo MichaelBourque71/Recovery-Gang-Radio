@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T03:37:21-04:00",
+ "generated_at": "2026-11-11T03:40:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Not Enough Hours",
-  "started": "2026-11-11 03:37:21"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-11 03:40:38"
  },
  "previous": [
+  {
+   "title": "Not Enough Hours",
+   "started": "2026-11-11 03:37:21"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-11 03:31:45"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-11 03:20:05"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-11 03:16:49"
   }
  ]
 }
