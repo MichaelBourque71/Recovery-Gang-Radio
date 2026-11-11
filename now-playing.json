@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:34:10-04:00",
+ "generated_at": "2026-11-11T04:38:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-11 04:34:09"
+  "title": "Gaslight Halo",
+  "started": "2026-11-11 04:38:41"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-11 04:34:09"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-11 04:30:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-11 04:20:59"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-11 04:15:35"
   }
  ]
 }
