@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:27:54-04:00",
+ "generated_at": "2026-11-11T06:31:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-11 06:27:50"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-11 06:31:55"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-11 06:27:50"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 06:22:16"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-11 06:07:23"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-11 06:02:35"
   }
  ]
 }
