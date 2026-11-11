@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T13:45:50-04:00",
+ "generated_at": "2026-11-11T13:51:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-11 13:45:45"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-11 13:51:18"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-11 13:45:45"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-11 13:40:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 13:27:29"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-11 13:23:18"
   }
  ]
 }
