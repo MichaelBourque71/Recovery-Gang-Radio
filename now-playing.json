@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:08:02-04:00",
+ "generated_at": "2026-11-11T19:11:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-11 19:08:00"
+  "title": "I Do What I Want",
+  "started": "2026-11-11 19:11:00"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-11 19:08:00"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 19:04:00"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-11 18:52:16"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-11 18:47:55"
   }
  ]
 }
