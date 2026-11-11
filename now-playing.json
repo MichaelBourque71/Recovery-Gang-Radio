@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T05:34:36-04:00",
+ "generated_at": "2026-11-11T05:38:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-11 05:34:33"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-11 05:38:28"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-11 05:34:33"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 05:29:26"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-11 05:18:03"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-11 05:13:28"
   }
  ]
 }
