@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T11:59:26-04:00",
+ "generated_at": "2026-11-11T12:02:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Same Dust, Same Road",
-  "started": "2026-11-11 11:59:24"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-11 12:02:35"
  },
  "previous": [
+  {
+   "title": "Same Dust, Same Road",
+   "started": "2026-11-11 11:59:24"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-11 11:53:33"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-11 11:42:28"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-11 11:39:03"
   }
  ]
 }
