@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:27:58-04:00",
+ "generated_at": "2026-11-11T17:30:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-11 17:27:55"
+  "title": "Time For Talking",
+  "started": "2026-11-11 17:30:48"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-11 17:27:55"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-11 17:23:30"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-11 17:12:26"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-11 17:08:12"
   }
  ]
 }
