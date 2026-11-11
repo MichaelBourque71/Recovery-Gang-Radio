@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:25:29-04:00",
+ "generated_at": "2026-11-10T22:29:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-10 22:25:27"
+  "title": "Weed Coughs",
+  "started": "2026-11-10 22:29:30"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-10 22:25:27"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-10 22:20:35"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-10 22:07:33"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-10 22:04:23"
   }
  ]
 }
