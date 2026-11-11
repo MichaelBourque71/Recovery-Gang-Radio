@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:02:02-04:00",
+ "generated_at": "2026-11-11T02:05:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-11 02:01:59"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-11 02:05:37"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-11 02:01:59"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-11 01:58:19"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-11 01:44:57"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-11 01:39:34"
   }
  ]
 }
