@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:41:10-04:00",
+ "generated_at": "2026-11-11T07:45:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-11 07:41:09"
+  "title": "Running With Scissors",
+  "started": "2026-11-11 07:45:38"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-11 07:41:09"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 07:37:32"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-11 07:28:44"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-11 07:23:54"
   }
  ]
 }
