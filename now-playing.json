@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:48:46-04:00",
+ "generated_at": "2026-11-11T08:53:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-11 08:48:42"
+  "title": "LGBTQ",
+  "started": "2026-11-11 08:53:19"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-11 08:48:42"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-11 08:45:05"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-11 08:33:11"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-11 08:27:44"
   }
  ]
 }
