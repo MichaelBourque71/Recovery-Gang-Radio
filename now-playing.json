@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:53:06-04:00",
+ "generated_at": "2026-11-11T12:57:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-11 12:52:32"
+  "title": "Feel Alright",
+  "started": "2026-11-11 12:56:36"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-11 12:52:32"
+  },
   {
    "title": "Disobey Authority 2",
    "started": "2026-11-11 12:49:34"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-11 12:36:46"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-11 12:32:24"
   }
  ]
 }
