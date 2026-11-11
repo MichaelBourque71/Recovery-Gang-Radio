@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:32:14-04:00",
+ "generated_at": "2026-11-11T14:35:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-11 14:32:06"
+  "title": "Not Enough Hours",
+  "started": "2026-11-11 14:35:43"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-11 14:32:06"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-11 14:29:06"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-11 14:20:40"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-11 14:17:59"
   }
  ]
 }
