@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:53:53-04:00",
+ "generated_at": "2026-11-11T17:56:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-11 17:53:49"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-11 17:56:45"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-11 17:53:49"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-11 17:50:15"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-11 17:38:20"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-11 17:34:12"
   }
  ]
 }
