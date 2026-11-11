@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:09:53-04:00",
+ "generated_at": "2026-11-11T08:14:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-11 08:09:52"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-11 08:14:07"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-11 08:09:52"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-11 08:05:44"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-11 07:53:40"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-11 07:48:30"
   }
  ]
 }
