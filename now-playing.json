@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-10T23:33:08-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-10 23:33:05"
- },
+ "generated_at": "2026-11-10T23:38:03-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Go Go (Gadget Wiener)",
