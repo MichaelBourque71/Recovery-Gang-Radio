@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:50:08-04:00",
+ "generated_at": "2026-11-11T04:54:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-11 04:50:03"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-11 04:54:14"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-11 04:50:03"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-11 04:46:54"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-11 04:34:09"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-11 04:30:43"
   }
  ]
 }
