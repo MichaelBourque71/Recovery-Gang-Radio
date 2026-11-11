@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T01:15:01-04:00",
+ "generated_at": "2026-11-11T01:19:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-11 01:14:58"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-11 01:19:06"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-11 01:14:58"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-11 01:12:03"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-11 00:57:53"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-11 00:54:12"
   }
  ]
 }
