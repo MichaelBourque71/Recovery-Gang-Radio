@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:55:07-04:00",
+ "generated_at": "2026-11-11T02:58:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-11 02:55:05"
+  "title": "The Left Lies",
+  "started": "2026-11-11 02:58:19"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-11 02:55:05"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-11 02:51:41"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-11 02:39:06"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-11 02:35:09"
   }
  ]
 }
