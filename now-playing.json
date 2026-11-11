@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:50:49-04:00",
+ "generated_at": "2026-11-11T09:53:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-11 09:50:47"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-11 09:53:50"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-11 09:50:47"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 09:47:02"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-11 09:37:40"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-11 09:34:20"
   }
  ]
 }
