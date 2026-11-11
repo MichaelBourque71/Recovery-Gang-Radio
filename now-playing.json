@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:41:14-04:00",
+ "generated_at": "2026-11-11T06:44:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-11 06:41:13"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-11 06:44:27"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-11 06:41:13"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-11 06:35:29"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 06:22:16"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-11 06:16:53"
   }
  ]
 }
