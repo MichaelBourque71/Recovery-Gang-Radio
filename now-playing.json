@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:19:41-04:00",
+ "generated_at": "2026-11-11T12:24:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-11 12:19:22"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-11 12:23:25"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-11 12:19:22"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-11 12:15:16"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-11 12:04:44"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-11 12:02:35"
   }
  ]
 }
