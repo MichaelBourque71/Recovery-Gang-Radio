@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:01:47-04:00",
+ "generated_at": "2026-11-11T09:05:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-11 09:01:45"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-11 09:05:43"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-11 09:01:45"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-11 08:57:31"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-11 08:45:05"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-11 08:41:51"
   }
  ]
 }
