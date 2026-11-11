@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T00:29:10-04:00",
+ "generated_at": "2026-11-11T00:33:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-11 00:29:09"
+  "title": "Yes",
+  "started": "2026-11-11 00:32:59"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-11 00:29:09"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-11 00:23:56"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-11 00:13:45"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-11 00:08:39"
   }
  ]
 }
