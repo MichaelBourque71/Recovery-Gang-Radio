@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:07:53-04:00",
+ "generated_at": "2026-11-11T10:11:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-11 10:07:50"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-11 10:11:45"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-11 10:07:50"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-11 10:02:41"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-11 09:50:47"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-11 09:47:02"
   }
  ]
 }
