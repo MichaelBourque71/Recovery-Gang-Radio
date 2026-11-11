@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:49:44-04:00",
+ "generated_at": "2026-11-10T22:55:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-10 22:49:41"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-10 22:55:37"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-10 22:49:41"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-10 22:46:22"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-10 22:34:12"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-10 22:29:30"
   }
  ]
 }
