@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:32:58-04:00",
+ "generated_at": "2026-11-11T12:37:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-11 12:32:24"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-11 12:36:46"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-11 12:32:24"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-11 12:28:59"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-11 12:15:16"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-11 12:11:39"
   }
  ]
 }
