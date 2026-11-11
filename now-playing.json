@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:15:30-04:00",
+ "generated_at": "2026-11-11T19:18:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-11 19:15:30"
+  "title": "Gaslight Halo",
+  "started": "2026-11-11 19:18:24"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-11 19:15:30"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 19:11:00"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-11 18:59:25"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-11 18:56:01"
   }
  ]
 }
