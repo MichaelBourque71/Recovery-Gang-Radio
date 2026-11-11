@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:30:54-04:00",
+ "generated_at": "2026-11-11T18:36:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-11 18:30:50"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-11 18:36:43"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-11 18:30:50"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-11 18:25:54"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-11 18:14:15"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-11 18:09:16"
   }
  ]
 }
