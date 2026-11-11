@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:54:48-04:00",
+ "generated_at": "2026-11-11T06:58:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-11 06:54:43"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-11 06:58:18"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-11 06:54:43"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-11 06:48:46"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-11 06:35:29"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-11 06:31:55"
   }
  ]
 }
