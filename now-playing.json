@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:46:56-04:00",
+ "generated_at": "2026-11-11T04:50:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-11 04:46:54"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-11 04:50:03"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-11 04:46:54"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-11 04:42:46"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-11 04:30:43"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-11 04:26:45"
   }
  ]
 }
