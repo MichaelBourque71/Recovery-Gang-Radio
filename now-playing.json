@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:06:03-04:00",
+ "generated_at": "2026-11-11T18:09:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-11 18:06:01"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-11 18:09:16"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-11 18:06:01"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-11 18:01:43"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-11 17:50:15"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-11 17:46:17"
   }
  ]
 }
