@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T01:45:02-04:00",
+ "generated_at": "2026-11-11T01:48:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-11 01:44:57"
+  "title": "Built To Love",
+  "started": "2026-11-11 01:48:51"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-11 01:44:57"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-11 01:39:34"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 01:28:01"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-11 01:26:07"
   }
  ]
 }
