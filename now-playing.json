@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T22:17:24-04:00",
+ "generated_at": "2026-11-10T22:20:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-10 22:17:23"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-10 22:20:35"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-10 22:17:23"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-10 22:12:45"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-10 21:58:48"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-10 21:56:10"
   }
  ]
 }
