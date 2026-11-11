@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T00:13:50-04:00",
+ "generated_at": "2026-11-11T00:17:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-11 00:13:45"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-11 00:16:59"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-11 00:13:45"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-11 00:08:39"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-10 23:55:36"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-10 23:51:52"
   }
  ]
 }
