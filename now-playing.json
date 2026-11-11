@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:45:41-04:00",
+ "generated_at": "2026-11-11T07:48:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-11 07:45:38"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-11 07:48:30"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-11 07:45:38"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-11 07:41:09"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-11 07:33:39"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-11 07:28:44"
   }
  ]
 }
