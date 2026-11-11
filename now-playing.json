@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:34:20-04:00",
+ "generated_at": "2026-11-11T09:37:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-11 09:34:20"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-11 09:37:40"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-11 09:34:20"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-11 09:30:59"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-11 09:20:05"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-11 09:17:01"
   }
  ]
 }
