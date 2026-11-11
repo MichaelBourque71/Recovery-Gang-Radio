@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:56:47-04:00",
+ "generated_at": "2026-11-11T18:01:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-11 17:56:45"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-11 18:01:43"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-11 17:56:45"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-11 17:53:49"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-11 17:42:32"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-11 17:38:20"
   }
  ]
 }
