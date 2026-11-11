@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T02:23:47-04:00",
+ "generated_at": "2026-11-11T02:26:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-11 02:23:44"
+  "title": "Hard Way",
+  "started": "2026-11-11 02:26:44"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-11 02:23:44"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-11 02:19:28"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-11 02:09:32"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-11 02:05:37"
   }
  ]
 }
