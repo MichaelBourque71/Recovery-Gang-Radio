@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:39:05-04:00",
+ "generated_at": "2026-11-11T14:42:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-11 14:39:01"
+  "title": "Built To Love",
+  "started": "2026-11-11 14:42:08"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-11 14:39:01"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-11 14:35:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-11 14:28:11"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-11 14:23:46"
   }
  ]
 }
