@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:47:03-04:00",
+ "generated_at": "2026-11-11T09:50:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-11 09:47:02"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-11 09:50:47"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-11 09:47:02"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-11 09:44:13"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-11 09:34:20"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-11 09:30:59"
   }
  ]
 }
