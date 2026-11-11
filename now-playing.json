@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:45:56-04:00",
+ "generated_at": "2026-11-11T12:50:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-11 12:45:46"
+  "title": "Disobey Authority 2",
+  "started": "2026-11-11 12:49:34"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-11 12:45:46"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-11 12:42:35"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-11 12:28:59"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-11 12:23:25"
   }
  ]
 }
