@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:31:03-04:00",
+ "generated_at": "2026-11-10T21:35:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-10 21:31:01"
+  "title": "Southbound 737",
+  "started": "2026-11-10 21:35:21"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-10 21:31:01"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-10 21:25:35"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-10 21:12:32"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-10 21:03:41"
   }
  ]
 }
