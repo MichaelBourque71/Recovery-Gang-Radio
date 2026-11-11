@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:42:02-04:00",
+ "generated_at": "2026-11-10T21:46:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-10 21:41:58"
+  "title": "Stand for Freedom",
+  "started": "2026-11-10 21:46:03"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-10 21:41:58"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-10 21:38:39"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-10 21:25:35"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-10 21:20:30"
   }
  ]
 }
