@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:02:36-04:00",
+ "generated_at": "2026-11-11T08:05:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-11 08:02:35"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-11 08:05:44"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-11 08:02:35"
+  },
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-11 07:57:23"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-11 07:45:38"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-11 07:41:09"
   }
  ]
 }
