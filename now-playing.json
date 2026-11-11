@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:54:21-04:00",
+ "generated_at": "2026-11-10T21:56:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-10 21:54:16"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-10 21:56:10"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-10 21:54:16"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-10 21:49:09"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-10 21:38:39"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-10 21:35:21"
   }
  ]
 }
