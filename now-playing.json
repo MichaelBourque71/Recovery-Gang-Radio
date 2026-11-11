@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:12:45-04:00",
+ "generated_at": "2026-11-11T07:15:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-11 07:12:43"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-11 07:15:46"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-11 07:12:43"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-11 07:09:51"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-11 06:58:18"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-11 06:54:43"
   }
  ]
 }
