@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T19:28:20-04:00",
+ "generated_at": "2026-11-11T19:31:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-11 19:28:19"
+  "title": "Keyboard Courage",
+  "started": "2026-11-11 19:31:56"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-11 19:28:19"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-11 19:24:59"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-11 19:15:30"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-11 19:11:00"
   }
  ]
 }
