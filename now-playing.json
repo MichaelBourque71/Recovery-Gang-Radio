@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T12:11:39-04:00",
+ "generated_at": "2026-11-11T12:15:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-11 12:11:39"
+  "title": "Gaslight Halo",
+  "started": "2026-11-11 12:15:16"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-11 12:11:39"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-11 12:07:16"
@@ -21,10 +25,6 @@
   {
    "title": "Same Dust, Same Road",
    "started": "2026-11-11 11:59:24"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-11 11:53:33"
   }
  ]
 }
