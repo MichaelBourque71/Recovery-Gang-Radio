@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T11:26:35-04:00",
+ "generated_at": "2026-11-11T11:31:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-11 11:26:35"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-11 11:31:39"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-11 11:26:35"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-11 11:20:43"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-11 11:00:08"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-11 10:56:49"
   }
  ]
 }
