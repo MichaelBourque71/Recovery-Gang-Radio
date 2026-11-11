@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:30:46-04:00",
+ "generated_at": "2026-11-11T04:34:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-11 04:30:43"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-11 04:34:09"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-11 04:30:43"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-11 04:26:45"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-11 04:15:35"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-11 04:11:09"
   }
  ]
 }
