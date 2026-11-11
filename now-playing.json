@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T08:17:42-04:00",
+ "generated_at": "2026-11-11T08:23:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-11 08:17:42"
+  "title": "Stand for Freedom",
+  "started": "2026-11-11 08:23:38"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-11 08:17:42"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-11 08:14:07"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-11 08:02:35"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-11 07:57:23"
   }
  ]
 }
