@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:48:03-04:00",
+ "generated_at": "2026-11-11T14:52:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-11 14:47:59"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-11 14:52:13"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-11 14:47:59"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-11 14:42:08"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-11 14:32:06"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-11 14:29:06"
   }
  ]
 }
