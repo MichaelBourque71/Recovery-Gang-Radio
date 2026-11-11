@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T16:40:03-04:00",
+ "generated_at": "2026-11-11T16:42:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-11 16:39:59"
+  "title": "Here’s a Stack",
+  "started": "2026-11-11 16:42:48"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-11 16:39:59"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-11 16:35:02"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 16:22:00"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-11 16:17:35"
   }
  ]
 }
