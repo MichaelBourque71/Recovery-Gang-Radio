@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T03:23:33-04:00",
+ "generated_at": "2026-11-11T03:28:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-11 03:23:30"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-11 03:28:25"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-11 03:23:30"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-11 03:20:05"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-11 03:08:59"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-11 03:06:07"
   }
  ]
 }
