@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T09:37:44-04:00",
+ "generated_at": "2026-11-11T09:40:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-11 09:37:40"
+  "title": "Monopoly Mark",
+  "started": "2026-11-11 09:40:21"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-11 09:37:40"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-11 09:34:20"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-11 09:25:04"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-11 09:20:05"
   }
  ]
 }
