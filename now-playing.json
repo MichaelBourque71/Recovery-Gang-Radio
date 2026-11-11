@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T18:41:52-04:00",
+ "generated_at": "2026-11-11T18:45:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-11 18:41:51"
+  "title": "Acid Freak",
+  "started": "2026-11-11 18:45:33"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-11 18:41:51"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-11 18:36:43"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-11 18:20:37"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-11 18:17:13"
   }
  ]
 }
