@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:16:54-04:00",
+ "generated_at": "2026-11-11T06:22:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-11 06:16:53"
+  "title": "I Do What I Want",
+  "started": "2026-11-11 06:22:16"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-11 06:16:53"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-11 06:12:35"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-11 05:59:53"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-11 05:56:33"
   }
  ]
 }
