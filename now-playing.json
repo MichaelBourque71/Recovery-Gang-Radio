@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T04:54:15-04:00",
+ "generated_at": "2026-11-11T04:58:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-11 04:54:14"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-11 04:58:14"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-11 04:54:14"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-11 04:50:03"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-11 04:38:41"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-11 04:34:09"
   }
  ]
 }
