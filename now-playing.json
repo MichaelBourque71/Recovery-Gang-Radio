@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T14:42:12-04:00",
+ "generated_at": "2026-11-11T14:48:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-11 14:42:08"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-11 14:47:59"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-11 14:42:08"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-11 14:39:01"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-11 14:29:06"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-11 14:28:11"
   }
  ]
 }
