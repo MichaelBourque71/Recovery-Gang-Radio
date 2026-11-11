@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T06:22:16-04:00",
+ "generated_at": "2026-11-11T06:27:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-11 06:22:16"
+  "title": "Roadside Puddles",
+  "started": "2026-11-11 06:27:50"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-11 06:22:16"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-11 06:16:53"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-11 06:02:35"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-11 05:59:53"
   }
  ]
 }
