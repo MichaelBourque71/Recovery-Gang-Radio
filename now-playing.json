@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T13:17:08-04:00",
+ "generated_at": "2026-11-11T13:19:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-11 13:16:51"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-11 13:19:13"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-11 13:16:51"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-11 13:13:08"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-11 13:02:10"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-11 12:56:36"
   }
  ]
 }
