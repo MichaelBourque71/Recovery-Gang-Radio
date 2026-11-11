@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T07:33:39-04:00",
+ "generated_at": "2026-11-11T07:36:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-11 07:33:39"
+  "title": "Recovery Gang Radio - Beat The Algorithm",
+  "started": "2026-11-11 07:36:44"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-11 07:33:39"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-11 07:28:44"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-11 07:15:46"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-11 07:12:43"
   }
  ]
 }
