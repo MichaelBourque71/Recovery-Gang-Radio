@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T17:30:51-04:00",
+ "generated_at": "2026-11-11T17:34:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-11 17:30:48"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-11 17:34:12"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-11 17:30:48"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-11 17:27:55"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-11 17:15:19"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-11 17:12:26"
   }
  ]
 }
