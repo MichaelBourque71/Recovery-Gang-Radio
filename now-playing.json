@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T10:11:48-04:00",
+ "generated_at": "2026-11-11T10:16:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-11 10:11:45"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-11 10:16:19"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-11 10:11:45"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-11 10:07:50"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-11 09:53:50"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-11 09:50:47"
   }
  ]
 }
