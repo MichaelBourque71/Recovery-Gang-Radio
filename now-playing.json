@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T00:20:49-04:00",
+ "generated_at": "2026-11-11T00:23:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-11 00:20:46"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-11 00:23:56"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-11 00:20:46"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-11 00:16:59"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-11 00:04:30"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-10 23:58:54"
   }
  ]
 }
