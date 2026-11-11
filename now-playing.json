@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-10T21:35:25-04:00",
+ "generated_at": "2026-11-10T21:38:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-10 21:35:21"
+  "title": "Clown In A Crown",
+  "started": "2026-11-10 21:38:39"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-10 21:35:21"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-10 21:31:01"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-10 21:17:01"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-10 21:12:32"
   }
  ]
 }
