@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:29:12-04:00",
+ "generated_at": "2026-11-11T23:33:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-11 23:29:07"
+  "title": "Stand for Freedom",
+  "started": "2026-11-11 23:33:36"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-11 23:29:07"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-11 23:24:57"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-11 23:12:55"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-11 23:09:02"
   }
  ]
 }
