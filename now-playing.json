@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T12:11:32-04:00",
+ "generated_at": "2026-11-12T12:17:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-12 12:11:29"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-12 12:17:47"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-12 12:11:29"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-12 12:07:01"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-12 11:54:16"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-12 11:48:37"
   }
  ]
 }
