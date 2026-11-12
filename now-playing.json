@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:47:36-04:00",
+ "generated_at": "2026-11-12T06:52:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-12 06:47:32"
+  "title": "Here’s a Stack",
+  "started": "2026-11-12 06:52:14"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-12 06:47:32"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-12 06:44:15"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-12 06:30:54"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-12 06:26:38"
   }
  ]
 }
