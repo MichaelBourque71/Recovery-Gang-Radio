@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T12:17:52-04:00",
+ "generated_at": "2026-11-12T12:22:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-12 12:17:47"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-12 12:22:39"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-12 12:17:47"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-12 12:11:29"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-12 11:58:59"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-12 11:54:16"
   }
  ]
 }
