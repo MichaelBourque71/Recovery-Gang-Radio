@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:20:32-04:00",
+ "generated_at": "2026-11-12T14:24:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-12 14:20:30"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-12 14:24:38"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-12 14:20:30"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-12 14:14:53"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 14:02:16"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-12 13:57:24"
   }
  ]
 }
