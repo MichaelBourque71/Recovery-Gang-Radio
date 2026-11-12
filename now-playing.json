@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T18:37:07-04:00",
+ "generated_at": "2026-11-12T18:42:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-12 18:37:05"
+  "title": "Stand for Freedom",
+  "started": "2026-11-12 18:42:51"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-12 18:37:05"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-12 18:33:21"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-12 18:20:52"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-12 18:15:26"
   }
  ]
 }
