@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:03:30-04:00",
+ "generated_at": "2026-11-12T10:09:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-12 10:03:29"
+  "title": "Take Our Country Back",
+  "started": "2026-11-12 10:09:17"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-12 10:03:29"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-12 09:59:34"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 09:49:22"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-12 09:44:50"
   }
  ]
 }
