@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:59:35-04:00",
+ "generated_at": "2026-11-12T10:03:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-12 09:59:34"
+  "title": "Fuck Winter",
+  "started": "2026-11-12 10:03:29"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-12 09:59:34"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 09:56:25"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-12 09:44:50"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-12 09:41:58"
   }
  ]
 }
