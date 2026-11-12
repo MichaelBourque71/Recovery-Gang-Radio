@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T18:20:57-04:00",
+ "generated_at": "2026-11-12T18:25:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-12 18:20:52"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-12 18:25:45"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-12 18:20:52"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-12 18:15:26"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-12 18:05:11"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-12 18:01:46"
   }
  ]
 }
