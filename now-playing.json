@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:51:16-04:00",
+ "generated_at": "2026-11-12T01:53:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-12 01:51:11"
+  "title": "Dead Ideology ",
+  "started": "2026-11-12 01:53:45"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-12 01:51:11"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-12 01:45:46"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-12 01:32:17"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-12 01:29:40"
   }
  ]
 }
