@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:40:32-04:00",
+ "generated_at": "2026-11-12T03:45:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-12 03:40:28"
+  "title": "There Was A Time",
+  "started": "2026-11-12 03:45:07"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-12 03:40:28"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 03:36:56"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-12 03:28:05"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-12 03:24:16"
   }
  ]
 }
