@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:22:06-04:00",
+ "generated_at": "2026-11-12T04:26:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-12 04:22:01"
+  "title": "I Do What I Want",
+  "started": "2026-11-12 04:26:02"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-12 04:22:01"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-12 04:17:10"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-12 04:01:59"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-12 03:57:31"
   }
  ]
 }
