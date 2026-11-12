@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:29:40-04:00",
+ "generated_at": "2026-11-12T01:32:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-12 01:29:40"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-12 01:32:17"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-12 01:29:40"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-12 01:27:14"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-12 01:14:12"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-12 01:10:37"
   }
  ]
 }
