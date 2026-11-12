@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:30:56-04:00",
+ "generated_at": "2026-11-12T06:36:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-12 06:30:54"
+  "title": "Southbound 737",
+  "started": "2026-11-12 06:36:19"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-12 06:30:54"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-12 06:26:38"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-12 06:14:04"
-  },
-  {
-   "title": "Pair A - It Was Time + Built To Love",
-   "started": "2026-11-12 06:02:49"
   }
  ]
 }
