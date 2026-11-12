@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:05:33-04:00",
+ "generated_at": "2026-11-11T22:10:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-11 22:05:33"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-11 22:10:14"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-11 22:05:33"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 22:00:26"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-11 21:49:39"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-11 21:45:12"
   }
  ]
 }
