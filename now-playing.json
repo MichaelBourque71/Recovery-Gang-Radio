@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:26:38-04:00",
+ "generated_at": "2026-11-12T19:31:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-12 19:26:34"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-12 19:31:05"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-12 19:26:34"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-12 19:23:03"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-12 19:11:44"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-12 19:07:26"
   }
  ]
 }
