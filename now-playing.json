@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:39:04-04:00",
+ "generated_at": "2026-11-12T10:43:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-12 10:39:02"
+  "title": "One Brain Cell",
+  "started": "2026-11-12 10:43:31"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-12 10:39:02"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-12 10:34:50"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-12 10:23:44"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-12 10:18:20"
   }
  ]
 }
