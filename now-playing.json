@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:31:55-04:00",
+ "generated_at": "2026-11-12T07:33:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-12 07:31:51"
+  "title": "Duck On The Dash",
+  "started": "2026-11-12 07:33:52"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-12 07:31:51"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-12 07:26:32"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-12 07:16:30"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-12 07:12:08"
   }
  ]
 }
