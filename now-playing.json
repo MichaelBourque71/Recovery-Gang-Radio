@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:33:40-04:00",
+ "generated_at": "2026-11-12T09:38:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-12 09:33:35"
+  "title": "Clown In A Crown",
+  "started": "2026-11-12 09:38:18"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-12 09:33:35"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-12 09:28:47"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-12 09:17:17"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-12 09:12:35"
   }
  ]
 }
