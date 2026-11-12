@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:14:05-04:00",
+ "generated_at": "2026-11-12T06:18:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-12 06:14:04"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-12 06:18:09"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-12 06:14:04"
+  },
   {
    "title": "Pair A - It Was Time + Built To Love",
    "started": "2026-11-12 06:02:49"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-12 05:47:44"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-12 05:43:16"
   }
  ]
 }
