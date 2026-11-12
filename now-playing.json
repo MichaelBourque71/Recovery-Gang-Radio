@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:28:24-04:00",
+ "generated_at": "2026-11-12T17:32:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-12 17:28:20"
+  "title": "Honourable, My Ass!! (silentH)",
+  "started": "2026-11-12 17:32:36"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-12 17:28:20"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 17:25:15"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-12 17:12:21"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-12 17:06:39"
   }
  ]
 }
