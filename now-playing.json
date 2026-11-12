@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:57:53-04:00",
+ "generated_at": "2026-11-12T00:01:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-11 23:57:49"
+  "title": "Here’s a Stack",
+  "started": "2026-11-12 00:01:38"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-11 23:57:49"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-11 23:54:43"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-11 23:42:04"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-11 23:36:30"
   }
  ]
 }
