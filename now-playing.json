@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:38:19-04:00",
+ "generated_at": "2026-11-12T09:42:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-12 09:38:18"
+  "title": "Take Your Laws",
+  "started": "2026-11-12 09:41:58"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-12 09:38:18"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-12 09:33:35"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-12 09:21:30"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-12 09:17:17"
   }
  ]
 }
