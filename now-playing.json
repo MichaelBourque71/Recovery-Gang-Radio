@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:09:20-04:00",
+ "generated_at": "2026-11-12T10:14:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-12 10:09:17"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-12 10:14:54"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-12 10:09:17"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-12 10:03:29"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-12 09:52:28"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-12 09:49:22"
   }
  ]
 }
