@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:23:44-04:00",
+ "generated_at": "2026-11-12T10:26:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-12 10:23:44"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-12 10:26:56"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-12 10:23:44"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-12 10:18:20"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-12 10:03:29"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-12 09:59:34"
   }
  ]
 }
