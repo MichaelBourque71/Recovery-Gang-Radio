@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:34:08-04:00",
+ "generated_at": "2026-11-11T22:38:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-11 22:34:06"
+  "title": "Built To Love",
+  "started": "2026-11-11 22:38:29"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-11 22:34:06"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-11 22:28:11"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-11 22:18:54"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-11 22:14:13"
   }
  ]
 }
