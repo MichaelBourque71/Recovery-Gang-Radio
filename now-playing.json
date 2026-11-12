@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:48:09-04:00",
+ "generated_at": "2026-11-12T08:51:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-12 08:48:07"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-12 08:51:42"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-12 08:48:07"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 08:44:32"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-12 08:35:14"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-12 08:31:10"
   }
  ]
 }
