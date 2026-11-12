@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:32:16-04:00",
+ "generated_at": "2026-11-12T05:38:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-12 05:32:13"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-12 05:38:04"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-12 05:32:13"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-12 05:27:02"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-12 05:13:55"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-12 05:10:11"
   }
  ]
 }
