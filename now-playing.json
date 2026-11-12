@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:39:49-04:00",
+ "generated_at": "2026-11-12T06:44:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-12 06:39:48"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-12 06:44:15"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-12 06:39:48"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-12 06:36:19"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-12 06:23:26"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-12 06:18:09"
   }
  ]
 }
