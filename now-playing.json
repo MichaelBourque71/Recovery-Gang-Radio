@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:24:19-04:00",
+ "generated_at": "2026-11-11T22:28:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-11 22:24:18"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-11 22:28:11"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-11 22:24:18"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-11 22:21:08"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-11 22:10:14"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-11 22:05:33"
   }
  ]
 }
