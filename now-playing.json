@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:42:08-04:00",
+ "generated_at": "2026-11-11T23:47:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-11 23:42:04"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-11 23:47:17"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-11 23:42:04"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-11 23:36:30"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-11 23:24:57"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-11 23:21:10"
   }
  ]
 }
