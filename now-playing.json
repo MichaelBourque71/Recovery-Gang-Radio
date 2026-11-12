@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T11:34:29-04:00",
+ "generated_at": "2026-11-12T11:37:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-12 11:34:24"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-12 11:37:29"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-12 11:34:24"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-12 11:31:42"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-12 11:20:55"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-12 11:17:01"
   }
  ]
 }
