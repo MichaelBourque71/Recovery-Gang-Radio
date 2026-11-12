@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:21:10-04:00",
+ "generated_at": "2026-11-11T23:24:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-11 23:21:10"
+  "title": "Start Living Again",
+  "started": "2026-11-11 23:24:57"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-11 23:21:10"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-11 23:16:59"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-11 23:05:49"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-11 23:00:27"
   }
  ]
 }
