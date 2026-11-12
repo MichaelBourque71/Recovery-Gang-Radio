@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:26:05-04:00",
+ "generated_at": "2026-11-12T04:30:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-12 04:26:02"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-12 04:30:32"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-12 04:26:02"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-12 04:22:01"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-12 04:07:19"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-12 04:01:59"
   }
  ]
 }
