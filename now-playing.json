@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:14:57-04:00",
+ "generated_at": "2026-11-12T14:20:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-12 14:14:53"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-12 14:20:30"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-12 14:14:53"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-12 14:10:48"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-12 13:57:24"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-12 13:52:28"
   }
  ]
 }
