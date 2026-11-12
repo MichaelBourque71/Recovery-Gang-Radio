@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:14:14-04:00",
+ "generated_at": "2026-11-11T22:18:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-11 22:14:13"
+  "title": "The Left Lies",
+  "started": "2026-11-11 22:18:54"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-11 22:14:13"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-11 22:10:14"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-11 21:56:52"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-11 21:53:24"
   }
  ]
 }
