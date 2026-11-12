@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:38:07-04:00",
+ "generated_at": "2026-11-12T05:43:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-12 05:38:04"
+  "title": "Weed Coughs",
+  "started": "2026-11-12 05:43:16"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-12 05:38:04"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-12 05:32:13"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-12 05:19:47"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-12 05:13:55"
   }
  ]
 }
