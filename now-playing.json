@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:58:56-04:00",
+ "generated_at": "2026-11-12T05:02:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-12 04:58:51"
+  "title": "Start Living Again",
+  "started": "2026-11-12 05:02:16"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-12 04:58:51"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-12 04:54:30"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-12 04:42:31"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-12 04:38:28"
   }
  ]
 }
