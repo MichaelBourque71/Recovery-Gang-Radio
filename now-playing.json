@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:23:23-04:00",
+ "generated_at": "2026-11-12T07:26:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-12 07:23:22"
+  "title": "Greedy Bitch",
+  "started": "2026-11-12 07:26:32"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-12 07:23:22"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-12 07:19:04"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-12 07:06:17"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-12 07:00:40"
   }
  ]
 }
