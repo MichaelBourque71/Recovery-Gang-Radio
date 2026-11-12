@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:36:19-04:00",
+ "generated_at": "2026-11-12T06:39:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-12 06:36:19"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-12 06:39:48"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-12 06:36:19"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-12 06:30:54"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-12 06:18:09"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-12 06:14:04"
   }
  ]
 }
