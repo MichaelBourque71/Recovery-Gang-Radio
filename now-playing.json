@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:28:43-04:00",
+ "generated_at": "2026-11-11T20:32:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-11 20:28:42"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-11 20:32:38"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-11 20:28:42"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-11 20:24:47"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-11 20:11:32"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-11 20:05:50"
   }
  ]
 }
