@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:19:13-04:00",
+ "generated_at": "2026-11-12T03:24:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-12 03:19:10"
+  "title": "History Collects",
+  "started": "2026-11-12 03:24:16"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-12 03:19:10"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-12 03:14:13"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-12 03:01:49"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-12 02:56:51"
   }
  ]
 }
