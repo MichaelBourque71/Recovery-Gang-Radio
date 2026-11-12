@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:19:49-04:00",
+ "generated_at": "2026-11-12T05:23:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-12 05:19:47"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-12 05:23:03"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-12 05:19:47"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-12 05:13:55"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-12 05:02:16"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-12 04:58:51"
   }
  ]
 }
