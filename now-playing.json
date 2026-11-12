@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T00:11:30-04:00",
+ "generated_at": "2026-11-12T00:14:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-12 00:11:30"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-12 00:14:24"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-12 00:11:30"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 00:07:05"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-11 23:57:49"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-11 23:54:43"
   }
  ]
 }
