@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:27:19-04:00",
+ "generated_at": "2026-11-12T01:29:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-12 01:27:14"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-12 01:29:40"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-12 01:27:14"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-12 01:22:56"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-12 01:10:37"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-12 01:07:55"
   }
  ]
 }
