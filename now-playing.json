@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:35:30-04:00",
+ "generated_at": "2026-11-11T20:38:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-11 20:35:26"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-11 20:38:25"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-11 20:35:26"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-11 20:32:38"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-11 20:21:22"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-11 20:16:00"
   }
  ]
 }
