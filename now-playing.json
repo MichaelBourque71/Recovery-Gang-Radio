@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:00:29-04:00",
+ "generated_at": "2026-11-12T19:03:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-12 19:00:29"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-12 19:03:55"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-12 19:00:29"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-12 18:54:38"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-12 18:42:51"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-12 18:37:05"
   }
  ]
 }
