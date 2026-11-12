@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T15:18:43-04:00",
+ "generated_at": "2026-11-12T15:22:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-12 15:18:40"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-12 15:22:30"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-12 15:18:40"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-12 15:14:37"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 14:59:11"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-12 14:54:10"
   }
  ]
 }
