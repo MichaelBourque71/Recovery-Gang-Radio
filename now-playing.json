@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T13:29:47-04:00",
+ "generated_at": "2026-11-12T13:33:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-12 13:29:42"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-12 13:33:52"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-12 13:29:42"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-12 13:25:42"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-12 13:14:42"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-12 13:10:38"
   }
  ]
 }
