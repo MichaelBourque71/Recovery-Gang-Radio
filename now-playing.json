@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:33:54-04:00",
+ "generated_at": "2026-11-12T07:37:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-12 07:33:52"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-12 07:37:16"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-12 07:33:52"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-12 07:31:51"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-12 07:19:04"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-12 07:16:30"
   }
  ]
 }
