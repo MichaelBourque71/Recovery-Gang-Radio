@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T00:55:59-04:00",
+ "generated_at": "2026-11-12T00:58:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-12 00:55:55"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-12 00:58:44"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-12 00:55:55"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-12 00:51:33"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-12 00:39:11"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-12 00:34:44"
   }
  ]
 }
