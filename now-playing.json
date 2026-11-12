@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:19:06-04:00",
+ "generated_at": "2026-11-12T07:23:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-12 07:19:04"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-12 07:23:22"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-12 07:19:04"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-12 07:16:30"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-12 07:00:40"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-12 06:55:13"
   }
  ]
 }
