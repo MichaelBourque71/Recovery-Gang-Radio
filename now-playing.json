@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:03:59-04:00",
+ "generated_at": "2026-11-11T20:05:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-11 20:03:55"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-11 20:05:50"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-11 20:03:55"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-11 19:58:40"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-11 19:47:25"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-11 19:44:31"
   }
  ]
 }
