@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:27:07-04:00",
+ "generated_at": "2026-11-12T05:32:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-12 05:27:02"
+  "title": "Built To Love",
+  "started": "2026-11-12 05:32:13"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-12 05:27:02"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-12 05:23:03"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-12 05:10:11"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-12 05:06:26"
   }
  ]
 }
