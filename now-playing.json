@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-12T08:31:15-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-12 08:31:10"
- },
+ "generated_at": "2026-11-12T08:35:14-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-12 08:31:10"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-12 08:26:20"
@@ -21,10 +22,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-12 08:14:55"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-12 08:11:36"
   }
  ]
 }
