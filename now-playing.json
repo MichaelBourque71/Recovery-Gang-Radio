@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:23:07-04:00",
+ "generated_at": "2026-11-12T05:27:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-12 05:23:03"
+  "title": "Back Down While You Still Can (Alt version)",
+  "started": "2026-11-12 05:27:02"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-12 05:23:03"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-12 05:19:47"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-12 05:06:26"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-12 05:02:16"
   }
  ]
 }
