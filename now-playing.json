@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:53:47-04:00",
+ "generated_at": "2026-11-12T01:58:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-12 01:53:45"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-12 01:58:06"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-12 01:53:45"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-12 01:51:11"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-12 01:34:58"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-12 01:32:17"
   }
  ]
 }
