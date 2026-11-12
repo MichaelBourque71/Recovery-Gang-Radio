@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:18:21-04:00",
+ "generated_at": "2026-11-12T10:23:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-12 10:18:20"
+  "title": "Weaponized Children",
+  "started": "2026-11-12 10:23:44"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-12 10:18:20"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-12 10:14:54"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-12 09:59:34"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-12 09:56:25"
   }
  ]
 }
