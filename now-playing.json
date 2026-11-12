@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:55:14-04:00",
+ "generated_at": "2026-11-12T08:59:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-12 08:55:10"
+  "title": "Acid Freak",
+  "started": "2026-11-12 08:59:29"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-12 08:55:10"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-12 08:51:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-12 08:41:52"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-12 08:38:41"
   }
  ]
 }
