@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T15:37:28-04:00",
+ "generated_at": "2026-11-12T15:40:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-12 15:37:27"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-12 15:40:28"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-12 15:37:27"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-12 15:32:37"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-12 15:22:30"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-12 15:18:40"
   }
  ]
 }
