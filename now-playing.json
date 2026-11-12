@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T18:54:41-04:00",
+ "generated_at": "2026-11-12T19:00:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-12 18:54:38"
+  "title": "Unstoppable Force",
+  "started": "2026-11-12 19:00:29"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-12 18:54:38"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-12 18:49:43"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-12 18:37:05"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-12 18:33:21"
   }
  ]
 }
