@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:30:32-04:00",
+ "generated_at": "2026-11-12T04:33:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-12 04:30:32"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-12 04:33:56"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-12 04:30:32"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-12 04:26:02"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-12 04:12:10"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-12 04:07:19"
   }
  ]
 }
