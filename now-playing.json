@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T15:27:56-04:00",
+ "generated_at": "2026-11-12T15:29:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-12 15:27:54"
+  "title": "Duck On The Dash",
+  "started": "2026-11-12 15:29:13"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-12 15:27:54"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-12 15:22:30"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-12 15:09:14"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-12 15:03:50"
   }
  ]
 }
