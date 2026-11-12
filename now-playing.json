@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T11:17:01-04:00",
+ "generated_at": "2026-11-12T11:20:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-12 11:17:01"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-12 11:20:55"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-12 11:17:01"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-12 11:12:29"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-12 11:02:36"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-12 10:58:25"
   }
  ]
 }
