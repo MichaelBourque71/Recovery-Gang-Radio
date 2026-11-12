@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:22:58-04:00",
+ "generated_at": "2026-11-12T01:27:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-12 01:22:56"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-12 01:27:14"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-12 01:22:56"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-12 01:19:09"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-12 01:07:55"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-12 01:05:32"
   }
  ]
 }
