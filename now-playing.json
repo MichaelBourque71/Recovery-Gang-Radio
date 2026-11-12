@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T15:22:34-04:00",
+ "generated_at": "2026-11-12T15:27:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-12 15:22:30"
+  "title": "Recovery Gang Radio - Beat The Algorithm",
+  "started": "2026-11-12 15:27:54"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-12 15:22:30"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-12 15:18:40"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-12 15:03:50"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-12 14:59:11"
   }
  ]
 }
