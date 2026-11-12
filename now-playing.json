@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:52:15-04:00",
+ "generated_at": "2026-11-12T06:55:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-12 06:52:14"
+  "title": "Hard Way",
+  "started": "2026-11-12 06:55:13"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-12 06:52:14"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-12 06:47:32"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-12 06:36:19"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-12 06:30:54"
   }
  ]
 }
