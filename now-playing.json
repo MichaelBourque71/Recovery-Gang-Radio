@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T15:40:30-04:00",
+ "generated_at": "2026-11-12T15:45:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-12 15:40:28"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-12 15:44:59"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-12 15:40:28"
+  },
   {
    "title": "Some People",
    "started": "2026-11-12 15:37:27"
@@ -21,10 +25,6 @@
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-12 15:27:54"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-12 15:22:30"
   }
  ]
 }
