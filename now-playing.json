@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:06:39-04:00",
+ "generated_at": "2026-11-12T14:10:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-12 14:06:35"
+  "title": "GUMMERS",
+  "started": "2026-11-12 14:10:48"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-12 14:06:35"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 14:02:16"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-12 13:48:41"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-12 13:44:13"
   }
  ]
 }
