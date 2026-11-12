@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:55:01-04:00",
+ "generated_at": "2026-11-12T10:58:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-12 10:54:56"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-12 10:58:25"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-12 10:54:56"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-12 10:49:30"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-12 10:39:02"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-12 10:34:50"
   }
  ]
 }
