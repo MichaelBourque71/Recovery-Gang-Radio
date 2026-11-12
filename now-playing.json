@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T16:08:54-04:00",
+ "generated_at": "2026-11-12T16:13:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-12 16:08:50"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-12 16:13:17"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-12 16:08:50"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-12 16:04:38"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-12 15:54:52"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-12 15:51:58"
   }
  ]
 }
