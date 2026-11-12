@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:51:42-04:00",
+ "generated_at": "2026-11-12T17:56:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-12 17:51:38"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-12 17:55:56"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-12 17:51:38"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-12 17:48:27"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-12 17:36:39"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-12 17:32:36"
   }
  ]
 }
