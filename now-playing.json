@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:01:51-04:00",
+ "generated_at": "2026-11-12T03:06:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-12 03:01:49"
+  "title": "Yes",
+  "started": "2026-11-12 03:06:26"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-12 03:01:49"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-12 02:56:51"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-12 02:45:11"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-12 02:41:58"
   }
  ]
 }
