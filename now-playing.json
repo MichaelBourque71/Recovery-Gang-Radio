@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T00:26:45-04:00",
+ "generated_at": "2026-11-12T00:31:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-12 00:26:42"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-12 00:31:02"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-12 00:26:42"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 00:22:13"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-12 00:11:30"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-12 00:07:05"
   }
  ]
 }
