@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:38:30-04:00",
+ "generated_at": "2026-11-12T04:42:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-12 04:38:28"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-12 04:42:31"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-12 04:38:28"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-12 04:33:56"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-12 04:22:01"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-12 04:17:10"
   }
  ]
 }
