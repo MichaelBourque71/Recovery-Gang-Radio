@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:14:17-04:00",
+ "generated_at": "2026-11-12T01:19:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-12 01:14:12"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-12 01:19:09"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-12 01:14:12"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-12 01:10:37"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-12 01:02:20"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-12 00:58:44"
   }
  ]
 }
