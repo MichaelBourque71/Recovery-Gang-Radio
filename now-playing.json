@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T21:56:53-04:00",
+ "generated_at": "2026-11-11T22:00:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-11 21:56:52"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-11 22:00:26"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-11 21:56:52"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-11 21:53:24"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-11 21:41:38"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-11 21:37:46"
   }
  ]
 }
