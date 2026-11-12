@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:59:31-04:00",
+ "generated_at": "2026-11-12T09:02:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-12 08:59:29"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-12 09:02:06"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-12 08:59:29"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-12 08:55:10"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 08:44:32"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-12 08:41:52"
   }
  ]
 }
