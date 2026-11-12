@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:31:09-04:00",
+ "generated_at": "2026-11-12T19:36:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-12 19:31:05"
+  "title": "Heavy Denim",
+  "started": "2026-11-12 19:36:20"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-12 19:31:05"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-12 19:26:34"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-12 19:15:42"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-12 19:11:44"
   }
  ]
 }
