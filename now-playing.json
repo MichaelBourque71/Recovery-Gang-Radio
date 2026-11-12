@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T00:22:18-04:00",
+ "generated_at": "2026-11-12T00:26:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-12 00:22:13"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-12 00:26:42"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-12 00:22:13"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-12 00:17:30"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 00:07:05"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-12 00:04:40"
   }
  ]
 }
