@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:06:48-04:00",
+ "generated_at": "2026-11-12T09:12:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-12 09:06:44"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-12 09:12:35"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-12 09:06:44"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-12 09:02:06"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-12 08:51:42"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-12 08:48:07"
   }
  ]
 }
