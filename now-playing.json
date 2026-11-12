@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:09:59-04:00",
+ "generated_at": "2026-11-12T03:14:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-12 03:09:55"
+  "title": "Day And Night",
+  "started": "2026-11-12 03:14:13"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-12 03:09:55"
+  },
   {
    "title": "Yes",
    "started": "2026-11-12 03:06:26"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-12 02:52:34"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-12 02:48:15"
   }
  ]
 }
