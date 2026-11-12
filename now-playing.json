@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:23:27-04:00",
+ "generated_at": "2026-11-12T06:26:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-12 06:23:26"
+  "title": "Mean Francine",
+  "started": "2026-11-12 06:26:38"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-12 06:23:26"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-12 06:18:09"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-12 05:58:32"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-12 05:52:50"
   }
  ]
 }
