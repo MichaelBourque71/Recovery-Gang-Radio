@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:23:07-04:00",
+ "generated_at": "2026-11-12T19:26:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-12 19:23:03"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-12 19:26:34"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-12 19:23:03"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-12 19:20:20"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 19:07:26"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-12 19:03:55"
   }
  ]
 }
