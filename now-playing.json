@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:26:41-04:00",
+ "generated_at": "2026-11-12T06:30:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-12 06:26:38"
+  "title": "Stranger Danger",
+  "started": "2026-11-12 06:30:54"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-12 06:26:38"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-12 06:23:26"
@@ -21,10 +25,6 @@
   {
    "title": "Pair A - It Was Time + Built To Love",
    "started": "2026-11-12 06:02:49"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-12 05:58:32"
   }
  ]
 }
