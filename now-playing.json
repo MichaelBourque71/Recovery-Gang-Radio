@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:12:12-04:00",
+ "generated_at": "2026-11-12T04:17:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-12 04:12:10"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-12 04:17:10"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-12 04:12:10"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-12 04:07:19"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 03:53:45"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-12 03:49:20"
   }
  ]
 }
