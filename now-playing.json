@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:06:26-04:00",
+ "generated_at": "2026-11-12T08:11:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-12 08:06:25"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-12 08:11:36"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-12 08:06:25"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-12 08:00:43"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-12 07:47:35"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-12 07:40:52"
   }
  ]
 }
