@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T16:21:06-04:00",
+ "generated_at": "2026-11-12T16:26:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-12 16:21:02"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-12 16:26:10"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-12 16:21:02"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-12 16:17:05"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-12 16:04:38"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-12 16:01:11"
   }
  ]
 }
