@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T11:12:29-04:00",
+ "generated_at": "2026-11-12T11:17:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-12 11:12:29"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-12 11:17:01"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-12 11:12:29"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-12 11:08:45"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-12 10:58:25"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-12 10:54:56"
   }
  ]
 }
