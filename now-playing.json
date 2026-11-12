@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:05:54-04:00",
+ "generated_at": "2026-11-11T20:11:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-11 20:05:50"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-11 20:11:32"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-11 20:05:50"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-11 20:03:55"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-11 19:52:48"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-11 19:47:25"
   }
  ]
 }
