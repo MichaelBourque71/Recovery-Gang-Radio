@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:49:06-04:00",
+ "generated_at": "2026-11-11T22:52:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-11 22:49:03"
+  "title": "Living For Peace",
+  "started": "2026-11-11 22:52:18"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-11 22:49:03"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-11 22:44:46"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-11 22:28:11"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-11 22:24:18"
   }
  ]
 }
