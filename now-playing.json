@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:52:32-04:00",
+ "generated_at": "2026-11-12T09:56:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-12 09:52:28"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-12 09:56:25"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-12 09:52:28"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 09:49:22"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-12 09:38:18"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-12 09:33:35"
   }
  ]
 }
