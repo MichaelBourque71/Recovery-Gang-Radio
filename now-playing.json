@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:56:10-04:00",
+ "generated_at": "2026-11-11T23:00:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-11 22:56:05"
+  "title": "Feel Alright",
+  "started": "2026-11-11 23:00:27"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-11 22:56:05"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-11 22:52:18"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-11 22:38:29"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-11 22:34:06"
   }
  ]
 }
