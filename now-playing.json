@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T02:13:22-04:00",
+ "generated_at": "2026-11-12T02:17:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-12 02:13:18"
+  "title": "Clown In A Crown",
+  "started": "2026-11-12 02:17:50"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-12 02:13:18"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-12 02:08:50"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-12 01:53:45"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-12 01:51:11"
   }
  ]
 }
