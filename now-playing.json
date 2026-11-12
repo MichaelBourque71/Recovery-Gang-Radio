@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T11:26:57-04:00",
+ "generated_at": "2026-11-12T11:31:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-12 11:26:52"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-12 11:31:42"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-12 11:26:52"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-12 11:24:52"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-12 11:12:29"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-12 11:08:45"
   }
  ]
 }
