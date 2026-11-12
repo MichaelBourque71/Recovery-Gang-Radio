@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:14:57-04:00",
+ "generated_at": "2026-11-12T08:19:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-12 08:14:55"
+  "title": "Putz in a Suit",
+  "started": "2026-11-12 08:19:51"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-12 08:14:55"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-12 08:11:36"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-12 07:54:56"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-12 07:51:20"
   }
  ]
 }
