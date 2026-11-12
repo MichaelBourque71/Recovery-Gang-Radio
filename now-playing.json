@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:34:58-04:00",
+ "generated_at": "2026-11-12T03:36:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-12 03:34:55"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-12 03:36:56"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-12 03:34:55"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-12 03:32:35"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-12 03:19:10"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-12 03:14:13"
   }
  ]
 }
