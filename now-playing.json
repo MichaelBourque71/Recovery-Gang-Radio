@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:05:51-04:00",
+ "generated_at": "2026-11-11T23:09:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-11 23:05:49"
+  "title": "Unstoppable Force",
+  "started": "2026-11-11 23:09:02"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-11 23:05:49"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-11 23:00:27"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-11 22:49:03"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-11 22:44:46"
   }
  ]
 }
