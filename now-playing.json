@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:52:22-04:00",
+ "generated_at": "2026-11-11T22:56:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-11 22:52:18"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-11 22:56:05"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-11 22:52:18"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-11 22:49:03"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-11 22:34:06"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-11 22:28:11"
   }
  ]
 }
