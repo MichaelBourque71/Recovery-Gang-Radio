@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:25:17-04:00",
+ "generated_at": "2026-11-12T17:28:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-12 17:25:15"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-12 17:28:20"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-12 17:25:15"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-12 17:21:58"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-12 17:06:39"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-12 17:03:11"
   }
  ]
 }
