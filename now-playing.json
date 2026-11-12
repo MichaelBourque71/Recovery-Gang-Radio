@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:24:59-04:00",
+ "generated_at": "2026-11-11T23:29:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-11 23:24:57"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-11 23:29:07"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-11 23:24:57"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-11 23:21:10"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-11 23:09:02"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-11 23:05:49"
   }
  ]
 }
