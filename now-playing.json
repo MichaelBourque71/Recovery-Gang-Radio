@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:24:48-04:00",
+ "generated_at": "2026-11-11T20:28:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-11 20:24:47"
+  "title": "GUMMERS",
+  "started": "2026-11-11 20:28:42"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-11 20:24:47"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-11 20:21:22"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-11 20:05:50"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-11 20:03:55"
   }
  ]
 }
