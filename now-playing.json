@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:06:19-04:00",
+ "generated_at": "2026-11-12T07:12:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-12 07:06:17"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-12 07:12:08"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-12 07:06:17"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-12 07:00:40"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-12 06:47:32"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-12 06:44:15"
   }
  ]
 }
