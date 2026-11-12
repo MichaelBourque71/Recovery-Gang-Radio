@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:44:24-04:00",
+ "generated_at": "2026-11-12T14:46:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-12 14:44:23"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-12 14:46:17"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-12 14:44:23"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-12 14:41:06"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-12 14:28:36"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-12 14:24:38"
   }
  ]
 }
