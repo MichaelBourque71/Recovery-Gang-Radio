@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:11:48-04:00",
+ "generated_at": "2026-11-12T19:15:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-12 19:11:44"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-12 19:15:42"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-12 19:11:44"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 19:07:26"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-12 18:54:38"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-12 18:49:43"
   }
  ]
 }
