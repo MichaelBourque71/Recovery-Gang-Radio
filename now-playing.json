@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:09:03-04:00",
+ "generated_at": "2026-11-11T23:12:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-11 23:09:02"
+  "title": "Burn It Slow",
+  "started": "2026-11-11 23:12:55"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-11 23:09:02"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-11 23:05:49"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-11 22:52:18"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-11 22:49:03"
   }
  ]
 }
