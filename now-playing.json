@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:07:20-04:00",
+ "generated_at": "2026-11-12T04:12:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-12 04:07:19"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-12 04:12:10"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-12 04:07:19"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-12 04:01:59"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 03:49:20"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-12 03:45:07"
   }
  ]
 }
