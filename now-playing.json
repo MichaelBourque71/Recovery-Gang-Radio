@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T18:45:49-04:00",
+ "generated_at": "2026-11-12T18:49:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-12 18:45:45"
+  "title": "Keyboard Courage",
+  "started": "2026-11-12 18:49:43"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-12 18:45:45"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-12 18:42:51"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-12 18:29:16"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-12 18:25:45"
   }
  ]
 }
