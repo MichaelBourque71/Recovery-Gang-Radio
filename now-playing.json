@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:18:55-04:00",
+ "generated_at": "2026-11-11T22:21:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-11 22:18:54"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-11 22:21:08"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-11 22:18:54"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-11 22:14:13"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-11 22:00:26"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-11 21:56:52"
   }
  ]
 }
