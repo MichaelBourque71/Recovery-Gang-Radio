@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T02:52:36-04:00",
+ "generated_at": "2026-11-12T02:56:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-12 02:52:34"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-12 02:56:51"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-12 02:52:34"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-12 02:48:15"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-12 02:37:45"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-12 02:32:55"
   }
  ]
 }
