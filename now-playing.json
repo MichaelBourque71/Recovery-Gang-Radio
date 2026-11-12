@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:17:01-04:00",
+ "generated_at": "2026-11-11T23:21:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-11 23:16:59"
+  "title": "Duck On The Dash",
+  "started": "2026-11-11 23:21:10"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-11 23:16:59"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-11 23:12:55"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-11 23:00:27"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-11 22:56:05"
   }
  ]
 }
