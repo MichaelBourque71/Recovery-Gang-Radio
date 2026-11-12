@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T09:49:24-04:00",
+ "generated_at": "2026-11-12T09:52:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-12 09:49:22"
+  "title": "Yes",
+  "started": "2026-11-12 09:52:28"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-12 09:49:22"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-12 09:44:50"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-12 09:33:35"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-12 09:28:47"
   }
  ]
 }
