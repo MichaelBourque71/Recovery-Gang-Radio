@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T16:35:12-04:00",
+ "generated_at": "2026-11-12T16:38:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-12 16:35:08"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-12 16:38:49"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-12 16:35:08"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-12 16:30:58"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-12 16:17:05"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-12 16:13:17"
   }
  ]
 }
