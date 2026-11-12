@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T08:19:54-04:00",
+ "generated_at": "2026-11-12T08:23:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-12 08:19:51"
+  "title": "Follow The Trail",
+  "started": "2026-11-12 08:23:11"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-12 08:19:51"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-12 08:14:55"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-12 08:00:43"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-12 07:54:56"
   }
  ]
 }
