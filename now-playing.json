@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:06:29-04:00",
+ "generated_at": "2026-11-12T05:10:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-12 05:06:26"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-12 05:10:11"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-12 05:06:26"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-12 05:02:16"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-12 04:50:33"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-12 04:47:41"
   }
  ]
 }
