@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:07:30-04:00",
+ "generated_at": "2026-11-12T19:11:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-12 19:07:26"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-12 19:11:44"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-12 19:07:26"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-12 19:03:55"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-12 18:49:43"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-12 18:45:45"
   }
  ]
 }
