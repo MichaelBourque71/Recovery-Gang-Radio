@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T16:13:20-04:00",
+ "generated_at": "2026-11-12T16:17:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-12 16:13:17"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-12 16:17:05"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-12 16:13:17"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-12 16:08:50"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-12 15:58:03"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-12 15:54:52"
   }
  ]
 }
