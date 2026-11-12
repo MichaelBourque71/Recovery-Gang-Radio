@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:05:34-04:00",
+ "generated_at": "2026-11-12T01:07:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-12 01:05:32"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-12 01:07:55"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-12 01:05:32"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-12 01:02:20"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-12 00:51:33"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-12 00:46:05"
   }
  ]
 }
