@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:40:56-04:00",
+ "generated_at": "2026-11-12T07:47:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-12 07:40:52"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-12 07:47:35"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-12 07:40:52"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-12 07:37:16"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-12 07:26:32"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-12 07:23:22"
   }
  ]
 }
