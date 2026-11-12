@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:14:58-04:00",
+ "generated_at": "2026-11-12T10:18:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-12 10:14:54"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-12 10:18:20"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-12 10:14:54"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-12 10:09:17"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 09:56:25"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-12 09:52:28"
   }
  ]
 }
