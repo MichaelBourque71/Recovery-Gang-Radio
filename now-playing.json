@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T23:54:44-04:00",
+ "generated_at": "2026-11-11T23:57:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-11 23:54:43"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-11 23:57:49"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-11 23:54:43"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-11 23:49:50"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-11 23:36:30"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-11 23:33:36"
   }
  ]
 }
