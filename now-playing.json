@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T22:28:14-04:00",
+ "generated_at": "2026-11-11T22:34:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-11 22:28:11"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-11 22:34:06"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-11 22:28:11"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-11 22:24:18"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-11 22:14:13"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-11 22:10:14"
   }
  ]
 }
