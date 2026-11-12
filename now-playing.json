@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T10:29:00-04:00",
+ "generated_at": "2026-11-12T10:34:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-12 10:28:57"
+  "title": "Burn It Slow",
+  "started": "2026-11-12 10:34:50"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-12 10:28:57"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-12 10:26:56"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-12 10:14:54"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-12 10:09:17"
   }
  ]
 }
