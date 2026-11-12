@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:41:07-04:00",
+ "generated_at": "2026-11-12T14:44:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-12 14:41:06"
+  "title": "420 Twice A Day",
+  "started": "2026-11-12 14:44:23"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-12 14:41:06"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-12 14:36:37"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-12 14:24:38"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-12 14:20:30"
   }
  ]
 }
