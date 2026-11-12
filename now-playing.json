@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:56:01-04:00",
+ "generated_at": "2026-11-12T17:59:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-12 17:55:56"
+  "title": "420 Twice A Day",
+  "started": "2026-11-12 17:59:53"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-12 17:55:56"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-12 17:51:38"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-12 17:41:39"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-12 17:36:39"
   }
  ]
 }
