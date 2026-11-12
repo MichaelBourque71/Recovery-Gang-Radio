@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:55:24-04:00",
+ "generated_at": "2026-11-11T20:59:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-11 20:55:21"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-11 20:59:39"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-11 20:55:21"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-11 20:52:17"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-11 20:38:25"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-11 20:35:26"
   }
  ]
 }
