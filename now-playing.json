@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:52:52-04:00",
+ "generated_at": "2026-11-12T05:58:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-12 05:52:50"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-12 05:58:32"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-12 05:52:50"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-12 05:47:44"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-12 05:32:13"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-12 05:27:02"
   }
  ]
 }
