@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:53:48-04:00",
+ "generated_at": "2026-11-12T03:57:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-12 03:53:45"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-12 03:57:31"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-12 03:53:45"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 03:49:20"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 03:36:56"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-12 03:34:55"
   }
  ]
 }
