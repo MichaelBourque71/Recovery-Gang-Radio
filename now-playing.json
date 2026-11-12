@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T04:42:35-04:00",
+ "generated_at": "2026-11-12T04:47:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-12 04:42:31"
+  "title": "Take Your Laws",
+  "started": "2026-11-12 04:47:41"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-12 04:42:31"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-12 04:38:28"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-12 04:26:02"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-12 04:22:01"
   }
  ]
 }
