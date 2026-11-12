@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T05:02:16-04:00",
+ "generated_at": "2026-11-12T05:06:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-12 05:02:16"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-12 05:06:26"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-12 05:02:16"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-12 04:58:51"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-12 04:47:41"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-12 04:42:31"
   }
  ]
 }
