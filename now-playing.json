@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:36:58-04:00",
+ "generated_at": "2026-11-12T03:40:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-12 03:36:56"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-12 03:40:28"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-12 03:36:56"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-12 03:34:55"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-12 03:24:16"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-12 03:19:10"
   }
  ]
 }
