@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:41:41-04:00",
+ "generated_at": "2026-11-12T17:45:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-12 17:41:39"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-12 17:45:42"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-12 17:41:39"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-12 17:36:39"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 17:25:15"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-12 17:21:58"
   }
  ]
 }
