@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T17:12:24-04:00",
+ "generated_at": "2026-11-12T17:18:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-12 17:12:21"
+  "title": "Stranger Danger",
+  "started": "2026-11-12 17:17:59"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-12 17:12:21"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-12 17:06:39"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-12 16:53:17"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-12 16:49:27"
   }
  ]
 }
