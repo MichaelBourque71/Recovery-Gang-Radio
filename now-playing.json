@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T00:39:15-04:00",
+ "generated_at": "2026-11-12T00:43:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-12 00:39:11"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-12 00:43:14"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-12 00:39:11"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-12 00:34:44"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 00:22:13"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-12 00:17:30"
   }
  ]
 }
