@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T21:34:22-04:00",
+ "generated_at": "2026-11-11T21:37:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-11 21:34:22"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-11 21:37:46"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-11 21:34:22"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-11 21:30:27"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-11 21:18:09"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-11 21:13:07"
   }
  ]
 }
