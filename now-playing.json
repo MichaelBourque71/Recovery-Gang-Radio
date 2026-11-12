@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T06:18:10-04:00",
+ "generated_at": "2026-11-12T06:23:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-12 06:18:09"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-12 06:23:26"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-12 06:18:09"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-12 06:14:04"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-12 05:52:50"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-12 05:47:44"
   }
  ]
 }
