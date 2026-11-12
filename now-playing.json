@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T20:21:25-04:00",
+ "generated_at": "2026-11-11T20:24:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-11 20:21:22"
+  "title": "Clown In A Crown",
+  "started": "2026-11-11 20:24:47"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-11 20:21:22"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-11 20:16:00"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-11 20:03:55"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-11 19:58:40"
   }
  ]
 }
