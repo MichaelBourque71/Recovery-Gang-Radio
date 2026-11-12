@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T02:28:26-04:00",
+ "generated_at": "2026-11-12T02:32:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-12 02:28:22"
+  "title": "Greedy Bitch",
+  "started": "2026-11-12 02:32:55"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-12 02:28:22"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-12 02:25:08"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-12 02:13:18"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-12 02:08:50"
   }
  ]
 }
