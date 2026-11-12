@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T21:25:41-04:00",
+ "generated_at": "2026-11-11T21:30:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-11 21:25:37"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-11 21:30:27"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-11 21:25:37"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-11 21:21:29"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-11 21:08:06"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-11 21:02:35"
   }
  ]
 }
