@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T18:49:44-04:00",
+ "generated_at": "2026-11-12T18:54:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-12 18:49:43"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-12 18:54:38"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-12 18:49:43"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-12 18:45:45"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-12 18:33:21"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-12 18:29:16"
   }
  ]
 }
