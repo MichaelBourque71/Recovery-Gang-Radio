@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T07:00:44-04:00",
+ "generated_at": "2026-11-12T07:06:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-12 07:00:40"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-12 07:06:17"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-12 07:00:40"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-12 06:55:13"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-12 06:44:15"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-12 06:39:48"
   }
  ]
 }
