@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T13:40:54-04:00",
+ "generated_at": "2026-11-12T13:44:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-12 13:40:52"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-12 13:44:13"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-12 13:40:52"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-12 13:38:00"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-12 13:25:42"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-12 13:22:08"
   }
  ]
 }
