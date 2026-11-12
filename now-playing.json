@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T13:57:29-04:00",
+ "generated_at": "2026-11-12T14:02:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-12 13:57:24"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-12 14:02:16"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-12 13:57:24"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-12 13:52:28"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 13:40:52"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-12 13:38:00"
   }
  ]
 }
