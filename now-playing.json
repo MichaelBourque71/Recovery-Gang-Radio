@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T12:29:52-04:00",
+ "generated_at": "2026-11-12T12:36:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-12 12:29:51"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-12 12:35:57"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-12 12:29:51"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 12:26:45"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-12 12:11:29"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-12 12:07:01"
   }
  ]
 }
