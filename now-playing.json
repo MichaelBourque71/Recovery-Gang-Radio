@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-11T21:02:36-04:00",
+ "generated_at": "2026-11-11T21:08:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-11 21:02:35"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-11 21:08:06"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-11 21:02:35"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-11 20:59:39"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-11 20:48:30"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-11 20:42:38"
   }
  ]
 }
