@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:45:08-04:00",
+ "generated_at": "2026-11-12T03:49:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-12 03:45:07"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-12 03:49:20"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-12 03:45:07"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 03:40:28"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-12 03:32:35"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-12 03:28:05"
   }
  ]
 }
