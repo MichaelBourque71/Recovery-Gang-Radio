@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T12:36:02-04:00",
+ "generated_at": "2026-11-12T12:40:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-12 12:35:57"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-12 12:40:39"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-12 12:35:57"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-12 12:29:51"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-12 12:17:47"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-12 12:11:29"
   }
  ]
 }
