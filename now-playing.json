@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T12:57:17-04:00",
+ "generated_at": "2026-11-12T13:01:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-12 12:57:13"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-12 13:01:29"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-12 12:57:13"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 12:54:03"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-12 12:40:39"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-12 12:35:57"
   }
  ]
 }
