@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T01:45:47-04:00",
+ "generated_at": "2026-11-12T01:51:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-12 01:45:46"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-12 01:51:11"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-12 01:45:46"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-12 01:40:00"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-12 01:29:40"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-12 01:27:14"
   }
  ]
 }
