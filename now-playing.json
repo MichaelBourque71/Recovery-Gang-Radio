@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T13:07:32-04:00",
+ "generated_at": "2026-11-12T13:10:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-12 13:07:31"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-12 13:10:38"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-12 13:07:31"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-12 13:04:18"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 12:54:03"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-12 12:49:36"
   }
  ]
 }
