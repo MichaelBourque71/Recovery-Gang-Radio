@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T03:57:32-04:00",
+ "generated_at": "2026-11-12T04:02:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-12 03:57:31"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-12 04:01:59"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-12 03:57:31"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 03:53:45"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-12 03:40:28"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-12 03:36:56"
   }
  ]
 }
