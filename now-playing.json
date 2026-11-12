@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T14:02:19-04:00",
+ "generated_at": "2026-11-12T14:06:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-12 14:02:16"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-12 14:06:35"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-12 14:02:16"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-12 13:57:24"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-12 13:44:13"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-12 13:40:52"
   }
  ]
 }
