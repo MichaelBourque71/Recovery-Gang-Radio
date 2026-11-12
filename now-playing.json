@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T13:44:16-04:00",
+ "generated_at": "2026-11-12T13:48:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-12 13:44:13"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-12 13:48:41"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-12 13:44:13"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-12 13:40:52"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-12 13:29:42"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-12 13:25:42"
   }
  ]
 }
