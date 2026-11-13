@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T23:21:59-04:00",
+ "generated_at": "2026-11-12T23:25:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-12 23:21:57"
+  "title": "Day And Night",
+  "started": "2026-11-12 23:25:52"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-12 23:21:57"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-12 23:16:50"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-12 23:02:46"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-12 22:58:29"
   }
  ]
 }
