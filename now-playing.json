@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T08:06:15-04:00",
+ "generated_at": "2026-11-13T08:10:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-13 08:06:12"
+  "title": "Fuck Winter",
+  "started": "2026-11-13 08:09:57"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-13 08:06:12"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-13 08:02:26"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-13 07:50:43"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-13 07:46:51"
   }
  ]
 }
