@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:41:58-04:00",
+ "generated_at": "2026-11-13T00:47:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-13 00:41:55"
+  "title": "Greedy Bitch",
+  "started": "2026-11-13 00:47:40"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-13 00:41:55"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-13 00:38:45"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-13 00:23:56"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-13 00:18:13"
   }
  ]
 }
