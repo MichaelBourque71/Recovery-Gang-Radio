@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:15:01-04:00",
+ "generated_at": "2026-11-13T10:18:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-13 10:14:59"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-13 10:18:33"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-13 10:14:59"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-13 10:10:06"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-13 09:55:16"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-13 09:51:49"
   }
  ]
 }
