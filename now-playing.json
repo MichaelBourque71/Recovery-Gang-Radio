@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T08:15:59-04:00",
+ "generated_at": "2026-11-13T08:20:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-13 08:15:55"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-13 08:20:27"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-13 08:15:55"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-13 08:09:57"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-13 07:59:12"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-13 07:54:50"
   }
  ]
 }
