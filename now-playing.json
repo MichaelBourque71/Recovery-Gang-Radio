@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:34:59-04:00",
+ "generated_at": "2026-11-13T14:40:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-13 14:34:57"
+  "title": "Doughnut Doug",
+  "started": "2026-11-13 14:40:29"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-13 14:34:57"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-13 14:29:31"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-13 14:17:43"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-13 14:12:35"
   }
  ]
 }
