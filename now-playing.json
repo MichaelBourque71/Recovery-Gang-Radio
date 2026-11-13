@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T17:48:21-04:00",
+ "generated_at": "2026-11-13T17:51:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-13 17:48:18"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-13 17:51:28"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-13 17:48:18"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-13 17:44:15"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-13 17:34:35"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-13 17:31:48"
   }
  ]
 }
