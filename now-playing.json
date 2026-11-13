@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T09:55:18-04:00",
+ "generated_at": "2026-11-13T10:01:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-13 09:55:16"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-13 10:01:02"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-13 09:55:16"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-13 09:51:49"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-13 09:40:05"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-13 09:38:04"
   }
  ]
 }
