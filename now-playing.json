@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:50:54-04:00",
+ "generated_at": "2026-11-13T14:55:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-13 14:50:50"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-13 14:55:49"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-13 14:50:50"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-13 14:47:30"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-13 14:40:29"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-13 14:34:57"
   }
  ]
 }
