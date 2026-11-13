@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T23:02:49-04:00",
+ "generated_at": "2026-11-12T23:07:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-12 23:02:46"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-12 23:07:34"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-12 23:02:46"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-12 22:58:29"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-12 22:46:31"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-12 22:42:49"
   }
  ]
 }
