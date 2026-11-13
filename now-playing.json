@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:38:31-04:00",
+ "generated_at": "2026-11-13T12:41:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-13 12:38:28"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-13 12:41:07"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-13 12:38:28"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-13 12:35:06"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-13 12:22:40"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-13 12:20:18"
   }
  ]
 }
