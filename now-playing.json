@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T19:59:57-04:00",
+ "generated_at": "2026-11-12T20:02:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-12 19:59:55"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-12 20:02:50"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-12 19:59:55"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-12 19:56:33"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-12 19:45:16"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-12 19:41:18"
   }
  ]
 }
