@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:38:41-04:00",
+ "generated_at": "2026-11-13T02:42:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-13 02:38:39"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-13 02:42:57"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-13 02:38:39"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-13 02:34:40"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-13 02:21:50"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-13 02:18:40"
   }
  ]
 }
