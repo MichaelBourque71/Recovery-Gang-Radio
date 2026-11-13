@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T03:16:37-04:00",
+ "generated_at": "2026-11-13T03:21:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-13 03:16:36"
+  "title": "Taste Your Honey",
+  "started": "2026-11-13 03:21:07"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-13 03:16:36"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-13 03:11:58"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-13 03:01:20"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-13 02:57:13"
   }
  ]
 }
