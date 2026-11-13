@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:07:43-04:00",
+ "generated_at": "2026-11-13T00:11:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-13 00:07:38"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-13 00:11:15"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-13 00:07:38"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-13 00:04:25"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-12 23:55:08"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-12 23:49:59"
   }
  ]
 }
