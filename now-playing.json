@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:58:48-04:00",
+ "generated_at": "2026-11-13T11:03:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-13 10:58:44"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-13 11:03:00"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-13 10:58:44"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-13 10:54:47"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-13 10:44:37"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-13 10:40:31"
   }
  ]
 }
