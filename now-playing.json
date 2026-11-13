@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:23:26-04:00",
+ "generated_at": "2026-11-13T10:29:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-13 10:23:22"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-13 10:29:14"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-13 10:23:22"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-13 10:18:33"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-13 10:06:07"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-13 10:01:02"
   }
  ]
 }
