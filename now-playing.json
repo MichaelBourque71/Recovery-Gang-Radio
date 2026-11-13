@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:27:35-04:00",
+ "generated_at": "2026-11-13T04:32:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-13 04:27:31"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-13 04:32:29"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-13 04:27:31"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-13 04:23:38"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-13 04:12:34"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-13 04:09:17"
   }
  ]
 }
