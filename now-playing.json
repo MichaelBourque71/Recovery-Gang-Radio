@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:54:48-04:00",
+ "generated_at": "2026-11-13T10:58:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-13 10:54:47"
+  "title": "Gaslight Halo",
+  "started": "2026-11-13 10:58:44"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-13 10:54:47"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-13 10:50:48"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-13 10:40:31"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-13 10:36:09"
   }
  ]
 }
