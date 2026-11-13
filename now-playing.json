@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:17:24-04:00",
+ "generated_at": "2026-11-13T04:21:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-13 04:17:22"
+  "title": "420 Twice A Day",
+  "started": "2026-11-13 04:21:18"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-13 04:17:22"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-13 04:12:34"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-13 03:59:38"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-13 03:56:46"
   }
  ]
 }
