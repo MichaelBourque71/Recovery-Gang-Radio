@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T11:59:18-04:00",
+ "generated_at": "2026-11-13T12:04:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-13 11:59:14"
+  "title": "420 Twice A Day",
+  "started": "2026-11-13 12:04:41"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-13 11:59:14"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-13 11:55:49"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-13 11:46:46"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-13 11:42:14"
   }
  ]
 }
