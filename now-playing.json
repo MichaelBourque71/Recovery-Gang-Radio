@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T06:47:41-04:00",
+ "generated_at": "2026-11-13T06:52:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-13 06:47:37"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-13 06:52:39"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-13 06:47:37"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-13 06:44:10"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-13 06:32:50"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-13 06:26:48"
   }
  ]
 }
