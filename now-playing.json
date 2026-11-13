@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T20:43:54-04:00",
+ "generated_at": "2026-11-12T20:49:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-12 20:43:49"
+  "title": "Running With Scissors",
+  "started": "2026-11-12 20:49:11"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-12 20:43:49"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-12 20:42:02"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-12 20:32:20"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-12 20:26:51"
   }
  ]
 }
