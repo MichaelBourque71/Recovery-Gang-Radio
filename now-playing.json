@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:45:02-04:00",
+ "generated_at": "2026-11-13T12:48:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-13 12:45:02"
+  "title": "My Harley Waits",
+  "started": "2026-11-13 12:48:43"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-13 12:45:02"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-13 12:41:07"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-13 12:30:40"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-13 12:26:29"
   }
  ]
 }
