@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T03:21:12-04:00",
+ "generated_at": "2026-11-13T03:25:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-13 03:21:07"
+  "title": "History Collects",
+  "started": "2026-11-13 03:25:04"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-13 03:21:07"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-13 03:16:36"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-13 03:04:51"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-13 03:01:20"
   }
  ]
 }
