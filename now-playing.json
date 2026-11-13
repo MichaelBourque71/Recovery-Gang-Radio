@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:46:25-04:00",
+ "generated_at": "2026-11-13T18:51:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-13 18:46:23"
+  "title": "Heavy Denim",
+  "started": "2026-11-13 18:51:50"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-13 18:46:23"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-13 18:42:34"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-13 18:30:55"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-13 18:27:01"
   }
  ]
 }
