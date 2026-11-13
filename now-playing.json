@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T03:08:19-04:00",
+ "generated_at": "2026-11-13T03:12:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-13 03:08:16"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-13 03:11:58"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-13 03:08:16"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-13 03:04:51"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-13 02:52:34"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-13 02:48:16"
   }
  ]
 }
