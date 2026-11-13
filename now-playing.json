@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T23:50:03-04:00",
+ "generated_at": "2026-11-12T23:55:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-12 23:49:59"
+  "title": "Weaponized Children",
+  "started": "2026-11-12 23:55:08"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-12 23:49:59"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-12 23:46:14"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-12 23:33:26"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-12 23:30:27"
   }
  ]
 }
