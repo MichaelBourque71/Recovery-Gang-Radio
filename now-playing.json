@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T23:46:15-04:00",
+ "generated_at": "2026-11-12T23:50:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-12 23:46:14"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-12 23:49:59"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-12 23:46:14"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-12 23:41:49"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-12 23:30:27"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-12 23:25:52"
   }
  ]
 }
