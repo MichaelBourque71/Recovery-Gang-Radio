@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T20:02:51-04:00",
+ "generated_at": "2026-11-12T20:07:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-12 20:02:50"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-12 20:07:22"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-12 20:02:50"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-12 19:59:55"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-12 19:48:50"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-12 19:45:16"
   }
  ]
 }
