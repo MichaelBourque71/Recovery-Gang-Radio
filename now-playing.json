@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:40:31-04:00",
+ "generated_at": "2026-11-13T14:42:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-13 14:40:29"
+  "title": "Acid Freak",
+  "started": "2026-11-13 14:42:27"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-13 14:40:29"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-13 14:34:57"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-13 14:21:51"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-13 14:17:43"
   }
  ]
 }
