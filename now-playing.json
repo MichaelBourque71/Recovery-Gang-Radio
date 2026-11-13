@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:51:48-04:00",
+ "generated_at": "2026-11-13T05:56:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-13 05:51:46"
+  "title": "Low-End Disorder",
+  "started": "2026-11-13 05:56:58"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-13 05:51:46"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-13 05:47:48"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-13 05:34:24"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-13 05:30:08"
   }
  ]
 }
