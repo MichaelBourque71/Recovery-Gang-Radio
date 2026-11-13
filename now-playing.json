@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T21:33:57-04:00",
+ "generated_at": "2026-11-12T21:37:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-12 21:33:55"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-12 21:37:52"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-12 21:33:55"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-12 21:29:59"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-12 21:18:31"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-12 21:15:08"
   }
  ]
 }
