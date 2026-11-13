@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T13:58:48-04:00",
+ "generated_at": "2026-11-13T14:02:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-13 13:58:46"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-13 14:01:56"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-13 13:58:46"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-13 13:54:16"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-13 13:41:08"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-13 13:36:18"
   }
  ]
 }
