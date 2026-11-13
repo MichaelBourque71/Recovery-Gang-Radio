@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:22:55-04:00",
+ "generated_at": "2026-11-13T05:26:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-13 05:22:54"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-13 05:26:43"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-13 05:22:54"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-13 05:19:56"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-13 05:06:48"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-13 05:03:19"
   }
  ]
 }
