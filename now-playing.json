@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:34:28-04:00",
+ "generated_at": "2026-11-13T05:39:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-13 05:34:24"
+  "title": "One More Night",
+  "started": "2026-11-13 05:39:46"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-13 05:34:24"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-13 05:30:08"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-13 05:19:56"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-13 05:15:57"
   }
  ]
 }
