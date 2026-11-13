@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:52:40-04:00",
+ "generated_at": "2026-11-13T02:57:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-13 02:52:34"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-13 02:57:13"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-13 02:52:34"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-13 02:48:16"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-13 02:34:40"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-13 02:31:10"
   }
  ]
 }
