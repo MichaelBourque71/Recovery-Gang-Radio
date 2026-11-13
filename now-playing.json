@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:29:32-04:00",
+ "generated_at": "2026-11-13T14:34:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-13 14:29:31"
+  "title": "Fuck Winter",
+  "started": "2026-11-13 14:34:57"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-13 14:29:31"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-13 14:25:02"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-13 14:12:35"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-13 14:08:18"
   }
  ]
 }
