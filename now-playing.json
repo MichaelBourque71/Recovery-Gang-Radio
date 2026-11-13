@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T17:14:28-04:00",
+ "generated_at": "2026-11-13T17:19:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-13 17:14:27"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-13 17:19:47"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-13 17:14:27"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-13 17:11:30"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-13 16:58:36"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-13 16:54:52"
   }
  ]
 }
