@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:27:47-04:00",
+ "generated_at": "2026-11-13T15:31:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-13 15:27:46"
+  "title": "It Was Time",
+  "started": "2026-11-13 15:31:12"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-13 15:27:46"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-13 15:24:09"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-13 15:09:34"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-13 15:05:06"
   }
  ]
 }
