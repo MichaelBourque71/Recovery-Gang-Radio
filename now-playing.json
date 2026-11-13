@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:04:26-04:00",
+ "generated_at": "2026-11-13T00:07:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-13 00:04:25"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-13 00:07:38"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-13 00:04:25"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-13 00:01:55"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-12 23:49:59"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-12 23:46:14"
   }
  ]
 }
