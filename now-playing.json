@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:07:39-04:00",
+ "generated_at": "2026-11-12T22:11:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-12 22:07:36"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-12 22:11:04"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-12 22:07:36"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-12 22:03:37"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-12 21:51:27"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-12 21:48:18"
   }
  ]
 }
