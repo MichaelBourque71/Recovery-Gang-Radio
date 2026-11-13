@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:31:04-04:00",
+ "generated_at": "2026-11-13T19:36:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-13 19:30:59"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-13 19:35:59"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-13 19:30:59"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-13 19:27:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-13 19:14:43"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-13 19:11:06"
   }
  ]
 }
