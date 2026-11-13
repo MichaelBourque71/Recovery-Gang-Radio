@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T17:19:48-04:00",
+ "generated_at": "2026-11-13T17:22:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-13 17:19:47"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-13 17:22:28"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-13 17:19:47"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-13 17:14:27"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-13 17:02:38"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-13 16:58:36"
   }
  ]
 }
