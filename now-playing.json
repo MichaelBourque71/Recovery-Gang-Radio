@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T11:55:50-04:00",
+ "generated_at": "2026-11-13T11:59:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-13 11:55:49"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-13 11:59:14"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-13 11:55:49"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-13 11:53:48"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-13 11:42:14"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-13 11:37:33"
   }
  ]
 }
