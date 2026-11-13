@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T01:36:55-04:00",
+ "generated_at": "2026-11-13T01:42:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-13 01:36:50"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-13 01:42:02"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-13 01:36:50"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-13 01:32:33"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-13 01:21:27"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-13 01:17:21"
   }
  ]
 }
