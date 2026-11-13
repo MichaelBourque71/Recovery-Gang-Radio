@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T11:11:11-04:00",
+ "generated_at": "2026-11-13T11:14:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-13 11:11:09"
+  "title": "It Was Time",
+  "started": "2026-11-13 11:14:29"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-13 11:11:09"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-13 11:07:23"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-13 10:54:47"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-13 10:50:48"
   }
  ]
 }
