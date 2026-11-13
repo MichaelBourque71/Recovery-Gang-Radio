@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:45:05-04:00",
+ "generated_at": "2026-11-13T19:49:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-13 19:45:02"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-13 19:49:10"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-13 19:45:02"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-13 19:41:37"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-13 19:30:59"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-13 19:27:42"
   }
  ]
 }
