@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:52:19-04:00",
+ "generated_at": "2026-11-13T15:56:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-13 15:52:16"
+  "title": "Delaware Sniff",
+  "started": "2026-11-13 15:56:11"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-13 15:52:16"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-13 15:49:44"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-13 15:38:58"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-13 15:35:30"
   }
  ]
 }
