@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:30:13-04:00",
+ "generated_at": "2026-11-13T05:34:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-13 05:30:08"
+  "title": "My Harley Waits",
+  "started": "2026-11-13 05:34:24"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-13 05:30:08"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-13 05:26:43"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-13 05:15:57"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-13 05:10:08"
   }
  ]
 }
