@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:47:44-04:00",
+ "generated_at": "2026-11-13T00:52:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-13 00:47:40"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-13 00:52:06"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-13 00:47:40"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-13 00:41:55"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-13 00:30:26"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-13 00:23:56"
   }
  ]
 }
