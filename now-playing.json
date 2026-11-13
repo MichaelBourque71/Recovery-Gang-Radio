@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:47:26-04:00",
+ "generated_at": "2026-11-13T10:50:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-13 10:47:22"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-13 10:50:48"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-13 10:47:22"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-13 10:44:37"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-13 10:33:03"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-13 10:29:14"
   }
  ]
 }
