@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T13:11:03-04:00",
+ "generated_at": "2026-11-13T13:15:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-13 13:11:01"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-13 13:15:43"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-13 13:11:01"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-13 13:06:54"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-13 12:54:05"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-13 12:48:43"
   }
  ]
 }
