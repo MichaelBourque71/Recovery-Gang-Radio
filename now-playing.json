@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:21:53-04:00",
+ "generated_at": "2026-11-13T02:26:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-13 02:21:50"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-13 02:26:20"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-13 02:21:50"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-13 02:18:40"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-13 02:07:42"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-13 02:01:53"
   }
  ]
 }
