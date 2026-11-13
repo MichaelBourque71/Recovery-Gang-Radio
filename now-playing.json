@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-12T20:32:20-04:00",
+ "generated_at": "2026-11-12T20:34:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-12 20:26:51"
+  "title": "Time For Talking",
+  "started": "2026-11-12 20:34:55"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-12 20:32:20"
+  },
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-12 20:26:51"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-12 20:23:27"
@@ -17,14 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-12 20:16:40"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-12 20:12:11"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-12 20:07:22"
   }
  ]
 }
