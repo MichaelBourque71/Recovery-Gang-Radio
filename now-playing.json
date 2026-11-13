@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:22:52-04:00",
+ "generated_at": "2026-11-13T18:27:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-13 18:22:48"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-13 18:27:01"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-13 18:22:48"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-13 18:19:35"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-13 18:09:42"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-13 18:04:28"
   }
  ]
 }
