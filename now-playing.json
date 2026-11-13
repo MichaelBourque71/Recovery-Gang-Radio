@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:24:13-04:00",
+ "generated_at": "2026-11-13T15:27:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-13 15:24:09"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-13 15:27:46"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-13 15:24:09"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-13 15:20:23"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-13 15:05:06"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-13 14:59:28"
   }
  ]
 }
