@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:26:47-04:00",
+ "generated_at": "2026-11-13T05:30:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-13 05:26:43"
+  "title": "LGBTQ",
+  "started": "2026-11-13 05:30:08"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-13 05:26:43"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-13 05:22:54"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-13 05:10:08"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-13 05:06:48"
   }
  ]
 }
