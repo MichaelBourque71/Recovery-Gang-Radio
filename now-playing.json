@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T21:15:08-04:00",
+ "generated_at": "2026-11-12T21:18:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-12 21:15:08"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-12 21:18:31"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-12 21:15:08"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-12 21:09:44"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-12 21:01:00"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-12 20:56:00"
   }
  ]
 }
