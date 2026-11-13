@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:42:34-04:00",
+ "generated_at": "2026-11-13T18:46:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-13 18:42:34"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-13 18:46:23"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-13 18:42:34"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-13 18:40:40"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-13 18:27:01"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-13 18:22:48"
   }
  ]
 }
