@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:44:54-04:00",
+ "generated_at": "2026-11-13T14:47:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-13 14:44:49"
+  "title": "Stand for Freedom",
+  "started": "2026-11-13 14:47:30"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-13 14:44:49"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-13 14:42:27"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-13 14:29:31"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-13 14:25:02"
   }
  ]
 }
