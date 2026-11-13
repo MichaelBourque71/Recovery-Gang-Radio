@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T16:19:21-04:00",
+ "generated_at": "2026-11-13T16:24:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-13 16:19:19"
+  "title": "One More Night",
+  "started": "2026-11-13 16:24:53"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-13 16:19:19"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-13 16:15:11"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-13 16:04:01"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-13 16:00:38"
   }
  ]
 }
