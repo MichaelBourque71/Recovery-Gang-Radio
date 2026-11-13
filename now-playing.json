@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:56:58-04:00",
+ "generated_at": "2026-11-13T06:00:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-13 05:56:58"
+  "title": "Pair B - Living For Peace + You",
+  "started": "2026-11-13 06:00:52"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-13 05:56:58"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-13 05:51:46"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-13 05:39:46"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-13 05:34:24"
   }
  ]
 }
