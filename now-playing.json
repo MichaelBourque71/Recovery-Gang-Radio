@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T07:07:11-04:00",
+ "generated_at": "2026-11-13T07:12:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-13 07:07:09"
+  "title": "Breath Of Policy",
+  "started": "2026-11-13 07:12:17"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-13 07:07:09"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-13 07:06:24"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-13 06:52:39"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-13 06:47:37"
   }
  ]
 }
