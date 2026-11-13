@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:19:35-04:00",
+ "generated_at": "2026-11-12T22:22:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-12 22:19:35"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-12 22:22:12"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-12 22:19:35"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-12 22:14:48"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-12 22:03:37"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-12 22:00:10"
   }
  ]
 }
