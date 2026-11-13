@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:59:33-04:00",
+ "generated_at": "2026-11-13T15:05:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-13 14:59:28"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-13 15:05:06"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-13 14:59:28"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-13 14:55:49"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-13 14:44:49"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-13 14:42:27"
   }
  ]
 }
