@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:11:16-04:00",
+ "generated_at": "2026-11-13T00:14:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-13 00:11:15"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-13 00:14:35"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-13 00:11:15"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-13 00:07:38"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-12 23:58:21"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-12 23:55:08"
   }
  ]
 }
