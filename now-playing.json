@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:30:28-04:00",
+ "generated_at": "2026-11-13T00:34:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-13 00:30:26"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-13 00:34:47"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-13 00:30:26"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-13 00:23:56"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-13 00:11:15"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-13 00:07:38"
   }
  ]
 }
