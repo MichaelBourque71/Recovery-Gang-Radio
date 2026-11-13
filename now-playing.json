@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:56:38-04:00",
+ "generated_at": "2026-11-13T19:00:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-13 18:56:37"
+  "title": "Living For Peace",
+  "started": "2026-11-13 19:00:26"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-13 18:56:37"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-13 18:51:50"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-13 18:40:40"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-13 18:35:48"
   }
  ]
 }
