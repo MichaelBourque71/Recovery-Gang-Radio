@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T17:58:49-04:00",
+ "generated_at": "2026-11-13T18:04:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-13 17:58:46"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-13 18:04:28"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-13 17:58:46"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-13 17:54:59"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-13 17:44:15"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-13 17:40:54"
   }
  ]
 }
