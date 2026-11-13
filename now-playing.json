@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:56:15-04:00",
+ "generated_at": "2026-11-13T16:00:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-13 15:56:11"
+  "title": "Clown In A Crown",
+  "started": "2026-11-13 16:00:38"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-13 15:56:11"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-13 15:52:16"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-13 15:43:42"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-13 15:38:58"
   }
  ]
 }
