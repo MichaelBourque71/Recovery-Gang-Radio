@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:54:41-04:00",
+ "generated_at": "2026-11-13T04:59:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-13 04:54:39"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-13 04:59:39"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-13 04:54:39"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-13 04:49:47"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-13 04:35:33"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-13 04:32:29"
   }
  ]
 }
