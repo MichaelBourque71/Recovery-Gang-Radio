@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:40:52-04:00",
+ "generated_at": "2026-11-13T04:45:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-13 04:40:49"
+  "title": "Greedy Bitch",
+  "started": "2026-11-13 04:45:07"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-13 04:40:49"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-13 04:35:33"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-13 04:23:38"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-13 04:21:18"
   }
  ]
 }
