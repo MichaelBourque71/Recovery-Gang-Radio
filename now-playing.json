@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:07:54-04:00",
+ "generated_at": "2026-11-13T19:11:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-13 19:07:52"
+  "title": "Painted Signals",
+  "started": "2026-11-13 19:11:06"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-13 19:07:52"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-13 19:04:00"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-13 18:51:50"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-13 18:46:23"
   }
  ]
 }
