@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:46:35-04:00",
+ "generated_at": "2026-11-12T22:49:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-12 22:46:31"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-12 22:49:04"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-12 22:46:31"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-12 22:42:49"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-12 22:30:07"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-12 22:25:30"
   }
  ]
 }
