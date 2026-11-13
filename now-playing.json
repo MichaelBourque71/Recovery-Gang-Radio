@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T10:18:36-04:00",
+ "generated_at": "2026-11-13T10:23:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-13 10:18:33"
+  "title": "Take Our Country Back",
+  "started": "2026-11-13 10:23:22"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-13 10:18:33"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-13 10:14:59"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-13 10:01:02"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-13 09:55:16"
   }
  ]
 }
