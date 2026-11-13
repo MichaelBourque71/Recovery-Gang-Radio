@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:35:38-04:00",
+ "generated_at": "2026-11-13T04:40:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-13 04:35:33"
+  "title": "Back Down While You Still Can (Alt version)",
+  "started": "2026-11-13 04:40:49"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-13 04:35:33"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-13 04:32:29"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-13 04:21:18"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-13 04:17:22"
   }
  ]
 }
