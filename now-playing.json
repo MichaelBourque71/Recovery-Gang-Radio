@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:11:08-04:00",
+ "generated_at": "2026-11-12T22:14:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-12 22:11:04"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-12 22:14:48"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-12 22:11:04"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-12 22:07:36"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-12 21:55:57"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-12 21:51:27"
   }
  ]
 }
