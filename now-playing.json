@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:27:04-04:00",
+ "generated_at": "2026-11-13T18:30:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-13 18:27:01"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-13 18:30:55"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-13 18:27:01"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-13 18:22:48"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-13 18:14:47"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-13 18:09:42"
   }
  ]
 }
