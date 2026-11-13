@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:58:32-04:00",
+ "generated_at": "2026-11-12T23:02:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-12 22:58:29"
+  "title": "Heavy Denim",
+  "started": "2026-11-12 23:02:46"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-12 22:58:29"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-12 22:54:14"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-12 22:42:49"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-12 22:38:05"
   }
  ]
 }
