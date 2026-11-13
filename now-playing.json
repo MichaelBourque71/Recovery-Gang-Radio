@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:16:03-04:00",
+ "generated_at": "2026-11-13T12:20:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-13 12:16:00"
+  "title": "The Left Lies",
+  "started": "2026-11-13 12:20:18"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-13 12:16:00"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-13 12:12:26"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-13 11:59:14"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-13 11:55:49"
   }
  ]
 }
