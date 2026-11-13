@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T05:19:57-04:00",
+ "generated_at": "2026-11-13T05:22:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-13 05:19:56"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-13 05:22:54"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-13 05:19:56"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-13 05:15:57"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-13 05:03:19"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-13 04:59:39"
   }
  ]
 }
