@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:36:03-04:00",
+ "generated_at": "2026-11-13T19:38:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-13 19:35:59"
+  "title": "One Brain Cell",
+  "started": "2026-11-13 19:38:36"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-13 19:35:59"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-13 19:30:59"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-13 19:19:21"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-13 19:14:43"
   }
  ]
 }
