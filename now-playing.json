@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:12:40-04:00",
+ "generated_at": "2026-11-13T14:17:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-13 14:12:35"
+  "title": "Delaware Sniff",
+  "started": "2026-11-13 14:17:43"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-13 14:12:35"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-13 14:08:18"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-13 13:58:46"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-13 13:54:16"
   }
  ]
 }
