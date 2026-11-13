@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T09:34:50-04:00",
+ "generated_at": "2026-11-13T09:38:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-13 09:34:47"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-13 09:38:04"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-13 09:34:47"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-13 09:31:43"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-13 09:19:16"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-13 09:15:34"
   }
  ]
 }
