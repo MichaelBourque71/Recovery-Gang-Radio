@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T20:34:57-04:00",
+ "generated_at": "2026-11-12T20:38:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-12 20:34:55"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-12 20:38:05"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-12 20:34:55"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-12 20:32:20"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-12 20:19:46"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-12 20:16:40"
   }
  ]
 }
