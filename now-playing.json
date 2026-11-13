@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:24:43-04:00",
+ "generated_at": "2026-11-13T14:25:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-13 14:21:51"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-13 14:25:02"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-13 14:21:51"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-13 14:17:43"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-13 14:04:52"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-13 14:01:56"
   }
  ]
 }
