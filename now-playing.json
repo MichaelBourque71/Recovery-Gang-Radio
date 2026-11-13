@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:34:45-04:00",
+ "generated_at": "2026-11-13T02:38:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-13 02:34:40"
+  "title": "It Was Time",
+  "started": "2026-11-13 02:38:39"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-13 02:34:40"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-13 02:31:10"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-13 02:18:40"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-13 02:17:55"
   }
  ]
 }
