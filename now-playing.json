@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:48:45-04:00",
+ "generated_at": "2026-11-13T12:54:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-13 12:48:43"
+  "title": "Unstoppable Force",
+  "started": "2026-11-13 12:54:05"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-13 12:48:43"
+  },
   {
    "title": "Yes",
    "started": "2026-11-13 12:45:02"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-13 12:35:06"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-13 12:30:40"
   }
  ]
 }
