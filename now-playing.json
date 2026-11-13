@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:22:44-04:00",
+ "generated_at": "2026-11-13T12:26:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-13 12:22:40"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-13 12:26:29"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-13 12:22:40"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-13 12:20:18"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-13 12:06:35"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-13 12:04:41"
   }
  ]
 }
