@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T00:18:15-04:00",
+ "generated_at": "2026-11-13T00:24:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-13 00:18:13"
+  "title": "Nature Is Talking",
+  "started": "2026-11-13 00:23:56"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-13 00:18:13"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-13 00:14:35"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-13 00:04:25"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-13 00:01:55"
   }
  ]
 }
