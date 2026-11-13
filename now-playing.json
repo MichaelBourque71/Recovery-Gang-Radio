@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:31:15-04:00",
+ "generated_at": "2026-11-13T15:35:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-13 15:31:12"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-13 15:35:30"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-13 15:31:12"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-13 15:27:46"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-13 15:13:37"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-13 15:09:34"
   }
  ]
 }
