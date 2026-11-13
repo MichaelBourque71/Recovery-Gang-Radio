@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T16:24:57-04:00",
+ "generated_at": "2026-11-13T16:28:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-13 16:24:53"
+  "title": "Weed Coughs",
+  "started": "2026-11-13 16:28:45"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-13 16:24:53"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-13 16:19:19"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-13 16:07:48"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-13 16:04:01"
   }
  ]
 }
