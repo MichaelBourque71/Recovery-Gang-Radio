@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T01:50:29-04:00",
+ "generated_at": "2026-11-13T01:53:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-13 01:50:27"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-13 01:53:29"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-13 01:50:27"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-13 01:47:13"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-13 01:32:33"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-13 01:29:23"
   }
  ]
 }
