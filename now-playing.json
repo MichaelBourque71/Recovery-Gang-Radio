@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T18:14:50-04:00",
+ "generated_at": "2026-11-13T18:16:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-13 18:14:47"
+  "title": "Running With Scissors",
+  "started": "2026-11-13 18:16:42"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-13 18:14:47"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-13 18:09:42"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-13 17:54:59"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-13 17:51:28"
   }
  ]
 }
