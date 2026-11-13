@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:42:32-04:00",
+ "generated_at": "2026-11-13T14:44:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-13 14:42:27"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-13 14:44:49"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-13 14:42:27"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-13 14:40:29"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-13 14:25:02"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-13 14:21:51"
   }
  ]
 }
