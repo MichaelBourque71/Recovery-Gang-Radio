@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T07:27:59-04:00",
+ "generated_at": "2026-11-13T07:32:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-13 07:27:54"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-13 07:32:34"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-13 07:27:54"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-13 07:23:09"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-13 07:07:09"
-  },
-  {
-   "title": "Recovery Gang Radio - Beat The Algorithm",
-   "started": "2026-11-13 07:06:24"
   }
  ]
 }
