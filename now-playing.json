@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T12:12:27-04:00",
+ "generated_at": "2026-11-13T12:16:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-13 12:12:26"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-13 12:16:00"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-13 12:12:26"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-13 12:06:35"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-13 11:55:49"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-13 11:53:48"
   }
  ]
 }
