@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T21:26:34-04:00",
+ "generated_at": "2026-11-12T21:30:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-12 21:26:33"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-12 21:29:59"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-12 21:26:33"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 21:21:45"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-12 21:09:44"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-12 21:07:43"
   }
  ]
 }
