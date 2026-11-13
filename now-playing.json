@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T14:25:03-04:00",
+ "generated_at": "2026-11-13T14:29:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-13 14:25:02"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-13 14:29:31"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-13 14:25:02"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-13 14:21:51"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-13 14:08:18"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-13 14:04:52"
   }
  ]
 }
