@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T08:40:54-04:00",
+ "generated_at": "2026-11-13T08:44:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-13 08:40:54"
+  "title": "420 Twice A Day",
+  "started": "2026-11-13 08:44:57"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-13 08:40:54"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-13 08:36:47"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-13 08:24:14"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-13 08:20:27"
   }
  ]
 }
