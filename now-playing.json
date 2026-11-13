@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:38:10-04:00",
+ "generated_at": "2026-11-12T22:42:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-12 22:38:05"
+  "title": "Duck On The Dash",
+  "started": "2026-11-12 22:42:49"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-12 22:38:05"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-12 22:33:35"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-12 22:22:12"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-12 22:19:35"
   }
  ]
 }
