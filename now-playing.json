@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T08:24:16-04:00",
+ "generated_at": "2026-11-13T08:28:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-13 08:24:14"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-13 08:28:05"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-13 08:24:14"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-13 08:20:27"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-13 08:06:12"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-13 08:02:26"
   }
  ]
 }
