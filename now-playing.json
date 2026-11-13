@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T07:06:28-04:00",
+ "generated_at": "2026-11-13T07:07:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Recovery Gang Radio - Beat The Algorithm",
-  "started": "2026-11-13 07:06:24"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-13 07:07:09"
  },
  "previous": [
+  {
+   "title": "Recovery Gang Radio - Beat The Algorithm",
+   "started": "2026-11-13 07:06:24"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-13 07:03:39"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-13 06:47:37"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-13 06:44:10"
   }
  ]
 }
