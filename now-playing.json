@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T21:55:59-04:00",
+ "generated_at": "2026-11-12T22:00:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-12 21:55:57"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-12 22:00:10"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-12 21:55:57"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-12 21:51:27"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-12 21:37:52"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-12 21:33:55"
   }
  ]
 }
