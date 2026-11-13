@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-13T09:38:07-04:00",
+ "generated_at": "2026-11-13T09:43:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-13 09:38:04"
+  "title": "Monopoly Mark",
+  "started": "2026-11-13 09:43:24"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-13 09:40:05"
+  },
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-13 09:38:04"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-13 09:34:47"
@@ -17,14 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-13 09:26:59"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-13 09:23:21"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-13 09:19:16"
   }
  ]
 }
