@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T06:44:10-04:00",
+ "generated_at": "2026-11-13T06:47:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-13 06:44:10"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-13 06:47:37"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-13 06:44:10"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-13 06:40:53"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-13 06:26:48"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-13 06:23:08"
   }
  ]
 }
