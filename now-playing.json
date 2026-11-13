@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T13:49:44-04:00",
+ "generated_at": "2026-11-13T13:54:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-13 13:49:43"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-13 13:54:16"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-13 13:49:43"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-13 13:44:52"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-13 13:32:53"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-13 13:28:51"
   }
  ]
 }
