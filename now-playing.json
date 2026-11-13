@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T22:26:05-04:00",
+ "generated_at": "2026-11-12T22:30:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-12 22:25:30"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-12 22:30:07"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-12 22:25:30"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-12 22:22:12"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-12 22:11:04"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-12 22:07:36"
   }
  ]
 }
