@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T03:01:24-04:00",
+ "generated_at": "2026-11-13T03:04:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-13 03:01:20"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-13 03:04:51"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-13 03:01:20"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-13 02:57:13"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-13 02:42:57"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-13 02:38:39"
   }
  ]
 }
