@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T21:37:56-04:00",
+ "generated_at": "2026-11-12T21:42:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-12 21:37:52"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-12 21:42:43"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-12 21:37:52"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-12 21:33:55"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-12 21:21:45"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-12 21:18:31"
   }
  ]
 }
