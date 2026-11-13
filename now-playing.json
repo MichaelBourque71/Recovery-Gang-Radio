@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T01:58:23-04:00",
+ "generated_at": "2026-11-13T02:01:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-13 01:58:21"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-13 02:01:53"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-13 01:58:21"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-13 01:53:29"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-13 01:42:02"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-13 01:36:50"
   }
  ]
 }
