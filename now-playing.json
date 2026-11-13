@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T09:10:59-04:00",
+ "generated_at": "2026-11-13T09:15:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-13 09:10:54"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-13 09:15:34"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-13 09:10:54"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-13 09:06:36"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!!",
    "started": "2026-11-13 08:56:36"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-13 08:51:59"
   }
  ]
 }
