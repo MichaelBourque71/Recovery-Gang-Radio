@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-12T23:58:26-04:00",
+ "generated_at": "2026-11-13T00:01:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-12 23:58:21"
+  "title": "What They Want…",
+  "started": "2026-11-13 00:01:55"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-12 23:58:21"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-12 23:55:08"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-12 23:41:49"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-12 23:36:23"
   }
  ]
 }
