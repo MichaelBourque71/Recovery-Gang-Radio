@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T15:17:13-04:00",
+ "generated_at": "2026-11-13T15:20:27-04:00",
  "on_air": true,
  "now_playing": {
   "title": "Singin’ Through The Fear",
-  "started": "2026-11-13 15:17:12"
+  "started": "2026-11-13 15:20:23"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-13 15:17:12"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-13 15:13:37"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-13 14:59:28"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-13 14:55:49"
   }
  ]
 }
