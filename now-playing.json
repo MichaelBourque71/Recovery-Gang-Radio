@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T11:07:24-04:00",
+ "generated_at": "2026-11-13T11:11:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-13 11:07:23"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-13 11:11:09"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-13 11:07:23"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-13 11:03:00"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-13 10:50:48"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-13 10:47:22"
   }
  ]
 }
