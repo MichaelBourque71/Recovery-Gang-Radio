@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:48:19-04:00",
+ "generated_at": "2026-11-13T02:52:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-13 02:48:16"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-13 02:52:34"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-13 02:48:16"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-13 02:42:57"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-13 02:31:10"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-13 02:26:20"
   }
  ]
 }
