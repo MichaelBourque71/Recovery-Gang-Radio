@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T06:00:56-04:00",
+ "generated_at": "2026-11-13T06:08:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Pair B - Living For Peace + You",
-  "started": "2026-11-13 06:00:52"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-13 06:08:45"
  },
  "previous": [
+  {
+   "title": "Pair B - Living For Peace + You",
+   "started": "2026-11-13 06:00:52"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-13 05:56:58"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-13 05:44:16"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-13 05:39:46"
   }
  ]
 }
