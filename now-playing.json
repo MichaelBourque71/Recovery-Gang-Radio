@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T11:14:32-04:00",
+ "generated_at": "2026-11-13T11:18:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-13 11:14:29"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-13 11:18:55"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-13 11:14:29"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-13 11:11:09"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-13 10:58:44"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-13 10:54:47"
   }
  ]
 }
