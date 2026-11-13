@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T04:23:41-04:00",
+ "generated_at": "2026-11-13T04:27:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-13 04:23:38"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-13 04:27:31"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-13 04:23:38"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-13 04:21:18"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-13 04:09:17"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-13 04:03:34"
   }
  ]
 }
