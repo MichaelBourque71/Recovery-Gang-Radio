@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:19:25-04:00",
+ "generated_at": "2026-11-13T19:22:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-13 19:19:21"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-13 19:22:44"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-13 19:19:21"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-13 19:14:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-13 19:04:00"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-13 19:00:26"
   }
  ]
 }
