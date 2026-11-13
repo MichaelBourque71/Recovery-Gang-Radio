@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-12T20:26:52-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-12 20:26:51"
- },
+ "generated_at": "2026-11-12T20:31:58-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Duck On The Dash",
