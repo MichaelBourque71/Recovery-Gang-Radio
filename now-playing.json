@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T13:41:11-04:00",
+ "generated_at": "2026-11-13T13:44:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-13 13:41:08"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-13 13:44:52"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-13 13:41:08"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-13 13:36:18"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-13 13:25:27"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-13 13:22:23"
   }
  ]
 }
