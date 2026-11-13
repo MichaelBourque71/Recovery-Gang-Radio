@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T02:18:43-04:00",
+ "generated_at": "2026-11-13T02:21:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-13 02:18:40"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-13 02:21:50"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-13 02:18:40"
+  },
   {
    "title": "Recovery Gang Radio - Beat The Algorithm",
    "started": "2026-11-13 02:17:55"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-13 02:01:53"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-13 01:58:21"
   }
  ]
 }
