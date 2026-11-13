@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T03:59:39-04:00",
+ "generated_at": "2026-11-13T04:03:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-13 03:59:38"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-13 04:03:34"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-13 03:59:38"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-13 03:56:46"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-13 03:47:02"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-13 03:43:50"
   }
  ]
 }
