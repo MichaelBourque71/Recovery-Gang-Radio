@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T01:14:11-04:00",
+ "generated_at": "2026-11-13T01:17:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-13 01:14:11"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-13 01:17:21"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-13 01:14:11"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-13 01:09:40"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-13 00:55:33"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-13 00:52:06"
   }
  ]
 }
