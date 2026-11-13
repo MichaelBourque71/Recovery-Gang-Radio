@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T13:28:51-04:00",
+ "generated_at": "2026-11-13T13:32:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-13 13:28:51"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-13 13:32:53"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-13 13:28:51"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-13 13:25:27"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-13 13:15:43"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-13 13:11:01"
   }
  ]
 }
