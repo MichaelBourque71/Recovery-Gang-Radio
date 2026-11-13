@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T17:11:31-04:00",
+ "generated_at": "2026-11-13T17:14:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-13 17:11:30"
+  "title": "Fuck Winter",
+  "started": "2026-11-13 17:14:27"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-13 17:11:30"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-13 17:08:14"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-13 16:54:52"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-13 16:52:02"
   }
  ]
 }
