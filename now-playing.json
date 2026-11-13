@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T16:10:45-04:00",
+ "generated_at": "2026-11-13T16:15:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-13 16:10:42"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-13 16:15:11"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-13 16:10:42"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-13 16:07:48"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-13 15:56:11"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-13 15:52:16"
   }
  ]
 }
