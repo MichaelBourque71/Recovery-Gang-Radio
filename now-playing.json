@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:30:36-04:00",
+ "generated_at": "2026-11-14T07:34:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-14 07:30:32"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-14 07:34:24"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-14 07:30:32"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-14 07:27:30"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-14 07:15:01"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-14 07:12:18"
   }
  ]
 }
