@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T00:02:22-04:00",
+ "generated_at": "2026-11-14T00:06:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-14 00:02:20"
+  "title": "Weed Coughs",
+  "started": "2026-11-14 00:06:50"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-14 00:02:20"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-13 23:58:44"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-13 23:48:46"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-13 23:43:30"
   }
  ]
 }
