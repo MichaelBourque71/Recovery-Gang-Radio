@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:50:08-04:00",
+ "generated_at": "2026-11-14T14:54:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-14 14:50:04"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-14 14:54:51"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-14 14:50:04"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-14 14:46:50"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-14 14:36:10"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-14 14:32:51"
   }
  ]
 }
