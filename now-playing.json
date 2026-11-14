@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T09:29:22-04:00",
+ "generated_at": "2026-11-14T09:32:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-14 09:29:20"
+  "title": "Man With the Backbone",
+  "started": "2026-11-14 09:32:11"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-14 09:29:20"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-14 09:26:02"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-14 09:16:17"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-14 09:11:05"
   }
  ]
 }
