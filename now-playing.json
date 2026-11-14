@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T02:00:42-04:00",
+ "generated_at": "2026-11-14T02:06:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-14 02:00:42"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-14 02:05:55"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-14 02:00:42"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-14 01:56:46"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-14 01:46:18"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-14 01:41:44"
   }
  ]
 }
