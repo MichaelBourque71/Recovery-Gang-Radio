@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T01:04:39-04:00",
+ "generated_at": "2026-11-14T01:07:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-14 01:04:36"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-14 01:07:53"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-14 01:04:36"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 01:01:37"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-14 00:51:18"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-14 00:49:30"
   }
  ]
 }
