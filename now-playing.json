@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:07:44-04:00",
+ "generated_at": "2026-11-13T22:11:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-13 22:07:39"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-13 22:11:42"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-13 22:07:39"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-13 22:04:44"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-13 21:53:12"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-13 21:50:06"
   }
  ]
 }
