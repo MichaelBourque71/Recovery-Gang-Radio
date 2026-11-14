@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T12:21:42-04:00",
+ "generated_at": "2026-11-14T12:26:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-14 12:20:21"
+  "title": "Follow The Trail",
+  "started": "2026-11-14 12:24:41"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-14 12:20:21"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 12:17:24"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-14 12:02:39"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-14 11:57:24"
   }
  ]
 }
