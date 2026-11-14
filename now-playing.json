@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:40:56-04:00",
+ "generated_at": "2026-11-14T16:45:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-14 16:40:55"
+  "title": "Nature Is Talking",
+  "started": "2026-11-14 16:45:40"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-14 16:40:55"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-14 16:36:10"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-14 16:24:17"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-14 16:21:54"
   }
  ]
 }
