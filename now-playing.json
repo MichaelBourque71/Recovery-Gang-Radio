@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:10:18-04:00",
+ "generated_at": "2026-11-14T15:14:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-14 15:10:18"
+  "title": "Running With Scissors",
+  "started": "2026-11-14 15:14:43"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-14 15:10:18"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-14 15:06:52"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-14 14:54:51"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-14 14:50:04"
   }
  ]
 }
