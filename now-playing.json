@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T10:54:14-04:00",
+ "generated_at": "2026-11-14T11:01:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-14 10:54:07"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-14 10:59:29"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-14 10:54:07"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-14 10:49:06"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 10:38:15"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-14 10:34:39"
   }
  ]
 }
