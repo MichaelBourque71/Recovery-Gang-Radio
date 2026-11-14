@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:32:54-04:00",
+ "generated_at": "2026-11-14T14:36:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-14 14:32:51"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-14 14:36:10"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-14 14:32:51"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 14:29:47"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-14 14:16:23"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-14 14:12:05"
   }
  ]
 }
