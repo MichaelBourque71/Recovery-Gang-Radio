@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:58:58-04:00",
+ "generated_at": "2026-11-13T23:03:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-13 22:58:54"
+  "title": "Upgraded",
+  "started": "2026-11-13 23:03:03"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-13 22:58:54"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-13 22:56:27"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-13 22:43:18"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-13 22:37:30"
   }
  ]
 }
