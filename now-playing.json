@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T09:45:06-04:00",
+ "generated_at": "2026-11-14T09:49:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-14 09:45:05"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-14 09:49:02"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-14 09:45:05"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-14 09:40:36"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-14 09:29:20"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-14 09:26:02"
   }
  ]
 }
