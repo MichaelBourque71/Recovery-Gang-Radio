@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T04:35:03-04:00",
+ "generated_at": "2026-11-14T04:39:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-14 04:34:59"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-14 04:39:46"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-14 04:34:59"
+  },
   {
    "title": "You",
    "started": "2026-11-14 04:31:42"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-14 04:18:08"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-14 04:16:08"
   }
  ]
 }
