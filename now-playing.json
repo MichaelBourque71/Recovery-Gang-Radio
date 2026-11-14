@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:14:28-04:00",
+ "generated_at": "2026-11-14T11:16:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-14 11:11:37"
+  "title": "One More Night",
+  "started": "2026-11-14 11:14:57"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-14 11:11:37"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-14 11:08:08"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 10:54:07"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-14 10:49:06"
   }
  ]
 }
