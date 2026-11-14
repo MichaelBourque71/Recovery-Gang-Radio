@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:34:57-04:00",
+ "generated_at": "2026-11-13T21:38:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-13 21:34:54"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-13 21:38:46"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-13 21:34:54"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-13 21:32:20"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-13 21:23:23"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-13 21:18:53"
   }
  ]
 }
