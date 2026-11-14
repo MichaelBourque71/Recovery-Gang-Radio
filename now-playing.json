@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T00:24:03-04:00",
+ "generated_at": "2026-11-14T00:28:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-14 00:24:03"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-14 00:28:23"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-14 00:24:03"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-14 00:20:46"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-14 00:06:50"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-14 00:02:20"
   }
  ]
 }
