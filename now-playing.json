@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:30:08-04:00",
+ "generated_at": "2026-11-14T19:32:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-14 19:30:03"
+  "title": "Man With the Backbone",
+  "started": "2026-11-14 19:32:39"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-14 19:30:03"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-14 19:25:46"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-14 19:12:37"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-14 19:10:15"
   }
  ]
 }
