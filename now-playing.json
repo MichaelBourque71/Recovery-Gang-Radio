@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:04:47-04:00",
+ "generated_at": "2026-11-13T22:07:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-13 22:04:44"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-13 22:07:39"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-13 22:04:44"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-13 21:59:24"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-13 21:50:06"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-13 21:43:56"
   }
  ]
 }
