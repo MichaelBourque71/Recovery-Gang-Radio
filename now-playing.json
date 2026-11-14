@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T12:35:25-04:00",
+ "generated_at": "2026-11-14T12:37:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-14 12:31:37"
+  "title": "Weaponized Children",
+  "started": "2026-11-14 12:35:34"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-14 12:31:37"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-14 12:28:12"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 12:17:24"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-14 12:13:06"
   }
  ]
 }
