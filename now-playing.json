@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:17:09-04:00",
+ "generated_at": "2026-11-14T06:21:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-14 06:17:09"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-14 06:21:47"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-14 06:17:09"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-14 06:13:31"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-14 05:57:38"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-14 05:53:46"
   }
  ]
 }
