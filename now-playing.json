@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:49:13-04:00",
+ "generated_at": "2026-11-14T17:54:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-14 17:49:10"
+  "title": "Follow The Trail",
+  "started": "2026-11-14 17:54:17"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-14 17:49:10"
+  },
   {
    "title": "There Was A Time",
    "started": "2026-11-14 17:44:57"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-14 17:34:08"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-14 17:31:26"
   }
  ]
 }
