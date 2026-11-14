@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:46:35-04:00",
+ "generated_at": "2026-11-14T18:50:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-14 18:46:34"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-14 18:50:31"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-14 18:46:34"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-14 18:41:02"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-14 18:25:52"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-14 18:22:31"
   }
  ]
 }
