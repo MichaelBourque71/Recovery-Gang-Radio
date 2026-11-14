@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:43:19-04:00",
+ "generated_at": "2026-11-13T22:47:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-13 22:43:18"
+  "title": "Putz in a Suit",
+  "started": "2026-11-13 22:47:50"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-13 22:43:18"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-13 22:37:30"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-13 22:24:03"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-13 22:20:43"
   }
  ]
 }
