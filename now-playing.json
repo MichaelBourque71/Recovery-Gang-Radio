@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T10:41:50-04:00",
+ "generated_at": "2026-11-14T10:46:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-14 10:41:18"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-14 10:44:37"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-14 10:41:18"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 10:38:15"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-14 10:28:57"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-14 10:23:18"
   }
  ]
 }
