@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:34:26-04:00",
+ "generated_at": "2026-11-14T07:38:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-14 07:34:24"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-14 07:38:52"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-14 07:34:24"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-14 07:30:32"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 07:18:43"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-14 07:15:01"
   }
  ]
 }
