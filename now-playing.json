@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:23:29-04:00",
+ "generated_at": "2026-11-13T23:29:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-13 23:23:27"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-13 23:29:03"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-13 23:23:27"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-13 23:19:19"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-13 23:06:36"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-13 23:03:03"
   }
  ]
 }
