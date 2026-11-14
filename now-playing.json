@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T03:03:20-04:00",
+ "generated_at": "2026-11-14T03:06:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-14 03:03:16"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-14 03:06:37"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-14 03:03:16"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-14 02:59:02"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-14 02:47:30"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-14 02:43:53"
   }
  ]
 }
