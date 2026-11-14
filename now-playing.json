@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:01:09-04:00",
+ "generated_at": "2026-11-14T19:05:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-14 19:01:08"
+  "title": "Burn It Slow",
+  "started": "2026-11-14 19:05:44"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-14 19:01:08"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 18:55:58"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-14 18:41:02"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-14 18:36:49"
   }
  ]
 }
