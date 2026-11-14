@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T01:56:51-04:00",
+ "generated_at": "2026-11-14T02:00:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-14 01:56:46"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-14 02:00:42"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-14 01:56:46"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-14 01:53:28"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-14 01:41:44"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-14 01:39:03"
   }
  ]
 }
