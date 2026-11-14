@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:02:26-04:00",
+ "generated_at": "2026-11-14T14:07:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-14 14:02:25"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-14 14:07:21"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-14 14:02:25"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-14 13:58:36"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-14 13:45:27"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-14 13:42:44"
   }
  ]
 }
