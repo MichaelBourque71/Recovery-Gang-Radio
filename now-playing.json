@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T00:49:30-04:00",
+ "generated_at": "2026-11-14T00:51:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-14 00:49:30"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-14 00:51:18"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-14 00:49:30"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-14 00:44:23"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-14 00:31:37"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-14 00:28:23"
   }
  ]
 }
