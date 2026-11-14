@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T13:38:19-04:00",
+ "generated_at": "2026-11-14T13:42:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-14 13:38:15"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-14 13:42:44"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-14 13:38:15"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-14 13:35:00"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-14 13:23:53"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-14 13:20:59"
   }
  ]
 }
