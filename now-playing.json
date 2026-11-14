@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T20:03:18-04:00",
+ "generated_at": "2026-11-13T20:07:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-13 20:03:15"
+  "title": "Built To Love",
+  "started": "2026-11-13 20:07:08"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-13 20:03:15"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-13 19:57:20"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-13 19:45:02"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-13 19:41:37"
   }
  ]
 }
