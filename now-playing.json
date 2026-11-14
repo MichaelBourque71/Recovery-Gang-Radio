@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:57:33-04:00",
+ "generated_at": "2026-11-14T18:01:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-14 17:57:31"
+  "title": "Killdozer Army",
+  "started": "2026-11-14 18:01:04"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-14 17:57:31"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-14 17:54:17"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-14 17:41:00"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-14 17:38:00"
   }
  ]
 }
