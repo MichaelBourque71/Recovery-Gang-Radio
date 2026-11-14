@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:14:26-04:00",
+ "generated_at": "2026-11-13T22:20:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-13 22:14:24"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-13 22:20:43"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-13 22:14:24"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-13 22:11:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-13 21:59:24"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-13 21:56:24"
   }
  ]
 }
