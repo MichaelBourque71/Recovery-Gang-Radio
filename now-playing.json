@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T03:06:38-04:00",
+ "generated_at": "2026-11-14T03:11:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-14 03:06:37"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-14 03:11:46"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-14 03:06:37"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-14 03:03:16"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-14 02:50:51"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-14 02:47:30"
   }
  ]
 }
