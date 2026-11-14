@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T12:41:37-04:00",
+ "generated_at": "2026-11-14T12:45:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-14 12:41:34"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-14 12:45:08"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-14 12:41:34"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-14 12:38:39"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-14 12:28:12"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-14 12:24:41"
   }
  ]
 }
