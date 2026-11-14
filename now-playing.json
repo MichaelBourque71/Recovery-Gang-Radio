@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:59:29-04:00",
+ "generated_at": "2026-11-13T22:04:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-13 21:59:24"
+  "title": "Lines In Stone",
+  "started": "2026-11-13 22:04:44"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-13 21:59:24"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-13 21:56:24"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-13 21:43:56"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-13 21:38:46"
   }
  ]
 }
