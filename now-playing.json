@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T20:53:05-04:00",
+ "generated_at": "2026-11-13T20:57:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-13 20:53:02"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-13 20:57:46"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-13 20:53:02"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-13 20:49:47"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-13 20:38:00"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-13 20:33:30"
   }
  ]
 }
