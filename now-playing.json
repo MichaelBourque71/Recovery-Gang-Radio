@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T09:40:40-04:00",
+ "generated_at": "2026-11-14T09:45:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-14 09:40:36"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-14 09:45:05"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-14 09:40:36"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-14 09:36:33"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-14 09:26:02"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-14 09:22:48"
   }
  ]
 }
