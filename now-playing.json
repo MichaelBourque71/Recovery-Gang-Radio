@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:05:48-04:00",
+ "generated_at": "2026-11-14T19:10:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-14 19:05:44"
+  "title": "Acid Freak",
+  "started": "2026-11-14 19:10:15"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-14 19:05:44"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-14 19:01:08"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-14 18:46:34"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-14 18:41:02"
   }
  ]
 }
