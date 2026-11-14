@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:56:01-04:00",
+ "generated_at": "2026-11-14T19:01:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-14 18:55:58"
+  "title": "Day And Night",
+  "started": "2026-11-14 19:01:08"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-14 18:55:58"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-14 18:50:31"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-14 18:36:49"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-14 18:31:44"
   }
  ]
 }
