@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:01:08-04:00",
+ "generated_at": "2026-11-14T18:05:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-14 18:01:04"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-14 18:05:08"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-14 18:01:04"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-14 17:57:31"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-14 17:44:57"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-14 17:41:00"
   }
  ]
 }
