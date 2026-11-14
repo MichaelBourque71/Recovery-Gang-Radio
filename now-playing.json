@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T13:58:41-04:00",
+ "generated_at": "2026-11-14T14:02:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-14 13:58:36"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-14 14:02:25"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-14 13:58:36"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-14 13:54:48"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-14 13:42:44"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-14 13:38:15"
   }
  ]
 }
