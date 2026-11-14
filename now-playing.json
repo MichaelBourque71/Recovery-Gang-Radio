@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:03:21-04:00",
+ "generated_at": "2026-11-14T15:06:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-14 15:03:16"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-14 15:06:52"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-14 15:03:16"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-14 14:59:57"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-14 14:46:50"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-14 14:43:48"
   }
  ]
 }
