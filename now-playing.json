@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:53:49-04:00",
+ "generated_at": "2026-11-14T07:00:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-14 06:53:46"
+  "title": "The Left Lies",
+  "started": "2026-11-14 07:00:03"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-14 06:53:46"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-14 06:49:20"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 06:38:09"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-14 06:34:39"
   }
  ]
 }
