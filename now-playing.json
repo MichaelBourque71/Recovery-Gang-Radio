@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T13:26:54-04:00",
+ "generated_at": "2026-11-14T13:31:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-14 13:26:51"
+  "title": "History Collects",
+  "started": "2026-11-14 13:31:11"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-14 13:26:51"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-14 13:23:53"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-14 13:13:19"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-14 13:10:52"
   }
  ]
 }
