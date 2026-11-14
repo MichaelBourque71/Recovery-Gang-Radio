@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T03:45:28-04:00",
+ "generated_at": "2026-11-14T03:47:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-14 03:45:28"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-14 03:47:42"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-14 03:45:28"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-14 03:42:29"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-14 03:31:39"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-14 03:28:06"
   }
  ]
 }
