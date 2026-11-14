@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:34:40-04:00",
+ "generated_at": "2026-11-14T06:38:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-14 06:34:39"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-14 06:38:09"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-14 06:34:39"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-14 06:29:09"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-14 06:17:09"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-14 06:13:31"
   }
  ]
 }
