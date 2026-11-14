@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-14T03:51:07-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-14T03:51:21-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-14 03:51:16"
+ },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-14 03:47:42"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-14 03:45:28"
@@ -18,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-14 03:36:59"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-14 03:31:39"
   }
  ]
 }
