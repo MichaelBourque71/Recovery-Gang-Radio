@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T10:12:17-04:00",
+ "generated_at": "2026-11-14T10:16:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-14 10:10:13"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-14 10:15:06"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-14 10:10:13"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-14 10:06:54"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-14 09:56:29"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-14 09:52:44"
   }
  ]
 }
