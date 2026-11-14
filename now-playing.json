@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:25:48-04:00",
+ "generated_at": "2026-11-13T21:29:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-13 21:25:46"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-13 21:28:58"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-13 21:25:46"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-13 21:23:23"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-13 21:10:13"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-13 21:05:05"
   }
  ]
 }
