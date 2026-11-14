@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T09:04:47-04:00",
+ "generated_at": "2026-11-14T09:08:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-14 09:04:44"
+  "title": "Acid Freak",
+  "started": "2026-11-14 09:08:33"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-14 09:04:44"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-14 08:59:45"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-14 08:48:59"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-14 08:45:11"
   }
  ]
 }
