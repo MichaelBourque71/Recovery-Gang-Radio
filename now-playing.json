@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:34:12-04:00",
+ "generated_at": "2026-11-14T17:38:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-14 17:34:08"
+  "title": "Stolen Democracy",
+  "started": "2026-11-14 17:38:00"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-14 17:34:08"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-14 17:31:26"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-14 17:16:52"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-14 17:12:00"
   }
  ]
 }
