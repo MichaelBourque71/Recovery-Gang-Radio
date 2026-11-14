@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:54:21-04:00",
+ "generated_at": "2026-11-14T17:57:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-14 17:54:17"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-14 17:57:31"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-14 17:54:17"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-14 17:49:10"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 17:38:00"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-14 17:34:08"
   }
  ]
 }
