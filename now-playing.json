@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:14:44-04:00",
+ "generated_at": "2026-11-14T15:17:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-14 15:14:43"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-14 15:17:35"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-14 15:14:43"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-14 15:10:18"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-14 14:59:57"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-14 14:54:51"
   }
  ]
 }
