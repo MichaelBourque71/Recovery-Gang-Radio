@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T20:57:49-04:00",
+ "generated_at": "2026-11-13T21:01:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-13 20:57:46"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-13 21:01:45"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-13 20:57:46"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-13 20:53:02"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-13 20:40:32"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-13 20:38:00"
   }
  ]
 }
