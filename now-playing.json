@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:01:26-04:00",
+ "generated_at": "2026-11-14T11:03:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-14 10:59:29"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-14 11:03:13"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-14 10:59:29"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 10:54:07"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-14 10:41:18"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-14 10:38:15"
   }
  ]
 }
