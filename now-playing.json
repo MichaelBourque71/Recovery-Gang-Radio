@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T08:11:43-04:00",
+ "generated_at": "2026-11-14T08:16:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-14 08:11:38"
+  "title": "Freedom Wave",
+  "started": "2026-11-14 08:16:46"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-14 08:11:38"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-14 08:06:39"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-14 07:55:23"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-14 07:51:56"
   }
  ]
 }
