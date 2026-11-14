@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:43:47-04:00",
+ "generated_at": "2026-11-14T05:47:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-14 05:43:43"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-14 05:47:47"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-14 05:43:43"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-14 05:40:13"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-14 05:30:13"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-14 05:25:30"
   }
  ]
 }
