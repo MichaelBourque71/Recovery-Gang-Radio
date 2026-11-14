@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:18:48-04:00",
+ "generated_at": "2026-11-14T07:23:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-14 07:18:43"
+  "title": "Upgraded",
+  "started": "2026-11-14 07:23:56"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-14 07:18:43"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-14 07:15:01"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-14 07:02:17"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-14 07:00:03"
   }
  ]
 }
