@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T20:33:31-04:00",
+ "generated_at": "2026-11-13T20:38:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-13 20:33:30"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-13 20:38:00"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-13 20:33:30"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-13 20:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-13 20:21:00"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-13 20:18:12"
   }
  ]
 }
