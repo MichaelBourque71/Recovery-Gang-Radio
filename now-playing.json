@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:08:35-04:00",
+ "generated_at": "2026-11-14T18:13:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-14 18:08:34"
+  "title": "So Take a Chance",
+  "started": "2026-11-14 18:13:34"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-14 18:08:34"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-14 18:05:08"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-14 17:54:17"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-14 17:49:10"
   }
  ]
 }
