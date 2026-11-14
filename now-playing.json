@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T10:46:39-04:00",
+ "generated_at": "2026-11-14T10:49:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-14 10:44:37"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-14 10:49:06"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-14 10:44:37"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-14 10:41:18"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-14 10:30:20"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-14 10:28:57"
   }
  ]
 }
