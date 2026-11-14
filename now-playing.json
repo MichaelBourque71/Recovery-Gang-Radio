@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:27:23-04:00",
+ "generated_at": "2026-11-13T22:32:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-13 22:27:21"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-13 22:32:40"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-13 22:27:21"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-13 22:24:03"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-13 22:11:42"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-13 22:07:39"
   }
  ]
 }
