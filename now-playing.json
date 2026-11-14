@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:53:47-04:00",
+ "generated_at": "2026-11-14T05:57:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-14 05:53:46"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-14 05:57:38"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-14 05:53:46"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-14 05:50:36"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-14 05:40:13"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-14 05:37:07"
   }
  ]
 }
