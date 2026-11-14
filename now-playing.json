@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T03:42:30-04:00",
+ "generated_at": "2026-11-14T03:45:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-14 03:42:29"
+  "title": "The Left Lies",
+  "started": "2026-11-14 03:45:28"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-14 03:42:29"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 03:39:00"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-14 03:28:06"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-14 03:25:13"
   }
  ]
 }
