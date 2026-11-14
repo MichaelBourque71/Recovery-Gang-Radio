@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:10:14-04:00",
+ "generated_at": "2026-11-13T21:14:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-13 21:10:13"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-13 21:14:15"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-13 21:10:13"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-13 21:05:05"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-13 20:53:02"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-13 20:49:47"
   }
  ]
 }
