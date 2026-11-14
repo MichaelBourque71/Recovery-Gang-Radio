@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:07:26-04:00",
+ "generated_at": "2026-11-14T14:12:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-14 14:07:21"
+  "title": "It Was Time",
+  "started": "2026-11-14 14:12:05"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-14 14:07:21"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-14 14:02:25"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-14 13:50:53"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-14 13:45:27"
   }
  ]
 }
