@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T08:42:36-04:00",
+ "generated_at": "2026-11-14T08:47:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-14 08:40:48"
+  "title": "Unstoppable Force",
+  "started": "2026-11-14 08:45:11"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-14 08:40:48"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-14 08:35:54"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-14 08:25:34"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-14 08:19:56"
   }
  ]
 }
