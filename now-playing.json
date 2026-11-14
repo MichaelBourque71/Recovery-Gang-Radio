@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:44:20-04:00",
+ "generated_at": "2026-11-14T06:49:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-14 06:44:17"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-14 06:49:20"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-14 06:44:17"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-14 06:41:13"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-14 06:29:09"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-14 06:25:28"
   }
  ]
 }
