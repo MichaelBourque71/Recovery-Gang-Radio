@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-14T03:47:46-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-14 03:47:42"
- },
+ "generated_at": "2026-11-14T03:51:07-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "The Left Lies",
