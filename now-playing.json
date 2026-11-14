@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:21:23-04:00",
+ "generated_at": "2026-11-14T15:24:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-14 15:21:20"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-14 15:24:47"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-14 15:21:20"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-14 15:17:35"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-14 15:06:52"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-14 15:03:16"
   }
  ]
 }
