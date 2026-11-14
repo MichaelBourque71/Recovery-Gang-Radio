@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T10:30:17-04:00",
+ "generated_at": "2026-11-14T10:32:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-14 10:28:57"
+  "title": "Burn It Slow",
+  "started": "2026-11-14 10:30:20"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-14 10:28:57"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-14 10:23:18"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-14 10:10:13"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-14 10:06:54"
   }
  ]
 }
