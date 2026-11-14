@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:56:28-04:00",
+ "generated_at": "2026-11-13T22:58:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-13 22:56:27"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-13 22:58:54"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-13 22:56:27"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-13 22:51:10"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-13 22:37:30"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-13 22:32:40"
   }
  ]
 }
