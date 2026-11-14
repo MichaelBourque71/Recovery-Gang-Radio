@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:32:30-04:00",
+ "generated_at": "2026-11-13T23:36:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-13 23:32:28"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-13 23:36:18"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-13 23:32:28"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-13 23:29:03"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-13 23:14:07"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-13 23:10:03"
   }
  ]
 }
