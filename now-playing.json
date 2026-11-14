@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T02:33:12-04:00",
+ "generated_at": "2026-11-14T02:36:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-14 02:33:08"
+  "title": "Delaware Sniff",
+  "started": "2026-11-14 02:36:28"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-14 02:33:08"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-14 02:28:02"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-14 02:16:23"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-14 02:13:25"
   }
  ]
 }
