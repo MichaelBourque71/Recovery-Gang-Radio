@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:03:52-04:00",
+ "generated_at": "2026-11-14T11:08:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-14 11:03:13"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-14 11:08:08"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-14 11:03:13"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-14 10:59:29"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-14 10:44:37"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-14 10:41:18"
   }
  ]
 }
