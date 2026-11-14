@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:38:49-04:00",
+ "generated_at": "2026-11-13T21:43:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-13 21:38:46"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-13 21:43:56"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-13 21:38:46"
+  },
   {
    "title": "Yes",
    "started": "2026-11-13 21:34:54"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-13 21:25:46"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-13 21:23:23"
   }
  ]
 }
