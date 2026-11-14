@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:17:38-04:00",
+ "generated_at": "2026-11-14T15:21:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-14 15:17:35"
+  "title": "Dead Ideology ",
+  "started": "2026-11-14 15:21:20"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-14 15:17:35"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-14 15:14:43"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-14 15:03:16"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-14 14:59:57"
   }
  ]
 }
