@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:38:10-04:00",
+ "generated_at": "2026-11-14T06:41:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-14 06:38:09"
+  "title": "Mailer Demon",
+  "started": "2026-11-14 06:41:13"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-14 06:38:09"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-14 06:34:39"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-14 06:21:47"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-14 06:17:09"
   }
  ]
 }
