@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:12:56-04:00",
+ "generated_at": "2026-11-14T16:16:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-14 16:12:54"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-14 16:16:33"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-14 16:12:54"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-14 16:07:57"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-14 15:56:36"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-14 15:53:11"
   }
  ]
 }
