@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:33:53-04:00",
+ "generated_at": "2026-11-14T11:38:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-14 11:32:13"
+  "title": "Killdozer Army",
+  "started": "2026-11-14 11:36:23"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-14 11:32:13"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-14 11:26:55"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-14 11:14:57"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-14 11:11:37"
   }
  ]
 }
