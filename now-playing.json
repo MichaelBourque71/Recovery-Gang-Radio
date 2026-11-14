@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:46:54-04:00",
+ "generated_at": "2026-11-14T14:50:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-14 14:46:50"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-14 14:50:04"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-14 14:46:50"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-14 14:43:48"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-14 14:32:51"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-14 14:29:47"
   }
  ]
 }
