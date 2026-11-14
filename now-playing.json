@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T12:02:47-04:00",
+ "generated_at": "2026-11-14T12:08:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-14 12:02:39"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-14 12:08:04"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-14 12:02:39"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-14 11:57:24"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-14 11:44:22"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-14 11:40:35"
   }
  ]
 }
