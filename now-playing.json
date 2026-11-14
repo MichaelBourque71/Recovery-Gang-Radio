@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:55:24-04:00",
+ "generated_at": "2026-11-14T08:00:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-14 07:55:23"
+  "title": "Stolen Democracy",
+  "started": "2026-11-14 08:00:05"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-14 07:55:23"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-14 07:51:56"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-14 07:41:04"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-14 07:38:52"
   }
  ]
 }
