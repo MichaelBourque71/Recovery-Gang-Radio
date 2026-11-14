@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T09:52:45-04:00",
+ "generated_at": "2026-11-14T09:56:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-14 09:52:44"
+  "title": "Balls Intact",
+  "started": "2026-11-14 09:56:29"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-14 09:52:44"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-14 09:49:02"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-14 09:36:33"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-14 09:32:11"
   }
  ]
 }
