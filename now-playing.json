@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:19:45-04:00",
+ "generated_at": "2026-11-14T17:25:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-14 17:19:44"
+  "title": "My Harley Waits",
+  "started": "2026-11-14 17:25:35"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-14 17:19:44"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-14 17:16:52"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-14 17:04:01"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-14 16:59:30"
   }
  ]
 }
