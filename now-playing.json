@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T00:51:21-04:00",
+ "generated_at": "2026-11-14T00:54:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-14 00:51:18"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-14 00:54:01"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-14 00:51:18"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-14 00:49:30"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-14 00:35:40"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-14 00:31:37"
   }
  ]
 }
