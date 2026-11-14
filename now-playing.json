@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:47:53-04:00",
+ "generated_at": "2026-11-14T05:50:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-14 05:47:47"
+  "title": "Time For Talking",
+  "started": "2026-11-14 05:50:36"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-14 05:47:47"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-14 05:43:43"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 05:34:08"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-14 05:30:13"
   }
  ]
 }
