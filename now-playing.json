@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:08:00-04:00",
+ "generated_at": "2026-11-14T16:12:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-14 16:07:57"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-14 16:12:54"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-14 16:07:57"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-14 16:04:22"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-14 15:53:11"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-14 15:49:47"
   }
  ]
 }
