@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T04:44:56-04:00",
+ "generated_at": "2026-11-14T04:47:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-14 04:44:55"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-14 04:47:52"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-14 04:44:55"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-14 04:39:46"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-14 04:26:47"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-14 04:22:29"
   }
  ]
 }
