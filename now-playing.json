@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:19:14-04:00",
+ "generated_at": "2026-11-14T11:23:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-14 11:18:47"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-14 11:22:08"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-14 11:18:47"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-14 11:14:57"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-14 11:03:13"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-14 10:59:29"
   }
  ]
 }
