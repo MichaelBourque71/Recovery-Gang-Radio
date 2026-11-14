@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:52:18-04:00",
+ "generated_at": "2026-11-14T16:56:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-14 16:52:14"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-14 16:56:11"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-14 16:52:14"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-14 16:45:40"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-14 16:31:25"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-14 16:26:58"
   }
  ]
 }
