@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:13:19-04:00",
+ "generated_at": "2026-11-14T05:17:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-14 05:13:17"
+  "title": "Weaponized Children",
+  "started": "2026-11-14 05:17:22"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-14 05:13:17"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-14 05:07:35"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-14 04:55:34"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-14 04:51:24"
   }
  ]
 }
