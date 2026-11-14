@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T01:12:35-04:00",
+ "generated_at": "2026-11-14T01:15:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-14 01:12:33"
+  "title": "LGBTQ",
+  "started": "2026-11-14 01:15:23"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-14 01:12:33"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-14 01:07:53"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-14 00:57:38"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-14 00:54:01"
   }
  ]
 }
