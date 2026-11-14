@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:59:34-04:00",
+ "generated_at": "2026-11-14T16:04:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-14 15:59:33"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-14 16:04:22"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-14 15:59:33"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-14 15:56:36"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-14 15:44:34"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-14 15:40:29"
   }
  ]
 }
