@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:17:06-04:00",
+ "generated_at": "2026-11-14T19:21:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-14 19:17:05"
+  "title": "Alignment",
+  "started": "2026-11-14 19:21:51"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-14 19:17:05"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-14 19:12:37"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-14 19:01:08"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-14 18:55:58"
   }
  ]
 }
