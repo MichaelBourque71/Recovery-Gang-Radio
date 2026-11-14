@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:05:13-04:00",
+ "generated_at": "2026-11-14T18:08:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-14 18:05:08"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-14 18:08:34"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-14 18:05:08"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-14 18:01:04"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-14 17:49:10"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-14 17:44:57"
   }
  ]
 }
