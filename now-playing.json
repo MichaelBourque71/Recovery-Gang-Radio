@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:30:17-04:00",
+ "generated_at": "2026-11-14T05:34:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-14 05:30:13"
+  "title": "Stolen Democracy",
+  "started": "2026-11-14 05:34:08"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-14 05:30:13"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-14 05:25:30"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-14 05:13:17"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-14 05:07:35"
   }
  ]
 }
