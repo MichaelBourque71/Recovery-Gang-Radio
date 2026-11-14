@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:36:15-04:00",
+ "generated_at": "2026-11-14T16:40:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-14 16:36:10"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-14 16:40:55"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-14 16:36:10"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-14 16:31:25"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-14 16:21:54"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-14 16:16:33"
   }
  ]
 }
