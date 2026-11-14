@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:40:19-04:00",
+ "generated_at": "2026-11-14T05:43:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-14 05:40:13"
+  "title": "Killdozer Army",
+  "started": "2026-11-14 05:43:43"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-14 05:40:13"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-14 05:37:07"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-14 05:25:30"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-14 05:20:45"
   }
  ]
 }
