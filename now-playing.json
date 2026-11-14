@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:48:49-04:00",
+ "generated_at": "2026-11-13T23:52:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-13 23:48:46"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-13 23:52:37"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-13 23:48:46"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-13 23:43:30"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-13 23:32:28"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-13 23:29:03"
   }
  ]
 }
