@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:10:04-04:00",
+ "generated_at": "2026-11-13T23:14:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-13 23:10:03"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-13 23:14:07"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-13 23:10:03"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-13 23:06:36"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-13 22:56:27"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-13 22:51:10"
   }
  ]
 }
