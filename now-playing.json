@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T20:07:10-04:00",
+ "generated_at": "2026-11-13T20:13:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-13 20:07:08"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-13 20:12:59"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-13 20:07:08"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-13 20:03:15"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-13 19:49:10"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-13 19:45:02"
   }
  ]
 }
