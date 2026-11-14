@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:43:58-04:00",
+ "generated_at": "2026-11-13T21:50:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-13 21:43:56"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-13 21:50:06"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-13 21:43:56"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-13 21:38:46"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-13 21:28:58"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-13 21:25:46"
   }
  ]
 }
