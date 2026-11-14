@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T04:09:35-04:00",
+ "generated_at": "2026-11-14T04:11:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-14 04:09:32"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-14 04:11:39"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-14 04:09:32"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-14 04:05:33"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-14 03:53:36"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-14 03:51:16"
   }
  ]
 }
