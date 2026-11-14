@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:36:21-04:00",
+ "generated_at": "2026-11-13T23:40:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-13 23:36:18"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-13 23:40:29"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-13 23:36:18"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-13 23:32:28"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-13 23:19:19"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-13 23:14:07"
   }
  ]
 }
