@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:56:13-04:00",
+ "generated_at": "2026-11-14T16:59:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-14 16:56:11"
+  "title": "Delaware Sniff",
+  "started": "2026-11-14 16:59:30"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-14 16:56:11"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-14 16:52:14"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-14 16:36:10"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-14 16:31:25"
   }
  ]
 }
