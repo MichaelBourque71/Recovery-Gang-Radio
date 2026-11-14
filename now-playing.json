@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T02:28:03-04:00",
+ "generated_at": "2026-11-14T02:33:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-14 02:28:02"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-14 02:33:08"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-14 02:28:02"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-14 02:23:33"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-14 02:13:25"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-14 02:10:44"
   }
  ]
 }
