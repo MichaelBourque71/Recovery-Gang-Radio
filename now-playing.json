@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:13:38-04:00",
+ "generated_at": "2026-11-14T18:17:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-14 18:13:34"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-14 18:17:45"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-14 18:13:34"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-14 18:08:34"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-14 17:57:31"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-14 17:54:17"
   }
  ]
 }
