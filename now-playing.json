@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T19:57:22-04:00",
+ "generated_at": "2026-11-13T20:03:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-13 19:57:20"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-13 20:03:15"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-13 19:57:20"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-13 19:54:15"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-13 19:41:37"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-13 19:38:36"
   }
  ]
 }
