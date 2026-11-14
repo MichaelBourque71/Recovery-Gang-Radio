@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-14T12:28:17-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-14 12:28:12"
- },
+ "generated_at": "2026-11-14T12:31:39-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-14 12:28:12"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-14 12:24:41"
@@ -21,10 +22,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-14 12:13:06"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-14 12:08:04"
   }
  ]
 }
