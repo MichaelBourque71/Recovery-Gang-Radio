@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T13:17:21-04:00",
+ "generated_at": "2026-11-14T13:21:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-14 13:17:20"
+  "title": "Lines In Stone",
+  "started": "2026-11-14 13:20:59"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-14 13:17:20"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-14 13:13:19"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-14 13:03:15"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-14 12:59:56"
   }
  ]
 }
