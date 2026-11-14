@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:47:40-04:00",
+ "generated_at": "2026-11-14T07:52:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-14 07:47:38"
+  "title": "Dead Ideology ",
+  "started": "2026-11-14 07:51:56"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-14 07:47:38"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-14 07:42:59"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-14 07:34:24"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-14 07:30:32"
   }
  ]
 }
