@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T04:47:57-04:00",
+ "generated_at": "2026-11-14T04:51:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-14 04:47:52"
+  "title": "Honourable, My Ass!!",
+  "started": "2026-11-14 04:51:24"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-14 04:47:52"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-14 04:44:55"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-14 04:31:42"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-14 04:26:47"
   }
  ]
 }
