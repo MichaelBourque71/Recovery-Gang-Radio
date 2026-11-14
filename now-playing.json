@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T08:53:49-04:00",
+ "generated_at": "2026-11-14T08:55:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-14 08:51:39"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-14 08:55:37"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-14 08:51:39"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-14 08:48:59"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-14 08:35:54"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-14 08:32:26"
   }
  ]
 }
