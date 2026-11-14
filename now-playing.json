@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:16:35-04:00",
+ "generated_at": "2026-11-14T16:21:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-14 16:16:33"
+  "title": "Acid Freak",
+  "started": "2026-11-14 16:21:54"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-14 16:16:33"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-14 16:12:54"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-14 15:59:33"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-14 15:56:36"
   }
  ]
 }
