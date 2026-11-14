@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T05:57:42-04:00",
+ "generated_at": "2026-11-14T06:01:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-14 05:57:38"
+  "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
+  "started": "2026-11-14 06:01:13"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-14 05:57:38"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-14 05:53:46"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-14 05:43:43"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-14 05:40:13"
   }
  ]
 }
