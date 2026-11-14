@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T11:16:53-04:00",
+ "generated_at": "2026-11-14T11:19:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-14 11:14:57"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-14 11:18:47"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-14 11:14:57"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-14 11:11:37"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-14 10:59:29"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-14 10:54:07"
   }
  ]
 }
