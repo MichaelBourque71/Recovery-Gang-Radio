@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:45:00-04:00",
+ "generated_at": "2026-11-14T19:49:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!!",
-  "started": "2026-11-14 19:45:00"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-14 19:49:28"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!!",
+   "started": "2026-11-14 19:45:00"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-14 19:40:22"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-14 19:30:03"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-14 19:25:46"
   }
  ]
 }
