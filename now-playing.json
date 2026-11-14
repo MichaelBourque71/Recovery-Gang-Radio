@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:12:21-04:00",
+ "generated_at": "2026-11-14T07:15:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-14 07:12:18"
+  "title": "Southbound 737",
+  "started": "2026-11-14 07:15:01"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-14 07:12:18"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-14 07:07:58"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-14 06:53:46"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-14 06:49:20"
   }
  ]
 }
