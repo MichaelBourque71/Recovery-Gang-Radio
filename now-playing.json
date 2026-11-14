@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:23:56-04:00",
+ "generated_at": "2026-11-14T07:27:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-14 07:23:56"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-14 07:27:30"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-14 07:23:56"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 07:18:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-14 07:07:58"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-14 07:02:17"
   }
  ]
 }
