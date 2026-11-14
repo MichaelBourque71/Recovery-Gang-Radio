@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T18:25:53-04:00",
+ "generated_at": "2026-11-14T18:31:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-14 18:25:52"
+  "title": "Breath Of Policy",
+  "started": "2026-11-14 18:31:44"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-14 18:25:52"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-14 18:22:31"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-14 18:08:34"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-14 18:05:08"
   }
  ]
 }
