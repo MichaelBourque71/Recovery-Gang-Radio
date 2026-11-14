@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-14T11:08:41-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-14 11:08:08"
- },
+ "generated_at": "2026-11-14T11:11:55-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-14 11:08:08"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-14 11:03:13"
@@ -21,10 +22,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-14 10:49:06"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-14 10:44:37"
   }
  ]
 }
