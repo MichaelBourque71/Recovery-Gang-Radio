@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T21:14:17-04:00",
+ "generated_at": "2026-11-13T21:18:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-13 21:14:15"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-13 21:18:53"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-13 21:14:15"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-13 21:10:13"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-13 20:57:46"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-13 20:53:02"
   }
  ]
 }
