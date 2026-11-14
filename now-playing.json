@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-14T02:40:36-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "You",
-  "started": "2026-11-14 02:40:36"
- },
+ "generated_at": "2026-11-14T02:43:53-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-14 02:40:36"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-14 02:36:28"
@@ -21,10 +22,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-14 02:23:33"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-14 02:19:31"
   }
  ]
 }
