@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:43:01-04:00",
+ "generated_at": "2026-11-14T07:47:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-14 07:42:59"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-14 07:47:38"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-14 07:42:59"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-14 07:41:04"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-14 07:30:32"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-14 07:27:30"
   }
  ]
 }
