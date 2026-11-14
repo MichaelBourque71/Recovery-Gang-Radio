@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:16:57-04:00",
+ "generated_at": "2026-11-14T17:19:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-14 17:16:52"
+  "title": "Built To Love",
+  "started": "2026-11-14 17:19:44"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-14 17:16:52"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-14 17:12:00"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-14 16:59:30"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-14 16:56:11"
   }
  ]
 }
