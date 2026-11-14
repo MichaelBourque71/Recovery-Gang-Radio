@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:13:35-04:00",
+ "generated_at": "2026-11-14T06:17:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-14 06:13:31"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-14 06:17:09"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-14 06:13:31"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-14 06:08:55"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-14 05:53:46"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-14 05:50:36"
   }
  ]
 }
