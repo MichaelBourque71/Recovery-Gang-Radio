@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T13:03:20-04:00",
+ "generated_at": "2026-11-14T13:06:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-14 13:03:15"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-14 13:06:56"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-14 13:03:15"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-14 12:59:56"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-14 12:45:08"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-14 12:41:34"
   }
  ]
 }
