@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T08:00:06-04:00",
+ "generated_at": "2026-11-14T08:03:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-14 08:00:05"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-14 08:03:19"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-14 08:00:05"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-14 07:55:23"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-14 07:42:59"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-14 07:41:04"
   }
  ]
 }
