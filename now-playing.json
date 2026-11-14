@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T14:29:51-04:00",
+ "generated_at": "2026-11-14T14:32:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-14 14:29:47"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-14 14:32:51"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-14 14:29:47"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-14 14:25:41"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-14 14:12:05"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-14 14:07:21"
   }
  ]
 }
