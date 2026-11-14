@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T19:12:40-04:00",
+ "generated_at": "2026-11-14T19:17:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-14 19:12:37"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-14 19:17:05"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-14 19:12:37"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-14 19:10:15"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-14 18:55:58"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-14 18:50:31"
   }
  ]
 }
