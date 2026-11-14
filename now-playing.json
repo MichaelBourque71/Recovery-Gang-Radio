@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:40:34-04:00",
+ "generated_at": "2026-11-14T15:44:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-14 15:40:29"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-14 15:44:34"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-14 15:40:29"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-14 15:34:56"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-14 15:21:20"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-14 15:17:35"
   }
  ]
 }
