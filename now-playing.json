@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:44:37-04:00",
+ "generated_at": "2026-11-14T15:49:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-14 15:44:34"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-14 15:49:47"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-14 15:44:34"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-14 15:40:29"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-14 15:24:47"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-14 15:21:20"
   }
  ]
 }
