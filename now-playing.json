@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T22:47:51-04:00",
+ "generated_at": "2026-11-13T22:51:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-13 22:47:50"
+  "title": "Hard Way",
+  "started": "2026-11-13 22:51:10"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-13 22:47:50"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-13 22:43:18"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-13 22:27:21"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-13 22:24:03"
   }
  ]
 }
