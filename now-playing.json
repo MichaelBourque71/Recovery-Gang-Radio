@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:29:03-04:00",
+ "generated_at": "2026-11-13T23:32:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-13 23:29:03"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-13 23:32:28"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-13 23:29:03"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-13 23:23:27"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-13 23:10:03"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-13 23:06:36"
   }
  ]
 }
