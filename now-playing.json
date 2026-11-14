@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-14T10:20:55-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-14 10:18:59"
- },
+ "generated_at": "2026-11-14T10:27:53-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-14 10:18:59"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-14 10:15:06"
@@ -21,10 +22,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-14 10:04:58"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-14 10:01:07"
   }
  ]
 }
