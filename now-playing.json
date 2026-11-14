@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:14:08-04:00",
+ "generated_at": "2026-11-13T23:19:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-13 23:14:07"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-13 23:19:19"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-13 23:14:07"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-13 23:10:03"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-13 22:58:54"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-13 22:56:27"
   }
  ]
 }
