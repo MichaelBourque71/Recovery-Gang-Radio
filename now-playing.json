@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T15:06:55-04:00",
+ "generated_at": "2026-11-14T15:10:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-14 15:06:52"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-14 15:10:18"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-14 15:06:52"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-14 15:03:16"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-14 14:50:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-14 14:46:50"
   }
  ]
 }
