@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T07:52:01-04:00",
+ "generated_at": "2026-11-14T07:55:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-14 07:51:56"
+  "title": "It Was Time",
+  "started": "2026-11-14 07:55:23"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-14 07:51:56"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-14 07:47:38"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-14 07:38:52"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-14 07:34:24"
   }
  ]
 }
