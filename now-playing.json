@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T03:51:21-04:00",
+ "generated_at": "2026-11-14T03:53:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-14 03:51:16"
+  "title": "It Was Time",
+  "started": "2026-11-14 03:53:36"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-14 03:51:16"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-14 03:47:42"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 03:39:00"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-14 03:36:59"
   }
  ]
 }
