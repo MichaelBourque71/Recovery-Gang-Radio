@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T06:21:48-04:00",
+ "generated_at": "2026-11-14T06:25:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-14 06:21:47"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-14 06:25:28"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-14 06:21:47"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-14 06:17:09"
@@ -21,10 +25,6 @@
   {
    "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
    "started": "2026-11-14 06:01:13"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-14 05:57:38"
   }
  ]
 }
