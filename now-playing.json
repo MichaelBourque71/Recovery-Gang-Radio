@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T01:07:53-04:00",
+ "generated_at": "2026-11-14T01:12:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-14 01:07:53"
+  "title": "One Brain Cell",
+  "started": "2026-11-14 01:12:33"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-14 01:07:53"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-14 01:04:36"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-14 00:54:01"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-14 00:51:18"
   }
  ]
 }
