@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T17:31:29-04:00",
+ "generated_at": "2026-11-14T17:34:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-14 17:31:26"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-14 17:34:08"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-14 17:31:26"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-14 17:25:35"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-14 17:12:00"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-14 17:09:01"
   }
  ]
 }
