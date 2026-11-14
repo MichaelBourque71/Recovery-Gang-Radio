@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-13T23:06:40-04:00",
+ "generated_at": "2026-11-13T23:10:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-13 23:06:36"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-13 23:10:03"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-13 23:06:36"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-13 23:03:03"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-13 22:51:10"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-13 22:47:50"
   }
  ]
 }
