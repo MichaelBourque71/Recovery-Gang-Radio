@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:24:21-04:00",
+ "generated_at": "2026-11-14T16:26:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-14 16:24:17"
+  "title": "LGBTQ",
+  "started": "2026-11-14 16:26:58"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-14 16:24:17"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-14 16:21:54"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-14 16:07:57"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-14 16:04:22"
   }
  ]
 }
