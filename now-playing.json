@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T16:04:25-04:00",
+ "generated_at": "2026-11-14T16:08:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-14 16:04:22"
+  "title": "Fuck Winter",
+  "started": "2026-11-14 16:07:57"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-14 16:04:22"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-14 15:59:33"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-14 15:49:47"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-14 15:44:34"
   }
  ]
 }
