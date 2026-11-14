@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T01:23:17-04:00",
+ "generated_at": "2026-11-14T01:26:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-14 01:23:12"
+  "title": "My Harley Waits",
+  "started": "2026-11-14 01:26:49"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-14 01:23:12"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-14 01:19:36"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-14 01:07:53"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-14 01:04:36"
   }
  ]
 }
