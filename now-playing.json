@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:08:28-04:00",
+ "generated_at": "2026-11-15T01:12:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-15 01:08:26"
+  "title": "420 Twice A Day",
+  "started": "2026-11-15 01:12:54"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-15 01:08:26"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 01:03:59"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-15 00:47:21"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-15 00:42:40"
   }
  ]
 }
