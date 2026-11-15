@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T13:05:44-04:00",
+ "generated_at": "2026-11-15T13:09:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-15 13:05:44"
+  "title": "Built To Love",
+  "started": "2026-11-15 13:09:54"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-15 13:05:44"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-15 13:01:41"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 12:48:37"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-15 12:43:10"
   }
  ]
 }
