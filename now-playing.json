@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T04:52:00-04:00",
+ "generated_at": "2026-11-15T04:55:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-15 04:51:55"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-15 04:55:30"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-15 04:51:55"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-15 04:48:15"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-15 04:36:39"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-15 04:31:34"
   }
  ]
 }
