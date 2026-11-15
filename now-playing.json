@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T08:20:35-04:00",
+ "generated_at": "2026-11-15T08:25:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-15 08:20:33"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-15 08:25:15"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-15 08:20:33"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-15 08:16:51"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-15 08:04:26"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-15 08:00:23"
   }
  ]
 }
