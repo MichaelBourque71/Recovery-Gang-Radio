@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T08:57:04-04:00",
+ "generated_at": "2026-11-15T09:02:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-15 08:57:04"
+  "title": "Dead Ideology ",
+  "started": "2026-11-15 09:02:52"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-15 08:57:04"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-15 08:53:06"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-15 08:41:41"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-15 08:38:27"
   }
  ]
 }
