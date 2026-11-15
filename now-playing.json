@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:01:03-04:00",
+ "generated_at": "2026-11-15T11:04:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-15 11:01:00"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-15 11:04:14"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-15 11:01:00"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-15 10:56:53"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-15 10:45:08"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-15 10:39:45"
   }
  ]
 }
