@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T07:16:52-04:00",
+ "generated_at": "2026-11-15T07:22:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-15 07:16:48"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-15 07:22:07"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-15 07:16:48"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-15 07:13:47"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-15 07:01:33"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-15 06:57:43"
   }
  ]
 }
