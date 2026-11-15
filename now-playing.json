@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T16:03:05-04:00",
+ "generated_at": "2026-11-15T16:06:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-15 16:03:03"
+  "title": "Weed Coughs",
+  "started": "2026-11-15 16:06:38"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-15 16:03:03"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-15 15:57:58"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-15 15:45:31"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-15 15:40:59"
   }
  ]
 }
