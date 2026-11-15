@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:53:13-04:00",
+ "generated_at": "2026-11-15T11:56:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-15 11:53:09"
+  "title": "There Was A Time",
+  "started": "2026-11-15 11:56:28"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-15 11:53:09"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-15 11:47:36"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-15 11:34:26"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-15 11:31:51"
   }
  ]
 }
