@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:19:24-04:00",
+ "generated_at": "2026-11-15T12:22:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-15 12:19:20"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-15 12:22:16"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-15 12:19:20"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-15 12:14:41"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-15 12:03:52"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-15 12:01:11"
   }
  ]
 }
