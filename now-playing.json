@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:27:07-04:00",
+ "generated_at": "2026-11-15T19:33:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-15 19:27:02"
+  "title": "My Harley Waits",
+  "started": "2026-11-15 19:33:45"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-15 19:27:02"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 19:22:36"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-15 19:10:08"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-15 19:06:14"
   }
  ]
 }
