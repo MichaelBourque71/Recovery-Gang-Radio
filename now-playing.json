@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T08:41:45-04:00",
+ "generated_at": "2026-11-15T08:45:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-15 08:41:41"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-15 08:45:02"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-15 08:41:41"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-15 08:38:27"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-15 08:25:15"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-15 08:20:33"
   }
  ]
 }
