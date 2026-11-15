@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:33:00-04:00",
+ "generated_at": "2026-11-15T03:37:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-15 03:32:57"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-15 03:37:48"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-15 03:32:57"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-15 03:27:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-15 03:13:42"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-15 03:11:40"
   }
  ]
 }
