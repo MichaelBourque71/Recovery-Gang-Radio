@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T00:13:41-04:00",
+ "generated_at": "2026-11-15T00:18:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-15 00:13:40"
+  "title": "Clown In A Crown",
+  "started": "2026-11-15 00:18:54"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-15 00:13:40"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-15 00:08:48"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-14 23:56:40"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-14 23:51:49"
   }
  ]
 }
