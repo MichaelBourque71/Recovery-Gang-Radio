@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T16:50:04-04:00",
+ "generated_at": "2026-11-15T16:54:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-15 16:50:00"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-15 16:54:10"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-15 16:50:00"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-15 16:45:53"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-15 16:35:25"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-15 16:30:35"
   }
  ]
 }
