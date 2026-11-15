@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:27:59-04:00",
+ "generated_at": "2026-11-15T05:31:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-15 05:27:56"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-15 05:31:21"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-15 05:27:56"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-15 05:25:19"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-15 05:14:57"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-15 05:09:45"
   }
  ]
 }
