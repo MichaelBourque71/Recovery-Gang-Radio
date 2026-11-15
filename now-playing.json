@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:33:47-04:00",
+ "generated_at": "2026-11-15T19:39:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-15 19:33:45"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-15 19:39:07"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-15 19:33:45"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-15 19:27:02"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-15 19:12:31"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-15 19:10:08"
   }
  ]
 }
