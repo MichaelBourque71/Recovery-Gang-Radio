@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T13:33:36-04:00",
+ "generated_at": "2026-11-15T13:38:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-15 13:33:35"
+  "title": "Putz in a Suit",
+  "started": "2026-11-15 13:38:01"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-15 13:33:35"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-15 13:27:40"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-15 13:16:02"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-15 13:09:54"
   }
  ]
 }
