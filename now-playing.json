@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:05:59-04:00",
+ "generated_at": "2026-11-15T17:09:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-15 17:05:56"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-15 17:09:20"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-15 17:05:56"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-15 17:03:13"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-15 16:50:00"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-15 16:45:53"
   }
  ]
 }
