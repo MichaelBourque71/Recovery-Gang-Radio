@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:16:17-04:00",
+ "generated_at": "2026-11-15T11:20:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-15 11:16:13"
+  "title": "Living For Peace",
+  "started": "2026-11-15 11:20:13"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-15 11:16:13"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-15 11:11:32"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-15 11:01:00"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-15 10:56:53"
   }
  ]
 }
