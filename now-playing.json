@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:49:35-04:00",
+ "generated_at": "2026-11-15T03:54:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-15 03:49:35"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-15 03:54:23"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-15 03:49:35"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-15 03:44:39"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-15 03:32:57"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-15 03:27:55"
   }
  ]
 }
