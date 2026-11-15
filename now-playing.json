@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:20:44-04:00",
+ "generated_at": "2026-11-15T01:24:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-15 01:20:41"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-15 01:24:48"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-15 01:20:41"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-15 01:15:01"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 01:03:59"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-15 00:58:16"
   }
  ]
 }
