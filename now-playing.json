@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T10:47:44-04:00",
+ "generated_at": "2026-11-15T10:53:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-15 10:47:40"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-15 10:53:08"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-15 10:47:40"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-15 10:45:08"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-15 10:30:49"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-15 10:26:32"
   }
  ]
 }
