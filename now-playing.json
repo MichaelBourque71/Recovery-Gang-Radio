@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:12:56-04:00",
+ "generated_at": "2026-11-15T01:15:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-15 01:12:54"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-15 01:15:01"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-15 01:12:54"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-15 01:08:26"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-15 00:52:25"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-15 00:47:21"
   }
  ]
 }
