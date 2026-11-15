@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:13:08-04:00",
+ "generated_at": "2026-11-14T22:17:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-14 22:13:03"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-14 22:17:48"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-14 22:13:03"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-14 22:10:48"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-14 21:56:45"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-14 21:53:26"
   }
  ]
 }
