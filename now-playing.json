@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T13:27:41-04:00",
+ "generated_at": "2026-11-15T13:33:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-15 13:27:40"
+  "title": "Greedy Bitch",
+  "started": "2026-11-15 13:33:35"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-15 13:27:40"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-15 13:23:44"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-15 13:09:54"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-15 13:05:44"
   }
  ]
 }
