@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:12:57-04:00",
+ "generated_at": "2026-11-15T17:19:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-15 17:12:55"
+  "title": "Stand for Freedom",
+  "started": "2026-11-15 17:19:22"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-15 17:12:55"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-15 17:09:20"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-15 16:59:30"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-15 16:54:10"
   }
  ]
 }
