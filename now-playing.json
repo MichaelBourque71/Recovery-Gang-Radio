@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T14:26:05-04:00",
+ "generated_at": "2026-11-15T14:28:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-15 14:26:00"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-15 14:28:49"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-15 14:26:00"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-15 14:22:30"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-15 14:10:23"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-15 14:06:43"
   }
  ]
 }
