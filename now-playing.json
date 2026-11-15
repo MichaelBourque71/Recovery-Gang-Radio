@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:20:16-04:00",
+ "generated_at": "2026-11-15T11:23:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-15 11:20:13"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-15 11:23:47"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-15 11:20:13"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-15 11:16:13"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-15 11:04:14"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-15 11:01:00"
   }
  ]
 }
