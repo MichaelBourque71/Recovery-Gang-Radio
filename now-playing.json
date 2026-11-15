@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:30:26-04:00",
+ "generated_at": "2026-11-15T17:32:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-15 17:30:23"
+  "title": "Not Enough Hours",
+  "started": "2026-11-15 17:32:45"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-15 17:30:23"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-15 17:26:27"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-15 17:12:55"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-15 17:09:20"
   }
  ]
 }
