@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T07:22:09-04:00",
+ "generated_at": "2026-11-15T07:26:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-15 07:22:07"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-15 07:26:57"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-15 07:22:07"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-15 07:16:48"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-15 07:04:42"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-15 07:01:33"
   }
  ]
 }
