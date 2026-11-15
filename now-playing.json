@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T18:39:26-04:00",
+ "generated_at": "2026-11-15T18:42:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-15 18:39:22"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-15 18:42:44"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-15 18:39:22"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-15 18:34:41"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-15 18:21:58"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-15 18:18:45"
   }
  ]
 }
