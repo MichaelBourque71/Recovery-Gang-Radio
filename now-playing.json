@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:03:00-04:00",
+ "generated_at": "2026-11-15T19:06:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-15 19:02:55"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-15 19:06:14"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-15 19:02:55"
+  },
   {
    "title": "There's Still Hope",
    "started": "2026-11-15 18:56:20"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-15 18:45:27"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-15 18:42:44"
   }
  ]
 }
