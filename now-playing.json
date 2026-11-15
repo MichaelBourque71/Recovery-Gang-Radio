@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T21:10:50-04:00",
+ "generated_at": "2026-11-14T21:14:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-14 21:10:50"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-14 21:14:47"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-14 21:10:50"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-14 21:05:31"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-14 20:52:59"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-14 20:49:39"
   }
  ]
 }
