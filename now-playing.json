@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T04:48:17-04:00",
+ "generated_at": "2026-11-15T04:52:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-15 04:48:15"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-15 04:51:55"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-15 04:48:15"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-15 04:42:59"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-15 04:31:34"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-15 04:27:56"
   }
  ]
 }
