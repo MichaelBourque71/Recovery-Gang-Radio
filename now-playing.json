@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T13:16:03-04:00",
+ "generated_at": "2026-11-15T13:19:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-15 13:16:02"
+  "title": "Start Living Again",
+  "started": "2026-11-15 13:19:34"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-15 13:16:02"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-15 13:09:54"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-15 12:57:08"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-15 12:53:04"
   }
  ]
 }
