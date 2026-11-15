@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T23:56:44-04:00",
+ "generated_at": "2026-11-14T23:59:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-14 23:56:40"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-14 23:59:13"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-14 23:56:40"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-14 23:51:49"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-14 23:42:03"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-14 23:37:37"
   }
  ]
 }
