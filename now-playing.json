@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T09:10:40-04:00",
+ "generated_at": "2026-11-15T09:15:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-15 09:10:35"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-15 09:15:23"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-15 09:10:35"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-15 09:06:32"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-15 08:53:06"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-15 08:49:17"
   }
  ]
 }
