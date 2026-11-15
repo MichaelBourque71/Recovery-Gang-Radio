@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:07:06-04:00",
+ "generated_at": "2026-11-14T22:10:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-14 22:07:06"
+  "title": "The Left Lies",
+  "started": "2026-11-14 22:10:48"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-14 22:07:06"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-14 22:01:43"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-14 21:50:27"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-14 21:44:35"
   }
  ]
 }
