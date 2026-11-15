@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T15:22:42-04:00",
+ "generated_at": "2026-11-15T15:26:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-15 15:22:37"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-15 15:26:14"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-15 15:22:37"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-15 15:19:46"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-15 15:07:58"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-15 15:05:04"
   }
  ]
 }
