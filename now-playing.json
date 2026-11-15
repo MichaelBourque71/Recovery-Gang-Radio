@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:44:43-04:00",
+ "generated_at": "2026-11-15T03:49:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-15 03:44:39"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-15 03:49:35"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-15 03:44:39"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-15 03:41:50"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-15 03:27:55"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-15 03:22:04"
   }
  ]
 }
