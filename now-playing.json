@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:50:24-04:00",
+ "generated_at": "2026-11-15T19:52:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-15 19:50:21"
+  "title": "I Do What I Want",
+  "started": "2026-11-15 19:52:35"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-15 19:50:21"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-15 19:46:12"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-15 19:33:45"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-15 19:27:02"
   }
  ]
 }
