@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T00:32:04-04:00",
+ "generated_at": "2026-11-15T00:35:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-15 00:32:03"
+  "title": "History Collects",
+  "started": "2026-11-15 00:35:54"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-15 00:32:03"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-15 00:26:31"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-15 00:13:40"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-15 00:08:48"
   }
  ]
 }
