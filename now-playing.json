@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:51:52-04:00",
+ "generated_at": "2026-11-15T05:55:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-15 05:51:52"
+  "title": "Some People",
+  "started": "2026-11-15 05:55:27"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-15 05:51:52"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-15 05:47:25"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-15 05:35:30"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-15 05:31:21"
   }
  ]
 }
