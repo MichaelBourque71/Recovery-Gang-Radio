@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:43:29-04:00",
+ "generated_at": "2026-11-15T11:47:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-15 11:43:22"
+  "title": "Mystical Journey",
+  "started": "2026-11-15 11:47:36"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-15 11:43:22"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-15 11:40:09"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-15 11:28:17"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-15 11:23:47"
   }
  ]
 }
