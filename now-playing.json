@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T04:59:18-04:00",
+ "generated_at": "2026-11-15T05:05:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-15 04:59:15"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-15 05:05:16"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-15 04:59:15"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-15 04:55:30"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-15 04:42:59"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-15 04:39:30"
   }
  ]
 }
