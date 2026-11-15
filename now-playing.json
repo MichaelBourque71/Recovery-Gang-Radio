@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T10:45:10-04:00",
+ "generated_at": "2026-11-15T10:47:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-15 10:45:08"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-15 10:47:40"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-15 10:45:08"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-15 10:39:45"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-15 10:26:32"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-15 10:21:04"
   }
  ]
 }
