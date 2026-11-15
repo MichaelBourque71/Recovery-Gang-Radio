@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:43:14-04:00",
+ "generated_at": "2026-11-15T12:48:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-15 12:43:10"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-15 12:48:37"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-15 12:43:10"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-15 12:37:26"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-15 12:26:10"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-15 12:22:16"
   }
  ]
 }
