@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:15:06-04:00",
+ "generated_at": "2026-11-15T01:20:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-15 01:15:01"
+  "title": "Delaware Sniff",
+  "started": "2026-11-15 01:20:41"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-15 01:15:01"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-15 01:12:54"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-15 00:58:16"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-15 00:52:25"
   }
  ]
 }
