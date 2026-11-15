@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:28:13-04:00",
+ "generated_at": "2026-11-15T01:31:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-15 01:28:13"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-15 01:31:44"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-15 01:28:13"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-15 01:24:48"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-15 01:12:54"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-15 01:08:26"
   }
  ]
 }
