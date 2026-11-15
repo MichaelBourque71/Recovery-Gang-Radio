@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T06:57:47-04:00",
+ "generated_at": "2026-11-15T07:01:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-15 06:57:43"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-15 07:01:33"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-15 06:57:43"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-15 06:53:46"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-15 06:40:34"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-15 06:37:07"
   }
  ]
 }
