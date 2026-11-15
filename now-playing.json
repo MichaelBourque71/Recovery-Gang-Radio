@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:26:31-04:00",
+ "generated_at": "2026-11-15T17:30:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-15 17:26:27"
+  "title": "Acid Freak",
+  "started": "2026-11-15 17:30:23"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-15 17:26:27"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-15 17:22:24"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-15 17:09:20"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-15 17:05:56"
   }
  ]
 }
