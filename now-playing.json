@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T18:48:02-04:00",
+ "generated_at": "2026-11-15T18:52:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-15 18:48:01"
+  "title": "Space Cadet",
+  "started": "2026-11-15 18:52:24"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-15 18:48:01"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-15 18:45:27"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-15 18:34:41"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-15 18:30:20"
   }
  ]
 }
