@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T04:08:34-04:00",
+ "generated_at": "2026-11-15T04:13:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-15 04:08:33"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-15 04:13:01"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-15 04:08:33"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-15 04:05:34"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-15 03:54:23"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-15 03:49:35"
   }
  ]
 }
