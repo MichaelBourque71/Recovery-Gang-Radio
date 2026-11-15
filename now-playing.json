@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T09:15:26-04:00",
+ "generated_at": "2026-11-15T09:18:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-15 09:15:23"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-15 09:18:55"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-15 09:15:23"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 09:10:35"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-15 08:57:04"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-15 08:53:06"
   }
  ]
 }
