@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:37:29-04:00",
+ "generated_at": "2026-11-15T12:43:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-15 12:37:26"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-15 12:43:10"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-15 12:37:26"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-15 12:34:17"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-15 12:22:16"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-15 12:19:20"
   }
  ]
 }
