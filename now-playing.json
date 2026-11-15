@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T00:26:31-04:00",
+ "generated_at": "2026-11-15T00:32:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-15 00:26:31"
+  "title": "Living For Peace",
+  "started": "2026-11-15 00:32:03"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-15 00:26:31"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-15 00:22:43"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-15 00:08:48"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-15 00:04:11"
   }
  ]
 }
