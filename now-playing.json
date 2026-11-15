@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:04:16-04:00",
+ "generated_at": "2026-11-15T11:08:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-15 11:04:14"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-15 11:08:56"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-15 11:04:14"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-15 11:01:00"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-15 10:47:40"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-15 10:45:08"
   }
  ]
 }
