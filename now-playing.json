@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:10:09-04:00",
+ "generated_at": "2026-11-15T19:12:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-15 19:10:08"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-15 19:12:31"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-15 19:10:08"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-15 19:06:14"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-15 18:52:24"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-15 18:48:01"
   }
  ]
 }
