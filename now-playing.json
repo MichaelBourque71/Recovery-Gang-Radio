@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:20:31-04:00",
+ "generated_at": "2026-11-14T22:24:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-14 22:20:31"
+  "title": "Freedom Wave",
+  "started": "2026-11-14 22:24:09"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-14 22:20:31"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-14 22:17:48"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-14 22:07:06"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-14 22:01:43"
   }
  ]
 }
