@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:48:41-04:00",
+ "generated_at": "2026-11-15T12:53:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-15 12:48:37"
+  "title": "Killdozer Army",
+  "started": "2026-11-15 12:53:04"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-15 12:48:37"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-15 12:43:10"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-15 12:30:49"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-15 12:26:10"
   }
  ]
 }
