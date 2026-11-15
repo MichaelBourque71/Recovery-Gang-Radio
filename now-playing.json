@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T06:17:09-04:00",
+ "generated_at": "2026-11-15T06:21:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-15 06:17:04"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-15 06:21:23"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-15 06:17:04"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-15 06:13:06"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-15 05:58:51"
-  },
-  {
-   "title": "Some People",
-   "started": "2026-11-15 05:55:27"
   }
  ]
 }
