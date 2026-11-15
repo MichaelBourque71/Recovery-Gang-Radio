@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:11:35-04:00",
+ "generated_at": "2026-11-15T11:16:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-15 11:11:32"
+  "title": "GUMMERS",
+  "started": "2026-11-15 11:16:13"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-15 11:11:32"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-15 11:08:56"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-15 10:56:53"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-15 10:53:08"
   }
  ]
 }
