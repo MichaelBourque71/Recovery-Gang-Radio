@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T07:33:58-04:00",
+ "generated_at": "2026-11-15T07:37:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-15 07:33:57"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-15 07:37:37"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-15 07:33:57"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-15 07:30:19"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-15 07:16:48"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-15 07:13:47"
   }
  ]
 }
