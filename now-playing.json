@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:19:24-04:00",
+ "generated_at": "2026-11-15T17:22:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-15 17:19:22"
+  "title": "Invisible String",
+  "started": "2026-11-15 17:22:24"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-15 17:19:22"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-15 17:12:55"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-15 17:03:13"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-15 16:59:30"
   }
  ]
 }
