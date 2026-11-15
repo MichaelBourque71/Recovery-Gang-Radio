@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:37:53-04:00",
+ "generated_at": "2026-11-15T03:41:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-15 03:37:48"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-15 03:41:50"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-15 03:37:48"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-15 03:32:57"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-15 03:18:12"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-15 03:13:42"
   }
  ]
 }
