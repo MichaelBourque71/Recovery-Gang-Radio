@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:56:32-04:00",
+ "generated_at": "2026-11-15T12:01:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-15 11:56:28"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-15 12:01:11"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-15 11:56:28"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-15 11:53:09"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-15 11:40:09"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-15 11:34:26"
   }
  ]
 }
