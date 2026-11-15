@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T10:03:45-04:00",
+ "generated_at": "2026-11-15T10:06:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-15 10:03:43"
+  "title": "I'm Ready For This",
+  "started": "2026-11-15 10:06:54"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-15 10:03:43"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-15 10:00:02"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-15 09:44:18"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-15 09:41:04"
   }
  ]
 }
