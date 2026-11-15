@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:09:46-04:00",
+ "generated_at": "2026-11-15T05:15:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-15 05:09:45"
+  "title": "Weed Coughs",
+  "started": "2026-11-15 05:14:57"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-15 05:09:45"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-15 05:05:16"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-15 04:51:55"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-15 04:48:15"
   }
  ]
 }
