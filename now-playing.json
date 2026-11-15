@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:42:38-04:00",
+ "generated_at": "2026-11-14T22:48:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-14 22:42:37"
+  "title": "Mystical Journey",
+  "started": "2026-11-14 22:48:05"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-14 22:42:37"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-14 22:39:03"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-14 22:28:03"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-14 22:24:09"
   }
  ]
 }
