@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T09:33:13-04:00",
+ "generated_at": "2026-11-15T09:37:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-15 09:33:08"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-15 09:37:06"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-15 09:33:08"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-15 09:30:09"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-15 09:18:55"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-15 09:15:23"
   }
  ]
 }
