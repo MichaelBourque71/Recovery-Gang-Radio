@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-15T18:18:50-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-15 18:18:45"
- },
+ "generated_at": "2026-11-15T18:21:58-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-15 18:18:45"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-15 18:13:57"
@@ -21,10 +22,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-15 18:04:13"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-15 18:00:54"
   }
  ]
 }
