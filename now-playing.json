@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-15T01:47:26-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-15T01:47:42-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-15 01:47:40"
+ },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-15 01:43:18"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-15 01:40:37"
@@ -18,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-15 01:28:13"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-15 01:24:48"
   }
  ]
 }
