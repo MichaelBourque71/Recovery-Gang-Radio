@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:54:27-04:00",
+ "generated_at": "2026-11-15T03:58:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-15 03:54:23"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-15 03:58:24"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-15 03:54:23"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-15 03:49:35"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-15 03:37:48"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-15 03:32:57"
   }
  ]
 }
