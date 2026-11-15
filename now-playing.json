@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T20:57:04-04:00",
+ "generated_at": "2026-11-14T21:01:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-14 20:57:03"
+  "title": "One More Night",
+  "started": "2026-11-14 21:01:57"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-14 20:57:03"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-14 20:52:59"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-14 20:42:11"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-14 20:38:52"
   }
  ]
 }
