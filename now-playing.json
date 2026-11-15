@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T21:37:33-04:00",
+ "generated_at": "2026-11-14T21:41:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-14 21:37:28"
+  "title": "Running With Scissors",
+  "started": "2026-11-14 21:41:33"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-14 21:37:28"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-14 21:33:54"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-14 21:23:13"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-14 21:19:10"
   }
  ]
 }
