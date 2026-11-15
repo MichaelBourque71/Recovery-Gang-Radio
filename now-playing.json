@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T10:11:03-04:00",
+ "generated_at": "2026-11-15T10:13:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-15 10:11:00"
+  "title": "Feel Alright",
+  "started": "2026-11-15 10:13:54"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-15 10:11:00"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-15 10:06:54"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-15 09:55:50"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-15 09:51:01"
   }
  ]
 }
