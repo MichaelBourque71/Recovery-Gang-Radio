@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T07:26:58-04:00",
+ "generated_at": "2026-11-15T07:30:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-15 07:26:57"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-15 07:30:19"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-15 07:26:57"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-15 07:22:07"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-15 07:09:03"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-15 07:04:42"
   }
  ]
 }
