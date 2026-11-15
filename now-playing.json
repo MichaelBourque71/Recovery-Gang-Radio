@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T06:37:12-04:00",
+ "generated_at": "2026-11-15T06:40:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-15 06:37:07"
+  "title": "Start Living Again",
+  "started": "2026-11-15 06:40:34"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-15 06:37:07"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-15 06:33:09"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-15 06:21:23"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-15 06:17:04"
   }
  ]
 }
