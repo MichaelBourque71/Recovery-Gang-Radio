@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T00:52:25-04:00",
+ "generated_at": "2026-11-15T00:58:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-15 00:52:25"
+  "title": "My Harley Waits",
+  "started": "2026-11-15 00:58:16"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-15 00:52:25"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-15 00:47:21"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-15 00:35:54"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-15 00:32:03"
   }
  ]
 }
