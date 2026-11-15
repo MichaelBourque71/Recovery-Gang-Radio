@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:57:11-04:00",
+ "generated_at": "2026-11-15T13:01:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-15 12:57:08"
+  "title": "Invisible String",
+  "started": "2026-11-15 13:01:41"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-15 12:57:08"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-15 12:53:04"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-15 12:37:26"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-15 12:34:17"
   }
  ]
 }
