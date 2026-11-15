@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T20:08:44-04:00",
+ "generated_at": "2026-11-14T20:12:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-14 20:08:42"
+  "title": "Take Your Laws",
+  "started": "2026-11-14 20:12:08"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-14 20:08:42"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-14 20:05:13"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-14 19:49:28"
-  },
-  {
-   "title": "Honourable, My Ass!!",
-   "started": "2026-11-14 19:45:00"
   }
  ]
 }
