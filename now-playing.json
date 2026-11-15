@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T19:39:11-04:00",
+ "generated_at": "2026-11-15T19:42:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-15 19:39:07"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-15 19:42:31"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-15 19:39:07"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-15 19:33:45"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-15 19:17:18"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-15 19:12:31"
   }
  ]
 }
