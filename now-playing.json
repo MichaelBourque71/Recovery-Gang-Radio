@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T02:19:05-04:00",
+ "generated_at": "2026-11-15T02:23:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-15 02:19:04"
+  "title": "Mailer Demon",
+  "started": "2026-11-15 02:23:08"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-15 02:19:04"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-15 02:12:28"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-15 02:02:14"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-15 01:58:17"
   }
  ]
 }
