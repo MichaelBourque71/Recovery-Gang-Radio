@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T03:22:06-04:00",
+ "generated_at": "2026-11-15T03:28:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-15 03:22:04"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-15 03:27:55"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-15 03:22:04"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-15 03:18:12"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-15 03:08:46"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-15 03:04:46"
   }
  ]
 }
