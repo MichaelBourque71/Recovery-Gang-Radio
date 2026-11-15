@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T10:26:34-04:00",
+ "generated_at": "2026-11-15T10:30:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-15 10:26:32"
+  "title": "Man With the Backbone",
+  "started": "2026-11-15 10:30:49"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-15 10:26:32"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-15 10:21:04"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-15 10:11:00"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-15 10:06:54"
   }
  ]
 }
