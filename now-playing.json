@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T12:26:15-04:00",
+ "generated_at": "2026-11-15T12:30:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-15 12:26:10"
+  "title": "Dead Ideology ",
+  "started": "2026-11-15 12:30:49"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-15 12:26:10"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-15 12:22:16"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-15 12:11:19"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-15 12:07:20"
   }
  ]
 }
