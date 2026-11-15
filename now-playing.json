@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:23:50-04:00",
+ "generated_at": "2026-11-15T11:28:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-15 11:23:47"
+  "title": "Not Enough Hours",
+  "started": "2026-11-15 11:28:17"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-15 11:23:47"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-15 11:20:13"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-15 11:08:56"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-15 11:04:14"
   }
  ]
 }
