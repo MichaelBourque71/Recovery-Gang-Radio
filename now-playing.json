@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T01:47:42-04:00",
+ "generated_at": "2026-11-15T01:50:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-15 01:47:40"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-15 01:50:43"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-15 01:47:40"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-15 01:43:18"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-15 01:31:44"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-15 01:28:13"
   }
  ]
 }
