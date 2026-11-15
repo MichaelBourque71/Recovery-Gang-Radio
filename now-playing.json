@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T02:33:10-04:00",
+ "generated_at": "2026-11-15T02:36:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-15 02:33:09"
+  "title": "Balls Intact",
+  "started": "2026-11-15 02:36:43"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-15 02:33:09"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-15 02:30:05"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-15 02:19:04"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-15 02:12:28"
   }
  ]
 }
