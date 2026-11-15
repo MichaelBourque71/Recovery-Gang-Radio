@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:05:21-04:00",
+ "generated_at": "2026-11-15T05:09:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-15 05:05:16"
+  "title": "Breath Of Policy",
+  "started": "2026-11-15 05:09:45"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-15 05:05:16"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-15 04:59:15"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-15 04:48:15"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-15 04:42:59"
   }
  ]
 }
