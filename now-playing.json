@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T04:24:47-04:00",
+ "generated_at": "2026-11-15T04:27:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-15 04:24:42"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-15 04:27:56"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-15 04:24:42"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-15 04:21:18"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-15 04:08:33"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-15 04:05:34"
   }
  ]
 }
