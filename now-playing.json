@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T21:33:58-04:00",
+ "generated_at": "2026-11-14T21:37:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-14 21:33:54"
+  "title": "Gaslight Halo",
+  "started": "2026-11-14 21:37:28"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-14 21:33:54"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-14 21:30:00"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-14 21:19:10"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-14 21:14:47"
   }
  ]
 }
