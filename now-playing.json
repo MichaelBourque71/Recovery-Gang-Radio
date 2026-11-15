@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T08:38:29-04:00",
+ "generated_at": "2026-11-15T08:41:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-15 08:38:27"
+  "title": "Freedom Wave",
+  "started": "2026-11-15 08:41:41"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-15 08:38:27"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-15 08:34:30"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-15 08:20:33"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-15 08:16:51"
   }
  ]
 }
