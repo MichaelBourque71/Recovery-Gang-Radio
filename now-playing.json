@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T18:45:31-04:00",
+ "generated_at": "2026-11-15T18:48:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-15 18:45:27"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-15 18:48:01"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-15 18:45:27"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-15 18:42:44"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-15 18:30:20"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-15 18:26:09"
   }
  ]
 }
