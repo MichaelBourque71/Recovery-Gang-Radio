@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:42:36-04:00",
+ "generated_at": "2026-11-15T05:47:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-15 05:42:33"
+  "title": "Greedy Bitch",
+  "started": "2026-11-15 05:47:25"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-15 05:42:33"
+  },
   {
    "title": "You",
    "started": "2026-11-15 05:39:17"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-15 05:27:56"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-15 05:25:19"
   }
  ]
 }
