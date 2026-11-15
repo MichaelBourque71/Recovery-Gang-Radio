@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:59:40-04:00",
+ "generated_at": "2026-11-14T23:02:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-14 22:59:38"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-14 23:02:27"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-14 22:59:38"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-14 22:54:12"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-14 22:39:03"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-14 22:36:44"
   }
  ]
 }
