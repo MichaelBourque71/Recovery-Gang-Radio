@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:57:58-04:00",
+ "generated_at": "2026-11-15T18:00:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-15 17:57:57"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-15 18:00:54"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-15 17:57:57"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-15 17:54:36"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-15 17:44:32"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-15 17:39:59"
   }
  ]
 }
