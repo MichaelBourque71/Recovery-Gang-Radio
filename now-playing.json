@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-14T22:24:10-04:00",
+ "generated_at": "2026-11-14T22:28:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-14 22:24:09"
+  "title": "There's Still Hope",
+  "started": "2026-11-14 22:28:03"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-14 22:24:09"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-14 22:20:31"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-14 22:10:48"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-14 22:07:06"
   }
  ]
 }
