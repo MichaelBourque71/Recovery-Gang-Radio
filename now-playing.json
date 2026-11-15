@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T14:17:34-04:00",
+ "generated_at": "2026-11-15T14:22:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-15 14:17:32"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-15 14:22:30"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-15 14:17:32"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-15 14:14:22"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-15 14:01:51"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-15 13:58:18"
   }
  ]
 }
