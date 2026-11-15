@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T13:09:59-04:00",
+ "generated_at": "2026-11-15T13:16:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-15 13:09:54"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-15 13:16:02"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-15 13:09:54"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-15 13:05:44"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-15 12:53:04"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-15 12:48:37"
   }
  ]
 }
