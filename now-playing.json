@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T18:13:59-04:00",
+ "generated_at": "2026-11-15T18:18:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-15 18:13:57"
+  "title": "Weaponized Children",
+  "started": "2026-11-15 18:18:45"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-15 18:13:57"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-15 18:10:07"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-15 18:00:54"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-15 17:57:57"
   }
  ]
 }
