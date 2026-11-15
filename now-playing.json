@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T17:09:22-04:00",
+ "generated_at": "2026-11-15T17:12:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-15 17:09:20"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-15 17:12:55"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-15 17:09:20"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-15 17:05:56"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-15 16:54:10"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-15 16:50:00"
   }
  ]
 }
