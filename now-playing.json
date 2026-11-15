@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T11:40:09-04:00",
+ "generated_at": "2026-11-15T11:43:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-15 11:40:09"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-15 11:43:22"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-15 11:40:09"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-15 11:34:26"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-15 11:23:47"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-15 11:20:13"
   }
  ]
 }
