@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T07:45:02-04:00",
+ "generated_at": "2026-11-15T07:50:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-15 07:45:00"
+  "title": "Feel Alright",
+  "started": "2026-11-15 07:50:17"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-15 07:45:00"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-15 07:42:06"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-15 07:30:19"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-15 07:26:57"
   }
  ]
 }
