@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T18:52:25-04:00",
+ "generated_at": "2026-11-15T18:56:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-15 18:52:24"
+  "title": "There's Still Hope",
+  "started": "2026-11-15 18:56:20"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-15 18:52:24"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-15 18:48:01"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-15 18:39:22"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-15 18:34:41"
   }
  ]
 }
