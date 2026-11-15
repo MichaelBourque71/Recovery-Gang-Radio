@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:25:21-04:00",
+ "generated_at": "2026-11-15T05:27:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-15 05:25:19"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-15 05:27:56"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-15 05:25:19"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-15 05:22:38"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-15 05:09:45"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-15 05:05:16"
   }
  ]
 }
