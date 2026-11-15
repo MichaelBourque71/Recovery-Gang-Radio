@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T05:15:01-04:00",
+ "generated_at": "2026-11-15T05:19:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-15 05:14:57"
+  "title": "Not Enough Hours",
+  "started": "2026-11-15 05:19:40"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-15 05:14:57"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-15 05:09:45"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-15 04:55:30"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-15 04:51:55"
   }
  ]
 }
