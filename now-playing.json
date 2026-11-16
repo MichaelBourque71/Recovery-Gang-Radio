@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T13:09:58-04:00",
+ "generated_at": "2026-11-16T13:14:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-16 13:09:53"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-16 13:14:11"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-16 13:09:53"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-16 13:05:45"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-16 12:53:04"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-16 12:50:16"
   }
  ]
 }
