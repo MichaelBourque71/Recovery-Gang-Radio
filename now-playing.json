@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T16:33:22-04:00",
+ "generated_at": "2026-11-16T16:36:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-16 16:33:19"
+  "title": "Day And Night",
+  "started": "2026-11-16 16:36:52"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-16 16:33:19"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-16 16:30:43"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-16 16:18:35"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-16 16:14:58"
   }
  ]
 }
