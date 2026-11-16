@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:14:23-04:00",
+ "generated_at": "2026-11-16T18:18:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-16 18:14:19"
+  "title": "I Do What I Want",
+  "started": "2026-11-16 18:18:32"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-16 18:14:19"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-16 18:09:16"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-16 17:56:58"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-16 17:51:11"
   }
  ]
 }
