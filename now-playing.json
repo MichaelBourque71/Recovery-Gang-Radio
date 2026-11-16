@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T15:00:46-04:00",
+ "generated_at": "2026-11-16T15:03:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-16 15:00:46"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-16 15:03:51"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-16 15:00:46"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-16 14:56:13"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-16 14:45:45"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-16 14:42:35"
   }
  ]
 }
