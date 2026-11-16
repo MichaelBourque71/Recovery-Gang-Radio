@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:51:52-04:00",
+ "generated_at": "2026-11-16T02:54:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-16 02:49:06"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-16 02:53:35"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-16 02:49:06"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-16 02:45:09"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-16 02:34:16"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-16 02:28:20"
   }
  ]
 }
