@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:48:31-04:00",
+ "generated_at": "2026-11-16T00:53:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-16 00:47:27"
+  "title": "Yes",
+  "started": "2026-11-16 00:53:10"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-16 00:47:27"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-16 00:43:55"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-16 00:29:01"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-16 00:25:31"
   }
  ]
 }
