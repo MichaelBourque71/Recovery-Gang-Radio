@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-16T02:20:42-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-16T02:23:39-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-16 02:20:40"
+ },
  "previous": [
   {
    "title": "Hard Truth, No Cheers",
