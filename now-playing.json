@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:58:32-04:00",
+ "generated_at": "2026-11-16T07:03:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-16 06:56:58"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-16 07:00:03"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-16 06:56:58"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-16 06:53:53"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-16 06:39:02"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-16 06:34:44"
   }
  ]
 }
