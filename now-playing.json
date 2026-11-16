@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:45:47-04:00",
+ "generated_at": "2026-11-16T14:48:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-16 14:45:45"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-16 14:48:19"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-16 14:45:45"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-16 14:42:35"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-16 14:27:54"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-16 14:22:27"
   }
  ]
 }
