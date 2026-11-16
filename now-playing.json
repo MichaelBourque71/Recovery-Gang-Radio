@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:34:33-04:00",
+ "generated_at": "2026-11-16T14:38:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-16 14:34:29"
+  "title": "Yes",
+  "started": "2026-11-16 14:38:44"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-16 14:34:29"
+  },
   {
    "title": "There's Still Hope",
    "started": "2026-11-16 14:27:54"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-16 14:15:47"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-16 14:11:17"
   }
  ]
 }
