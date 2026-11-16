@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T12:16:57-04:00",
+ "generated_at": "2026-11-16T12:21:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-16 12:16:52"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-16 12:21:40"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-16 12:16:52"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-16 12:13:53"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-16 12:01:15"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-16 11:57:48"
   }
  ]
 }
