@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:56:07-04:00",
+ "generated_at": "2026-11-16T11:00:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-16 10:56:04"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-16 11:00:42"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-16 10:56:04"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-16 10:52:29"
@@ -21,10 +25,6 @@
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-16 10:39:53"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-16 10:35:44"
   }
  ]
 }
