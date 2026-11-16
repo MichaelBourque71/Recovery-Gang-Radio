@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T11:38:35-04:00",
+ "generated_at": "2026-11-16T11:41:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-16 11:38:35"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-16 11:41:50"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-16 11:38:35"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-16 11:34:36"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-16 11:23:20"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-16 11:18:02"
   }
  ]
 }
