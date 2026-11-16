@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:51:58-04:00",
+ "generated_at": "2026-11-16T14:56:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-16 14:51:56"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-16 14:56:13"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-16 14:51:56"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-16 14:48:19"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-16 14:38:44"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-16 14:34:29"
   }
  ]
 }
