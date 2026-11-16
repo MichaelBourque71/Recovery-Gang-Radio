@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:46:13-04:00",
+ "generated_at": "2026-11-16T00:48:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-16 00:43:55"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-16 00:47:27"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-16 00:43:55"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-16 00:38:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-16 00:25:31"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-16 00:21:57"
   }
  ]
 }
