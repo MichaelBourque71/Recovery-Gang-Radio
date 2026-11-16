@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-15T23:36:05-04:00",
+ "generated_at": "2026-11-15T23:41:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-15 23:35:14"
+  "title": "420 Twice A Day",
+  "started": "2026-11-15 23:41:30"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-15 23:38:22"
+  },
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-15 23:35:14"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-15 23:30:47"
@@ -17,14 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-15 23:24:59"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-15 23:19:43"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-15 23:15:58"
   }
  ]
 }
