@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T01:17:47-04:00",
+ "generated_at": "2026-11-16T01:20:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-16 01:16:44"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-16 01:19:58"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-16 01:16:44"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-16 01:12:07"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-16 00:59:46"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-16 00:56:33"
   }
  ]
 }
