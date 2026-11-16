@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T04:35:26-04:00",
+ "generated_at": "2026-11-16T04:40:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-16 04:34:46"
+  "title": "Built To Love",
+  "started": "2026-11-16 04:40:08"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-16 04:34:46"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-16 04:31:10"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-16 04:18:56"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-16 04:15:25"
   }
  ]
 }
