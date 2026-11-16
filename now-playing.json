@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T23:49:21-04:00",
+ "generated_at": "2026-11-15T23:55:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-15 23:48:46"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-15 23:54:26"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-15 23:48:46"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-15 23:43:23"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-15 23:35:14"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-15 23:30:47"
   }
  ]
 }
