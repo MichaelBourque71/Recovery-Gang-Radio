@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:41:29-04:00",
+ "generated_at": "2026-11-16T02:48:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-16 02:41:12"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-16 02:45:09"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-16 02:41:12"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-16 02:38:09"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-16 02:24:28"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-16 02:20:40"
   }
  ]
 }
