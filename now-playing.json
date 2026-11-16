@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T11:50:54-04:00",
+ "generated_at": "2026-11-16T11:57:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-16 11:50:50"
+  "title": "Dead Ideology ",
+  "started": "2026-11-16 11:57:48"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-16 11:50:50"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-16 11:47:06"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-16 11:34:36"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-16 11:31:46"
   }
  ]
 }
