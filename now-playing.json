@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:51:12-04:00",
+ "generated_at": "2026-11-16T17:56:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-16 17:51:11"
+  "title": "So Take a Chance",
+  "started": "2026-11-16 17:56:58"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-16 17:51:11"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-16 17:48:23"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-16 17:36:46"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-16 17:32:28"
   }
  ]
 }
