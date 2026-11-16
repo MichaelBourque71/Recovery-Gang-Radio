@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T07:51:02-04:00",
+ "generated_at": "2026-11-16T07:56:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-16 07:51:00"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-16 07:56:12"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-16 07:51:00"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-16 07:47:05"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-16 07:34:59"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-16 07:30:11"
   }
  ]
 }
