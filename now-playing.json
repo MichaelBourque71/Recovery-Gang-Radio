@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:10:39-04:00",
+ "generated_at": "2026-11-16T19:14:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-16 19:10:38"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-16 19:14:25"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-16 19:10:38"
+  },
   {
    "title": "Yes",
    "started": "2026-11-16 19:07:09"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-16 18:53:54"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-16 18:48:52"
   }
  ]
 }
