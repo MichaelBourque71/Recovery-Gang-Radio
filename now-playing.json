@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T03:34:52-04:00",
+ "generated_at": "2026-11-16T03:41:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-16 03:34:38"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-16 03:39:26"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-16 03:34:38"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-16 03:28:53"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-16 03:16:08"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-16 03:13:08"
   }
  ]
 }
