@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:19:07-04:00",
+ "generated_at": "2026-11-16T06:21:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-16 06:18:19"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-16 06:21:19"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-16 06:18:19"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-16 06:14:21"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-16 05:55:55"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-16 05:52:33"
   }
  ]
 }
