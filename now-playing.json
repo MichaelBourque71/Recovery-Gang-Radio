@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:41:14-04:00",
+ "generated_at": "2026-11-16T17:45:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-16 17:41:13"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-16 17:45:50"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-16 17:41:13"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-16 17:36:46"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-16 17:24:50"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-16 17:19:51"
   }
  ]
 }
