@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:09:19-04:00",
+ "generated_at": "2026-11-16T18:14:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-16 18:09:16"
+  "title": "There Was A Time",
+  "started": "2026-11-16 18:14:19"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-16 18:09:16"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-16 18:05:05"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-16 17:51:11"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-16 17:48:23"
   }
  ]
 }
