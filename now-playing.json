@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:15:32-04:00",
+ "generated_at": "2026-11-16T05:17:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-16 05:15:19"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-16 05:17:07"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-16 05:15:19"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-16 05:11:47"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-16 05:01:54"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-16 04:58:20"
   }
  ]
 }
