@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T12:46:46-04:00",
+ "generated_at": "2026-11-16T12:50:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-16 12:46:42"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-16 12:50:16"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-16 12:46:42"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-16 12:43:19"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-16 12:33:15"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-16 12:29:20"
   }
  ]
 }
