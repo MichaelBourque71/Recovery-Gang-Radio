@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:27:57-04:00",
+ "generated_at": "2026-11-16T14:34:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-16 14:27:54"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-16 14:34:29"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-16 14:27:54"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-16 14:22:27"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-16 14:11:17"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-16 14:07:27"
   }
  ]
 }
