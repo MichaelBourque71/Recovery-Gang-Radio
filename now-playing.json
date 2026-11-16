@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:35:19-04:00",
+ "generated_at": "2026-11-16T19:40:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-16 19:35:13"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-16 19:39:55"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-16 19:35:13"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-16 19:29:36"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-16 19:14:25"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-16 19:10:38"
   }
  ]
 }
