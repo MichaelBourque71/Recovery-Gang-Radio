@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:05:29-04:00",
+ "generated_at": "2026-11-16T17:10:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-16 17:05:25"
+  "title": "One Brain Cell",
+  "started": "2026-11-16 17:10:44"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-16 17:05:25"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-16 17:01:08"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-16 16:48:50"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-16 16:45:15"
   }
  ]
 }
