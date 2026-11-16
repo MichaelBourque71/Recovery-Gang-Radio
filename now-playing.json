@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:28:27-04:00",
+ "generated_at": "2026-11-16T02:34:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-16 02:28:20"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-16 02:34:16"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-16 02:28:20"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-16 02:24:28"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-16 02:10:07"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-16 02:05:33"
   }
  ]
 }
