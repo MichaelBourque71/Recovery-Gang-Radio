@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T21:26:19-04:00",
+ "generated_at": "2026-11-15T21:29:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-15 21:26:18"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-15 21:29:55"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-15 21:26:18"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-15 21:22:08"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-15 21:10:53"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-15 21:06:25"
   }
  ]
 }
