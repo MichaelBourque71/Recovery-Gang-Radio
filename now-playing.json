@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:09:41-04:00",
+ "generated_at": "2026-11-16T00:14:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-16 00:08:28"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-16 00:14:01"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-16 00:08:28"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-16 00:05:17"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-15 23:54:26"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-15 23:48:46"
   }
  ]
 }
