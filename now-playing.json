@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T01:08:07-04:00",
+ "generated_at": "2026-11-16T01:12:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-16 01:07:18"
+  "title": "It Was Time",
+  "started": "2026-11-16 01:12:07"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-16 01:07:18"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-16 01:04:03"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-16 00:53:10"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-16 00:47:27"
   }
  ]
 }
