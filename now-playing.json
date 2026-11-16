@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:30:04-04:00",
+ "generated_at": "2026-11-16T05:36:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-16 05:30:01"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-16 05:35:35"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-16 05:30:01"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-16 05:26:04"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-16 05:15:19"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-16 05:11:47"
   }
  ]
 }
