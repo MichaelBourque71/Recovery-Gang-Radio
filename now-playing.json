@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T08:22:07-04:00",
+ "generated_at": "2026-11-16T08:27:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-16 08:22:07"
+  "title": "Built To Love",
+  "started": "2026-11-16 08:27:54"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-16 08:22:07"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-16 08:17:44"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-16 08:05:44"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-16 08:01:45"
   }
  ]
 }
