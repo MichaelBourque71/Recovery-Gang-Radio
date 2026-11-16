@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T09:30:30-04:00",
+ "generated_at": "2026-11-16T09:35:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-16 09:30:29"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-16 09:34:56"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-16 09:30:29"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-16 09:27:03"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-16 09:13:07"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-16 09:08:37"
   }
  ]
 }
