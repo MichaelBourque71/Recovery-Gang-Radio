@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T13:35:42-04:00",
+ "generated_at": "2026-11-16T13:39:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-16 13:35:40"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-16 13:39:51"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-16 13:35:40"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-16 13:32:37"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-16 13:19:38"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-16 13:14:11"
   }
  ]
 }
