@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:36:53-04:00",
+ "generated_at": "2026-11-16T06:39:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-16 06:34:44"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-16 06:39:02"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-16 06:34:44"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-16 06:29:57"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-16 06:21:19"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-16 06:18:19"
   }
  ]
 }
