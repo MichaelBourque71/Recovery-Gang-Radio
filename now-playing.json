@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T09:50:00-04:00",
+ "generated_at": "2026-11-16T09:53:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-16 09:49:57"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-16 09:53:36"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-16 09:49:57"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-16 09:45:39"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-16 09:34:56"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-16 09:30:29"
   }
  ]
 }
