@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T15:34:17-04:00",
+ "generated_at": "2026-11-16T15:37:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-16 15:34:16"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-16 15:37:16"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-16 15:34:16"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-16 15:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-16 15:16:12"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-16 15:12:48"
   }
  ]
 }
