@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:14:28-04:00",
+ "generated_at": "2026-11-16T19:19:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-16 19:14:25"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-16 19:19:40"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-16 19:14:25"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-16 19:10:38"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-16 18:57:51"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-16 18:53:54"
   }
  ]
 }
