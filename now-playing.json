@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T09:40:52-04:00",
+ "generated_at": "2026-11-16T09:45:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-16 09:40:51"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-16 09:45:39"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-16 09:40:51"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-16 09:37:27"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-16 09:27:03"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-16 09:21:36"
   }
  ]
 }
