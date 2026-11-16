@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:56:17-04:00",
+ "generated_at": "2026-11-16T15:00:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-16 14:56:13"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-16 15:00:46"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-16 14:56:13"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-16 14:51:56"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-16 14:42:35"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-16 14:38:44"
   }
  ]
 }
