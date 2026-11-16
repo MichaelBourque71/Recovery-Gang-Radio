@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:10:30-04:00",
+ "generated_at": "2026-11-16T02:17:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-16 02:10:07"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-16 02:16:21"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-16 02:10:07"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-16 02:05:33"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-16 01:55:19"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-16 01:51:57"
   }
  ]
 }
