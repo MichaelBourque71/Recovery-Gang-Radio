@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T22:27:52-04:00",
+ "generated_at": "2026-11-15T22:32:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-15 22:27:51"
+  "title": "Delaware Sniff",
+  "started": "2026-11-15 22:32:23"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-15 22:27:51"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-15 22:23:21"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-15 22:10:21"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-15 22:05:57"
   }
  ]
 }
