@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:08:02-04:00",
+ "generated_at": "2026-11-16T02:10:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-16 02:05:33"
+  "title": "Nature Is Talking",
+  "started": "2026-11-16 02:10:07"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-16 02:05:33"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-16 02:02:06"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-16 01:51:57"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-16 01:47:20"
   }
  ]
 }
