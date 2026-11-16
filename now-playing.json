@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T23:43:51-04:00",
+ "generated_at": "2026-11-15T23:49:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-15 23:43:23"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-15 23:48:46"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-15 23:43:23"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-15 23:41:30"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-15 23:30:47"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-15 23:27:21"
   }
  ]
 }
