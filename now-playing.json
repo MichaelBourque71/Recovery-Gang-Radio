@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T03:22:39-04:00",
+ "generated_at": "2026-11-16T03:25:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-16 03:20:51"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-16 03:24:25"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-16 03:20:51"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-16 03:16:08"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-16 03:04:46"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-16 03:01:13"
   }
  ]
 }
