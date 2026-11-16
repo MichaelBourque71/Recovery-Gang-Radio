@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:19:40-04:00",
+ "generated_at": "2026-11-16T19:25:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-16 19:19:40"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-16 19:25:48"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-16 19:19:40"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-16 19:14:25"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-16 19:03:27"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-16 18:57:51"
   }
  ]
 }
