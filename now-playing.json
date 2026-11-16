@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T21:55:29-04:00",
+ "generated_at": "2026-11-15T21:59:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-15 21:55:25"
+  "title": "Built To Love",
+  "started": "2026-11-15 21:59:52"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-15 21:55:25"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-15 21:51:30"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-15 21:39:20"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-15 21:35:02"
   }
  ]
 }
