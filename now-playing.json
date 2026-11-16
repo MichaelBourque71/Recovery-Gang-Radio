@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:07:28-04:00",
+ "generated_at": "2026-11-16T14:11:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-16 14:07:27"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-16 14:11:17"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-16 14:07:27"
+  },
   {
    "title": "Some People",
    "started": "2026-11-16 14:04:26"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-16 13:52:57"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-16 13:48:03"
   }
  ]
 }
