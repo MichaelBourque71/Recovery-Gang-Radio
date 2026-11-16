@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:39:54-04:00",
+ "generated_at": "2026-11-16T10:41:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-16 10:39:53"
+  "title": "Hard Way",
+  "started": "2026-11-16 10:41:53"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-16 10:39:53"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-16 10:35:44"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-16 10:23:36"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-16 10:19:29"
   }
  ]
 }
