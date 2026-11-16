@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T20:35:05-04:00",
+ "generated_at": "2026-11-15T20:39:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-15 20:35:05"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-15 20:39:59"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-15 20:35:05"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-15 20:29:06"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-15 20:13:38"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-15 20:10:24"
   }
  ]
 }
