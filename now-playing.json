@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T07:56:13-04:00",
+ "generated_at": "2026-11-16T08:01:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-16 07:56:12"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-16 08:01:45"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-16 07:56:12"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-16 07:51:00"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-16 07:38:05"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-16 07:34:59"
   }
  ]
 }
