@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:48:54-04:00",
+ "generated_at": "2026-11-16T18:53:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-16 18:48:52"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-16 18:53:54"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-16 18:48:52"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-16 18:44:50"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-16 18:30:39"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-16 18:28:17"
   }
  ]
 }
