@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:27:50-04:00",
+ "generated_at": "2026-11-16T10:31:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-16 10:27:48"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-16 10:31:23"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-16 10:27:48"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-16 10:23:36"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-16 10:14:15"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-16 10:09:47"
   }
  ]
 }
