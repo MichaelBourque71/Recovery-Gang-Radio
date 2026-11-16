@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T13:14:14-04:00",
+ "generated_at": "2026-11-16T13:19:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-16 13:14:11"
+  "title": "Greedy Bitch",
+  "started": "2026-11-16 13:19:38"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-16 13:14:11"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-16 13:09:53"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-16 12:59:22"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-16 12:53:04"
   }
  ]
 }
