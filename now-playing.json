@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:48:27-04:00",
+ "generated_at": "2026-11-16T17:51:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-16 17:48:23"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-16 17:51:11"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-16 17:48:23"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-16 17:45:50"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-16 17:32:28"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-16 17:29:29"
   }
  ]
 }
