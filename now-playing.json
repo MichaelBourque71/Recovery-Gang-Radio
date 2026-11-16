@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T12:50:17-04:00",
+ "generated_at": "2026-11-16T12:53:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-16 12:50:16"
+  "title": "Nature Is Talking",
+  "started": "2026-11-16 12:53:04"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-16 12:50:16"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-16 12:46:42"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-16 12:36:35"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-16 12:33:15"
   }
  ]
 }
