@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:56:03-04:00",
+ "generated_at": "2026-11-16T06:58:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-16 06:53:53"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-16 06:56:58"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-16 06:53:53"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-16 06:49:00"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-16 06:34:44"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-16 06:29:57"
   }
  ]
 }
