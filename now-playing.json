@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T08:41:45-04:00",
+ "generated_at": "2026-11-16T08:45:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-16 08:41:43"
+  "title": "Follow The Trail",
+  "started": "2026-11-16 08:45:28"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-16 08:41:43"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-16 08:37:39"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-16 08:22:07"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-16 08:17:44"
   }
  ]
 }
