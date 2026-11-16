@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:18:44-04:00",
+ "generated_at": "2026-11-16T00:23:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-16 00:18:34"
+  "title": "Living For Peace",
+  "started": "2026-11-16 00:21:57"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-16 00:18:34"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-16 00:14:01"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-16 00:01:05"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-15 23:57:30"
   }
  ]
 }
