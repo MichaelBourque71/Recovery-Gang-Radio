@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T15:16:16-04:00",
+ "generated_at": "2026-11-16T15:22:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-16 15:16:12"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-16 15:22:29"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-16 15:16:12"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-16 15:12:48"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-16 15:00:46"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-16 14:56:13"
   }
  ]
 }
