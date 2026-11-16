@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T20:10:26-04:00",
+ "generated_at": "2026-11-15T20:13:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-15 20:10:24"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-15 20:13:38"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-15 20:10:24"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-15 20:06:13"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-15 19:52:35"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-15 19:50:21"
   }
  ]
 }
