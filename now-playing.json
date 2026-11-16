@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:49:55-04:00",
+ "generated_at": "2026-11-16T19:52:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-16 19:48:45"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-16 19:51:35"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-16 19:48:45"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-16 19:43:55"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-16 19:29:36"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-16 19:25:48"
   }
  ]
 }
