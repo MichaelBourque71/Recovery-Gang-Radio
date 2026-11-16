@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:54:24-04:00",
+ "generated_at": "2026-11-16T05:56:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-16 05:52:33"
+  "title": "My Harley Waits",
+  "started": "2026-11-16 05:55:55"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-16 05:52:33"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-16 05:48:18"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-16 05:35:35"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-16 05:30:01"
   }
  ]
 }
