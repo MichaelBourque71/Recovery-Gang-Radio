@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:19:51-04:00",
+ "generated_at": "2026-11-16T17:24:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-16 17:19:51"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-16 17:24:50"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-16 17:19:51"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-16 17:16:41"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-16 17:05:25"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-16 17:01:08"
   }
  ]
 }
