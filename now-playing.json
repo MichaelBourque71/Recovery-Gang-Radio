@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-16T05:22:58-04:00",
+ "generated_at": "2026-11-16T05:30:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-16 05:22:20"
+  "title": "Take Our Country Back",
+  "started": "2026-11-16 05:30:01"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-16 05:26:04"
+  },
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-16 05:22:20"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-16 05:17:07"
@@ -17,14 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-16 05:11:47"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-16 05:08:26"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-16 05:04:39"
   }
  ]
 }
