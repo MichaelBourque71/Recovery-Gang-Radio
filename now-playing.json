@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T21:17:26-04:00",
+ "generated_at": "2026-11-15T21:22:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-15 21:17:20"
+  "title": "So Take a Chance",
+  "started": "2026-11-15 21:22:08"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-15 21:17:20"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-15 21:14:04"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-15 21:01:32"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-15 20:58:30"
   }
  ]
 }
