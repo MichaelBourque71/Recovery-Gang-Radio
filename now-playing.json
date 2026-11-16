@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T23:55:11-04:00",
+ "generated_at": "2026-11-15T23:57:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-15 23:54:26"
+  "title": "Duck On The Dash",
+  "started": "2026-11-15 23:57:30"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-15 23:54:26"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-15 23:48:46"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-15 23:38:22"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-15 23:35:14"
   }
  ]
 }
