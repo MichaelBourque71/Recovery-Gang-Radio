@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T20:47:45-04:00",
+ "generated_at": "2026-11-15T20:50:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-15 20:47:43"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-15 20:50:41"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-15 20:47:43"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-15 20:43:14"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-15 20:29:06"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-15 20:22:25"
   }
  ]
 }
