@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:25:47-04:00",
+ "generated_at": "2026-11-16T00:30:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-16 00:25:31"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-16 00:29:01"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-16 00:25:31"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-16 00:21:57"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-16 00:08:28"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-16 00:05:17"
   }
  ]
 }
