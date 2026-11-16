@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T07:25:32-04:00",
+ "generated_at": "2026-11-16T07:30:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-16 07:25:29"
+  "title": "Stranger Danger",
+  "started": "2026-11-16 07:30:11"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-16 07:25:29"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-16 07:21:44"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-16 07:08:46"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-16 07:04:04"
   }
  ]
 }
