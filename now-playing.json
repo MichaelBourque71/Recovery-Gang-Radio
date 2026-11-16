@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-16T06:21:28-04:00",
+ "generated_at": "2026-11-16T06:27:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-16 06:21:19"
+  "title": "Stand for Freedom",
+  "started": "2026-11-16 06:27:03"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-16 06:23:55"
+  },
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-16 06:21:19"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-16 06:18:19"
@@ -17,14 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-16 06:11:04"
-  },
-  {
-   "title": "Pair E - Yes + Your Feet On Steady Ground",
-   "started": "2026-11-16 06:01:15"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-16 05:55:55"
   }
  ]
 }
