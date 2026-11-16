@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:05:12-04:00",
+ "generated_at": "2026-11-16T10:09:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-16 10:05:11"
+  "title": "Weed Coughs",
+  "started": "2026-11-16 10:09:47"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-16 10:05:11"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-16 10:01:15"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-16 09:49:57"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-16 09:45:39"
   }
  ]
 }
