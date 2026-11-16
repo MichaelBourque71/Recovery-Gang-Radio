@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:41:38-04:00",
+ "generated_at": "2026-11-16T05:46:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-16 05:41:11"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-16 05:45:41"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-16 05:41:11"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-16 05:35:35"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-16 05:22:20"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-16 05:17:07"
   }
  ]
 }
