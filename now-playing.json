@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T17:32:31-04:00",
+ "generated_at": "2026-11-16T17:36:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-16 17:32:28"
+  "title": "Weed Coughs",
+  "started": "2026-11-16 17:36:46"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-16 17:32:28"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-16 17:29:29"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-16 17:16:41"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-16 17:13:34"
   }
  ]
 }
