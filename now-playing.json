@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T20:50:42-04:00",
+ "generated_at": "2026-11-15T20:55:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-15 20:50:41"
+  "title": "You",
+  "started": "2026-11-15 20:55:02"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-15 20:50:41"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-15 20:47:43"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-15 20:35:05"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-15 20:29:06"
   }
  ]
 }
