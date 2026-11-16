@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T12:43:22-04:00",
+ "generated_at": "2026-11-16T12:46:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-16 12:43:19"
+  "title": "Duck On The Dash",
+  "started": "2026-11-16 12:46:42"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-16 12:43:19"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-16 12:40:14"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-16 12:29:20"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-16 12:25:25"
   }
  ]
 }
