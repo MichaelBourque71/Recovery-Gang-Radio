@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:39:09-04:00",
+ "generated_at": "2026-11-16T06:44:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-16 06:39:02"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-16 06:43:10"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-16 06:39:02"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-16 06:34:44"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-16 06:23:55"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-16 06:21:19"
   }
  ]
 }
