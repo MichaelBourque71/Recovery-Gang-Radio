@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-16T18:34:25-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-16 18:34:20"
- },
+ "generated_at": "2026-11-16T18:40:36-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
