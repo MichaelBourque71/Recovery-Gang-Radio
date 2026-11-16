@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:23:40-04:00",
+ "generated_at": "2026-11-16T10:27:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-16 10:23:36"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-16 10:27:48"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-16 10:23:36"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-16 10:19:29"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-16 10:09:47"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-16 10:05:11"
   }
  ]
 }
