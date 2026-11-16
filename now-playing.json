@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:32:52-04:00",
+ "generated_at": "2026-11-16T19:35:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-16 19:29:36"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-16 19:35:13"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-16 19:29:36"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-16 19:25:48"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-16 19:10:38"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-16 19:07:09"
   }
  ]
 }
