@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:19:30-04:00",
+ "generated_at": "2026-11-16T10:23:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-16 10:19:29"
+  "title": "LGBTQ",
+  "started": "2026-11-16 10:23:36"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-16 10:19:29"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-16 10:16:48"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-16 10:05:11"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-16 10:01:15"
   }
  ]
 }
