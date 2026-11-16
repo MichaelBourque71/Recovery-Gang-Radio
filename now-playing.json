@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T00:30:27-04:00",
+ "generated_at": "2026-11-16T00:34:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-16 00:29:01"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-16 00:34:41"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-16 00:29:01"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-16 00:25:31"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-16 00:14:01"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-16 00:08:28"
   }
  ]
 }
