@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T09:45:41-04:00",
+ "generated_at": "2026-11-16T09:50:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-16 09:45:39"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-16 09:49:57"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-16 09:45:39"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-16 09:40:51"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-16 09:30:29"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-16 09:27:03"
   }
  ]
 }
