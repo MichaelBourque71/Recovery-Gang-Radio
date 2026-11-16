@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:30:41-04:00",
+ "generated_at": "2026-11-16T18:34:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-16 18:30:39"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-16 18:34:20"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-16 18:30:39"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-16 18:28:17"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-16 18:14:19"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-16 18:09:16"
   }
  ]
 }
