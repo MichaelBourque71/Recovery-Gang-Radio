@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:54:31-04:00",
+ "generated_at": "2026-11-16T19:59:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-16 19:54:16"
+  "title": "One More Night",
+  "started": "2026-11-16 19:57:30"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-16 19:54:16"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-16 19:51:35"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-16 19:39:55"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-16 19:35:13"
   }
  ]
 }
