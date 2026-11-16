@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T16:02:30-04:00",
+ "generated_at": "2026-11-16T16:07:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-16 16:02:27"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-16 16:06:57"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-16 16:02:27"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-16 15:58:06"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-16 15:46:51"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-16 15:42:26"
   }
  ]
 }
