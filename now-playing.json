@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:57:54-04:00",
+ "generated_at": "2026-11-16T19:03:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-16 18:57:51"
+  "title": "Clown In A Crown",
+  "started": "2026-11-16 19:03:27"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-16 18:57:51"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-16 18:53:54"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-16 18:40:40"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-16 18:34:20"
   }
  ]
 }
