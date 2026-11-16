@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T08:37:44-04:00",
+ "generated_at": "2026-11-16T08:41:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-16 08:37:39"
+  "title": "GUMMERS",
+  "started": "2026-11-16 08:41:43"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-16 08:37:39"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-16 08:33:45"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-16 08:17:44"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-16 08:13:39"
   }
  ]
 }
