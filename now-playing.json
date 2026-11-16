@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T01:12:38-04:00",
+ "generated_at": "2026-11-16T01:17:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-16 01:12:07"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-16 01:16:44"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-16 01:12:07"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-16 01:07:18"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-16 00:56:33"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-16 00:53:10"
   }
  ]
 }
