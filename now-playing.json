@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T03:46:46-04:00",
+ "generated_at": "2026-11-16T03:49:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-16 03:46:06"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-16 03:49:19"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-16 03:46:06"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-16 03:42:41"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-16 03:28:53"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-16 03:24:25"
   }
  ]
 }
