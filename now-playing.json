@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T01:00:06-04:00",
+ "generated_at": "2026-11-16T01:05:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-16 00:59:46"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-16 01:04:03"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-16 00:59:46"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-16 00:56:33"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-16 00:43:55"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-16 00:38:38"
   }
  ]
 }
