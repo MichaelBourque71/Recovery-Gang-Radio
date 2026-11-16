@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:46:59-04:00",
+ "generated_at": "2026-11-16T05:49:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-16 05:45:41"
+  "title": "Mean Francine",
+  "started": "2026-11-16 05:48:18"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-16 05:45:41"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-16 05:41:11"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-16 05:26:04"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-16 05:22:20"
   }
  ]
 }
