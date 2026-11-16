@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:49:41-04:00",
+ "generated_at": "2026-11-16T05:54:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-16 05:48:18"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-16 05:52:33"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-16 05:48:18"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-16 05:45:41"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-16 05:30:01"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-16 05:26:04"
   }
  ]
 }
