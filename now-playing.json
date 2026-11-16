@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:45:24-04:00",
+ "generated_at": "2026-11-16T19:49:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-16 19:43:55"
+  "title": "Running With Scissors",
+  "started": "2026-11-16 19:48:45"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-16 19:43:55"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-16 19:39:55"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-16 19:25:48"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-16 19:19:40"
   }
  ]
 }
