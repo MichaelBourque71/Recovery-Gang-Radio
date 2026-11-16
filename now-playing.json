@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T18:53:56-04:00",
+ "generated_at": "2026-11-16T18:57:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-16 18:53:54"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-16 18:57:51"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-16 18:53:54"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-16 18:48:52"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-16 18:34:20"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-16 18:30:39"
   }
  ]
 }
