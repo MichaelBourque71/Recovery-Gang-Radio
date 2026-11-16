@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T10:41:55-04:00",
+ "generated_at": "2026-11-16T10:47:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-16 10:41:53"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-16 10:47:10"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-16 10:41:53"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-16 10:39:53"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-16 10:27:48"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-16 10:23:36"
   }
  ]
 }
