@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T09:27:04-04:00",
+ "generated_at": "2026-11-16T09:30:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-16 09:27:03"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-16 09:30:29"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-16 09:27:03"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-16 09:21:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-16 09:08:37"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-16 09:05:04"
   }
  ]
 }
