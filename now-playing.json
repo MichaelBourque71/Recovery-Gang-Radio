@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T23:41:35-04:00",
+ "generated_at": "2026-11-15T23:43:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-15 23:41:30"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-15 23:43:23"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-15 23:41:30"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-15 23:38:22"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-15 23:27:21"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-15 23:24:59"
   }
  ]
 }
