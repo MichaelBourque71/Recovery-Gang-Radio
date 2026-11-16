@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T20:02:37-04:00",
+ "generated_at": "2026-11-15T20:06:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-15 20:02:35"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-15 20:06:13"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-15 20:02:35"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-15 19:57:06"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-15 19:46:12"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-15 19:42:31"
   }
  ]
 }
