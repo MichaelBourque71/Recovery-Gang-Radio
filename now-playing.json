@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T07:21:48-04:00",
+ "generated_at": "2026-11-16T07:25:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-16 07:21:44"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-16 07:25:29"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-16 07:21:44"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-16 07:16:50"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-16 07:04:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-16 07:00:03"
   }
  ]
 }
