@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T21:47:43-04:00",
+ "generated_at": "2026-11-15T21:51:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-15 21:47:39"
+  "title": "Alignment",
+  "started": "2026-11-15 21:51:30"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-15 21:47:39"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-15 21:43:15"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-15 21:29:55"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-15 21:26:18"
   }
  ]
 }
