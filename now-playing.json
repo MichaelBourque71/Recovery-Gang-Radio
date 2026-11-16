@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T21:59:54-04:00",
+ "generated_at": "2026-11-15T22:06:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-15 21:59:52"
+  "title": "History Collects",
+  "started": "2026-11-15 22:05:57"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-15 21:59:52"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-15 21:55:25"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-15 21:43:15"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-15 21:39:20"
   }
  ]
 }
