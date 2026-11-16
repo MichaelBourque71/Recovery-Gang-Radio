@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T13:57:30-04:00",
+ "generated_at": "2026-11-16T14:01:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-16 13:57:29"
+  "title": "Not Enough Hours",
+  "started": "2026-11-16 14:01:28"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-16 13:57:29"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-16 13:52:57"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-16 13:39:51"
-  },
-  {
-   "title": "So Take a Chance",
-   "started": "2026-11-16 13:35:40"
   }
  ]
 }
