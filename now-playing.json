@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T11:31:49-04:00",
+ "generated_at": "2026-11-16T11:34:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-16 11:31:46"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-16 11:34:36"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-16 11:31:46"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-16 11:27:18"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-16 11:12:36"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-16 11:09:39"
   }
  ]
 }
