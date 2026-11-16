@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T12:36:39-04:00",
+ "generated_at": "2026-11-16T12:40:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-16 12:36:35"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-16 12:40:14"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-16 12:36:35"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-16 12:33:15"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-16 12:21:40"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-16 12:16:52"
   }
  ]
 }
