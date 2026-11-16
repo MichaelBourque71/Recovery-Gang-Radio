@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-16T19:30:03-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-16T19:32:52-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Stop Killing Babies",
+  "started": "2026-11-16 19:29:36"
+ },
  "previous": [
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
