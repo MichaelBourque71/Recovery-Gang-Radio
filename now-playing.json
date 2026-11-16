@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:48:21-04:00",
+ "generated_at": "2026-11-16T14:51:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-16 14:48:19"
+  "title": "Putz in a Suit",
+  "started": "2026-11-16 14:51:56"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-16 14:48:19"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-16 14:45:45"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-16 14:34:29"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-16 14:27:54"
   }
  ]
 }
