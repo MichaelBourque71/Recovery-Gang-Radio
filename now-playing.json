@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T05:56:47-04:00",
+ "generated_at": "2026-11-16T06:02:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-16 05:55:55"
+  "title": "Pair E - Yes + Your Feet On Steady Ground",
+  "started": "2026-11-16 06:01:15"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-16 05:55:55"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-16 05:52:33"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-16 05:41:11"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-16 05:35:35"
   }
  ]
 }
