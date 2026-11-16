@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-15T23:57:35-04:00",
+ "generated_at": "2026-11-16T00:01:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-15 23:57:30"
+  "title": "Alignment",
+  "started": "2026-11-16 00:01:05"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-15 23:57:30"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-15 23:54:26"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-15 23:41:30"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-15 23:38:22"
   }
  ]
 }
