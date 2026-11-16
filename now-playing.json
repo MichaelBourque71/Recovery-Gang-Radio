@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:39:04-04:00",
+ "generated_at": "2026-11-16T02:41:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-16 02:38:09"
+  "title": "Gaslight Halo",
+  "started": "2026-11-16 02:41:12"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-16 02:38:09"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-16 02:34:16"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-16 02:20:40"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-16 02:16:21"
   }
  ]
 }
