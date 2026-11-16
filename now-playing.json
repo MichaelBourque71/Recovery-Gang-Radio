@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T02:48:57-04:00",
+ "generated_at": "2026-11-16T02:51:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-16 02:45:09"
+  "title": "There Was A Time",
+  "started": "2026-11-16 02:49:06"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-16 02:45:09"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-16 02:41:12"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-16 02:28:20"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-16 02:24:28"
   }
  ]
 }
