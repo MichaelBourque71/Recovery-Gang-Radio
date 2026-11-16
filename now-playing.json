@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T07:38:07-04:00",
+ "generated_at": "2026-11-16T07:41:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-16 07:38:05"
+  "title": "Feel Alright",
+  "started": "2026-11-16 07:40:57"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-16 07:38:05"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-16 07:34:59"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-16 07:21:44"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-16 07:16:50"
   }
  ]
 }
