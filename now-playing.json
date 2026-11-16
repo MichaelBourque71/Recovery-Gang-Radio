@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T01:47:30-04:00",
+ "generated_at": "2026-11-16T01:52:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-16 01:47:20"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-16 01:51:57"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-16 01:47:20"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-16 01:43:40"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-16 01:32:08"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-16 01:28:50"
   }
  ]
 }
