@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T14:04:30-04:00",
+ "generated_at": "2026-11-16T14:07:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-16 14:04:26"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-16 14:07:27"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-16 14:04:26"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-16 14:01:28"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-16 13:48:03"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-16 13:43:10"
   }
  ]
 }
