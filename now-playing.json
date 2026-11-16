@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T06:02:24-04:00",
+ "generated_at": "2026-11-16T06:13:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Pair E - Yes + Your Feet On Steady Ground",
-  "started": "2026-11-16 06:01:15"
+  "title": "You",
+  "started": "2026-11-16 06:11:04"
  },
  "previous": [
+  {
+   "title": "Pair E - Yes + Your Feet On Steady Ground",
+   "started": "2026-11-16 06:01:15"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-16 05:55:55"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-16 05:45:41"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-16 05:41:11"
   }
  ]
 }
