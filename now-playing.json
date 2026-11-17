@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:50:35-04:00",
+ "generated_at": "2026-11-17T12:54:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-17 12:50:33"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-17 12:54:02"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-17 12:50:33"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-17 12:45:13"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-17 12:33:56"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-17 12:29:07"
   }
  ]
 }
