@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T01:05:18-04:00",
+ "generated_at": "2026-11-17T01:09:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-17 01:05:13"
+  "title": "Mystical Journey",
+  "started": "2026-11-17 01:09:22"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-17 01:05:13"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-17 01:00:41"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-17 00:47:43"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-17 00:43:38"
   }
  ]
 }
