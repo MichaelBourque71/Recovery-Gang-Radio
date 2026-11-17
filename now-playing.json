@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T01:00:43-04:00",
+ "generated_at": "2026-11-17T01:05:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-17 01:00:41"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-17 01:05:13"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-17 01:00:41"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-17 00:54:54"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-17 00:43:38"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-17 00:38:58"
   }
  ]
 }
