@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:21:19-04:00",
+ "generated_at": "2026-11-17T07:24:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-17 07:21:16"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-17 07:24:31"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-17 07:21:16"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-17 07:15:41"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-17 07:01:54"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-17 06:58:49"
   }
  ]
 }
