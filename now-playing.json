@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:39:51-04:00",
+ "generated_at": "2026-11-17T13:43:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-17 13:39:50"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-17 13:43:36"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-17 13:39:50"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-17 13:35:53"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-17 13:19:22"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-17 13:15:51"
   }
  ]
 }
