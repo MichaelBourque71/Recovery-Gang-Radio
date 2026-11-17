@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T20:08:52-04:00",
+ "generated_at": "2026-11-16T20:11:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-16 20:06:47"
+  "title": "Here’s a Stack",
+  "started": "2026-11-16 20:09:57"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-16 20:06:47"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-16 20:01:25"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-16 19:51:35"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-16 19:48:45"
   }
  ]
 }
