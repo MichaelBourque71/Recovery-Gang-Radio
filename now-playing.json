@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T08:12:37-04:00",
+ "generated_at": "2026-11-17T08:15:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-17 08:12:36"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-17 08:15:35"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-17 08:12:36"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-17 08:09:30"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-17 07:55:00"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-17 07:52:23"
   }
  ]
 }
