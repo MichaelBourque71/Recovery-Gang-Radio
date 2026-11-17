@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:12:28-04:00",
+ "generated_at": "2026-11-17T02:16:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-17 02:12:24"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-17 02:16:27"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-17 02:12:24"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-17 02:08:06"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-17 01:55:32"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-17 01:53:05"
   }
  ]
 }
