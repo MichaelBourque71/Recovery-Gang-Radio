@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T22:23:00-04:00",
+ "generated_at": "2026-11-16T22:27:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-16 22:22:59"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-16 22:27:11"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-16 22:22:59"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-16 22:19:33"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-16 22:07:53"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-16 22:05:06"
   }
  ]
 }
