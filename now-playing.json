@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T09:29:37-04:00",
+ "generated_at": "2026-11-17T09:34:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-17 09:29:34"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-17 09:34:23"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-17 09:29:34"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-17 09:25:20"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-17 09:12:30"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-17 09:08:25"
   }
  ]
 }
