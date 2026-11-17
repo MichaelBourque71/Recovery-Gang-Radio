@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T22:45:09-04:00",
+ "generated_at": "2026-11-16T22:48:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-16 22:45:09"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-16 22:48:28"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-16 22:45:09"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-16 22:41:48"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-16 22:32:00"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-16 22:27:11"
   }
  ]
 }
