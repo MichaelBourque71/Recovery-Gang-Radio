@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:55:45-04:00",
+ "generated_at": "2026-11-17T19:00:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-17 18:55:45"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-17 19:00:02"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-17 18:55:45"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-17 18:51:50"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-17 18:40:57"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-17 18:38:29"
   }
  ]
 }
