@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:15:55-04:00",
+ "generated_at": "2026-11-17T13:19:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-17 13:15:51"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-17 13:19:22"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-17 13:15:51"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-17 13:12:21"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-17 12:58:13"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-17 12:54:02"
   }
  ]
 }
