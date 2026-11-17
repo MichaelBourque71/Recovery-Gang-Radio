@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:07:09-04:00",
+ "generated_at": "2026-11-17T05:09:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-17 05:07:07"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-17 05:09:39"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-17 05:07:07"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-17 05:03:47"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-17 04:50:09"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-17 04:46:36"
   }
  ]
 }
