@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:29:20-04:00",
+ "generated_at": "2026-11-17T13:35:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-17 13:29:18"
+  "title": "Taste Your Honey",
+  "started": "2026-11-17 13:35:53"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-17 13:29:18"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-17 13:24:02"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-17 13:12:21"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-17 13:09:01"
   }
  ]
 }
