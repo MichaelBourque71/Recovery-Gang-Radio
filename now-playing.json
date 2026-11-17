@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:39:54-04:00",
+ "generated_at": "2026-11-17T19:42:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-17 19:39:50"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-17 19:42:44"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-17 19:39:50"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-17 19:36:10"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-17 19:24:52"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-17 19:19:45"
   }
  ]
 }
