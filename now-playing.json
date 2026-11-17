@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:52:20-04:00",
+ "generated_at": "2026-11-17T11:55:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-17 11:52:20"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-17 11:55:34"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-17 11:52:20"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-17 11:49:54"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-17 11:37:35"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-17 11:31:17"
   }
  ]
 }
