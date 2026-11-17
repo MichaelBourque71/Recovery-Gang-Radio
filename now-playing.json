@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:01:35-04:00",
+ "generated_at": "2026-11-17T04:05:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-17 04:01:34"
+  "title": "Alignment",
+  "started": "2026-11-17 04:05:32"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-17 04:01:34"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-17 03:56:50"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-17 03:46:33"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-17 03:42:35"
   }
  ]
 }
