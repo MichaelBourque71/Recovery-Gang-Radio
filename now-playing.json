@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:30:43-04:00",
+ "generated_at": "2026-11-17T04:33:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-17 04:30:40"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-17 04:33:12"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-17 04:30:40"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-17 04:28:39"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-17 04:13:14"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-17 04:09:48"
   }
  ]
 }
