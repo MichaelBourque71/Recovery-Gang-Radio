@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:59:27-04:00",
+ "generated_at": "2026-11-17T08:04:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-17 07:59:25"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-17 08:04:58"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-17 07:59:25"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-17 07:55:00"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-17 07:45:04"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-17 07:40:48"
   }
  ]
 }
