@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T10:37:52-04:00",
+ "generated_at": "2026-11-17T10:42:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-17 10:37:50"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-17 10:42:43"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-17 10:37:50"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-17 10:33:24"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-17 10:22:45"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-17 10:19:24"
   }
  ]
 }
