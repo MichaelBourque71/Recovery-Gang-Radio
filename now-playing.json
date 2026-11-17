@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T20:18:21-04:00",
+ "generated_at": "2026-11-16T20:22:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-16 20:17:20"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-16 20:21:06"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-16 20:17:20"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-16 20:12:57"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-16 20:01:25"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-16 19:57:30"
   }
  ]
 }
