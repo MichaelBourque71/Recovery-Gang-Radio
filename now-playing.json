@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:51:19-04:00",
+ "generated_at": "2026-11-17T06:55:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-17 06:51:18"
+  "title": "Upgraded",
+  "started": "2026-11-17 06:55:15"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-17 06:51:18"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-17 06:46:18"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-17 06:34:05"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-17 06:30:38"
   }
  ]
 }
