@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:08:58-04:00",
+ "generated_at": "2026-11-17T11:12:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-17 11:08:57"
+  "title": "Invisible String",
+  "started": "2026-11-17 11:12:08"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-17 11:08:57"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-17 11:04:27"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-17 10:50:24"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-17 10:46:28"
   }
  ]
 }
