@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T23:48:56-04:00",
+ "generated_at": "2026-11-16T23:53:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-16 23:48:52"
+  "title": "Upgraded",
+  "started": "2026-11-16 23:53:45"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-16 23:48:52"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-16 23:45:58"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-16 23:32:20"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-16 23:28:56"
   }
  ]
 }
