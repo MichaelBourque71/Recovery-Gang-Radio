@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:28:40-04:00",
+ "generated_at": "2026-11-17T04:30:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-17 04:28:39"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-17 04:30:40"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-17 04:28:39"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-17 04:24:31"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-17 04:09:48"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-17 04:05:32"
   }
  ]
 }
