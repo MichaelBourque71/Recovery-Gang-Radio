@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T00:21:31-04:00",
+ "generated_at": "2026-11-17T00:25:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-17 00:21:27"
+  "title": "The Left Lies",
+  "started": "2026-11-17 00:25:26"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-17 00:21:27"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-17 00:18:14"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-17 00:00:31"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-16 23:57:19"
   }
  ]
 }
