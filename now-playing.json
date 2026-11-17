@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:58:26-04:00",
+ "generated_at": "2026-11-17T18:02:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-17 17:58:26"
+  "title": "Gaslight Halo",
+  "started": "2026-11-17 18:02:13"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-17 17:58:26"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-17 17:54:41"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-17 17:41:57"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-17 17:38:36"
   }
  ]
 }
