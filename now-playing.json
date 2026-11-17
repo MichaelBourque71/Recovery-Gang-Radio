@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:25:09-04:00",
+ "generated_at": "2026-11-17T15:29:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-17 15:25:07"
+  "title": "Roadside Puddles",
+  "started": "2026-11-17 15:29:05"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-17 15:25:07"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-17 15:20:31"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-17 15:06:43"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-17 15:03:30"
   }
  ]
 }
