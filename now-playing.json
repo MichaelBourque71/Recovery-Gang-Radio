@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:06:24-04:00",
+ "generated_at": "2026-11-17T07:10:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-17 07:06:21"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-17 07:10:32"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-17 07:06:21"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-17 07:01:54"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-17 06:51:18"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-17 06:46:18"
   }
  ]
 }
