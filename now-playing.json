@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:36:09-04:00",
+ "generated_at": "2026-11-16T21:40:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-16 21:35:59"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-16 21:40:37"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-16 21:35:59"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-16 21:32:25"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-16 21:23:49"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-16 21:19:59"
   }
  ]
 }
