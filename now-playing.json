@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:20:48-04:00",
+ "generated_at": "2026-11-16T21:25:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-16 21:19:59"
+  "title": "Doughnut Doug",
+  "started": "2026-11-16 21:23:49"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-16 21:19:59"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-16 21:16:59"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-16 21:06:40"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-16 21:00:57"
   }
  ]
 }
