@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T01:41:58-04:00",
+ "generated_at": "2026-11-17T01:46:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-17 01:41:58"
+  "title": "Upgraded",
+  "started": "2026-11-17 01:46:06"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-17 01:41:58"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-17 01:36:31"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-17 01:23:54"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-17 01:21:06"
   }
  ]
 }
