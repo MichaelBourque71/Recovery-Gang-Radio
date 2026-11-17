@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:07:15-04:00",
+ "generated_at": "2026-11-17T17:12:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-17 17:07:11"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-17 17:12:48"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-17 17:07:11"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-17 17:03:12"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-17 16:49:31"
-  },
-  {
-   "title": "Feeling Froggy",
-   "started": "2026-11-17 16:45:45"
   }
  ]
 }
