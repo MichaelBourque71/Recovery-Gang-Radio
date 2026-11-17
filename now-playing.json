@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:58:42-04:00",
+ "generated_at": "2026-11-17T12:01:31-04:00",
  "on_air": true,
  "now_playing": {
   "title": "Follow The Trail",
-  "started": "2026-11-17 11:58:40"
+  "started": "2026-11-17 12:01:29"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-17 11:58:40"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-17 11:55:34"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-17 11:46:52"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-17 11:41:22"
   }
  ]
 }
