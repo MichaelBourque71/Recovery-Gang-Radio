@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:06:47-04:00",
+ "generated_at": "2026-11-17T15:11:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-17 15:06:43"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-17 15:10:56"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-17 15:06:43"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-17 15:03:30"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-17 14:53:35"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-17 14:48:46"
   }
  ]
 }
