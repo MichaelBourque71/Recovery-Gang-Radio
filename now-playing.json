@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T20:04:15-04:00",
+ "generated_at": "2026-11-16T20:08:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-16 20:01:25"
+  "title": "Freedom Wave",
+  "started": "2026-11-16 20:06:47"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-16 20:01:25"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-16 19:57:30"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-16 19:48:45"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-16 19:43:55"
   }
  ]
 }
