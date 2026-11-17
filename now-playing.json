@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:50:54-04:00",
+ "generated_at": "2026-11-17T02:54:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-17 02:50:52"
+  "title": "Weed Coughs",
+  "started": "2026-11-17 02:54:24"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-17 02:50:52"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-17 02:46:37"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-17 02:35:59"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-17 02:29:50"
   }
  ]
 }
