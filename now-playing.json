@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:10:06-04:00",
+ "generated_at": "2026-11-17T19:14:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-17 19:10:02"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-17 19:14:41"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-17 19:10:02"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-17 19:06:28"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-17 18:55:45"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-17 18:51:50"
   }
  ]
 }
