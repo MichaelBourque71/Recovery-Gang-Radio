@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T10:46:29-04:00",
+ "generated_at": "2026-11-17T10:50:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-17 10:46:28"
+  "title": "My Harley Waits",
+  "started": "2026-11-17 10:50:24"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-17 10:46:28"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-17 10:42:43"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-17 10:30:32"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-17 10:26:09"
   }
  ]
 }
