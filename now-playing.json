@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:54:35-04:00",
+ "generated_at": "2026-11-17T13:59:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-17 13:54:32"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-17 13:59:04"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-17 13:54:32"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-17 13:51:18"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-17 13:39:50"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-17 13:35:53"
   }
  ]
 }
