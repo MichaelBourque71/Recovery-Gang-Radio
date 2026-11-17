@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T23:32:24-04:00",
+ "generated_at": "2026-11-16T23:37:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-16 23:32:20"
+  "title": "Man With the Backbone",
+  "started": "2026-11-16 23:37:32"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-16 23:32:20"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-16 23:28:56"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-16 23:15:43"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-16 23:12:22"
   }
  ]
 }
