@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T16:13:50-04:00",
+ "generated_at": "2026-11-17T16:16:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-17 16:13:48"
+  "title": "Greatest Hits",
+  "started": "2026-11-17 16:16:44"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-17 16:13:48"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-17 16:08:59"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-17 15:56:19"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-17 15:52:45"
   }
  ]
 }
