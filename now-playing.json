@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:24:06-04:00",
+ "generated_at": "2026-11-17T13:29:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-17 13:24:02"
+  "title": "There's Still Hope",
+  "started": "2026-11-17 13:29:18"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-17 13:24:02"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-17 13:19:22"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-17 13:09:01"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-17 13:02:38"
   }
  ]
 }
