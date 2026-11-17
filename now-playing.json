@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:34:19-04:00",
+ "generated_at": "2026-11-17T18:38:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-17 18:34:15"
+  "title": "What They Want…",
+  "started": "2026-11-17 18:38:29"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-17 18:34:15"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-17 18:28:55"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-17 18:13:55"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-17 18:11:06"
   }
  ]
 }
