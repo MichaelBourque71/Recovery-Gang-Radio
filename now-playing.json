@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:04:23-04:00",
+ "generated_at": "2026-11-17T12:09:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-17 12:04:20"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-17 12:09:46"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-17 12:04:20"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-17 12:01:29"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-17 11:49:54"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-17 11:46:52"
   }
  ]
 }
