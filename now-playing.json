@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:36:11-04:00",
+ "generated_at": "2026-11-17T19:39:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-17 19:36:10"
+  "title": "Lines In Stone",
+  "started": "2026-11-17 19:39:50"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-17 19:36:10"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-17 19:32:22"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-17 19:19:45"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-17 19:14:41"
   }
  ]
 }
