@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T09:05:24-04:00",
+ "generated_at": "2026-11-17T09:08:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-17 09:05:20"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-17 09:08:25"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-17 09:05:20"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-17 09:02:10"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-17 08:45:48"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-17 08:42:58"
   }
  ]
 }
