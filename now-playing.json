@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:00:07-04:00",
+ "generated_at": "2026-11-17T15:03:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-17 15:00:03"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-17 15:03:30"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-17 15:00:03"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-17 14:55:22"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-17 14:43:13"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-17 14:38:36"
   }
  ]
 }
