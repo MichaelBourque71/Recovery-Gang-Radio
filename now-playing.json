@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:09:48-04:00",
+ "generated_at": "2026-11-17T12:14:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-17 12:09:46"
+  "title": "Take Your Laws",
+  "started": "2026-11-17 12:14:36"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-17 12:09:46"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-17 12:04:20"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-17 11:52:20"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-17 11:49:54"
   }
  ]
 }
