@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:54:42-04:00",
+ "generated_at": "2026-11-17T17:58:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-17 17:54:41"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-17 17:58:26"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-17 17:54:41"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-17 17:49:32"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-17 17:38:36"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-17 17:34:55"
   }
  ]
 }
