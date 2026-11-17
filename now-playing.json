@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:12:53-04:00",
+ "generated_at": "2026-11-17T17:16:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-17 17:12:48"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-17 17:16:45"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-17 17:12:48"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-17 17:07:11"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-17 16:53:29"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-17 16:49:31"
   }
  ]
 }
