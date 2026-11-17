@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:21:48-04:00",
+ "generated_at": "2026-11-17T12:23:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-17 12:21:45"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-17 12:23:45"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-17 12:21:45"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-17 12:17:28"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-17 12:04:20"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-17 12:01:29"
   }
  ]
 }
