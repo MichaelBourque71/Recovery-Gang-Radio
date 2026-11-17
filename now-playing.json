@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:14:39-04:00",
+ "generated_at": "2026-11-17T12:17:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-17 12:14:36"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-17 12:17:28"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-17 12:14:36"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-17 12:09:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-17 11:55:34"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-17 11:52:20"
   }
  ]
 }
