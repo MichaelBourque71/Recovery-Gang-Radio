@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:26:33-04:00",
+ "generated_at": "2026-11-17T06:30:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-17 06:26:31"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-17 06:30:38"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-17 06:26:31"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-17 06:21:44"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-17 06:07:01"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-17 06:01:28"
   }
  ]
 }
