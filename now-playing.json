@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:18:24-04:00",
+ "generated_at": "2026-11-16T21:20:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-16 21:16:59"
+  "title": "History Collects",
+  "started": "2026-11-16 21:19:59"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-16 21:16:59"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-16 21:14:31"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-16 21:00:57"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-16 20:58:09"
   }
  ]
 }
