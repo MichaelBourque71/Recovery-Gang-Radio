@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:16:02-04:00",
+ "generated_at": "2026-11-16T21:18:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-16 21:14:31"
+  "title": "Stolen Democracy",
+  "started": "2026-11-16 21:16:59"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-16 21:14:31"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-16 21:10:10"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-16 20:58:09"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-16 20:52:05"
   }
  ]
 }
