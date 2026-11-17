@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:40:58-04:00",
+ "generated_at": "2026-11-17T18:45:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-17 18:40:57"
+  "title": "Stolen Democracy",
+  "started": "2026-11-17 18:44:56"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-17 18:40:57"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-17 18:38:29"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-17 18:25:27"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-17 18:20:14"
   }
  ]
 }
