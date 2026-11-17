@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T03:16:06-04:00",
+ "generated_at": "2026-11-17T03:20:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-17 03:16:06"
+  "title": "You",
+  "started": "2026-11-17 03:20:51"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-17 03:16:06"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-17 03:12:31"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-17 02:59:17"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-17 02:54:24"
   }
  ]
 }
