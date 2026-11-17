@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:23:49-04:00",
+ "generated_at": "2026-11-17T12:29:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-17 12:23:45"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-17 12:29:07"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-17 12:23:45"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-17 12:21:45"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-17 12:09:46"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-17 12:04:20"
   }
  ]
 }
