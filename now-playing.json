@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:46:02-04:00",
+ "generated_at": "2026-11-17T15:49:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-17 15:46:00"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-17 15:49:33"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-17 15:46:00"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-17 15:42:17"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-17 15:29:05"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-17 15:25:07"
   }
  ]
 }
