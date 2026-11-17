@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T23:08:19-04:00",
+ "generated_at": "2026-11-16T23:12:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-16 23:08:17"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-16 23:12:22"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-16 23:08:17"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-16 23:04:43"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-16 22:52:26"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-16 22:48:28"
   }
  ]
 }
