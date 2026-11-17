@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:24:32-04:00",
+ "generated_at": "2026-11-17T07:28:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-17 07:24:31"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-17 07:28:56"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-17 07:24:31"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-17 07:21:16"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-17 07:06:21"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-17 07:01:54"
   }
  ]
 }
