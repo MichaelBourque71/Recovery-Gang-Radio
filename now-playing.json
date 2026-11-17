@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:17:32-04:00",
+ "generated_at": "2026-11-17T12:21:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-17 12:17:28"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-17 12:21:45"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-17 12:17:28"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-17 12:14:36"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-17 12:01:29"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-17 11:55:34"
   }
  ]
 }
