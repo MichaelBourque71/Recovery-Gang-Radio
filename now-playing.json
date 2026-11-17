@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:25:31-04:00",
+ "generated_at": "2026-11-17T18:28:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-17 18:25:27"
+  "title": "The Storm Rolls In",
+  "started": "2026-11-17 18:28:55"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-17 18:25:27"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-17 18:20:14"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-17 18:06:27"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-17 18:02:13"
   }
  ]
 }
