@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:55:02-04:00",
+ "generated_at": "2026-11-17T07:59:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-17 07:55:00"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-17 07:59:25"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-17 07:55:00"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-17 07:52:23"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-17 07:40:48"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-17 07:37:31"
   }
  ]
 }
