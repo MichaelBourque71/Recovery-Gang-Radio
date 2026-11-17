@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:28:18-04:00",
+ "generated_at": "2026-11-16T21:33:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-16 21:27:46"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-16 21:32:25"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-16 21:27:46"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-16 21:25:49"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-16 21:16:59"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-16 21:14:31"
   }
  ]
 }
