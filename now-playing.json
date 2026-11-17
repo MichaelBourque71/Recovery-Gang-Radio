@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:01:59-04:00",
+ "generated_at": "2026-11-17T07:06:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-17 07:01:54"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-17 07:06:21"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-17 07:01:54"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-17 06:58:49"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-17 06:46:18"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-17 06:44:30"
   }
  ]
 }
