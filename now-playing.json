@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:42:22-04:00",
+ "generated_at": "2026-11-17T15:46:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-17 15:42:17"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-17 15:46:00"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-17 15:42:17"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-17 15:38:40"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-17 15:25:07"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-17 15:20:31"
   }
  ]
 }
