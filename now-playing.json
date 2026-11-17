@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:33:41-04:00",
+ "generated_at": "2026-11-16T21:36:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-16 21:32:25"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-16 21:35:59"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-16 21:32:25"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-16 21:27:46"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-16 21:19:59"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-16 21:16:59"
   }
  ]
 }
