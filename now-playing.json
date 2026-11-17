@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T14:43:15-04:00",
+ "generated_at": "2026-11-17T14:48:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Have Something to Say",
-  "started": "2026-11-17 14:43:13"
+  "title": "Greedy Bitch",
+  "started": "2026-11-17 14:48:46"
  },
  "previous": [
+  {
+   "title": "I Have Something to Say",
+   "started": "2026-11-17 14:43:13"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-17 14:38:36"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-17 14:26:48"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-17 14:22:05"
   }
  ]
 }
