@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:33:57-04:00",
+ "generated_at": "2026-11-17T12:37:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-17 12:33:56"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-17 12:37:16"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-17 12:33:56"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-17 12:29:07"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-17 12:17:28"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-17 12:14:36"
   }
  ]
 }
