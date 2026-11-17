@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T09:02:14-04:00",
+ "generated_at": "2026-11-17T09:05:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-17 09:02:10"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-17 09:05:20"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-17 09:02:10"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-17 08:57:57"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-17 08:42:58"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-17 08:36:50"
   }
  ]
 }
