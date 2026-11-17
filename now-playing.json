@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:15:48-04:00",
+ "generated_at": "2026-11-17T15:20:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-17 15:15:43"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-17 15:20:31"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-17 15:15:43"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-17 15:10:56"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-17 15:00:03"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-17 14:55:22"
   }
  ]
 }
