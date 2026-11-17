@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:00:31-04:00",
+ "generated_at": "2026-11-17T11:04:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-17 11:00:28"
+  "title": "Gaslight Halo",
+  "started": "2026-11-17 11:04:27"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-17 11:00:28"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-17 10:55:46"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-17 10:42:43"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-17 10:37:50"
   }
  ]
 }
