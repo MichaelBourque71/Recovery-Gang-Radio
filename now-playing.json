@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:58:26-04:00",
+ "generated_at": "2026-11-17T06:01:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-17 05:58:23"
+  "title": "Mystical Journey",
+  "started": "2026-11-17 06:01:28"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-17 05:58:23"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-17 05:53:53"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-17 05:42:05"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-17 05:38:48"
   }
  ]
 }
