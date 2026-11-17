@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T09:52:01-04:00",
+ "generated_at": "2026-11-17T09:56:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-17 09:51:58"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-17 09:56:19"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-17 09:51:58"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-17 09:46:35"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-17 09:34:23"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-17 09:29:34"
   }
  ]
 }
