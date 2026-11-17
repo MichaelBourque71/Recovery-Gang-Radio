@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T19:59:08-04:00",
+ "generated_at": "2026-11-16T20:04:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-16 19:57:30"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-16 20:01:25"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-16 19:57:30"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-16 19:54:16"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-16 19:43:55"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-16 19:39:55"
   }
  ]
 }
