@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:03:47-04:00",
+ "generated_at": "2026-11-17T02:08:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-17 02:03:42"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-17 02:08:06"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-17 02:03:42"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-17 01:59:40"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-17 01:49:40"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-17 01:46:06"
   }
  ]
 }
