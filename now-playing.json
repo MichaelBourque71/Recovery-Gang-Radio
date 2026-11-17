@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:02:42-04:00",
+ "generated_at": "2026-11-17T13:09:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-17 13:02:38"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-17 13:09:01"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-17 13:02:38"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-17 12:58:13"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-17 12:45:13"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-17 12:40:59"
   }
  ]
 }
