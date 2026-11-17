@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:14:43-04:00",
+ "generated_at": "2026-11-17T19:19:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-17 19:14:41"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-17 19:19:45"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-17 19:14:41"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-17 19:10:02"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-17 19:00:02"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-17 18:55:45"
   }
  ]
 }
