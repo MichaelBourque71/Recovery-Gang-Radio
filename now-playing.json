@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T03:20:53-04:00",
+ "generated_at": "2026-11-17T03:24:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-17 03:20:51"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-17 03:24:08"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-17 03:20:51"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-17 03:16:06"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-17 03:03:35"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-17 02:59:17"
   }
  ]
 }
