@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T09:34:27-04:00",
+ "generated_at": "2026-11-17T09:38:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-17 09:34:23"
+  "title": "Some People",
+  "started": "2026-11-17 09:38:41"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-17 09:34:23"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-17 09:29:34"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-17 09:17:48"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-17 09:12:30"
   }
  ]
 }
