@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:46:22-04:00",
+ "generated_at": "2026-11-17T06:51:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-17 06:46:18"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-17 06:51:18"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-17 06:46:18"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-17 06:44:30"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-17 06:30:38"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-17 06:26:31"
   }
  ]
 }
