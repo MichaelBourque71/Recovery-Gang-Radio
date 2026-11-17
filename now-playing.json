@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:00:07-04:00",
+ "generated_at": "2026-11-17T05:03:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-17 05:00:03"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-17 05:03:47"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-17 05:00:03"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-17 04:54:38"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-17 04:42:20"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-17 04:37:53"
   }
  ]
 }
