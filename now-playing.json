@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T14:32:02-04:00",
+ "generated_at": "2026-11-17T14:35:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-17 14:31:57"
+  "title": "Monopoly Mark",
+  "started": "2026-11-17 14:35:11"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-17 14:31:57"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-17 14:26:48"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-17 14:12:31"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-17 14:06:50"
   }
  ]
 }
