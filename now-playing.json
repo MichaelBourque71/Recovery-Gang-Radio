@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:13:59-04:00",
+ "generated_at": "2026-11-17T18:20:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-17 18:13:55"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-17 18:20:14"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-17 18:13:55"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-17 18:11:06"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-17 17:58:26"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-17 17:54:41"
   }
  ]
 }
