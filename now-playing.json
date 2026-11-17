@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:31:15-04:00",
+ "generated_at": "2026-11-17T05:34:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-17 05:31:12"
+  "title": "Mean Francine",
+  "started": "2026-11-17 05:34:25"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-17 05:31:12"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-17 05:23:57"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-17 05:09:39"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-17 05:07:07"
   }
  ]
 }
