@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:09:02-04:00",
+ "generated_at": "2026-11-17T13:12:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-17 13:09:01"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-17 13:12:21"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-17 13:09:01"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-17 13:02:38"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-17 12:50:33"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-17 12:45:13"
   }
  ]
 }
