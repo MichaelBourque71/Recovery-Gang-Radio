@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T16:05:03-04:00",
+ "generated_at": "2026-11-17T16:09:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-17 16:05:00"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-17 16:08:59"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-17 16:05:00"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-17 16:01:34"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-17 15:49:33"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-17 15:46:00"
   }
  ]
 }
