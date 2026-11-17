@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T18:45:01-04:00",
+ "generated_at": "2026-11-17T18:48:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-17 18:44:56"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-17 18:47:56"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-17 18:44:56"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-17 18:40:57"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-17 18:28:55"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-17 18:25:27"
   }
  ]
 }
