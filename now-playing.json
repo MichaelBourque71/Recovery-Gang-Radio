@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T10:50:26-04:00",
+ "generated_at": "2026-11-17T10:55:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-17 10:50:24"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-17 10:55:46"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-17 10:50:24"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-17 10:46:28"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-17 10:33:24"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-17 10:30:32"
   }
  ]
 }
