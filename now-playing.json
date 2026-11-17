@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:31:18-04:00",
+ "generated_at": "2026-11-17T11:37:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-17 11:31:17"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-17 11:37:35"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-17 11:31:17"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-17 11:27:30"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-17 11:16:32"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-17 11:12:08"
   }
  ]
 }
