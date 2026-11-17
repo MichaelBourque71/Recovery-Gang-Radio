@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T01:53:06-04:00",
+ "generated_at": "2026-11-17T01:55:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-17 01:53:05"
+  "title": "Delaware Sniff",
+  "started": "2026-11-17 01:55:32"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-17 01:53:05"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-17 01:49:40"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-17 01:36:31"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-17 01:31:34"
   }
  ]
 }
