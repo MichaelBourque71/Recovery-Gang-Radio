@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:42:21-04:00",
+ "generated_at": "2026-11-17T04:46:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-17 04:42:20"
+  "title": "Putz in a Suit",
+  "started": "2026-11-17 04:46:36"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-17 04:42:20"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-17 04:37:53"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-17 04:28:39"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-17 04:24:31"
   }
  ]
 }
