@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T13:19:24-04:00",
+ "generated_at": "2026-11-17T13:24:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-17 13:19:22"
+  "title": "Fuck Winter",
+  "started": "2026-11-17 13:24:02"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-17 13:19:22"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-17 13:15:51"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-17 13:02:38"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-17 12:58:13"
   }
  ]
 }
