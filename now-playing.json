@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:41:01-04:00",
+ "generated_at": "2026-11-17T12:45:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-17 12:40:59"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-17 12:45:13"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-17 12:40:59"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-17 12:37:16"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-17 12:23:45"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-17 12:21:45"
   }
  ]
 }
