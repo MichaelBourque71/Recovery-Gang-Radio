@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:07:06-04:00",
+ "generated_at": "2026-11-17T06:12:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-17 06:07:01"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-17 06:11:58"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-17 06:07:01"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-17 06:01:28"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-17 05:50:27"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-17 05:46:09"
   }
  ]
 }
