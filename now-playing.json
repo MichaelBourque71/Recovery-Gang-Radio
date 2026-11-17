@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:46:10-04:00",
+ "generated_at": "2026-11-17T05:50:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-17 05:46:09"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-17 05:50:27"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-17 05:46:09"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-17 05:42:05"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-17 05:31:12"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-17 05:23:57"
   }
  ]
 }
