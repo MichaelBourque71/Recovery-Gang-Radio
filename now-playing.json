@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:09:49-04:00",
+ "generated_at": "2026-11-17T04:13:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-17 04:09:48"
+  "title": "Built To Love",
+  "started": "2026-11-17 04:13:14"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-17 04:09:48"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-17 04:05:32"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-17 03:51:59"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-17 03:49:18"
   }
  ]
 }
