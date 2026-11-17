@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:46:41-04:00",
+ "generated_at": "2026-11-17T02:50:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-17 02:46:37"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-17 02:50:52"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-17 02:46:37"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-17 02:42:30"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-17 02:29:50"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-17 02:25:39"
   }
  ]
 }
