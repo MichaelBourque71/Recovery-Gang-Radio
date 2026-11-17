@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:30:47-04:00",
+ "generated_at": "2026-11-17T17:34:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-17 17:30:42"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-17 17:34:55"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-17 17:30:42"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-17 17:27:28"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-17 17:12:48"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-17 17:07:11"
   }
  ]
 }
