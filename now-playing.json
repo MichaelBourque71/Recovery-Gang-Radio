@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:11:27-04:00",
+ "generated_at": "2026-11-16T21:16:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-16 21:10:10"
+  "title": "What They Want…",
+  "started": "2026-11-16 21:14:31"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-16 21:10:10"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-16 21:06:40"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-16 20:52:05"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-16 20:48:49"
   }
  ]
 }
