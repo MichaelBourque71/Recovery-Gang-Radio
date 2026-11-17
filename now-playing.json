@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T08:50:19-04:00",
+ "generated_at": "2026-11-17T08:54:09-04:00",
  "on_air": true,
  "now_playing": {
   "title": "History Collects",
-  "started": "2026-11-17 08:50:16"
+  "started": "2026-11-17 08:54:08"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-17 08:50:16"
+  },
   {
    "title": "There Was A Time",
    "started": "2026-11-17 08:45:48"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-17 08:34:56"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-17 08:31:46"
   }
  ]
 }
