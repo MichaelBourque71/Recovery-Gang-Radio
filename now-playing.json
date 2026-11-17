@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:54:18-04:00",
+ "generated_at": "2026-11-17T19:59:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-17 19:54:17"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-17 19:59:08"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-17 19:54:17"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-17 19:50:51"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-17 19:39:50"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-17 19:36:10"
   }
  ]
 }
