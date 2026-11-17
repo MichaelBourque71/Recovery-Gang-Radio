@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T05:23:59-04:00",
+ "generated_at": "2026-11-17T05:31:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-17 05:23:57"
+  "title": "Youth In Asia",
+  "started": "2026-11-17 05:31:12"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-17 05:23:57"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-17 05:18:47"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-17 05:07:07"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-17 05:03:47"
   }
  ]
 }
