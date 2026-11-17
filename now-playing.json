@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T11:46:56-04:00",
+ "generated_at": "2026-11-17T11:49:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-17 11:46:52"
+  "title": "The Left Lies",
+  "started": "2026-11-17 11:49:54"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-17 11:46:52"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-17 11:41:22"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-17 11:27:30"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-17 11:22:38"
   }
  ]
 }
