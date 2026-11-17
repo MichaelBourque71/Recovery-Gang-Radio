@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T12:29:10-04:00",
+ "generated_at": "2026-11-17T12:33:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-17 12:29:07"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-17 12:33:56"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-17 12:29:07"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-17 12:23:45"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-17 12:14:36"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-17 12:09:46"
   }
  ]
 }
