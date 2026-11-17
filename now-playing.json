@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T16:49:34-04:00",
+ "generated_at": "2026-11-17T16:53:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-17 16:49:31"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-17 16:53:29"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-17 16:49:31"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-17 16:45:45"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-17 16:32:06"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-17 16:28:29"
   }
  ]
 }
