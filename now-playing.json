@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T20:13:28-04:00",
+ "generated_at": "2026-11-16T20:18:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-16 20:12:57"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-16 20:17:20"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-16 20:12:57"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-16 20:09:57"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-16 19:57:30"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-16 19:54:16"
   }
  ]
 }
