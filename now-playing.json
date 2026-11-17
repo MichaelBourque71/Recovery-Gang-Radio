@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T00:32:32-04:00",
+ "generated_at": "2026-11-17T00:35:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-17 00:32:28"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-17 00:35:17"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-17 00:32:28"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-17 00:27:44"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-17 00:18:14"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-17 00:13:24"
   }
  ]
 }
