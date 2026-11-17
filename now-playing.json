@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T14:48:48-04:00",
+ "generated_at": "2026-11-17T14:53:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-17 14:48:46"
+  "title": "Doughnut Doug",
+  "started": "2026-11-17 14:53:35"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-17 14:48:46"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-17 14:43:13"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-17 14:31:57"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-17 14:26:48"
   }
  ]
 }
