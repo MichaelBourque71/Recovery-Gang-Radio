@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T15:52:46-04:00",
+ "generated_at": "2026-11-17T15:56:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-17 15:52:45"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-17 15:56:19"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-17 15:52:45"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-17 15:49:33"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-17 15:38:40"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-17 15:33:33"
   }
  ]
 }
