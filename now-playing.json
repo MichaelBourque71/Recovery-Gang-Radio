@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T04:54:44-04:00",
+ "generated_at": "2026-11-17T05:00:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-17 04:54:38"
+  "title": "Duck On The Dash",
+  "started": "2026-11-17 05:00:03"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-17 04:54:38"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-17 04:50:09"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-17 04:37:53"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-17 04:33:12"
   }
  ]
 }
