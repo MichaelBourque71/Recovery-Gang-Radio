@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:52:25-04:00",
+ "generated_at": "2026-11-17T07:55:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-17 07:52:23"
+  "title": "One More Night",
+  "started": "2026-11-17 07:55:00"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-17 07:52:23"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-17 07:48:27"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-17 07:37:31"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-17 07:34:48"
   }
  ]
 }
