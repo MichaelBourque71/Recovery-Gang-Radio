@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T10:30:35-04:00",
+ "generated_at": "2026-11-17T10:33:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-17 10:30:32"
+  "title": "Burn It Slow",
+  "started": "2026-11-17 10:33:24"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-17 10:30:32"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-17 10:26:09"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-17 10:16:20"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-17 10:13:40"
   }
  ]
 }
