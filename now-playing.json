@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T22:09:05-04:00",
+ "generated_at": "2026-11-16T22:15:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-16 22:07:53"
+  "title": "Mushroom Parade",
+  "started": "2026-11-16 22:12:22"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-16 22:07:53"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-16 22:05:06"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-16 21:53:48"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-16 21:49:55"
   }
  ]
 }
