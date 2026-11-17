@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:44:31-04:00",
+ "generated_at": "2026-11-17T06:46:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-17 06:44:30"
+  "title": "It Was Time",
+  "started": "2026-11-17 06:46:18"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-17 06:44:30"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-17 06:39:23"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-17 06:26:31"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-17 06:21:44"
   }
  ]
 }
