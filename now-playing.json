@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:42:32-04:00",
+ "generated_at": "2026-11-17T02:46:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-17 02:42:30"
+  "title": "Mean Francine",
+  "started": "2026-11-17 02:46:37"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-17 02:42:30"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-17 02:39:31"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-17 02:25:39"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-17 02:20:14"
   }
  ]
 }
