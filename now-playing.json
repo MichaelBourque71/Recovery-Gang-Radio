@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T06:55:20-04:00",
+ "generated_at": "2026-11-17T06:58:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-17 06:55:15"
+  "title": "Mailer Demon",
+  "started": "2026-11-17 06:58:49"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-17 06:55:15"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-17 06:51:18"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-17 06:39:23"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-17 06:34:05"
   }
  ]
 }
