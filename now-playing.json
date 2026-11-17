@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-16T21:25:44-04:00",
+ "generated_at": "2026-11-16T21:28:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-16 21:23:49"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-16 21:27:46"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-16 21:25:49"
+  },
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-16 21:23:49"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-16 21:19:59"
@@ -17,14 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-16 21:14:31"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-16 21:10:10"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-16 21:06:40"
   }
  ]
 }
