@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T02:29:56-04:00",
+ "generated_at": "2026-11-17T02:36:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-17 02:29:50"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-17 02:35:59"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-17 02:29:50"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-17 02:25:39"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-17 02:12:24"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-17 02:08:06"
   }
  ]
 }
