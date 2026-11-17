@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T07:40:50-04:00",
+ "generated_at": "2026-11-17T07:45:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-17 07:40:48"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-17 07:45:04"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-17 07:40:48"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-17 07:37:31"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-17 07:24:31"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-17 07:21:16"
   }
  ]
 }
