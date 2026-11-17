@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T17:22:09-04:00",
+ "generated_at": "2026-11-17T17:27:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-17 17:22:05"
+  "title": "Stand for Freedom",
+  "started": "2026-11-17 17:27:28"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-17 17:22:05"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-17 17:16:45"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-17 17:03:12"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-17 16:57:32"
   }
  ]
 }
