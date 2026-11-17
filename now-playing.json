@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T10:04:19-04:00",
+ "generated_at": "2026-11-17T10:08:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-17 10:04:18"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-17 10:08:15"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-17 10:04:18"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-17 10:00:14"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-17 09:46:35"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-17 09:42:06"
   }
  ]
 }
