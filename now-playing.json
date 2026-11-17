@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-16T21:51:20-04:00",
+ "generated_at": "2026-11-16T21:54:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-16 21:49:55"
+  "title": "Burn It Slow",
+  "started": "2026-11-16 21:53:48"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-16 21:49:55"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-16 21:44:21"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-16 21:32:25"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-16 21:27:46"
   }
  ]
 }
