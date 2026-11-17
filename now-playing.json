@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T19:28:28-04:00",
+ "generated_at": "2026-11-17T19:32:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-17 19:28:25"
+  "title": "Space Cadet",
+  "started": "2026-11-17 19:32:22"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-17 19:28:25"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-17 19:24:52"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-17 19:10:02"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-17 19:06:28"
   }
  ]
 }
