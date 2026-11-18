@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T07:33:45-04:00",
+ "generated_at": "2026-11-18T07:36:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-18 07:31:17"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-18 07:36:22"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-18 07:31:17"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-18 07:27:11"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-18 07:14:27"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-18 07:10:43"
   }
  ]
 }
