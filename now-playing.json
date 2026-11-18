@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:42:23-04:00",
+ "generated_at": "2026-11-18T01:47:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-18 01:42:23"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-18 01:47:46"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-18 01:42:23"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-18 01:37:23"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-18 01:22:00"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-18 01:18:27"
   }
  ]
 }
