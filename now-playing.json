@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T12:41:47-04:00",
+ "generated_at": "2026-11-18T12:47:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-18 12:41:46"
+  "title": "There Was A Time",
+  "started": "2026-11-18 12:47:16"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-18 12:41:46"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-18 12:39:09"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-18 12:27:16"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-18 12:24:10"
   }
  ]
 }
