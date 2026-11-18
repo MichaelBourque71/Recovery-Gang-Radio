@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:32:44-04:00",
+ "generated_at": "2026-11-18T03:35:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-18 03:32:43"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-18 03:35:51"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-18 03:32:43"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-18 03:30:55"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-18 03:19:07"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-18 03:13:25"
   }
  ]
 }
