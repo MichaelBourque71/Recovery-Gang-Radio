@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T07:52:07-04:00",
+ "generated_at": "2026-11-18T08:00:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-18 07:52:03"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-18 07:55:35"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-18 07:52:03"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-18 07:47:51"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-18 07:36:22"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-18 07:31:17"
   }
  ]
 }
