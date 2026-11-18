@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T20:05:05-04:00",
+ "generated_at": "2026-11-17T20:11:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-17 20:05:02"
+  "title": "Weaponized Children",
+  "started": "2026-11-17 20:11:25"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-17 20:05:02"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-17 20:01:51"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-17 19:50:51"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-17 19:46:43"
   }
  ]
 }
