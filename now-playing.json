@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:05:24-04:00",
+ "generated_at": "2026-11-18T18:10:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-18 18:05:24"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-18 18:10:03"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-18 18:05:24"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-18 18:02:51"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-18 17:49:50"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-18 17:47:00"
   }
  ]
 }
