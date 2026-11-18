@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T09:29:59-04:00",
+ "generated_at": "2026-11-18T09:34:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-18 09:29:55"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-18 09:34:14"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-18 09:29:55"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-18 09:23:50"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-18 09:11:45"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-18 09:08:06"
   }
  ]
 }
