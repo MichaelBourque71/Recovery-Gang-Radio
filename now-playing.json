@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:46:26-04:00",
+ "generated_at": "2026-11-18T02:50:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-18 02:46:23"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-18 02:50:16"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-18 02:46:23"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-18 02:43:33"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-18 02:30:38"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-18 02:27:53"
   }
  ]
 }
