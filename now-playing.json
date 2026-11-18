@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T13:44:17-04:00",
+ "generated_at": "2026-11-18T13:47:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-18 13:44:16"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-18 13:47:33"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-18 13:44:16"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-18 13:39:40"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-18 13:29:22"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-18 13:22:43"
   }
  ]
 }
