@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:17:36-04:00",
+ "generated_at": "2026-11-18T02:21:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-18 02:17:32"
+  "title": "Here’s a Stack",
+  "started": "2026-11-18 02:20:55"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-18 02:17:32"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-18 02:14:50"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-18 02:00:01"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-18 01:56:55"
   }
  ]
 }
