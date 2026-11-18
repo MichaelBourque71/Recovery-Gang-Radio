@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:35:52-04:00",
+ "generated_at": "2026-11-18T03:39:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-18 03:35:51"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-18 03:39:01"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-18 03:35:51"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-18 03:32:43"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-18 03:22:48"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-18 03:19:07"
   }
  ]
 }
