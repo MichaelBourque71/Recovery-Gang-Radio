@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:31:32-04:00",
+ "generated_at": "2026-11-18T00:36:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-18 00:31:27"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-18 00:36:32"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-18 00:31:27"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-18 00:27:27"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-18 00:15:49"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-18 00:11:45"
   }
  ]
 }
