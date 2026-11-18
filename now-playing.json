@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:58:37-04:00",
+ "generated_at": "2026-11-18T03:02:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-18 02:58:33"
+  "title": "Follow The Trail",
+  "started": "2026-11-18 03:02:24"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-18 02:58:33"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-18 02:54:34"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-18 02:43:33"
-  },
-  {
-   "title": "Feeling Froggy",
-   "started": "2026-11-18 02:39:57"
   }
  ]
 }
