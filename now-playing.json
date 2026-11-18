@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:08:25-04:00",
+ "generated_at": "2026-11-18T15:12:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-18 15:08:22"
+  "title": "Breath Of Policy",
+  "started": "2026-11-18 15:11:59"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-18 15:08:22"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-18 15:04:37"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-18 14:53:45"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-18 14:50:09"
   }
  ]
 }
