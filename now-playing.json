@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:27:30-04:00",
+ "generated_at": "2026-11-18T01:33:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-18 01:27:27"
+  "title": "Killdozer Army",
+  "started": "2026-11-18 01:33:19"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-18 01:27:27"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-18 01:22:00"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-18 01:09:51"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-18 01:04:43"
   }
  ]
 }
