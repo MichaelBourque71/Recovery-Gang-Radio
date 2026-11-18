@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:00:45-04:00",
+ "generated_at": "2026-11-18T15:04:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-18 15:00:43"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-18 15:04:37"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-18 15:00:43"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-18 14:57:17"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-18 14:46:14"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-18 14:41:29"
   }
  ]
 }
