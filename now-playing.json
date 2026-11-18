@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T13:36:39-04:00",
+ "generated_at": "2026-11-18T13:39:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-18 13:36:38"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-18 13:39:40"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-18 13:36:38"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-18 13:32:02"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-18 13:20:16"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-18 13:16:05"
   }
  ]
 }
