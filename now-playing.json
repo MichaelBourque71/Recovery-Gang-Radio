@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T04:36:16-04:00",
+ "generated_at": "2026-11-18T04:40:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-18 04:36:11"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-18 04:40:41"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-18 04:36:11"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-18 04:31:09"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-18 04:19:30"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-18 04:16:35"
   }
  ]
 }
