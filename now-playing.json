@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:57:02-04:00",
+ "generated_at": "2026-11-18T01:01:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-18 00:56:59"
+  "title": "One Brain Cell",
+  "started": "2026-11-18 01:01:54"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-18 00:56:59"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-18 00:52:03"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-18 00:39:36"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-18 00:36:32"
   }
  ]
 }
