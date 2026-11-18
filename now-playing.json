@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-18T09:08:19-04:00",
+ "generated_at": "2026-11-18T09:16:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-18 09:08:06"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-18 09:16:37"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-18 09:11:45"
+  },
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-18 09:08:06"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-18 09:03:07"
@@ -17,14 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-18 08:53:10"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-18 08:51:09"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-18 08:46:32"
   }
  ]
 }
