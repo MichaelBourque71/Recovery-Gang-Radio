@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T09:16:43-04:00",
+ "generated_at": "2026-11-18T09:20:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-18 09:16:37"
+  "title": "Alignment",
+  "started": "2026-11-18 09:19:55"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-18 09:16:37"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-18 09:11:45"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-18 08:58:49"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-18 08:53:10"
   }
  ]
 }
