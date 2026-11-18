@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T20:35:00-04:00",
+ "generated_at": "2026-11-17T20:39:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-17 20:34:58"
+  "title": "Killdozer Army",
+  "started": "2026-11-17 20:39:42"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-17 20:34:58"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-17 20:31:01"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-17 20:18:31"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-17 20:15:03"
   }
  ]
 }
