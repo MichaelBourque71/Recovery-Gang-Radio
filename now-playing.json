@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:45:10-04:00",
+ "generated_at": "2026-11-18T00:48:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-18 00:45:09"
+  "title": "Upgraded",
+  "started": "2026-11-18 00:48:28"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-18 00:45:09"
+  },
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-18 00:39:36"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-18 00:27:27"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-18 00:22:42"
   }
  ]
 }
