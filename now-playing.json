@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:35:33-04:00",
+ "generated_at": "2026-11-18T02:39:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-18 02:35:28"
+  "title": "Feeling Froggy",
+  "started": "2026-11-18 02:39:57"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-18 02:35:28"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-18 02:30:38"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-18 02:20:55"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-18 02:17:32"
   }
  ]
 }
