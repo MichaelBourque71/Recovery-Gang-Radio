@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T04:01:05-04:00",
+ "generated_at": "2026-11-18T04:04:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-18 04:01:03"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-18 04:04:38"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-18 04:01:03"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-18 03:57:41"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-18 03:42:45"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-18 03:39:01"
   }
  ]
 }
