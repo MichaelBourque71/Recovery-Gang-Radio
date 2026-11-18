@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T21:58:41-04:00",
+ "generated_at": "2026-11-17T22:01:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-17 21:58:41"
+  "title": "Mystical Journey",
+  "started": "2026-11-17 22:01:26"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-17 21:58:41"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-17 21:54:52"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-17 21:44:36"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-17 21:42:08"
   }
  ]
 }
