@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T21:39:19-04:00",
+ "generated_at": "2026-11-17T21:42:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-17 21:39:19"
+  "title": "What They Want…",
+  "started": "2026-11-17 21:42:08"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-17 21:39:19"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-17 21:36:47"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-17 21:27:25"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-17 21:23:41"
   }
  ]
 }
