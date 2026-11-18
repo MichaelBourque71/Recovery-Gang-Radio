@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:33:20-04:00",
+ "generated_at": "2026-11-18T01:37:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-18 01:33:19"
+  "title": "I Do What I Want",
+  "started": "2026-11-18 01:37:23"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-18 01:33:19"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-18 01:27:27"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-18 01:14:47"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-18 01:09:51"
   }
  ]
 }
