@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T07:10:53-04:00",
+ "generated_at": "2026-11-18T07:18:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-18 07:10:43"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-18 07:14:27"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-18 07:10:43"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-18 07:06:25"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-18 06:53:13"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-18 06:48:30"
   }
  ]
 }
