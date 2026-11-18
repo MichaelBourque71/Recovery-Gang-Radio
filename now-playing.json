@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T13:20:19-04:00",
+ "generated_at": "2026-11-18T13:22:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-18 13:20:16"
+  "title": "Nature Is Talking",
+  "started": "2026-11-18 13:22:43"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-18 13:20:16"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-18 13:16:05"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-18 13:03:15"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-18 12:59:03"
   }
  ]
 }
