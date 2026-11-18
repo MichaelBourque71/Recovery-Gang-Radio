@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:09:57-04:00",
+ "generated_at": "2026-11-18T03:13:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-18 03:09:56"
+  "title": "Hard Way",
+  "started": "2026-11-18 03:13:25"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-18 03:09:56"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-18 03:05:14"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-18 02:54:34"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-18 02:50:16"
   }
  ]
 }
