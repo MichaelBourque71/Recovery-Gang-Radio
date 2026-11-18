@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:57:00-04:00",
+ "generated_at": "2026-11-18T19:00:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-18 18:56:59"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-18 19:00:24"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-18 18:56:59"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-18 18:52:54"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-18 18:40:57"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-18 18:35:50"
   }
  ]
 }
