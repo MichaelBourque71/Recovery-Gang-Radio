@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:12:02-04:00",
+ "generated_at": "2026-11-18T15:17:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-18 15:11:59"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-18 15:17:04"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-18 15:11:59"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-18 15:08:22"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-18 14:57:17"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-18 14:53:45"
   }
  ]
 }
