@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:49:52-04:00",
+ "generated_at": "2026-11-18T14:53:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-18 14:46:14"
+  "title": "Time For Talking",
+  "started": "2026-11-18 14:50:09"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-18 14:46:14"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-18 14:41:29"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-18 14:28:40"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-18 14:23:33"
   }
  ]
 }
