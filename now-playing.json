@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:09:58-04:00",
+ "generated_at": "2026-11-18T02:14:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-18 02:09:54"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-18 02:14:50"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-18 02:09:54"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-18 02:05:27"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-18 01:51:33"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-18 01:47:46"
   }
  ]
 }
