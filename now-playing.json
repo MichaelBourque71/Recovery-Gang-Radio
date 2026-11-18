@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:18:48-04:00",
+ "generated_at": "2026-11-18T08:23:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-18 08:18:38"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-18 08:23:26"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-18 08:18:38"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-18 08:15:29"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-18 08:06:30"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-18 08:00:49"
   }
  ]
 }
