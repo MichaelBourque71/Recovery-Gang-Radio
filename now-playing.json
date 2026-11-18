@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:47:01-04:00",
+ "generated_at": "2026-11-18T17:49:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-18 17:47:00"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-18 17:49:50"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-18 17:47:00"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-18 17:43:50"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-18 17:31:21"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-18 17:27:42"
   }
  ]
 }
