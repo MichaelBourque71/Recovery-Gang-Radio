@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-18T05:05:41-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-18T05:08:49-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Freedom Wave",
+  "started": "2026-11-18 05:05:50"
+ },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-18 05:02:14"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-18 04:58:56"
@@ -18,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-18 04:48:37"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-18 04:44:24"
   }
  ]
 }
