@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T05:41:54-04:00",
+ "generated_at": "2026-11-18T05:46:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-18 05:41:51"
+  "title": "Money & Fame",
+  "started": "2026-11-18 05:46:09"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-18 05:41:51"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-18 05:36:54"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-18 05:22:11"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-18 05:18:14"
   }
  ]
 }
