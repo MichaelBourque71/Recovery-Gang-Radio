@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T10:13:07-04:00",
+ "generated_at": "2026-11-18T10:21:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-18 10:12:53"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-18 10:17:02"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-18 10:12:53"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-18 10:08:44"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-18 09:55:42"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-18 09:52:19"
   }
  ]
 }
