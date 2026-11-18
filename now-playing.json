@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T09:55:35-04:00",
+ "generated_at": "2026-11-18T09:58:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-18 09:52:19"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-18 09:55:42"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-18 09:52:19"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-18 09:48:08"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-18 09:36:54"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-18 09:34:14"
   }
  ]
 }
