@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T11:29:18-04:00",
+ "generated_at": "2026-11-18T11:35:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-18 11:29:13"
+  "title": "I Have Something to Say",
+  "started": "2026-11-18 11:34:02"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-18 11:29:13"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-18 11:26:07"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-18 11:09:50"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-18 11:06:50"
   }
  ]
 }
