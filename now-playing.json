@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T23:58:20-04:00",
+ "generated_at": "2026-11-18T00:02:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-17 23:58:17"
+  "title": "420 Twice A Day",
+  "started": "2026-11-18 00:02:43"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-17 23:58:17"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-17 23:55:28"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-17 23:41:09"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-17 23:36:46"
   }
  ]
 }
