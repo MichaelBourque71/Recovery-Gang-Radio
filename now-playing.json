@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:48:31-04:00",
+ "generated_at": "2026-11-18T00:52:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-18 00:48:28"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-18 00:52:03"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-18 00:48:28"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-18 00:45:09"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-18 00:31:27"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-18 00:27:27"
   }
  ]
 }
