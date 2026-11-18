@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T16:49:40-04:00",
+ "generated_at": "2026-11-18T16:52:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-18 16:49:38"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-18 16:52:19"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-18 16:49:38"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-18 16:45:10"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-18 16:33:49"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-18 16:29:11"
   }
  ]
 }
