@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:14:52-04:00",
+ "generated_at": "2026-11-18T01:18:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-18 01:14:47"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-18 01:18:27"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-18 01:14:47"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-18 01:09:51"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-18 00:56:59"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-18 00:52:03"
   }
  ]
 }
