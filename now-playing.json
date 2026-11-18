@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T19:54:38-04:00",
+ "generated_at": "2026-11-18T19:59:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-18 19:54:33"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-18 19:59:44"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-18 19:54:33"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-18 19:51:18"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-18 19:38:36"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-18 19:34:39"
   }
  ]
 }
