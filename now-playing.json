@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:49:54-04:00",
+ "generated_at": "2026-11-18T17:53:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-18 17:49:50"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-18 17:53:34"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-18 17:49:50"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-18 17:47:00"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-18 17:36:19"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-18 17:31:21"
   }
  ]
 }
