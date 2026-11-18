@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T21:44:39-04:00",
+ "generated_at": "2026-11-17T21:48:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-17 21:44:36"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-17 21:48:24"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-17 21:44:36"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-17 21:42:08"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-17 21:34:15"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-17 21:30:53"
   }
  ]
 }
