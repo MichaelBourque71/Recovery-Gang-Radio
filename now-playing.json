@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:21:41-04:00",
+ "generated_at": "2026-11-18T15:25:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-18 15:21:36"
+  "title": "Gaslight Halo",
+  "started": "2026-11-18 15:25:25"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-18 15:21:36"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-18 15:17:04"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-18 15:04:37"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-18 15:00:43"
   }
  ]
 }
