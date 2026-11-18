@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T11:10:38-04:00",
+ "generated_at": "2026-11-18T11:18:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-18 11:09:50"
+  "title": "Putz in a Suit",
+  "started": "2026-11-18 11:15:21"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-18 11:09:50"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-18 11:06:50"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-18 10:55:11"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-18 10:50:44"
   }
  ]
 }
