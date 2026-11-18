@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:35:17-04:00",
+ "generated_at": "2026-11-18T08:37:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-18 08:33:02"
+  "title": "The Left Lies",
+  "started": "2026-11-18 08:36:59"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-18 08:33:02"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-18 08:27:49"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-18 08:15:29"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-18 08:11:55"
   }
  ]
 }
