@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:48:32-04:00",
+ "generated_at": "2026-11-18T18:52:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-18 18:48:29"
+  "title": "Roadside Puddles",
+  "started": "2026-11-18 18:52:54"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-18 18:48:29"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-18 18:44:16"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-18 18:31:59"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-18 18:28:23"
   }
  ]
 }
