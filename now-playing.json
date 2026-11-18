@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T09:37:18-04:00",
+ "generated_at": "2026-11-18T09:40:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-18 09:36:54"
+  "title": "Monopoly Mark",
+  "started": "2026-11-18 09:40:53"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-18 09:36:54"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-18 09:34:14"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-18 09:19:55"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-18 09:16:37"
   }
  ]
 }
