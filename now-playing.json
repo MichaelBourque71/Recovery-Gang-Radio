@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:46:08-04:00",
+ "generated_at": "2026-11-18T14:49:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-18 14:41:29"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-18 14:46:14"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-18 14:41:29"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-18 14:36:02"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-18 14:23:33"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-18 14:19:59"
   }
  ]
 }
