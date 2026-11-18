@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T06:02:17-04:00",
+ "generated_at": "2026-11-18T06:13:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Pair A - It Was Time + Built To Love",
-  "started": "2026-11-18 06:02:11"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-18 06:13:20"
  },
  "previous": [
+  {
+   "title": "Pair A - It Was Time + Built To Love",
+   "started": "2026-11-18 06:02:11"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-18 05:57:12"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-18 05:41:51"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-18 05:36:54"
   }
  ]
 }
