@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-18T05:22:15-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-18 05:22:11"
- },
+ "generated_at": "2026-11-18T05:26:45-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-18 05:22:11"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-18 05:18:14"
@@ -21,10 +22,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-18 05:09:00"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-18 05:05:50"
   }
  ]
 }
