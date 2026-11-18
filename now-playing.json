@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T20:18:36-04:00",
+ "generated_at": "2026-11-17T20:22:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-17 20:18:31"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-17 20:22:05"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-17 20:18:31"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-17 20:15:03"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-17 20:01:51"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-17 19:59:08"
   }
  ]
 }
