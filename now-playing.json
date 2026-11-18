@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:51:31-04:00",
+ "generated_at": "2026-11-18T03:57:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-18 03:51:29"
+  "title": "Time For Talking",
+  "started": "2026-11-18 03:57:41"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-18 03:51:29"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-18 03:47:02"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-18 03:35:51"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-18 03:32:43"
   }
  ]
 }
