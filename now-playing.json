@@ -1,11 +1,16 @@
 {
- "generated_at": "2026-11-18T08:09:09-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-18 08:06:30"
- },
+ "generated_at": "2026-11-18T08:12:09-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "The Woke Baby Sissy Dance 😂",
+   "started": "2026-11-18 08:09:15"
+  },
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-18 08:06:30"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-18 08:00:49"
@@ -17,14 +22,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-18 07:52:03"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-18 07:47:51"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-18 07:42:46"
   }
  ]
 }
