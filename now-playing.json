@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T22:36:04-04:00",
+ "generated_at": "2026-11-17T22:41:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-17 22:36:01"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-17 22:41:06"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-17 22:36:01"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-17 22:32:05"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-17 22:21:18"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-17 22:15:45"
   }
  ]
 }
