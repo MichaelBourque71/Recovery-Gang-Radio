@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T23:13:03-04:00",
+ "generated_at": "2026-11-17T23:16:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-17 23:13:00"
+  "title": "Mailer Demon",
+  "started": "2026-11-17 23:16:24"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-17 23:13:00"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-17 23:07:57"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-17 22:54:44"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-17 22:50:13"
   }
  ]
 }
