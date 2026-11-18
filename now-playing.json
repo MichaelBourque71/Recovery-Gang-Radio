@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-18T09:40:58-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-18 09:40:53"
- },
+ "generated_at": "2026-11-18T09:43:59-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-18 09:40:53"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-18 09:36:54"
@@ -21,10 +22,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-18 09:23:50"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-18 09:19:55"
   }
  ]
 }
