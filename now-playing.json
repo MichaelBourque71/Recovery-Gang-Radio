@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T22:24:32-04:00",
+ "generated_at": "2026-11-17T22:30:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-17 22:24:30"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-17 22:30:05"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-17 22:24:30"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-17 22:21:18"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-17 22:06:59"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-17 22:01:26"
   }
  ]
 }
