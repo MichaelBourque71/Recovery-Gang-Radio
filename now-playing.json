@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T21:02:24-04:00",
+ "generated_at": "2026-11-17T21:05:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-17 21:02:20"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-17 21:05:02"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-17 21:02:20"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-17 20:58:25"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-17 20:43:46"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-17 20:39:42"
   }
  ]
 }
