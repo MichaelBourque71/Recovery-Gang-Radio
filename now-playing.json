@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:02:54-04:00",
+ "generated_at": "2026-11-18T18:05:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-18 18:02:51"
+  "title": "Invisible String",
+  "started": "2026-11-18 18:05:24"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-18 18:02:51"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-18 17:58:24"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-18 17:47:00"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-18 17:43:50"
   }
  ]
 }
