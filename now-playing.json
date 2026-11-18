@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T04:09:54-04:00",
+ "generated_at": "2026-11-18T04:13:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-18 04:09:50"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-18 04:13:15"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-18 04:09:50"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-18 04:04:38"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-18 03:51:29"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-18 03:47:02"
   }
  ]
 }
