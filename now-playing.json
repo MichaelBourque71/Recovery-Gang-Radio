@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:22:47-04:00",
+ "generated_at": "2026-11-18T00:27:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-18 00:22:42"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-18 00:27:27"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-18 00:22:42"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-18 00:18:44"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-18 00:08:43"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-18 00:04:58"
   }
  ]
 }
