@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T19:43:35-04:00",
+ "generated_at": "2026-11-18T19:48:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-18 19:43:32"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-18 19:48:09"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-18 19:43:32"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-18 19:38:36"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-18 19:28:03"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-18 19:25:43"
   }
  ]
 }
