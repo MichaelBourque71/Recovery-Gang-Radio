@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:27:42-04:00",
+ "generated_at": "2026-11-18T17:31:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-18 17:27:42"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-18 17:31:21"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-18 17:27:42"
+  },
   {
    "title": "Some People",
    "started": "2026-11-18 17:24:41"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-18 17:10:26"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-18 17:05:00"
   }
  ]
 }
