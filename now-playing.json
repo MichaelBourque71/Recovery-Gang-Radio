@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:28:23-04:00",
+ "generated_at": "2026-11-18T18:32:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-18 18:28:23"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-18 18:31:59"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-18 18:28:23"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-18 18:25:31"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-18 18:13:31"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-18 18:10:03"
   }
  ]
 }
