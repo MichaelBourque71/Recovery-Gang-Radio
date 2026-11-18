@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T22:54:49-04:00",
+ "generated_at": "2026-11-17T22:58:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-17 22:54:44"
+  "title": "Day And Night",
+  "started": "2026-11-17 22:58:49"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-17 22:54:44"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-17 22:50:13"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-17 22:41:06"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-17 22:36:01"
   }
  ]
 }
