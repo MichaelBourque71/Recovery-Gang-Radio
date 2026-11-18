@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T19:10:36-04:00",
+ "generated_at": "2026-11-18T19:14:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-18 19:10:33"
+  "title": "Yes",
+  "started": "2026-11-18 19:14:37"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-18 19:10:33"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-18 19:03:48"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-18 18:52:54"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-18 18:48:29"
   }
  ]
 }
