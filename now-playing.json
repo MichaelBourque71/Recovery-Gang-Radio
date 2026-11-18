@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:13:33-04:00",
+ "generated_at": "2026-11-18T18:17:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-18 18:13:31"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-18 18:17:02"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-18 18:13:31"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-18 18:10:03"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-18 17:58:24"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-18 17:53:34"
   }
  ]
 }
