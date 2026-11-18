@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:37:26-04:00",
+ "generated_at": "2026-11-18T14:46:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-18 14:36:02"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-18 14:41:29"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-18 14:36:02"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-18 14:33:27"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-18 14:19:59"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-18 14:15:31"
   }
  ]
 }
