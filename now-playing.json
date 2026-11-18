@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:37:26-04:00",
+ "generated_at": "2026-11-18T01:42:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-18 01:37:23"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-18 01:42:23"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-18 01:37:23"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-18 01:33:19"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-18 01:18:27"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-18 01:14:47"
   }
  ]
 }
