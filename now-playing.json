@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:53:35-04:00",
+ "generated_at": "2026-11-18T08:58:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-18 08:53:10"
+  "title": "Invisible String",
+  "started": "2026-11-18 08:58:49"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-18 08:53:10"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-18 08:51:09"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-18 08:39:16"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-18 08:36:59"
   }
  ]
 }
