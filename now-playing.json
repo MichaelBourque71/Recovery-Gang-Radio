@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:50:21-04:00",
+ "generated_at": "2026-11-18T02:54:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-18 02:50:16"
+  "title": "Duck On The Dash",
+  "started": "2026-11-18 02:54:34"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-18 02:50:16"
+  },
   {
    "title": "You",
    "started": "2026-11-18 02:46:23"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-18 02:35:28"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-18 02:30:38"
   }
  ]
 }
