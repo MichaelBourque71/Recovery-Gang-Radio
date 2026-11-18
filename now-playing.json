@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:36:23-04:00",
+ "generated_at": "2026-11-18T17:39:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-18 17:36:19"
+  "title": "History Collects",
+  "started": "2026-11-18 17:39:39"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-18 17:36:19"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-18 17:31:21"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-18 17:20:42"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-18 17:15:51"
   }
  ]
 }
