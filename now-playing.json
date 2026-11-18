@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T21:54:56-04:00",
+ "generated_at": "2026-11-17T21:58:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-17 21:54:52"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-17 21:58:41"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-17 21:54:52"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-17 21:52:29"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-17 21:42:08"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-17 21:39:19"
   }
  ]
 }
