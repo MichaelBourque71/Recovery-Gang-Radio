@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-18T09:29:34-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-18T09:29:59-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Stranger Danger",
+  "started": "2026-11-18 09:29:55"
+ },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-18 09:23:50"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-18 09:19:55"
@@ -18,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-18 09:08:06"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-18 09:03:07"
   }
  ]
 }
