@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:10:31-04:00",
+ "generated_at": "2026-11-18T17:15:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-18 17:10:26"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-18 17:15:51"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-18 17:10:26"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-18 17:05:00"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-18 16:52:19"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-18 16:49:38"
   }
  ]
 }
