@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:06:28-04:00",
+ "generated_at": "2026-11-18T08:09:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-18 08:00:49"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-18 08:06:30"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-18 08:00:49"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-18 07:55:35"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-18 07:42:46"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-18 07:39:29"
   }
  ]
 }
