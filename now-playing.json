@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-18T11:22:26-04:00",
+ "generated_at": "2026-11-18T11:29:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-18 11:19:05"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-18 11:29:13"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-18 11:26:07"
+  },
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-18 11:19:05"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-18 11:15:21"
@@ -17,14 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-18 11:06:50"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-18 11:02:53"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-18 10:59:53"
   }
  ]
 }
