@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T04:19:32-04:00",
+ "generated_at": "2026-11-18T04:22:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-18 04:19:30"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-18 04:22:50"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-18 04:19:30"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-18 04:16:35"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-18 04:04:38"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-18 04:01:03"
   }
  ]
 }
