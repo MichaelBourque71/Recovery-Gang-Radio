@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T06:57:27-04:00",
+ "generated_at": "2026-11-18T07:02:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-18 06:57:24"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-18 07:02:40"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-18 06:57:24"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-18 06:53:13"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-18 06:39:20"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-18 06:35:41"
   }
  ]
 }
