@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:00:41-04:00",
+ "generated_at": "2026-11-18T14:05:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-18 14:00:37"
+  "title": "Disobey Authority",
+  "started": "2026-11-18 14:04:49"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-18 14:00:37"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-18 13:55:59"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-18 13:44:16"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-18 13:39:40"
   }
  ]
 }
