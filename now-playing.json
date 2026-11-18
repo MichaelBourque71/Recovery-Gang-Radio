@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T19:31:38-04:00",
+ "generated_at": "2026-11-18T19:34:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-18 19:31:37"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-18 19:34:39"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-18 19:31:37"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-18 19:28:03"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-18 19:18:06"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-18 19:14:37"
   }
  ]
 }
