@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T11:18:48-04:00",
+ "generated_at": "2026-11-18T11:22:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-18 11:15:21"
+  "title": "There's Still Hope",
+  "started": "2026-11-18 11:19:05"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-18 11:15:21"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-18 11:09:50"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-18 10:59:53"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-18 10:55:11"
   }
  ]
 }
