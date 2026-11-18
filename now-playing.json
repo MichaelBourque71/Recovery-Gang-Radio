@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T10:00:12-04:00",
+ "generated_at": "2026-11-18T10:04:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-18 10:00:09"
+  "title": "Mean Francine",
+  "started": "2026-11-18 10:04:30"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-18 10:00:09"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-18 09:55:42"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-18 09:43:51"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-18 09:40:53"
   }
  ]
 }
