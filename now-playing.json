@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:13:27-04:00",
+ "generated_at": "2026-11-18T03:19:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-18 03:13:25"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-18 03:19:07"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-18 03:13:25"
+  },
   {
    "title": "Yes",
    "started": "2026-11-18 03:09:56"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-18 02:58:33"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-18 02:54:34"
   }
  ]
 }
