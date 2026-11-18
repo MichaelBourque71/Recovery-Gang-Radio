@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:17:06-04:00",
+ "generated_at": "2026-11-18T18:21:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-18 18:17:02"
+  "title": "Painted Signals",
+  "started": "2026-11-18 18:21:31"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-18 18:17:02"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-18 18:13:31"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-18 18:02:51"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-18 17:58:24"
   }
  ]
 }
