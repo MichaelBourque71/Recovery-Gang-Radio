@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T16:33:54-04:00",
+ "generated_at": "2026-11-18T16:37:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-18 16:33:49"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-18 16:37:23"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-18 16:33:49"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-18 16:29:11"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-18 16:16:05"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-18 16:11:57"
   }
  ]
 }
