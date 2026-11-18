@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T09:34:19-04:00",
+ "generated_at": "2026-11-18T09:37:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-18 09:34:14"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-18 09:36:54"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-18 09:34:14"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-18 09:29:55"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-18 09:16:37"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-18 09:11:45"
   }
  ]
 }
