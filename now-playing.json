@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-18T05:02:14-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-18 05:02:14"
- },
+ "generated_at": "2026-11-18T05:05:41-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Not Enough Hours",
