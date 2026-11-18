@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T23:36:51-04:00",
+ "generated_at": "2026-11-17T23:41:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-17 23:36:46"
+  "title": "Mystical Journey",
+  "started": "2026-11-17 23:41:09"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-17 23:36:46"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-17 23:32:34"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-17 23:19:28"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-17 23:16:24"
   }
  ]
 }
