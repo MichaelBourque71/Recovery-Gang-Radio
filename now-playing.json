@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:21:32-04:00",
+ "generated_at": "2026-11-18T18:25:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-18 18:21:31"
+  "title": "Take Your Laws",
+  "started": "2026-11-18 18:25:31"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-18 18:21:31"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-18 18:17:02"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-18 18:05:24"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-18 18:02:51"
   }
  ]
 }
