@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-18T14:22:51-04:00",
+ "generated_at": "2026-11-18T14:28:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-18 14:19:59"
+  "title": "Heavy Denim",
+  "started": "2026-11-18 14:28:40"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-18 14:23:33"
+  },
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-18 14:19:59"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-18 14:15:31"
@@ -17,14 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-18 14:08:08"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-18 14:04:49"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-18 14:00:37"
   }
  ]
 }
