@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:58:54-04:00",
+ "generated_at": "2026-11-18T09:03:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-18 08:58:49"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-18 09:03:07"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-18 08:58:49"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-18 08:53:10"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-18 08:43:12"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-18 08:39:16"
   }
  ]
 }
