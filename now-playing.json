@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:37:12-04:00",
+ "generated_at": "2026-11-18T15:40:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-18 15:37:09"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-18 15:40:44"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-18 15:37:09"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-18 15:34:09"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-18 15:21:36"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-18 15:17:04"
   }
  ]
 }
