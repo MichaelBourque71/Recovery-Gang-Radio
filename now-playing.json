@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T20:11:29-04:00",
+ "generated_at": "2026-11-17T20:15:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-17 20:11:25"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-17 20:15:03"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-17 20:11:25"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-17 20:05:02"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-17 19:54:17"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-17 19:50:51"
   }
  ]
 }
