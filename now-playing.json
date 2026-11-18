@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T18:32:02-04:00",
+ "generated_at": "2026-11-18T18:35:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-18 18:31:59"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-18 18:35:50"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-18 18:31:59"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-18 18:28:23"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-18 18:17:02"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-18 18:13:31"
   }
  ]
 }
