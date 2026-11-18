@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-17T22:50:16-04:00",
+ "generated_at": "2026-11-17T22:54:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-17 22:50:13"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-17 22:54:44"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-17 22:50:13"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-17 22:47:07"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-17 22:36:01"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-17 22:32:05"
   }
  ]
 }
