@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:28:48-04:00",
+ "generated_at": "2026-11-18T14:34:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-18 14:28:40"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-18 14:33:27"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-18 14:28:40"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-18 14:23:33"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-18 14:11:34"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-18 14:08:08"
   }
  ]
 }
