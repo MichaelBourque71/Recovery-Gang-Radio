@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:59:45-04:00",
+ "generated_at": "2026-11-18T16:03:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-18 15:59:41"
+  "title": "Invisible String",
+  "started": "2026-11-18 16:03:45"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-18 15:59:41"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-18 15:53:48"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-18 15:43:58"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-18 15:40:44"
   }
  ]
 }
