@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T19:25:44-04:00",
+ "generated_at": "2026-11-18T19:28:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-18 19:25:43"
+  "title": "Upgraded",
+  "started": "2026-11-18 19:28:03"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-18 19:25:43"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-18 19:21:44"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-18 19:10:33"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-18 19:03:48"
   }
  ]
 }
