@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T00:18:48-04:00",
+ "generated_at": "2026-11-18T00:22:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-18 00:18:44"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-18 00:22:42"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-18 00:18:44"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-18 00:15:49"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-18 00:04:58"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-18 00:02:43"
   }
  ]
 }
