@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T02:00:01-04:00",
+ "generated_at": "2026-11-18T02:05:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-18 02:00:01"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-18 02:05:27"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-18 02:00:01"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-18 01:56:55"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-18 01:42:23"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-18 01:37:23"
   }
  ]
 }
