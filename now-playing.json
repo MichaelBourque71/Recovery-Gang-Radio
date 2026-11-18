@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T17:05:04-04:00",
+ "generated_at": "2026-11-18T17:10:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-18 17:05:00"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-18 17:10:26"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-18 17:05:00"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-18 17:01:11"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-18 16:49:38"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-18 16:45:10"
   }
  ]
 }
