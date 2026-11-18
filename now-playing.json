@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T11:43:16-04:00",
+ "generated_at": "2026-11-18T11:46:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-18 11:43:12"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-18 11:46:05"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-18 11:43:12"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-18 11:39:35"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-18 11:26:07"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-18 11:19:05"
   }
  ]
 }
