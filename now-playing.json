@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T04:40:46-04:00",
+ "generated_at": "2026-11-18T04:44:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-18 04:40:41"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-18 04:44:24"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-18 04:40:41"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-18 04:36:11"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-18 04:22:50"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-18 04:19:30"
   }
  ]
 }
