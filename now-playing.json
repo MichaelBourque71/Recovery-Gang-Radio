@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T15:53:51-04:00",
+ "generated_at": "2026-11-18T15:59:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-18 15:53:48"
+  "title": "Killdozer Army",
+  "started": "2026-11-18 15:59:41"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-18 15:53:48"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-18 15:50:04"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-18 15:40:44"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-18 15:37:09"
   }
  ]
 }
