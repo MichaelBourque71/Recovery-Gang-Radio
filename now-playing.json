@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-18T07:42:52-04:00",
+ "generated_at": "2026-11-18T07:52:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-18 07:42:46"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-18 07:52:03"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-18 07:47:51"
+  },
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-18 07:42:46"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-18 07:39:29"
@@ -17,14 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-18 07:31:17"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-18 07:27:11"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-18 07:23:03"
   }
  ]
 }
