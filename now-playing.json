@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-18T00:02:46-04:00",
+ "generated_at": "2026-11-18T00:08:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-18 00:02:43"
+  "title": "Running With Scissors",
+  "started": "2026-11-18 00:08:43"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-18 00:04:58"
+  },
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-18 00:02:43"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-17 23:58:17"
@@ -17,14 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-17 23:50:34"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-17 23:46:42"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-17 23:41:09"
   }
  ]
 }
