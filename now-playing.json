@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T05:57:32-04:00",
+ "generated_at": "2026-11-18T06:02:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-18 05:57:12"
+  "title": "Pair A - It Was Time + Built To Love",
+  "started": "2026-11-18 06:02:11"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-18 05:57:12"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-18 05:53:23"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-18 05:36:54"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-18 05:32:52"
   }
  ]
 }
