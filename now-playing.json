@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T14:34:27-04:00",
+ "generated_at": "2026-11-18T14:37:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-18 14:33:27"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-18 14:36:02"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-18 14:33:27"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-18 14:28:40"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-18 14:15:31"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-18 14:11:34"
   }
  ]
 }
