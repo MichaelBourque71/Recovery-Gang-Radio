@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T08:39:56-04:00",
+ "generated_at": "2026-11-18T08:43:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-18 08:39:16"
+  "title": "Clown In A Crown",
+  "started": "2026-11-18 08:43:12"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-18 08:39:16"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-18 08:36:59"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-18 08:23:26"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-18 08:18:38"
   }
  ]
 }
