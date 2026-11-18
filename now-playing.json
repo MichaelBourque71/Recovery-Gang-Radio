@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T01:56:57-04:00",
+ "generated_at": "2026-11-18T02:00:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-18 01:56:55"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-18 02:00:01"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-18 01:56:55"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-18 01:51:33"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-18 01:37:23"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-18 01:33:19"
   }
  ]
 }
