@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T03:57:46-04:00",
+ "generated_at": "2026-11-18T04:01:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-18 03:57:41"
+  "title": "One More Night",
+  "started": "2026-11-18 04:01:03"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-18 03:57:41"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-18 03:51:29"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-18 03:39:01"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-18 03:35:51"
   }
  ]
 }
