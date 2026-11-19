@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T14:14:10-04:00",
+ "generated_at": "2026-11-19T14:19:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-19 14:14:09"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-19 14:19:22"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-19 14:14:09"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-19 14:10:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-19 13:57:45"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-19 13:53:46"
   }
  ]
 }
