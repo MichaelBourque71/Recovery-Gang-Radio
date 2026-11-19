@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:31:41-04:00",
+ "generated_at": "2026-11-19T04:37:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-19 04:31:36"
+  "title": "Mystical Journey",
+  "started": "2026-11-19 04:37:23"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-19 04:31:36"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-19 04:29:01"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-19 04:16:39"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-19 04:13:18"
   }
  ]
 }
