@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:31:18-04:00",
+ "generated_at": "2026-11-19T19:36:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-19 19:31:17"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-19 19:36:13"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-19 19:31:17"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-19 19:28:29"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-19 19:13:55"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-19 19:10:06"
   }
  ]
 }
