@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:53:02-04:00",
+ "generated_at": "2026-11-19T04:56:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-19 04:53:01"
+  "title": "Living For Peace",
+  "started": "2026-11-19 04:56:01"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-19 04:53:01"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-19 04:50:21"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-19 04:37:23"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-19 04:31:36"
   }
  ]
 }
