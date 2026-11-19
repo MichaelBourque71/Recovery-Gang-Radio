@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T15:51:46-04:00",
+ "generated_at": "2026-11-19T15:55:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-19 15:51:44"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-19 15:55:48"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-19 15:51:44"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-19 15:48:54"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-19 15:36:21"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-19 15:29:34"
   }
  ]
 }
