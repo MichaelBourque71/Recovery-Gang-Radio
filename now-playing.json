@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T07:45:31-04:00",
+ "generated_at": "2026-11-19T07:49:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-19 07:45:28"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-19 07:49:00"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-19 07:45:28"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-19 07:41:14"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-19 07:28:22"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-19 07:25:42"
   }
  ]
 }
