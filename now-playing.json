@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:08:53-04:00",
+ "generated_at": "2026-11-19T12:13:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-19 12:08:52"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-19 12:13:20"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-19 12:08:52"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-19 12:04:20"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-19 11:50:52"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-19 11:47:37"
   }
  ]
 }
