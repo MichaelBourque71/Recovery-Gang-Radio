@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T14:39:07-04:00",
+ "generated_at": "2026-11-19T14:42:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-19 14:39:03"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-19 14:42:29"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-19 14:39:03"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-19 14:36:02"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-19 14:23:12"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-19 14:19:22"
   }
  ]
 }
