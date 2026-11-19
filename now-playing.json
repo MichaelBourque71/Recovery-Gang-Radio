@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T20:47:21-04:00",
+ "generated_at": "2026-11-18T20:49:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-18 20:47:19"
+  "title": "Money & Fame",
+  "started": "2026-11-18 20:49:34"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-18 20:47:19"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-18 20:42:21"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-18 20:31:26"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-18 20:25:59"
   }
  ]
 }
