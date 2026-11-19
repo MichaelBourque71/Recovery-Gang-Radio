@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T09:40:24-04:00",
+ "generated_at": "2026-11-19T09:44:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-19 09:40:22"
+  "title": "What They Want…",
+  "started": "2026-11-19 09:44:30"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-19 09:40:22"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-19 09:34:59"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-19 09:23:33"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-19 09:20:52"
   }
  ]
 }
