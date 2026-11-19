@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T14:54:54-04:00",
+ "generated_at": "2026-11-19T14:57:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-19 14:54:53"
+  "title": "Not Enough Hours",
+  "started": "2026-11-19 14:57:59"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-19 14:54:53"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-19 14:51:24"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-19 14:39:03"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-19 14:36:02"
   }
  ]
 }
