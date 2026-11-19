@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:30:59-04:00",
+ "generated_at": "2026-11-18T22:35:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-18 22:30:57"
+  "title": "Gaslight Halo",
+  "started": "2026-11-18 22:35:26"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-18 22:30:57"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-18 22:26:30"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-18 22:12:59"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-18 22:10:39"
   }
  ]
 }
