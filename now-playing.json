@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T06:45:04-04:00",
+ "generated_at": "2026-11-19T06:47:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-19 06:45:02"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-19 06:47:56"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-19 06:45:02"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-19 06:39:35"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-19 06:28:41"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-19 06:24:06"
   }
  ]
 }
