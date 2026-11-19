@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T21:50:19-04:00",
+ "generated_at": "2026-11-18T21:53:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-18 21:50:14"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-18 21:53:03"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-18 21:50:14"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-18 21:46:17"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-18 21:34:08"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-18 21:30:10"
   }
  ]
 }
