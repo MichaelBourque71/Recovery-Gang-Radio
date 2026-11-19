@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T16:45:26-04:00",
+ "generated_at": "2026-11-19T16:48:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-19 16:45:23"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-19 16:48:28"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-19 16:45:23"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-19 16:41:49"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-19 16:26:56"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-19 16:24:43"
   }
  ]
 }
