@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T06:11:25-04:00",
+ "generated_at": "2026-11-19T06:15:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-19 06:11:21"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-19 06:15:08"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-19 06:11:21"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-19 06:07:27"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-19 05:52:51"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-19 05:49:45"
   }
  ]
 }
