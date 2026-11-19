@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T17:01:35-04:00",
+ "generated_at": "2026-11-19T17:06:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-19 17:01:34"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-19 17:06:41"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-19 17:01:34"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-19 16:58:24"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-19 16:45:23"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-19 16:41:49"
   }
  ]
 }
