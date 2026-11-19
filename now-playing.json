@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T23:58:09-04:00",
+ "generated_at": "2026-11-19T00:03:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-18 23:58:08"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-19 00:03:09"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-18 23:58:08"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-18 23:53:30"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-18 23:43:27"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-18 23:39:23"
   }
  ]
 }
