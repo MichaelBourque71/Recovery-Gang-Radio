@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:59:43-04:00",
+ "generated_at": "2026-11-19T04:04:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-19 03:59:41"
+  "title": "You",
+  "started": "2026-11-19 04:04:07"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-19 03:59:41"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-19 03:54:40"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-19 03:44:32"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-19 03:39:50"
   }
  ]
 }
