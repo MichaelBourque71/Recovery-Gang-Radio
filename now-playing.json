@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T16:27:00-04:00",
+ "generated_at": "2026-11-19T16:31:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-19 16:26:56"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-19 16:31:38"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-19 16:26:56"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-19 16:24:43"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-19 16:13:45"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-19 16:10:12"
   }
  ]
 }
