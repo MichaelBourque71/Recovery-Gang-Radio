@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T08:16:15-04:00",
+ "generated_at": "2026-11-19T08:22:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-19 08:16:12"
+  "title": "Take Our Country Back",
+  "started": "2026-11-19 08:22:03"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-19 08:16:12"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-19 08:12:49"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-19 07:58:32"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-19 07:54:02"
   }
  ]
 }
