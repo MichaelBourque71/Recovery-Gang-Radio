@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T23:12:42-04:00",
+ "generated_at": "2026-11-18T23:16:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-18 23:12:39"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-18 23:16:49"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-18 23:12:39"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-18 23:09:07"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-18 22:55:09"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-18 22:50:11"
   }
  ]
 }
