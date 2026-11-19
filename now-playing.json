@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:39:21-04:00",
+ "generated_at": "2026-11-19T12:42:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-19 12:39:18"
+  "title": "Built To Love",
+  "started": "2026-11-19 12:42:38"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-19 12:39:18"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-19 12:34:52"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-19 12:23:02"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-19 12:17:18"
   }
  ]
 }
