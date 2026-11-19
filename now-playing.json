@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:56:24-04:00",
+ "generated_at": "2026-11-19T13:00:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-19 12:56:19"
+  "title": "I Have Something to Say",
+  "started": "2026-11-19 13:00:22"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-19 12:56:19"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-19 12:53:15"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-19 12:39:18"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-19 12:34:52"
   }
  ]
 }
