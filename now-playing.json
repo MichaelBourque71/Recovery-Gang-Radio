@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T15:29:39-04:00",
+ "generated_at": "2026-11-19T15:36:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-19 15:29:34"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-19 15:36:21"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-19 15:29:34"
+  },
   {
    "title": "Yes",
    "started": "2026-11-19 15:26:06"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-19 15:11:40"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-19 15:07:16"
   }
  ]
 }
