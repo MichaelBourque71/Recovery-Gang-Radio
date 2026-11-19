@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T11:09:06-04:00",
+ "generated_at": "2026-11-19T11:12:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-19 11:09:01"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-19 11:12:36"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-19 11:09:01"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-19 11:04:14"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-19 10:51:08"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-19 10:47:00"
   }
  ]
 }
