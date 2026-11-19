@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T00:59:15-04:00",
+ "generated_at": "2026-11-19T01:03:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-19 00:59:14"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-19 01:03:17"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-19 00:59:14"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-19 00:55:47"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-19 00:43:06"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-19 00:38:44"
   }
  ]
 }
