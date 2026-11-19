@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T20:56:23-04:00",
+ "generated_at": "2026-11-18T20:59:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-18 20:56:22"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-18 20:59:57"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-18 20:56:22"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-18 20:49:34"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-18 20:38:33"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-18 20:34:31"
   }
  ]
 }
