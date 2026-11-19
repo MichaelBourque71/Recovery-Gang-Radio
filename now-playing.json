@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T08:42:13-04:00",
+ "generated_at": "2026-11-19T08:46:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-19 08:42:11"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-19 08:46:47"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-19 08:42:11"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-19 08:37:38"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-19 08:22:03"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-19 08:16:12"
   }
  ]
 }
