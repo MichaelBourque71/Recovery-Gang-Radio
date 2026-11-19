@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T01:47:34-04:00",
+ "generated_at": "2026-11-19T01:52:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-19 01:47:32"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-19 01:52:22"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-19 01:47:32"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-19 01:43:33"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-19 01:32:36"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-19 01:27:04"
   }
  ]
 }
