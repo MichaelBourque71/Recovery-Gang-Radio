@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:25:17-04:00",
+ "generated_at": "2026-11-19T19:28:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-19 19:25:14"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-19 19:28:29"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-19 19:25:14"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-19 19:19:00"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-19 19:05:13"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-19 19:02:01"
   }
  ]
 }
