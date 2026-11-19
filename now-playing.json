@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T07:32:46-04:00",
+ "generated_at": "2026-11-19T07:36:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-19 07:32:41"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-19 07:36:16"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-19 07:32:41"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-19 07:28:22"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-19 07:17:59"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-19 07:12:13"
   }
  ]
 }
