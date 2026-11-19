@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:04:08-04:00",
+ "generated_at": "2026-11-19T04:07:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-19 04:04:07"
+  "title": "What They Want…",
+  "started": "2026-11-19 04:07:51"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-19 04:04:07"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-19 03:59:41"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-19 03:46:19"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-19 03:44:32"
   }
  ]
 }
