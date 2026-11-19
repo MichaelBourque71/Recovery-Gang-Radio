@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:50:12-04:00",
+ "generated_at": "2026-11-18T22:55:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-18 22:50:11"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-18 22:55:09"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-18 22:50:11"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-18 22:46:43"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-18 22:35:26"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-18 22:30:57"
   }
  ]
 }
