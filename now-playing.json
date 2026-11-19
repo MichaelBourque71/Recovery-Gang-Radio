@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:05:15-04:00",
+ "generated_at": "2026-11-19T19:10:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-19 19:05:13"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-19 19:10:06"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-19 19:05:13"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-19 19:02:01"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-19 18:47:44"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-19 18:44:34"
   }
  ]
 }
