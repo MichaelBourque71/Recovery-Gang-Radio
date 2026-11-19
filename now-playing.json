@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T06:00:18-04:00",
+ "generated_at": "2026-11-19T06:07:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Pair B - Living For Peace + You",
-  "started": "2026-11-19 06:00:15"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-19 06:07:27"
  },
  "previous": [
+  {
+   "title": "Pair B - Living For Peace + You",
+   "started": "2026-11-19 06:00:15"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-19 05:57:34"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-19 05:44:49"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-19 05:39:46"
   }
  ]
 }
