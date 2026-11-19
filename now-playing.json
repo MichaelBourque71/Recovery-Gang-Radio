@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T01:27:05-04:00",
+ "generated_at": "2026-11-19T01:32:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Have Something to Say",
-  "started": "2026-11-19 01:27:04"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-19 01:32:36"
  },
  "previous": [
+  {
+   "title": "I Have Something to Say",
+   "started": "2026-11-19 01:27:04"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-19 01:23:44"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-19 01:10:38"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-19 01:05:49"
   }
  ]
 }
