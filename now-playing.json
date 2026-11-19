@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T21:56:32-04:00",
+ "generated_at": "2026-11-18T22:02:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-18 21:56:29"
+  "title": "Weaponized Children",
+  "started": "2026-11-18 22:02:51"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-18 21:56:29"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-18 21:53:03"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-18 21:41:26"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-18 21:36:53"
   }
  ]
 }
