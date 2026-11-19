@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:51:46-04:00",
+ "generated_at": "2026-11-19T18:57:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-19 18:51:42"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-19 18:57:03"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-19 18:51:42"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-19 18:47:44"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-19 18:36:43"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-19 18:32:35"
   }
  ]
 }
