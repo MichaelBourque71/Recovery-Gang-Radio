@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T16:10:16-04:00",
+ "generated_at": "2026-11-19T16:13:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-19 16:10:12"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-19 16:13:45"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-19 16:10:12"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-19 16:05:54"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-19 15:51:44"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-19 15:48:54"
   }
  ]
 }
