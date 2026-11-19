@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:44:36-04:00",
+ "generated_at": "2026-11-19T03:46:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-19 03:44:32"
+  "title": "Unstoppable Force",
+  "started": "2026-11-19 03:46:19"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-19 03:44:32"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-19 03:39:50"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-19 03:31:06"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-19 03:27:07"
   }
  ]
 }
