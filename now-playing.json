@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T13:31:57-04:00",
+ "generated_at": "2026-11-19T13:37:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-19 13:31:53"
+  "title": "Feel Alright",
+  "started": "2026-11-19 13:37:10"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-19 13:31:53"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-19 13:27:23"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-19 13:13:49"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-19 13:11:06"
   }
  ]
 }
