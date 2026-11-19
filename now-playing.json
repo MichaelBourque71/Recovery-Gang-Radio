@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:21:43-04:00",
+ "generated_at": "2026-11-18T22:26:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-18 22:21:40"
+  "title": "Killdozer Army",
+  "started": "2026-11-18 22:26:30"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-18 22:21:40"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-18 22:17:42"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-18 22:06:03"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-18 22:02:51"
   }
  ]
 }
