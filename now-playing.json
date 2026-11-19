@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T15:48:59-04:00",
+ "generated_at": "2026-11-19T15:51:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-19 15:48:54"
+  "title": "Killdozer Army",
+  "started": "2026-11-19 15:51:44"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-19 15:48:54"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-19 15:44:10"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-19 15:29:34"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-19 15:26:06"
   }
  ]
 }
