@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T01:23:47-04:00",
+ "generated_at": "2026-11-19T01:27:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-19 01:23:44"
+  "title": "I Have Something to Say",
+  "started": "2026-11-19 01:27:04"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-19 01:23:44"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-19 01:17:35"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-19 01:05:49"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-19 01:03:17"
   }
  ]
 }
