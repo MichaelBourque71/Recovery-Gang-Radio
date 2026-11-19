@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:10:06-04:00",
+ "generated_at": "2026-11-19T19:13:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-19 19:10:06"
+  "title": "Breath Of Policy",
+  "started": "2026-11-19 19:13:55"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-19 19:10:06"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-19 19:05:13"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-19 18:51:42"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-19 18:47:44"
   }
  ]
 }
