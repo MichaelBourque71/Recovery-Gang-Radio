@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T05:32:14-04:00",
+ "generated_at": "2026-11-19T05:36:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-19 05:32:10"
+  "title": "Weaponized Children",
+  "started": "2026-11-19 05:36:33"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-19 05:32:10"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-19 05:28:02"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-19 05:11:47"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-19 05:06:30"
   }
  ]
 }
