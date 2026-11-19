@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:54:41-04:00",
+ "generated_at": "2026-11-19T03:59:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-19 03:54:40"
+  "title": "Greedy Bitch",
+  "started": "2026-11-19 03:59:41"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-19 03:54:40"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-19 03:49:45"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-19 03:39:50"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-19 03:37:06"
   }
  ]
 }
