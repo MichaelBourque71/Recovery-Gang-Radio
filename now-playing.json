@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T09:09:30-04:00",
+ "generated_at": "2026-11-19T09:13:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-19 09:09:29"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-19 09:13:27"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-19 09:09:29"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-19 09:05:25"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-19 08:54:02"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-19 08:50:04"
   }
  ]
 }
