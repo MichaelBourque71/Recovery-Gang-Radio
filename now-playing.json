@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T08:37:42-04:00",
+ "generated_at": "2026-11-19T08:42:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-19 08:37:38"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-19 08:42:11"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-19 08:37:38"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-19 08:32:41"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-19 08:16:12"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-19 08:12:49"
   }
  ]
 }
