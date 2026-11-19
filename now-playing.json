@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:57:04-04:00",
+ "generated_at": "2026-11-19T19:02:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-19 18:57:03"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-19 19:02:01"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-19 18:57:03"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-19 18:51:42"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-19 18:41:01"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-19 18:36:43"
   }
  ]
 }
