@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-19T15:55:52-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-19 15:55:48"
- },
+ "generated_at": "2026-11-19T15:59:56-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Killdozer Army",
