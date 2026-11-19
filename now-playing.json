@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T21:34:13-04:00",
+ "generated_at": "2026-11-18T21:36:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-  "started": "2026-11-18 21:34:08"
+  "title": "There Was A Time",
+  "started": "2026-11-18 21:36:53"
  },
  "previous": [
+  {
+   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
+   "started": "2026-11-18 21:34:08"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-18 21:30:10"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-18 21:17:40"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-18 21:14:13"
   }
  ]
 }
