@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T21:41:30-04:00",
+ "generated_at": "2026-11-18T21:46:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-18 21:41:26"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-18 21:46:17"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-18 21:41:26"
+  },
   {
    "title": "There Was A Time",
    "started": "2026-11-18 21:36:53"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-18 21:25:38"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-18 21:22:11"
   }
  ]
 }
