@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T23:22:50-04:00",
+ "generated_at": "2026-11-18T23:25:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-18 23:22:48"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-18 23:25:34"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-18 23:22:48"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-18 23:16:49"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-18 23:03:33"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-18 23:00:41"
   }
  ]
 }
