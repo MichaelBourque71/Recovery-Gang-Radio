@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T00:14:45-04:00",
+ "generated_at": "2026-11-19T00:18:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-19 00:14:42"
+  "title": "Keyboard Courage",
+  "started": "2026-11-19 00:18:07"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-19 00:14:42"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-19 00:10:06"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-18 23:58:08"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-18 23:53:30"
   }
  ]
 }
