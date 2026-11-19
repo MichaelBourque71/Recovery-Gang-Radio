@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T20:49:35-04:00",
+ "generated_at": "2026-11-18T20:56:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-18 20:49:34"
+  "title": "One More Night",
+  "started": "2026-11-18 20:56:22"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-18 20:49:34"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-18 20:47:19"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-18 20:34:31"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-18 20:31:26"
   }
  ]
 }
