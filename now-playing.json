@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T13:06:11-04:00",
+ "generated_at": "2026-11-19T13:11:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-19 13:06:10"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-19 13:11:06"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-19 13:06:10"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-19 13:00:22"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-19 12:48:43"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-19 12:42:38"
   }
  ]
 }
