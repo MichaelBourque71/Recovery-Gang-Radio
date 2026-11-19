@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:16:00-04:00",
+ "generated_at": "2026-11-19T18:19:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-19 18:15:56"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-19 18:19:02"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-19 18:15:56"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-19 18:12:12"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-19 18:00:18"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-19 17:55:24"
   }
  ]
 }
