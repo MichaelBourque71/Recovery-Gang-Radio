@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T14:10:47-04:00",
+ "generated_at": "2026-11-19T14:14:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-19 14:10:46"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-19 14:14:09"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-19 14:10:46"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-19 14:05:58"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-19 13:53:46"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-19 13:50:27"
   }
  ]
 }
