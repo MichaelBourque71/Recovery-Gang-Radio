@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:07:35-04:00",
+ "generated_at": "2026-11-19T18:12:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-19 18:07:33"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-19 18:12:12"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-19 18:07:33"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-19 18:03:15"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-19 17:52:11"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-19 17:47:53"
   }
  ]
 }
