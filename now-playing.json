@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T06:15:12-04:00",
+ "generated_at": "2026-11-19T06:17:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-19 06:15:08"
+  "title": "Mystical Journey",
+  "started": "2026-11-19 06:17:42"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-19 06:15:08"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-19 06:11:21"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-19 05:57:34"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-19 05:52:51"
   }
  ]
 }
