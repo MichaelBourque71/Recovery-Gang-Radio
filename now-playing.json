@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-19T05:06:32-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-19 05:06:30"
- },
+ "generated_at": "2026-11-19T05:11:47-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-19 05:06:30"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-19 05:03:25"
@@ -21,10 +22,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-19 04:53:01"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-19 04:50:21"
   }
  ]
 }
