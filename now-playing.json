@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:17:43-04:00",
+ "generated_at": "2026-11-18T22:21:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-18 22:17:42"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-18 22:21:40"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-18 22:17:42"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-18 22:12:59"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-18 22:02:51"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-18 21:56:29"
   }
  ]
 }
