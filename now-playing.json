@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T16:24:47-04:00",
+ "generated_at": "2026-11-19T16:27:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-19 16:24:43"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-19 16:26:56"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-19 16:24:43"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-19 16:20:32"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-19 16:10:12"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-19 16:05:54"
   }
  ]
 }
