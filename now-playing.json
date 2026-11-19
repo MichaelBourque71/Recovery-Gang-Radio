@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:49:50-04:00",
+ "generated_at": "2026-11-19T03:54:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-19 03:49:45"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-19 03:54:40"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-19 03:49:45"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-19 03:46:19"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-19 03:37:06"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-19 03:33:57"
   }
  ]
 }
