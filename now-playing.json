@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T05:49:48-04:00",
+ "generated_at": "2026-11-19T05:52:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-19 05:49:45"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-19 05:52:51"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-19 05:49:45"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-19 05:44:49"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-19 05:32:10"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-19 05:28:02"
   }
  ]
 }
