@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-19T09:32:43-04:00",
+ "generated_at": "2026-11-19T09:40:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-19 09:32:39"
+  "title": "GUMMERS",
+  "started": "2026-11-19 09:40:22"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-19 09:34:59"
+  },
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-19 09:32:39"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-19 09:27:17"
@@ -17,14 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-19 09:20:52"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-19 09:16:39"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-19 09:13:27"
   }
  ]
 }
