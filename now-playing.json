@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T17:36:42-04:00",
+ "generated_at": "2026-11-19T17:40:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-19 17:36:41"
+  "title": "There's Still Hope",
+  "started": "2026-11-19 17:40:54"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-19 17:36:41"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-19 17:32:25"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-19 17:20:30"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-19 17:17:09"
   }
  ]
 }
