@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T17:14:21-04:00",
+ "generated_at": "2026-11-19T17:17:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-19 17:14:19"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-19 17:17:09"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-19 17:14:19"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-19 17:10:17"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-19 16:58:24"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-19 16:53:27"
   }
  ]
 }
