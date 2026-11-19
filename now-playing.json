@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:34:00-04:00",
+ "generated_at": "2026-11-19T03:37:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-19 03:33:57"
+  "title": "Acid Freak",
+  "started": "2026-11-19 03:37:06"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-19 03:33:57"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-19 03:31:06"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-19 03:19:07"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-19 03:15:14"
   }
  ]
 }
