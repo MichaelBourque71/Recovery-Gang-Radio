@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T23:03:35-04:00",
+ "generated_at": "2026-11-18T23:09:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-18 23:03:33"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-18 23:09:07"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-18 23:03:33"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-18 23:00:41"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-18 22:46:43"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-18 22:43:34"
   }
  ]
 }
