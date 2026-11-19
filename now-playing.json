@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:37:24-04:00",
+ "generated_at": "2026-11-19T04:43:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-19 04:37:23"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-19 04:43:10"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-19 04:37:23"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-19 04:31:36"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-19 04:22:05"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-19 04:16:39"
   }
  ]
 }
