@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T02:37:37-04:00",
+ "generated_at": "2026-11-19T02:40:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-19 02:37:32"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-19 02:40:56"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-19 02:37:32"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-19 02:35:30"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-19 02:21:29"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-19 02:18:29"
   }
  ]
 }
