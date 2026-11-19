@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T11:50:52-04:00",
+ "generated_at": "2026-11-19T11:55:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-19 11:50:52"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-19 11:55:36"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-19 11:50:52"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-19 11:47:37"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-19 11:35:30"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-19 11:28:33"
   }
  ]
 }
