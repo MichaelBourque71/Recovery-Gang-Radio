@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:28:45-04:00",
+ "generated_at": "2026-11-19T18:32:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-19 18:28:45"
+  "title": "Delaware Sniff",
+  "started": "2026-11-19 18:32:35"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-19 18:28:45"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-19 18:24:12"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-19 18:12:12"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-19 18:07:33"
   }
  ]
 }
