@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T23:53:34-04:00",
+ "generated_at": "2026-11-18T23:58:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-18 23:53:30"
+  "title": "Roadside Puddles",
+  "started": "2026-11-18 23:58:08"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-18 23:53:30"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-18 23:51:30"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-18 23:39:23"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-18 23:34:55"
   }
  ]
 }
