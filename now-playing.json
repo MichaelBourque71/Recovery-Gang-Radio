@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:53:20-04:00",
+ "generated_at": "2026-11-19T12:56:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-19 12:53:15"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-19 12:56:19"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-19 12:53:15"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-19 12:48:43"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-19 12:34:52"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-19 12:30:42"
   }
  ]
 }
