@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T07:49:05-04:00",
+ "generated_at": "2026-11-19T07:54:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-19 07:49:00"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-19 07:54:02"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-19 07:49:00"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-19 07:45:28"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-19 07:32:41"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-19 07:28:22"
   }
  ]
 }
