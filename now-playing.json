@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:55:09-04:00",
+ "generated_at": "2026-11-18T23:00:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-18 22:55:09"
+  "title": "Running With Scissors",
+  "started": "2026-11-18 23:00:41"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-18 22:55:09"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-18 22:50:11"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-18 22:39:31"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-18 22:35:26"
   }
  ]
 }
