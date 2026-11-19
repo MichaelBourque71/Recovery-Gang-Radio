@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T11:04:15-04:00",
+ "generated_at": "2026-11-19T11:09:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-19 11:04:14"
+  "title": "Greatest Hits",
+  "started": "2026-11-19 11:09:01"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-19 11:04:14"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-19 10:58:53"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-19 10:47:00"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-19 10:45:56"
   }
  ]
 }
