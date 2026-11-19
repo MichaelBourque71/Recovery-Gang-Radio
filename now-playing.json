@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T18:32:39-04:00",
+ "generated_at": "2026-11-19T18:36:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-19 18:32:35"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-19 18:36:43"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-19 18:32:35"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-19 18:28:45"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-19 18:15:56"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-19 18:12:12"
   }
  ]
 }
