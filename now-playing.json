@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T03:19:10-04:00",
+ "generated_at": "2026-11-19T03:22:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-19 03:19:07"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-19 03:22:17"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-19 03:19:07"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-19 03:15:14"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-19 03:02:50"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-19 02:57:24"
   }
  ]
 }
