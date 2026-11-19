@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:07:53-04:00",
+ "generated_at": "2026-11-19T04:10:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-19 04:07:51"
+  "title": "Disobey Authority",
+  "started": "2026-11-19 04:10:19"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-19 04:07:51"
+  },
   {
    "title": "You",
    "started": "2026-11-19 04:04:07"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-19 03:49:45"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-19 03:46:19"
   }
  ]
 }
