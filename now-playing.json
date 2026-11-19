@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T15:15:42-04:00",
+ "generated_at": "2026-11-19T15:21:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-19 15:15:38"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-19 15:21:08"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-19 15:15:38"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-19 15:11:40"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-19 15:00:57"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-19 14:57:59"
   }
  ]
 }
