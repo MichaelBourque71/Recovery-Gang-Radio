@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T10:58:58-04:00",
+ "generated_at": "2026-11-19T11:04:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-19 10:58:53"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-19 11:04:14"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-19 10:58:53"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-19 10:55:34"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-19 10:45:56"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-19 10:41:59"
   }
  ]
 }
