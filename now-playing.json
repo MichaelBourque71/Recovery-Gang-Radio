@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-19T07:21:27-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-19 07:21:22"
- },
+ "generated_at": "2026-11-19T07:25:34-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Duck On The Dash",
