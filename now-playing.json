@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T01:32:38-04:00",
+ "generated_at": "2026-11-19T01:36:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-19 01:32:36"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-19 01:36:25"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-19 01:32:36"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-19 01:27:04"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-19 01:14:33"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-19 01:10:38"
   }
  ]
 }
