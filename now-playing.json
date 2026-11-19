@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T09:05:28-04:00",
+ "generated_at": "2026-11-19T09:09:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-19 09:05:25"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-19 09:09:29"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-19 09:05:25"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-19 09:01:36"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-19 08:50:04"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-19 08:46:47"
   }
  ]
 }
