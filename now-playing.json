@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:47:32-04:00",
+ "generated_at": "2026-11-19T19:52:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-19 19:47:32"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-19 19:52:04"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-19 19:47:32"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-19 19:43:39"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-19 19:31:17"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-19 19:28:29"
   }
  ]
 }
