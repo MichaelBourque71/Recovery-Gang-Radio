@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T08:58:02-04:00",
+ "generated_at": "2026-11-19T09:01:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-19 08:57:58"
+  "title": "Space Cadet",
+  "started": "2026-11-19 09:01:36"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-19 08:57:58"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-19 08:54:02"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-19 08:42:11"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-19 08:37:38"
   }
  ]
 }
