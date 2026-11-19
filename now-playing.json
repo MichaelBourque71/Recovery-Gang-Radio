@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T01:36:27-04:00",
+ "generated_at": "2026-11-19T01:40:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-19 01:36:25"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-19 01:40:23"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-19 01:36:25"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-19 01:32:36"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-19 01:17:35"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-19 01:14:33"
   }
  ]
 }
