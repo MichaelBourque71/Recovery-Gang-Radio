@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:02:04-04:00",
+ "generated_at": "2026-11-19T19:05:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-19 19:02:01"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-19 19:05:13"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-19 19:02:01"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-19 18:57:03"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-19 18:44:34"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-19 18:41:01"
   }
  ]
 }
