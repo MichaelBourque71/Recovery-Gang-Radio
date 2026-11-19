@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-19T07:25:34-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-19T07:25:43-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "The Woke Baby Sissy Dance 😂",
+  "started": "2026-11-19 07:25:42"
+ },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-19 07:21:22"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-19 07:17:59"
@@ -18,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-19 07:02:03"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-19 06:56:40"
   }
  ]
 }
