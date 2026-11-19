@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T14:32:31-04:00",
+ "generated_at": "2026-11-19T14:36:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-19 14:32:26"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-19 14:36:02"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-19 14:32:26"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-19 14:28:23"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-19 14:14:09"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-19 14:10:46"
   }
  ]
 }
