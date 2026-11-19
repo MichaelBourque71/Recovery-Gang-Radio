@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T07:41:16-04:00",
+ "generated_at": "2026-11-19T07:45:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-19 07:41:14"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-19 07:45:28"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-19 07:41:14"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-19 07:36:16"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-19 07:25:42"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-19 07:21:22"
   }
  ]
 }
