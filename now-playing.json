@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T10:46:01-04:00",
+ "generated_at": "2026-11-19T10:47:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-19 10:45:56"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-19 10:47:00"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-19 10:45:56"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-19 10:41:59"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-19 10:30:51"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-19 10:27:42"
   }
  ]
 }
