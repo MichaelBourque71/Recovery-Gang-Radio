@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T13:11:09-04:00",
+ "generated_at": "2026-11-19T13:13:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-19 13:11:06"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-19 13:13:49"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-19 13:11:06"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-19 13:06:10"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-19 12:53:15"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-19 12:48:43"
   }
  ]
 }
