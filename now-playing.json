@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T04:10:21-04:00",
+ "generated_at": "2026-11-19T04:13:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-19 04:10:19"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-19 04:13:18"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-19 04:10:19"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-19 04:07:51"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-19 03:54:40"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-19 03:49:45"
   }
  ]
 }
