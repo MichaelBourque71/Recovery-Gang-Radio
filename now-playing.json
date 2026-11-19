@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T17:17:13-04:00",
+ "generated_at": "2026-11-19T17:20:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-19 17:17:09"
+  "title": "Low-End Disorder",
+  "started": "2026-11-19 17:20:30"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-19 17:17:09"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-19 17:14:19"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-19 17:01:34"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-19 16:58:24"
   }
  ]
 }
