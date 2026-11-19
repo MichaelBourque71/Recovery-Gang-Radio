@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T02:40:58-04:00",
+ "generated_at": "2026-11-19T02:46:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-19 02:40:56"
+  "title": "There's Still Hope",
+  "started": "2026-11-19 02:46:32"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-19 02:40:56"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-19 02:37:32"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-19 02:26:46"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-19 02:21:29"
   }
  ]
 }
