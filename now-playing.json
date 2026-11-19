@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:39:49-04:00",
+ "generated_at": "2026-11-19T19:43:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-19 19:39:45"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-19 19:43:39"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-19 19:39:45"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-19 19:36:13"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-19 19:25:14"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-19 19:19:00"
   }
  ]
 }
