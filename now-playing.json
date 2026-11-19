@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T08:50:09-04:00",
+ "generated_at": "2026-11-19T08:54:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-19 08:50:04"
+  "title": "Taste Your Honey",
+  "started": "2026-11-19 08:54:02"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-19 08:50:04"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-19 08:46:47"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-19 08:32:41"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-19 08:28:19"
   }
  ]
 }
