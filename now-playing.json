@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T15:39:42-04:00",
+ "generated_at": "2026-11-19T15:44:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-19 15:39:41"
+  "title": "Man With the Backbone",
+  "started": "2026-11-19 15:44:10"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-19 15:39:41"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-19 15:36:21"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-19 15:21:08"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-19 15:15:38"
   }
  ]
 }
