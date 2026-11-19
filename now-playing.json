@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T13:50:30-04:00",
+ "generated_at": "2026-11-19T13:53:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-19 13:50:27"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-19 13:53:46"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-19 13:50:27"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-19 13:47:27"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-19 13:31:53"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-19 13:27:23"
   }
  ]
 }
