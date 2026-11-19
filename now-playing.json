@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:46:44-04:00",
+ "generated_at": "2026-11-18T22:50:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-18 22:46:43"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-18 22:50:11"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-18 22:46:43"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-18 22:43:34"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-18 22:30:57"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-18 22:26:30"
   }
  ]
 }
