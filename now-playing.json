@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:35:30-04:00",
+ "generated_at": "2026-11-18T22:39:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-18 22:35:26"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-18 22:39:31"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-18 22:35:26"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-18 22:30:57"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-18 22:17:42"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-18 22:12:59"
   }
  ]
 }
