@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T10:42:01-04:00",
+ "generated_at": "2026-11-19T10:46:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-19 10:41:59"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-19 10:45:56"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-19 10:41:59"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-19 10:38:46"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-19 10:27:42"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-19 10:24:23"
   }
  ]
 }
