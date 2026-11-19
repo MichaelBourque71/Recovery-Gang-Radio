@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T13:53:48-04:00",
+ "generated_at": "2026-11-19T13:57:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-19 13:53:46"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-19 13:57:45"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-19 13:53:46"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-19 13:50:27"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-19 13:37:10"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-19 13:31:53"
   }
  ]
 }
