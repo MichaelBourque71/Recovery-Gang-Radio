@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:30:44-04:00",
+ "generated_at": "2026-11-19T12:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-19 12:30:42"
+  "title": "Upgraded",
+  "started": "2026-11-19 12:34:52"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-19 12:30:42"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-19 12:28:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-19 12:13:20"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-19 12:08:52"
   }
  ]
 }
