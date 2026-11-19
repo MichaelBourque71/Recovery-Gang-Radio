@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:13:02-04:00",
+ "generated_at": "2026-11-18T22:17:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-18 22:12:59"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-18 22:17:42"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-18 22:12:59"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-18 22:10:39"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-18 21:56:29"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-18 21:53:03"
   }
  ]
 }
