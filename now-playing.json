@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T17:32:27-04:00",
+ "generated_at": "2026-11-19T17:36:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-19 17:32:25"
+  "title": "There Was A Time",
+  "started": "2026-11-19 17:36:41"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-19 17:32:25"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-19 17:27:09"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-19 17:17:09"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-19 17:14:19"
   }
  ]
 }
