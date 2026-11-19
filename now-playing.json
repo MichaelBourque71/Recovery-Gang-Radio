@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:02:51-04:00",
+ "generated_at": "2026-11-18T22:06:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-18 22:02:51"
+  "title": "Weed Coughs",
+  "started": "2026-11-18 22:06:03"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-18 22:02:51"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-18 21:56:29"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-18 21:46:17"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-18 21:41:26"
   }
  ]
 }
