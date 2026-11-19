@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-19T15:00:58-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-19T15:05:01-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-19 15:00:57"
+ },
  "previous": [
   {
    "title": "Not Enough Hours",
