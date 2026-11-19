@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-18T22:06:05-04:00",
+ "generated_at": "2026-11-18T22:10:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-18 22:06:03"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-18 22:10:39"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-18 22:06:03"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-18 22:02:51"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-18 21:50:14"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-18 21:46:17"
   }
  ]
 }
