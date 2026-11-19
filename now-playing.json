@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T10:04:51-04:00",
+ "generated_at": "2026-11-19T10:08:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-19 10:04:46"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-19 10:08:46"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-19 10:04:46"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-19 09:59:58"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-19 09:49:43"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-19 09:46:58"
   }
  ]
 }
