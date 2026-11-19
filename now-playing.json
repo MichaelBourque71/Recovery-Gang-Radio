@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T07:06:52-04:00",
+ "generated_at": "2026-11-19T07:12:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-19 07:06:50"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-19 07:12:13"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-19 07:06:50"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-19 07:02:03"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-19 06:47:56"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-19 06:45:02"
   }
  ]
 }
