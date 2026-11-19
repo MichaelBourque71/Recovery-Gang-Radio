@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T12:48:47-04:00",
+ "generated_at": "2026-11-19T12:53:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-19 12:48:43"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-19 12:53:15"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-19 12:48:43"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-19 12:42:38"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-19 12:30:42"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-19 12:28:27"
   }
  ]
 }
