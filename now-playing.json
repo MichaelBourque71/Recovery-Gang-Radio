@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T02:40:41-04:00",
+ "generated_at": "2026-11-20T02:46:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-20 02:40:36"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-20 02:46:05"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-20 02:40:36"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-20 02:36:11"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-20 02:25:13"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-20 02:20:04"
   }
  ]
 }
