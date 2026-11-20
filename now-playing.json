@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T22:11:19-04:00",
+ "generated_at": "2026-11-19T22:15:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-19 22:11:16"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-19 22:15:28"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-19 22:11:16"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-19 22:07:19"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-19 21:56:13"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-19 21:53:03"
   }
  ]
 }
