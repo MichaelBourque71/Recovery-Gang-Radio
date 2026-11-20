@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:33:26-04:00",
+ "generated_at": "2026-11-20T03:38:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-20 03:33:26"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-20 03:38:28"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-20 03:33:26"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-20 03:29:07"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-20 03:18:20"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-20 03:11:43"
   }
  ]
 }
