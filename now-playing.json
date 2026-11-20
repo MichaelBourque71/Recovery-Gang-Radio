@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:18:13-04:00",
+ "generated_at": "2026-11-20T14:21:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-20 14:18:12"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-20 14:21:02"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-20 14:18:12"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-20 14:12:39"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-20 13:58:32"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-20 13:55:02"
   }
  ]
 }
