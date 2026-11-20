@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:17:37-04:00",
+ "generated_at": "2026-11-20T12:21:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-20 12:17:34"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-20 12:21:29"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-20 12:17:34"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-20 12:13:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-20 12:00:33"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-20 11:55:07"
   }
  ]
 }
