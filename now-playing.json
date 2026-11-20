@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:22:28-04:00",
+ "generated_at": "2026-11-19T21:26:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-19 21:22:28"
+  "title": "Day And Night",
+  "started": "2026-11-19 21:26:35"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-19 21:22:28"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-19 21:18:29"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-19 21:03:49"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-19 21:00:51"
   }
  ]
 }
