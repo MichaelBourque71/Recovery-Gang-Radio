@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:36:32-04:00",
+ "generated_at": "2026-11-20T06:42:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-20 06:36:32"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-20 06:42:19"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-20 06:36:32"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-20 06:32:55"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-20 06:22:22"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-20 06:19:46"
   }
  ]
 }
