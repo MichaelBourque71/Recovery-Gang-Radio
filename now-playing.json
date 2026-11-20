@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:52:05-04:00",
+ "generated_at": "2026-11-20T17:56:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Straight Ahead Jed",
-  "started": "2026-11-20 17:52:01"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-20 17:56:22"
  },
  "previous": [
+  {
+   "title": "Straight Ahead Jed",
+   "started": "2026-11-20 17:52:01"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-20 17:47:50"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-20 17:34:41"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-20 17:29:50"
   }
  ]
 }
