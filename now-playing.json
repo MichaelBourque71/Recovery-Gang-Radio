@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:06:22-04:00",
+ "generated_at": "2026-11-20T16:08:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-20 16:06:21"
+  "title": "Yes",
+  "started": "2026-11-20 16:08:21"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-20 16:06:21"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-20 16:00:55"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-20 15:51:15"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-20 15:46:46"
   }
  ]
 }
