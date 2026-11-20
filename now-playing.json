@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:42:24-04:00",
+ "generated_at": "2026-11-20T06:45:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-20 06:42:19"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-20 06:45:25"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-20 06:42:19"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-20 06:36:32"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-20 06:26:45"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-20 06:22:22"
   }
  ]
 }
