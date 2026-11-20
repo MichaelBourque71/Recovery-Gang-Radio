@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:04:13-04:00",
+ "generated_at": "2026-11-20T17:08:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-20 17:04:11"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-20 17:08:45"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-20 17:04:11"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-20 16:59:10"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-20 16:48:09"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-20 16:44:59"
   }
  ]
 }
