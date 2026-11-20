@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T07:12:42-04:00",
+ "generated_at": "2026-11-20T07:16:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-20 07:12:41"
+  "title": "One Brain Cell",
+  "started": "2026-11-20 07:16:09"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-20 07:12:41"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-20 07:07:49"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-20 06:56:34"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-20 06:52:29"
   }
  ]
 }
