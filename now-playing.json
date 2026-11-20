@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T23:51:30-04:00",
+ "generated_at": "2026-11-19T23:54:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-19 23:51:26"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-19 23:54:51"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-19 23:51:26"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-19 23:46:03"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-19 23:33:11"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-19 23:30:22"
   }
  ]
 }
