@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:07:32-04:00",
+ "generated_at": "2026-11-20T05:11:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-20 05:07:28"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-20 05:11:13"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-20 05:07:28"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-20 05:03:52"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-20 04:49:25"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-20 04:43:40"
   }
  ]
 }
