@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:50:00-04:00",
+ "generated_at": "2026-11-20T14:55:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-20 14:50:00"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-20 14:55:02"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-20 14:50:00"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-20 14:46:50"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-20 14:32:01"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-20 14:28:55"
   }
  ]
 }
