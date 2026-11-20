@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:59:30-04:00",
+ "generated_at": "2026-11-20T15:03:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-20 14:59:27"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-20 15:03:30"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-20 14:59:27"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-20 14:55:02"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-20 14:41:17"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-20 14:35:13"
   }
  ]
 }
