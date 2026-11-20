@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:00:42-04:00",
+ "generated_at": "2026-11-20T03:04:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-20 03:00:40"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-20 03:04:39"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-20 03:00:40"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-20 02:58:18"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-20 02:46:05"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-20 02:40:36"
   }
  ]
 }
