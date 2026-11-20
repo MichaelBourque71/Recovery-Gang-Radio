@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:42:12-04:00",
+ "generated_at": "2026-11-20T19:46:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-20 19:42:11"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-20 19:46:39"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-20 19:42:11"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-20 19:37:46"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-20 19:24:05"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-20 19:17:20"
   }
  ]
 }
