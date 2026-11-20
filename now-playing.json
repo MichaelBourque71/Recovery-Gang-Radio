@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:31:33-04:00",
+ "generated_at": "2026-11-20T16:34:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-20 16:31:28"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-20 16:34:45"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-20 16:31:28"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-20 16:27:24"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-20 16:16:34"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-20 16:11:51"
   }
  ]
 }
