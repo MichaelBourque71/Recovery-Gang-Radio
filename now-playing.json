@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T18:39:02-04:00",
+ "generated_at": "2026-11-20T18:42:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-20 18:39:02"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-20 18:42:08"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-20 18:39:02"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-20 18:34:54"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-20 18:24:40"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-20 18:20:20"
   }
  ]
 }
