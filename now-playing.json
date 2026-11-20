@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:53:56-04:00",
+ "generated_at": "2026-11-20T12:58:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-20 12:53:55"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-20 12:58:25"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-20 12:53:55"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-20 12:50:00"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-20 12:37:44"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-20 12:34:07"
   }
  ]
 }
