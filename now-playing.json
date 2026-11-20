@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T11:36:18-04:00",
+ "generated_at": "2026-11-20T11:38:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-20 11:36:15"
+  "title": "Killdozer Army",
+  "started": "2026-11-20 11:38:03"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-20 11:36:15"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-20 11:30:39"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-20 11:18:23"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-20 11:13:34"
   }
  ]
 }
