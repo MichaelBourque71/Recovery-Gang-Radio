@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:12:03-04:00",
+ "generated_at": "2026-11-20T15:18:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-20 15:12:01"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-20 15:18:46"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-20 15:12:01"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-20 15:06:30"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-20 14:55:02"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-20 14:50:00"
   }
  ]
 }
