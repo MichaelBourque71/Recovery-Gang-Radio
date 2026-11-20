@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:43:09-04:00",
+ "generated_at": "2026-11-20T15:46:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-20 15:43:06"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-20 15:46:46"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-20 15:43:06"
+  },
   {
    "title": "There's Still Hope",
    "started": "2026-11-20 15:36:31"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-20 15:24:25"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-20 15:21:06"
   }
  ]
 }
