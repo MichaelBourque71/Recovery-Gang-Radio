@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:51:34-04:00",
+ "generated_at": "2026-11-20T06:52:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-20 06:48:08"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-20 06:52:29"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-20 06:48:08"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-20 06:45:25"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-20 06:32:55"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-20 06:28:47"
   }
  ]
 }
