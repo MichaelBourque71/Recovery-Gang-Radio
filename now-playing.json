@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:35:39-04:00",
+ "generated_at": "2026-11-19T21:38:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-19 21:35:38"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-19 21:38:18"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-19 21:35:38"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-19 21:31:10"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-19 21:18:29"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-19 21:15:26"
   }
  ]
 }
