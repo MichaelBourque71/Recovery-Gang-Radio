@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:47:13-04:00",
+ "generated_at": "2026-11-20T13:50:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-20 13:47:12"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-20 13:50:51"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-20 13:47:12"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-20 13:44:23"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-20 13:33:40"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-20 13:30:59"
   }
  ]
 }
