@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T20:26:09-04:00",
+ "generated_at": "2026-11-19T20:29:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-19 20:26:04"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-19 20:29:29"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-19 20:26:04"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-19 20:20:58"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-19 20:09:42"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-19 20:04:00"
   }
  ]
 }
