@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:26:38-04:00",
+ "generated_at": "2026-11-19T21:31:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-19 21:26:35"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-19 21:31:10"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-19 21:26:35"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-19 21:22:28"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-19 21:08:48"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-19 21:03:49"
   }
  ]
 }
