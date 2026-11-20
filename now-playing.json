@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:29:11-04:00",
+ "generated_at": "2026-11-20T03:33:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-20 03:29:07"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-20 03:33:26"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-20 03:29:07"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-20 03:25:45"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-20 03:11:43"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-20 03:08:02"
   }
  ]
 }
