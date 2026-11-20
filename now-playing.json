@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:28:24-04:00",
+ "generated_at": "2026-11-20T12:34:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-20 12:28:24"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-20 12:34:07"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-20 12:28:24"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-20 12:24:04"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-20 12:13:38"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-20 12:10:29"
   }
  ]
 }
