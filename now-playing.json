@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T10:46:25-04:00",
+ "generated_at": "2026-11-20T10:50:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-20 10:46:25"
+  "title": "It Was Time",
+  "started": "2026-11-20 10:50:28"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-20 10:46:25"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-20 10:41:55"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-20 10:31:38"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-20 10:28:03"
   }
  ]
 }
