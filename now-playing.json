@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:58:26-04:00",
+ "generated_at": "2026-11-20T13:02:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-20 12:58:25"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-20 13:02:03"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-20 12:58:25"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-20 12:53:55"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-20 12:42:19"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-20 12:37:44"
   }
  ]
 }
