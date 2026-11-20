@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:50:01-04:00",
+ "generated_at": "2026-11-20T12:53:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-20 12:50:00"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-20 12:53:55"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-20 12:50:00"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-20 12:45:45"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-20 12:34:07"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-20 12:28:24"
   }
  ]
 }
