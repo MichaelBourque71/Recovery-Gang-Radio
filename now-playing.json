@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:59:13-04:00",
+ "generated_at": "2026-11-20T17:04:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-20 16:59:10"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-20 17:04:11"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-20 16:59:10"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-20 16:55:35"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-20 16:44:59"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-20 16:39:13"
   }
  ]
 }
