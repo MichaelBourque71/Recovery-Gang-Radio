@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T07:43:31-04:00",
+ "generated_at": "2026-11-20T07:47:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Neurotic Kitty",
-  "started": "2026-11-20 07:43:26"
+  "title": "Stand for Freedom",
+  "started": "2026-11-20 07:47:21"
  },
  "previous": [
+  {
+   "title": "Neurotic Kitty",
+   "started": "2026-11-20 07:43:26"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-20 07:38:28"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-20 07:24:44"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-20 07:19:38"
   }
  ]
 }
