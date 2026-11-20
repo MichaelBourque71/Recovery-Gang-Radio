@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:50:38-04:00",
+ "generated_at": "2026-11-20T05:54:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-20 05:50:36"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-20 05:54:19"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-20 05:50:36"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-20 05:47:37"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-20 05:33:49"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-20 05:28:25"
   }
  ]
 }
