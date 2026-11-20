@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T22:15:30-04:00",
+ "generated_at": "2026-11-19T22:20:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-19 22:15:28"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-19 22:20:26"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-19 22:15:28"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-19 22:11:16"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-19 22:00:02"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-19 21:56:13"
   }
  ]
 }
