@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:55:39-04:00",
+ "generated_at": "2026-11-20T16:59:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-20 16:55:35"
+  "title": "Heavy Denim",
+  "started": "2026-11-20 16:59:10"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-20 16:55:35"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-20 16:51:20"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-20 16:39:13"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-20 16:34:45"
   }
  ]
 }
