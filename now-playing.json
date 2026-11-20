@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T02:08:13-04:00",
+ "generated_at": "2026-11-20T02:11:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-20 02:08:11"
+  "title": "Freedom Wave",
+  "started": "2026-11-20 02:11:36"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-20 02:08:11"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-20 02:04:54"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-20 01:53:32"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-20 01:48:03"
   }
  ]
 }
