@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:08:23-04:00",
+ "generated_at": "2026-11-20T16:11:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-20 16:08:21"
+  "title": "GUMMERS",
+  "started": "2026-11-20 16:11:51"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-20 16:08:21"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-20 16:06:21"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-20 15:53:30"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-20 15:51:15"
   }
  ]
 }
