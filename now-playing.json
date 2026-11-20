@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:34:46-04:00",
+ "generated_at": "2026-11-20T16:39:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-20 16:34:45"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-20 16:39:13"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-20 16:34:45"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-20 16:31:28"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-20 16:21:22"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-20 16:16:34"
   }
  ]
 }
