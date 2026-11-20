@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T02:36:12-04:00",
+ "generated_at": "2026-11-20T02:40:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-20 02:36:11"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-20 02:40:36"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-20 02:36:11"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-20 02:32:08"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-20 02:20:04"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-20 02:14:46"
   }
  ]
 }
