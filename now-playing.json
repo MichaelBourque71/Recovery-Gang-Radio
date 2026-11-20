@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:34:43-04:00",
+ "generated_at": "2026-11-20T17:39:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-20 17:34:41"
+  "title": "It Was Time",
+  "started": "2026-11-20 17:39:11"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-20 17:34:41"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-20 17:29:50"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-20 17:16:51"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-20 17:12:18"
   }
  ]
 }
