@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T00:02:08-04:00",
+ "generated_at": "2026-11-20T00:05:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-20 00:02:06"
+  "title": "Doughnut Doug",
+  "started": "2026-11-20 00:05:33"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-20 00:02:06"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-19 23:58:39"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-19 23:46:03"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-19 23:40:37"
   }
  ]
 }
