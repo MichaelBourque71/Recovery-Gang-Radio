@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T09:51:22-04:00",
+ "generated_at": "2026-11-20T09:56:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-20 09:51:22"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-20 09:56:05"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-20 09:51:22"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-20 09:46:26"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-20 09:34:04"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-20 09:29:56"
   }
  ]
 }
