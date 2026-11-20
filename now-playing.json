@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:56:16-04:00",
+ "generated_at": "2026-11-19T22:00:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-19 21:56:13"
+  "title": "One More Night",
+  "started": "2026-11-19 22:00:02"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-19 21:56:13"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-19 21:53:03"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-19 21:43:54"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-19 21:38:18"
   }
  ]
 }
