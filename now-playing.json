@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:28:47-04:00",
+ "generated_at": "2026-11-20T06:32:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-20 06:28:47"
+  "title": "Feeling Froggy",
+  "started": "2026-11-20 06:32:55"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-20 06:28:47"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-20 06:26:45"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-20 06:16:11"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-20 06:11:31"
   }
  ]
 }
