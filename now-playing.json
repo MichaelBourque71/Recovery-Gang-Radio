@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T09:46:26-04:00",
+ "generated_at": "2026-11-20T09:51:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-20 09:46:26"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-20 09:51:22"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-20 09:46:26"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-20 09:42:49"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-20 09:29:56"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-20 09:24:45"
   }
  ]
 }
