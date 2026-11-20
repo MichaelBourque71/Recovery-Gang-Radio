@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T23:13:03-04:00",
+ "generated_at": "2026-11-19T23:17:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-19 23:13:00"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-19 23:17:17"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-19 23:13:00"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-19 23:09:12"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-19 23:00:07"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-19 22:56:08"
   }
  ]
 }
