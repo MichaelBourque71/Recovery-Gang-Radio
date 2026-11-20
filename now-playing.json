@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T07:24:46-04:00",
+ "generated_at": "2026-11-20T07:29:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-20 07:24:44"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-20 07:29:40"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-20 07:24:44"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-20 07:19:38"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-20 07:07:49"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-20 07:03:23"
   }
  ]
 }
