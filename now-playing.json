@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:29:00-04:00",
+ "generated_at": "2026-11-20T14:32:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-20 14:28:55"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-20 14:32:01"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-20 14:28:55"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-20 14:24:56"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-20 14:12:39"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-20 14:07:28"
   }
  ]
 }
