@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:29:50-04:00",
+ "generated_at": "2026-11-20T17:34:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-20 17:29:50"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-20 17:34:41"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-20 17:29:50"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-20 17:25:11"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-20 17:12:18"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-20 17:08:45"
   }
  ]
 }
