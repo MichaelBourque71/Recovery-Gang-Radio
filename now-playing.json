@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:35:15-04:00",
+ "generated_at": "2026-11-20T14:41:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-20 14:35:13"
+  "title": "My Harley Waits",
+  "started": "2026-11-20 14:41:17"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-20 14:35:13"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-20 14:32:01"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-20 14:21:02"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-20 14:18:12"
   }
  ]
 }
