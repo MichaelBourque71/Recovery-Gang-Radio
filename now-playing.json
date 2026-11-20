@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:25:46-04:00",
+ "generated_at": "2026-11-20T03:29:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-20 03:25:45"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-20 03:29:07"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-20 03:25:45"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-20 03:21:54"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-20 03:08:02"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-20 03:04:39"
   }
  ]
 }
