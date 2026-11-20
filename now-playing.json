@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:22:23-04:00",
+ "generated_at": "2026-11-20T06:26:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-20 06:22:22"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-20 06:26:45"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-20 06:22:22"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-20 06:19:46"
@@ -21,10 +25,6 @@
   {
    "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
    "started": "2026-11-20 06:03:17"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-20 05:59:20"
   }
  ]
 }
