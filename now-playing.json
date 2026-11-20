@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T00:38:21-04:00",
+ "generated_at": "2026-11-20T00:43:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-20 00:38:18"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-20 00:43:10"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-20 00:38:18"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-20 00:34:12"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-20 00:22:41"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-20 00:19:46"
   }
  ]
 }
