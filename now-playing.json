@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T11:03:52-04:00",
+ "generated_at": "2026-11-20T11:08:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-20 11:03:50"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-20 11:08:38"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-20 11:03:50"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-20 10:59:24"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-20 10:46:25"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-20 10:41:55"
   }
  ]
 }
