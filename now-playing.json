@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T18:00:46-04:00",
+ "generated_at": "2026-11-20T18:04:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-20 18:00:43"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-20 18:04:37"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-20 18:00:43"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-20 17:56:22"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-20 17:43:52"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-20 17:39:11"
   }
  ]
 }
