@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:54:29-04:00",
+ "generated_at": "2026-11-20T03:57:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-20 03:54:24"
+  "title": "Greedy Bitch",
+  "started": "2026-11-20 03:57:24"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-20 03:54:24"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-20 03:49:14"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-20 03:38:28"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-20 03:33:26"
   }
  ]
 }
