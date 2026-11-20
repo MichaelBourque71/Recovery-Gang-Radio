@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:32:02-04:00",
+ "generated_at": "2026-11-20T14:35:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-20 14:32:01"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-20 14:35:13"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-20 14:32:01"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-20 14:28:55"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-20 14:18:12"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-20 14:12:39"
   }
  ]
 }
