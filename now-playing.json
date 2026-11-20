@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T09:56:08-04:00",
+ "generated_at": "2026-11-20T10:00:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-20 09:56:05"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-20 10:00:27"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-20 09:56:05"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-20 09:51:22"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-20 09:39:28"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-20 09:34:04"
   }
  ]
 }
