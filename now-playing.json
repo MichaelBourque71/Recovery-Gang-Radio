@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:39:56-04:00",
+ "generated_at": "2026-11-20T05:45:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-20 05:39:52"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-20 05:45:05"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-20 05:39:52"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-20 05:33:49"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-20 05:22:29"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-20 05:18:12"
   }
  ]
 }
