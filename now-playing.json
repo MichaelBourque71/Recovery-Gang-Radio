@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T18:31:48-04:00",
+ "generated_at": "2026-11-20T18:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-20 18:31:43"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-20 18:34:54"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-20 18:31:43"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-20 18:27:54"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-20 18:16:04"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-20 18:12:00"
   }
  ]
 }
