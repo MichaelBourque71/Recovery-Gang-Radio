@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:22:33-04:00",
+ "generated_at": "2026-11-20T05:25:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-20 05:22:29"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-20 05:25:44"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-20 05:22:29"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-20 05:18:12"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-20 05:07:28"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-20 05:03:52"
   }
  ]
 }
