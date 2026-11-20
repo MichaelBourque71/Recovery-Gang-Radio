@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:37:51-04:00",
+ "generated_at": "2026-11-20T19:42:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-20 19:37:46"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-20 19:42:11"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-20 19:37:46"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-20 19:33:19"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-20 19:17:20"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-20 19:13:11"
   }
  ]
 }
