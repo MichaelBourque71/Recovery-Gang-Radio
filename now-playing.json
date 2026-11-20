@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:41:19-04:00",
+ "generated_at": "2026-11-20T14:46:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-20 14:41:17"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-20 14:46:50"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-20 14:41:17"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-20 14:35:13"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-20 14:24:56"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-20 14:21:02"
   }
  ]
 }
