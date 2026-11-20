@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:03:50-04:00",
+ "generated_at": "2026-11-19T21:08:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-19 21:03:49"
+  "title": "Nature Is Talking",
+  "started": "2026-11-19 21:08:48"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-19 21:03:49"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-19 21:00:51"
@@ -21,10 +25,6 @@
   {
    "title": "I'm Ready For This",
    "started": "2026-11-19 20:48:49"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-19 20:45:14"
   }
  ]
 }
