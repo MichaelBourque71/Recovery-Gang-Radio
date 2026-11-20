@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:02:29-04:00",
+ "generated_at": "2026-11-20T14:07:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-20 14:02:29"
+  "title": "Keyboard Courage",
+  "started": "2026-11-20 14:07:28"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-20 14:02:29"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-20 13:58:32"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-20 13:47:12"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-20 13:44:23"
   }
  ]
 }
