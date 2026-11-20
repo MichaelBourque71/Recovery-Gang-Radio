@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T09:42:52-04:00",
+ "generated_at": "2026-11-20T09:46:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-20 09:42:49"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-20 09:46:26"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-20 09:42:49"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-20 09:39:28"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-20 09:24:45"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-20 09:19:35"
   }
  ]
 }
