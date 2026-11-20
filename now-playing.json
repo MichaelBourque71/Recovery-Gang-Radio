@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:54:22-04:00",
+ "generated_at": "2026-11-20T05:59:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-20 05:54:19"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-20 05:59:20"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-20 05:54:19"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-20 05:50:36"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-20 05:39:52"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-20 05:33:49"
   }
  ]
 }
