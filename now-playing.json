@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:11:52-04:00",
+ "generated_at": "2026-11-20T16:16:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-20 16:11:51"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-20 16:16:34"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-20 16:11:51"
+  },
   {
    "title": "Yes",
    "started": "2026-11-20 16:08:21"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-20 15:57:13"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-20 15:53:30"
   }
  ]
 }
