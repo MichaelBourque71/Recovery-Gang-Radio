@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T00:31:22-04:00",
+ "generated_at": "2026-11-20T00:34:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-20 00:31:17"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-20 00:34:12"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-20 00:31:17"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-20 00:26:49"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-20 00:16:53"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-20 00:12:37"
   }
  ]
 }
