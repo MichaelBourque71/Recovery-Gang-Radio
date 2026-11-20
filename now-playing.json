@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T07:59:31-04:00",
+ "generated_at": "2026-11-20T08:03:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-20 07:59:28"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-20 08:03:03"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-20 07:59:28"
+  },
   {
    "title": "Some People",
    "started": "2026-11-20 07:55:40"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-20 07:43:26"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-20 07:38:28"
   }
  ]
 }
