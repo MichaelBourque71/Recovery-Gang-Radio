@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T02:32:10-04:00",
+ "generated_at": "2026-11-20T02:36:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-20 02:32:08"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-20 02:36:11"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-20 02:32:08"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-20 02:27:25"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-20 02:14:46"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-20 02:11:36"
   }
  ]
 }
