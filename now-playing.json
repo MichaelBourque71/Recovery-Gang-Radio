@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:28:56-04:00",
+ "generated_at": "2026-11-20T15:33:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-20 15:28:53"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-20 15:33:48"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-20 15:28:53"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-20 15:24:25"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-20 15:12:01"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-20 15:06:30"
   }
  ]
 }
