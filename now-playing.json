@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T04:58:27-04:00",
+ "generated_at": "2026-11-20T05:03:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-20 04:58:24"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-20 05:03:52"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-20 04:58:24"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-20 04:53:55"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-20 04:40:05"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-20 04:37:16"
   }
  ]
 }
