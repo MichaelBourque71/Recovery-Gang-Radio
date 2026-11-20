@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-20T06:45:28-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-20 06:45:25"
- },
+ "generated_at": "2026-11-20T06:48:08-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-20 06:45:25"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-20 06:42:19"
@@ -21,10 +22,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-20 06:28:47"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-20 06:26:45"
   }
  ]
 }
