@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:16:54-04:00",
+ "generated_at": "2026-11-20T17:20:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-20 17:16:51"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-20 17:20:29"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-20 17:16:51"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-20 17:12:18"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-20 16:59:10"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-20 16:55:35"
   }
  ]
 }
