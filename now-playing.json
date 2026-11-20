@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T19:56:33-04:00",
+ "generated_at": "2026-11-19T20:00:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-19 19:56:31"
+  "title": "Follow The Trail",
+  "started": "2026-11-19 20:00:49"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-19 19:56:31"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-19 19:52:04"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-19 19:39:45"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-19 19:36:13"
   }
  ]
 }
