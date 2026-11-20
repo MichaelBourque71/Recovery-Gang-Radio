@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T08:31:34-04:00",
+ "generated_at": "2026-11-20T08:34:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-20 08:31:29"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-20 08:34:50"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-20 08:31:29"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-20 08:27:53"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-20 08:14:13"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-20 08:08:23"
   }
  ]
 }
