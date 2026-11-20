@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T07:03:27-04:00",
+ "generated_at": "2026-11-20T07:07:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-20 07:03:23"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-20 07:07:49"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-20 07:03:23"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-20 07:00:01"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-20 06:48:08"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-20 06:45:25"
   }
  ]
 }
