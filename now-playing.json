@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:53:15-04:00",
+ "generated_at": "2026-11-20T19:57:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-20 19:53:14"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-20 19:57:24"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-20 19:53:14"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-20 19:50:28"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-20 19:37:46"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-20 19:33:19"
   }
  ]
 }
