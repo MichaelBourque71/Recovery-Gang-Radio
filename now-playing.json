@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T20:09:44-04:00",
+ "generated_at": "2026-11-19T20:14:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-19 20:09:42"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-19 20:14:31"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-19 20:09:42"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-19 20:04:00"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-19 19:52:04"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-19 19:47:32"
   }
  ]
 }
