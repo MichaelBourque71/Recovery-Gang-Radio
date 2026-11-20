@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T00:48:58-04:00",
+ "generated_at": "2026-11-20T00:52:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-20 00:48:58"
+  "title": "Here’s a Stack",
+  "started": "2026-11-20 00:52:09"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-20 00:48:58"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-20 00:45:11"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-20 00:34:12"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-20 00:31:17"
   }
  ]
 }
