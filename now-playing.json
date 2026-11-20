@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:46:43-04:00",
+ "generated_at": "2026-11-20T19:50:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-20 19:46:39"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-20 19:50:28"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-20 19:46:39"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-20 19:42:11"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-20 19:27:20"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-20 19:24:05"
   }
  ]
 }
