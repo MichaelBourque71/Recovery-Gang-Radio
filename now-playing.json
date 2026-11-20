@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:21:55-04:00",
+ "generated_at": "2026-11-20T03:25:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-20 03:21:54"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-20 03:25:45"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-20 03:21:54"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-20 03:18:20"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-20 03:04:39"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-20 03:00:40"
   }
  ]
 }
