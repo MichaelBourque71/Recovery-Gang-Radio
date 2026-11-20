@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:57:27-04:00",
+ "generated_at": "2026-11-20T04:02:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-20 03:57:24"
+  "title": "LGBTQ",
+  "started": "2026-11-20 04:02:16"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-20 03:57:24"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-20 03:54:24"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-20 03:42:46"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-20 03:38:28"
   }
  ]
 }
