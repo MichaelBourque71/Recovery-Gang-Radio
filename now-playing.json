@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:31:02-04:00",
+ "generated_at": "2026-11-20T13:33:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Woke Baby Sissy Dance 😂",
-  "started": "2026-11-20 13:30:59"
+  "title": "Low-End Disorder",
+  "started": "2026-11-20 13:33:40"
  },
  "previous": [
+  {
+   "title": "The Woke Baby Sissy Dance 😂",
+   "started": "2026-11-20 13:30:59"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-20 13:27:43"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-20 13:14:49"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-20 13:11:28"
   }
  ]
 }
