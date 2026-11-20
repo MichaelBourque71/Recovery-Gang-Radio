@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:09:01-04:00",
+ "generated_at": "2026-11-20T13:11:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-20 13:09:00"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-20 13:11:28"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-20 13:09:00"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-20 13:05:14"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-20 12:53:55"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-20 12:50:00"
   }
  ]
 }
