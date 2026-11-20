@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T03:04:43-04:00",
+ "generated_at": "2026-11-20T03:08:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-20 03:04:39"
+  "title": "Clown In A Crown",
+  "started": "2026-11-20 03:08:02"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-20 03:04:39"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-20 03:00:40"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-20 02:49:59"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-20 02:46:05"
   }
  ]
 }
