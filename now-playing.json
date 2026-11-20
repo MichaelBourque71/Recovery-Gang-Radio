@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:47:55-04:00",
+ "generated_at": "2026-11-20T17:52:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-20 17:47:50"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-20 17:52:01"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-20 17:47:50"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-20 17:43:52"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-20 17:29:50"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-20 17:25:11"
   }
  ]
 }
