@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T17:56:25-04:00",
+ "generated_at": "2026-11-20T18:00:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-20 17:56:22"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-20 18:00:43"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-20 17:56:22"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-20 17:52:01"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-20 17:39:11"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-20 17:34:41"
   }
  ]
 }
