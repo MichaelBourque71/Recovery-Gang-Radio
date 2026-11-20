@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T09:19:40-04:00",
+ "generated_at": "2026-11-20T09:24:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-20 09:19:35"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-20 09:24:45"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-20 09:19:35"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-20 09:15:27"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-20 09:02:16"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-20 08:58:43"
   }
  ]
 }
