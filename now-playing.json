@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T04:14:10-04:00",
+ "generated_at": "2026-11-20T04:19:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-20 04:14:07"
+  "title": "Upgraded",
+  "started": "2026-11-20 04:19:02"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-20 04:14:07"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-20 04:09:44"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-20 03:57:24"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-20 03:54:24"
   }
  ]
 }
