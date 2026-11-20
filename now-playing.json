@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T23:02:29-04:00",
+ "generated_at": "2026-11-19T23:05:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-19 23:02:27"
+  "title": "Monopoly Mark",
+  "started": "2026-11-19 23:05:51"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-19 23:02:27"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-19 23:00:07"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-19 22:47:23"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-19 22:43:25"
   }
  ]
 }
