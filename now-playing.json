@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T01:02:05-04:00",
+ "generated_at": "2026-11-20T01:06:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-20 01:02:03"
+  "title": "My Harley Waits",
+  "started": "2026-11-20 01:06:00"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-20 01:02:03"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-20 00:59:49"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-20 00:48:58"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-20 00:45:11"
   }
  ]
 }
