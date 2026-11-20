@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:55:06-04:00",
+ "generated_at": "2026-11-20T13:58:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-20 13:55:02"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-20 13:58:32"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-20 13:55:02"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-20 13:50:51"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-20 13:42:06"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-20 13:37:48"
   }
  ]
 }
