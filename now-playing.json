@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T08:48:42-04:00",
+ "generated_at": "2026-11-20T08:52:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-20 08:48:40"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-20 08:52:11"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-20 08:48:40"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-20 08:45:05"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-20 08:34:50"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-20 08:31:29"
   }
  ]
 }
