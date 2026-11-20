@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:17:24-04:00",
+ "generated_at": "2026-11-20T19:24:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-20 19:17:20"
+  "title": "Mailer Demon",
+  "started": "2026-11-20 19:24:05"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-20 19:17:20"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-20 19:13:11"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-20 19:02:58"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-20 18:59:29"
   }
  ]
 }
