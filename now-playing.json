@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T23:37:42-04:00",
+ "generated_at": "2026-11-19T23:40:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-19 23:37:38"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-19 23:40:37"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-19 23:37:38"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-19 23:33:11"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-19 23:23:16"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-19 23:17:17"
   }
  ]
 }
