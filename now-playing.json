@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:53:03-04:00",
+ "generated_at": "2026-11-19T21:56:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-19 21:53:03"
+  "title": "History Collects",
+  "started": "2026-11-19 21:56:13"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-19 21:53:03"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-19 21:49:58"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-19 21:38:18"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-19 21:35:38"
   }
  ]
 }
