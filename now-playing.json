@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-20T02:25:19-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-20 02:25:13"
- },
+ "generated_at": "2026-11-20T02:27:15-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Stop Killing Babies",
