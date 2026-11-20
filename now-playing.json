@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T11:26:23-04:00",
+ "generated_at": "2026-11-20T11:30:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-20 11:26:23"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-20 11:30:39"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-20 11:26:23"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-20 11:22:18"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-20 11:08:38"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-20 11:03:50"
   }
  ]
 }
