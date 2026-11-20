@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T05:59:24-04:00",
+ "generated_at": "2026-11-20T06:03:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-20 05:59:20"
+  "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
+  "started": "2026-11-20 06:03:17"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-20 05:59:20"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-20 05:54:19"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-20 05:45:05"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-20 05:39:52"
   }
  ]
 }
