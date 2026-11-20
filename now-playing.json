@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:00:36-04:00",
+ "generated_at": "2026-11-20T12:04:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-20 12:00:33"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-20 12:04:53"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-20 12:00:33"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-20 11:55:07"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-20 11:42:20"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-20 11:38:03"
   }
  ]
 }
