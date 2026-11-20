@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:51:18-04:00",
+ "generated_at": "2026-11-20T15:53:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-20 15:51:15"
+  "title": "One More Night",
+  "started": "2026-11-20 15:53:30"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-20 15:51:15"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-20 15:46:46"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-20 15:33:48"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-20 15:28:53"
   }
  ]
 }
