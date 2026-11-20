@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T08:34:52-04:00",
+ "generated_at": "2026-11-20T08:39:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-20 08:34:50"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-20 08:39:05"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-20 08:34:50"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-20 08:31:29"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-20 08:17:25"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-20 08:14:13"
   }
  ]
 }
