@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:55:04-04:00",
+ "generated_at": "2026-11-20T14:59:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-20 14:55:02"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-20 14:59:27"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-20 14:55:02"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-20 14:50:00"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-20 14:35:13"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-20 14:32:01"
   }
  ]
 }
