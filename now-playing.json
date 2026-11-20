@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T10:03:51-04:00",
+ "generated_at": "2026-11-20T10:06:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-20 10:03:48"
+  "title": "I Have Something to Say",
+  "started": "2026-11-20 10:06:42"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-20 10:03:48"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-20 10:00:27"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-20 09:46:26"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-20 09:42:49"
   }
  ]
 }
