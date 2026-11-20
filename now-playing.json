@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:12:40-04:00",
+ "generated_at": "2026-11-20T14:18:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-20 14:12:39"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-20 14:18:12"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-20 14:12:39"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-20 14:07:28"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-20 13:55:02"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-20 13:50:51"
   }
  ]
 }
