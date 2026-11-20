@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T01:30:52-04:00",
+ "generated_at": "2026-11-20T01:34:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-20 01:30:49"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-20 01:34:45"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-20 01:30:49"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-20 01:25:24"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-20 01:11:43"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-20 01:06:00"
   }
  ]
 }
