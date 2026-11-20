@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T11:42:24-04:00",
+ "generated_at": "2026-11-20T11:45:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-20 11:42:20"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-20 11:45:37"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-20 11:42:20"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-20 11:38:03"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-20 11:26:23"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-20 11:22:18"
   }
  ]
 }
