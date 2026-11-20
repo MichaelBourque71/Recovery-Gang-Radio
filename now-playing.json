@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:58:35-04:00",
+ "generated_at": "2026-11-20T14:02:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-20 13:58:32"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-20 14:02:29"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-20 13:58:32"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-20 13:55:02"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-20 13:44:23"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-20 13:42:06"
   }
  ]
 }
