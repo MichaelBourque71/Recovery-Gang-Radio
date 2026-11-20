@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:46:48-04:00",
+ "generated_at": "2026-11-20T15:51:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-20 15:46:46"
+  "title": "The Left Lies",
+  "started": "2026-11-20 15:51:15"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-20 15:46:46"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-20 15:43:06"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-20 15:28:53"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-20 15:24:25"
   }
  ]
 }
