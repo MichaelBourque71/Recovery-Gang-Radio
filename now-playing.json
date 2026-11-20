@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T14:21:02-04:00",
+ "generated_at": "2026-11-20T14:24:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-20 14:21:02"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-20 14:24:56"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-20 14:21:02"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-20 14:18:12"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-20 14:02:29"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-20 13:58:32"
   }
  ]
 }
