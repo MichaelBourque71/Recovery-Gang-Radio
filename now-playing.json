@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T21:31:13-04:00",
+ "generated_at": "2026-11-19T21:35:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-19 21:31:10"
+  "title": "Acid Freak",
+  "started": "2026-11-19 21:35:38"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-19 21:31:10"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-19 21:26:35"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-19 21:15:26"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-19 21:08:48"
   }
  ]
 }
