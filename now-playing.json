@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T12:34:09-04:00",
+ "generated_at": "2026-11-20T12:37:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-20 12:34:07"
+  "title": "LGBTQ",
+  "started": "2026-11-20 12:37:44"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-20 12:34:07"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-20 12:28:24"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-20 12:17:34"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-20 12:13:38"
   }
  ]
 }
