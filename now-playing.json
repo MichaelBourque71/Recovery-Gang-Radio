@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T04:49:26-04:00",
+ "generated_at": "2026-11-20T04:53:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-20 04:49:25"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-20 04:53:55"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-20 04:49:25"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-20 04:43:40"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-20 04:34:35"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-20 04:31:25"
   }
  ]
 }
