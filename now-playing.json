@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T20:00:53-04:00",
+ "generated_at": "2026-11-19T20:04:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-19 20:00:49"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-19 20:04:00"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-19 20:00:49"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-19 19:56:31"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-19 19:43:39"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-19 19:39:45"
   }
  ]
 }
