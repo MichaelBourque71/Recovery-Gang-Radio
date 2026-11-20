@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T13:02:05-04:00",
+ "generated_at": "2026-11-20T13:05:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-20 13:02:03"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-20 13:05:14"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-20 13:02:03"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-20 12:58:25"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-20 12:45:45"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-20 12:42:19"
   }
  ]
 }
