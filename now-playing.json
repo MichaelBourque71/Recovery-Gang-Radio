@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T16:27:27-04:00",
+ "generated_at": "2026-11-20T16:31:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-20 16:27:24"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-20 16:31:28"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-20 16:27:24"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-20 16:24:10"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-20 16:11:51"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-20 16:08:21"
   }
  ]
 }
