@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T06:26:47-04:00",
+ "generated_at": "2026-11-20T06:28:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-20 06:26:45"
+  "title": "Blurred Meridian Lines",
+  "started": "2026-11-20 06:28:47"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-20 06:26:45"
+  },
   {
    "title": "You",
    "started": "2026-11-20 06:22:22"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-20 06:11:31"
-  },
-  {
-   "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
-   "started": "2026-11-20 06:03:17"
   }
  ]
 }
