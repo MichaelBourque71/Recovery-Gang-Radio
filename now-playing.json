@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T15:18:48-04:00",
+ "generated_at": "2026-11-20T15:21:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-20 15:18:46"
+  "title": "Clown In A Crown",
+  "started": "2026-11-20 15:21:06"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-20 15:18:46"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-20 15:12:01"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-20 14:59:27"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-20 14:55:02"
   }
  ]
 }
