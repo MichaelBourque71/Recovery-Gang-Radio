@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T00:59:50-04:00",
+ "generated_at": "2026-11-20T01:02:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-20 00:59:49"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-20 01:02:03"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-20 00:59:49"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-20 00:55:34"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-20 00:45:11"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-20 00:43:10"
   }
  ]
 }
