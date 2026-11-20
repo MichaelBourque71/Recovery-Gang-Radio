@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-20T02:27:15-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-20T02:31:50-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-20 02:27:25"
+ },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-20 02:25:13"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-20 02:20:04"
@@ -18,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-20 02:08:11"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-20 02:04:54"
   }
  ]
 }
