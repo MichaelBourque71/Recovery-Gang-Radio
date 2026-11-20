@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T19:13:14-04:00",
+ "generated_at": "2026-11-20T19:17:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-20 19:13:11"
+  "title": "Nature Is Talking",
+  "started": "2026-11-20 19:17:20"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-20 19:13:11"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-20 19:10:00"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-20 18:59:29"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-20 18:55:24"
   }
  ]
 }
