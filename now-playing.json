@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-19T20:41:32-04:00",
+ "generated_at": "2026-11-19T20:45:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-19 20:41:31"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-19 20:45:14"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-19 20:41:31"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-19 20:37:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-19 20:26:04"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-19 20:20:58"
   }
  ]
 }
