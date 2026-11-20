@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T01:48:05-04:00",
+ "generated_at": "2026-11-20T01:53:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-20 01:48:03"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-20 01:53:32"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-20 01:48:03"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-20 01:44:42"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-20 01:34:45"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-20 01:30:49"
   }
  ]
 }
