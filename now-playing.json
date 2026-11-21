@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:57:06-04:00",
+ "generated_at": "2026-11-21T13:00:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-21 12:57:04"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-21 13:00:24"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-21 12:57:04"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-21 12:53:36"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-21 12:41:15"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-21 12:37:15"
   }
  ]
 }
