@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T02:58:03-04:00",
+ "generated_at": "2026-11-21T03:03:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-21 02:58:02"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-21 03:03:30"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-21 02:58:02"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-21 02:54:57"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-21 02:43:43"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-21 02:39:12"
   }
  ]
 }
