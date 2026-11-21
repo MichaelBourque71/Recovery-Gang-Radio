@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:29:11-04:00",
+ "generated_at": "2026-11-21T13:32:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-21 13:29:11"
+  "title": "Monopoly Mark",
+  "started": "2026-11-21 13:32:15"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-21 13:29:11"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-21 13:25:36"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-21 13:11:37"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-21 13:07:34"
   }
  ]
 }
