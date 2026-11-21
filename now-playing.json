@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:29:25-04:00",
+ "generated_at": "2026-11-21T11:33:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-21 11:29:24"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-21 11:33:55"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-21 11:29:24"
+  },
   {
    "title": "You",
    "started": "2026-11-21 11:26:07"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-21 11:15:34"
-  },
-  {
-   "title": "So Take a Chance",
-   "started": "2026-11-21 11:11:13"
   }
  ]
 }
