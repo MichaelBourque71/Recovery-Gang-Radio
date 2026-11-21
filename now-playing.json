@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:15:09-04:00",
+ "generated_at": "2026-11-21T03:17:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-21 03:15:05"
+  "title": "Feeling Froggy",
+  "started": "2026-11-21 03:17:50"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-21 03:15:05"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-21 03:10:10"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-21 02:58:02"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-21 02:54:57"
   }
  ]
 }
