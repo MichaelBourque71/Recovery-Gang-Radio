@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:27:48-04:00",
+ "generated_at": "2026-11-21T06:32:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-21 06:27:45"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-21 06:32:08"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-21 06:27:45"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-21 06:23:24"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-21 06:14:21"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-21 06:12:27"
   }
  ]
 }
