@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T07:52:56-04:00",
+ "generated_at": "2026-11-21T07:56:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-21 07:52:55"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-21 07:56:50"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-21 07:52:55"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-21 07:50:24"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-21 07:37:17"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-21 07:33:04"
   }
  ]
 }
