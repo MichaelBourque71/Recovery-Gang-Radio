@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:22:07-04:00",
+ "generated_at": "2026-11-21T19:25:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-21 19:22:07"
+  "title": "Lines In Stone",
+  "started": "2026-11-21 19:25:41"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-21 19:22:07"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-21 19:16:54"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-21 19:03:16"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-21 18:58:27"
   }
  ]
 }
