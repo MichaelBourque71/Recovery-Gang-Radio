@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T05:53:15-04:00",
+ "generated_at": "2026-11-21T05:57:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-21 05:53:13"
+  "title": "Disobey Authority",
+  "started": "2026-11-21 05:57:13"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-21 05:53:13"
+  },
   {
    "title": "Some People",
    "started": "2026-11-21 05:50:11"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-21 05:38:13"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-21 05:33:50"
   }
  ]
 }
