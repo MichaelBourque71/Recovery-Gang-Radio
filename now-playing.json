@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T01:20:06-04:00",
+ "generated_at": "2026-11-21T01:23:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-21 01:20:04"
+  "title": "I Have Something to Say",
+  "started": "2026-11-21 01:23:54"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-21 01:20:04"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-21 01:15:13"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-21 01:02:16"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-21 00:58:13"
   }
  ]
 }
