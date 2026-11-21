@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T14:36:19-04:00",
+ "generated_at": "2026-11-21T14:40:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-21 14:36:16"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-21 14:40:05"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-21 14:36:16"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-21 14:30:44"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-21 14:19:59"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-21 14:16:07"
   }
  ]
 }
