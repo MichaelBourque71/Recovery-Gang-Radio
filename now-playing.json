@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T18:29:40-04:00",
+ "generated_at": "2026-11-21T18:33:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-21 18:29:40"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-21 18:33:19"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-21 18:29:40"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-21 18:26:38"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-21 18:10:27"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-21 18:06:07"
   }
  ]
 }
