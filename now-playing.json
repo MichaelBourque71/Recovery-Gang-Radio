@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:52:15-04:00",
+ "generated_at": "2026-11-21T08:56:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-21 08:52:13"
+  "title": "History Collects",
+  "started": "2026-11-21 08:55:58"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-21 08:52:13"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-21 08:48:44"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-21 08:36:03"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-21 08:33:13"
   }
  ]
 }
