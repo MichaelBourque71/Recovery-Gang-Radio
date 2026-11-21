@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:17:50-04:00",
+ "generated_at": "2026-11-21T03:21:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-21 03:17:50"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-21 03:21:26"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-21 03:17:50"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-21 03:15:05"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-21 03:03:30"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-21 02:58:02"
   }
  ]
 }
