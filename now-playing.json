@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T20:59:05-04:00",
+ "generated_at": "2026-11-20T21:02:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-20 20:59:02"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-20 21:02:39"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-20 20:59:02"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-20 20:54:54"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-20 20:43:54"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-20 20:40:06"
   }
  ]
 }
