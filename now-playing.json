@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T01:53:30-04:00",
+ "generated_at": "2026-11-21T01:57:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-21 01:53:27"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-21 01:57:41"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-21 01:53:27"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-21 01:50:35"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-21 01:39:57"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-21 01:37:20"
   }
  ]
 }
