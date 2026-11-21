@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:40:54-04:00",
+ "generated_at": "2026-11-21T13:45:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-21 13:40:50"
+  "title": "Freedom Wave",
+  "started": "2026-11-21 13:45:43"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-21 13:40:50"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-21 13:35:23"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-21 13:25:36"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-21 13:21:08"
   }
  ]
 }
