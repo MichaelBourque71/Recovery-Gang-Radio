@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T18:10:27-04:00",
+ "generated_at": "2026-11-21T18:16:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-21 18:10:27"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-21 18:16:18"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-21 18:10:27"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-21 18:06:07"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-21 17:55:01"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-21 17:50:00"
   }
  ]
 }
