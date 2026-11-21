@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T17:13:29-04:00",
+ "generated_at": "2026-11-21T17:17:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-21 17:13:29"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-21 17:17:01"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-21 17:13:29"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-21 17:10:19"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-21 16:56:40"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-21 16:51:44"
   }
  ]
 }
