@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T04:46:45-04:00",
+ "generated_at": "2026-11-21T04:49:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-21 04:46:45"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-21 04:49:22"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-21 04:46:45"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-21 04:42:23"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-21 04:25:46"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-21 04:21:23"
   }
  ]
 }
