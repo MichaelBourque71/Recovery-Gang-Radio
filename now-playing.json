@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:21:35-04:00",
+ "generated_at": "2026-11-21T12:25:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-21 12:21:33"
+  "title": "Day And Night",
+  "started": "2026-11-21 12:25:40"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-21 12:21:33"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-21 12:16:32"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-21 12:03:03"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-21 12:00:19"
   }
  ]
 }
