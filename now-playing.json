@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T22:12:38-04:00",
+ "generated_at": "2026-11-20T22:18:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Storm Rolls In",
-  "started": "2026-11-20 22:12:36"
+  "title": "Running With Scissors",
+  "started": "2026-11-20 22:18:26"
  },
  "previous": [
+  {
+   "title": "The Storm Rolls In",
+   "started": "2026-11-20 22:12:36"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-20 22:08:09"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-20 21:57:47"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-20 21:53:35"
   }
  ]
 }
