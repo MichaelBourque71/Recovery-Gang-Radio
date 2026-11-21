@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:43:52-04:00",
+ "generated_at": "2026-11-21T06:49:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-21 06:43:48"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-21 06:49:03"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-21 06:43:48"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-21 06:40:07"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-21 06:27:45"
-  },
-  {
-   "title": "So Take a Chance",
-   "started": "2026-11-21 06:23:24"
   }
  ]
 }
