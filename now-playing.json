@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T21:02:44-04:00",
+ "generated_at": "2026-11-20T21:07:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-20 21:02:39"
+  "title": "I'm Ready For This",
+  "started": "2026-11-20 21:07:50"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-20 21:02:39"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-20 20:59:02"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-20 20:47:10"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-20 20:43:54"
   }
  ]
 }
