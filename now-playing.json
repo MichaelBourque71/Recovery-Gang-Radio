@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:03:15-04:00",
+ "generated_at": "2026-11-21T11:07:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-21 11:03:13"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-21 11:07:36"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-21 11:03:13"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-21 10:58:28"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-21 10:46:28"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-21 10:42:53"
   }
  ]
 }
