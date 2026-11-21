@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:56:50-04:00",
+ "generated_at": "2026-11-21T12:00:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-21 11:56:49"
+  "title": "What They Want…",
+  "started": "2026-11-21 12:00:19"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-21 11:56:49"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-21 11:50:31"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-21 11:38:28"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-21 11:33:55"
   }
  ]
 }
