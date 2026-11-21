@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:56:41-04:00",
+ "generated_at": "2026-11-21T15:59:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-21 15:56:37"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-21 15:59:32"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-21 15:56:37"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-21 15:51:56"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-21 15:39:01"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-21 15:35:17"
   }
  ]
 }
