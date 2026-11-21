@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:49:30-04:00",
+ "generated_at": "2026-11-21T19:55:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-21 19:49:26"
+  "title": "I Have Something to Say",
+  "started": "2026-11-21 19:55:17"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-21 19:49:26"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-21 19:46:00"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-21 19:36:42"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-21 19:33:14"
   }
  ]
 }
