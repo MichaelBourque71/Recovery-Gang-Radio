@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:33:44-04:00",
+ "generated_at": "2026-11-21T12:37:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-21 12:33:41"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-21 12:37:15"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-21 12:33:41"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-21 12:30:31"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-21 12:16:32"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-21 12:13:08"
   }
  ]
 }
