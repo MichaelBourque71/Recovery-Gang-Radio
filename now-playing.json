@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:09:09-04:00",
+ "generated_at": "2026-11-21T08:13:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-21 08:09:06"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-21 08:13:34"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-21 08:09:06"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-21 08:04:44"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-21 07:52:55"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-21 07:50:24"
   }
  ]
 }
