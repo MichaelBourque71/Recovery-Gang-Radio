@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T17:10:22-04:00",
+ "generated_at": "2026-11-21T17:13:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-21 17:10:19"
+  "title": "Stolen Democracy",
+  "started": "2026-11-21 17:13:29"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-21 17:10:19"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-21 17:05:35"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-21 16:51:44"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-21 16:48:04"
   }
  ]
 }
