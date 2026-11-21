@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T05:33:53-04:00",
+ "generated_at": "2026-11-21T05:38:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-21 05:33:50"
+  "title": "Start Living Again",
+  "started": "2026-11-21 05:38:13"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-21 05:33:50"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-21 05:27:34"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-21 05:16:09"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-21 05:12:36"
   }
  ]
 }
