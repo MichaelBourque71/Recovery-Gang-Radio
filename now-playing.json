@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T21:41:50-04:00",
+ "generated_at": "2026-11-20T21:45:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-20 21:41:46"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-20 21:45:40"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-20 21:41:46"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-20 21:38:41"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-20 21:26:18"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-20 21:23:34"
   }
  ]
 }
