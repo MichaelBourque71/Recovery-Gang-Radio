@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:00:20-04:00",
+ "generated_at": "2026-11-21T08:04:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-21 08:00:16"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-21 08:04:44"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-21 08:00:16"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-21 07:56:50"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-21 07:45:56"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-21 07:40:22"
   }
  ]
 }
