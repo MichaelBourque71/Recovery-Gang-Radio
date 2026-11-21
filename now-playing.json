@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T09:28:25-04:00",
+ "generated_at": "2026-11-21T09:32:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-21 09:28:22"
+  "title": "Mushroom Parade",
+  "started": "2026-11-21 09:32:38"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-21 09:28:22"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-21 09:24:38"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-21 09:14:46"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-21 09:09:57"
   }
  ]
 }
