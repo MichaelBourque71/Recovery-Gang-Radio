@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:03:17-04:00",
+ "generated_at": "2026-11-21T19:09:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-21 19:03:16"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-21 19:09:00"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-21 19:03:16"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-21 18:58:27"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-21 18:46:01"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-21 18:42:38"
   }
  ]
 }
