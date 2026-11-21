@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T20:31:22-04:00",
+ "generated_at": "2026-11-20T20:34:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-20 20:31:21"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-20 20:34:19"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-20 20:31:21"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-20 20:26:14"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-20 20:10:48"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-20 20:06:08"
   }
  ]
 }
