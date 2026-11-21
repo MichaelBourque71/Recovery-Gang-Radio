@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:45:26-04:00",
+ "generated_at": "2026-11-21T03:48:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-21 03:45:21"
+  "title": "GUMMERS",
+  "started": "2026-11-21 03:48:55"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-21 03:45:21"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-21 03:40:52"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-21 03:25:46"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-21 03:21:26"
   }
  ]
 }
