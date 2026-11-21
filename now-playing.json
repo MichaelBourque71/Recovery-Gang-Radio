@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T20:34:20-04:00",
+ "generated_at": "2026-11-20T20:40:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-20 20:34:19"
+  "title": "History Collects",
+  "started": "2026-11-20 20:40:06"
  },
  "previous": [
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-20 20:34:19"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-20 20:31:21"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-20 20:16:55"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-20 20:10:48"
   }
  ]
 }
