@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:03:30-04:00",
+ "generated_at": "2026-11-21T03:07:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-21 03:03:30"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-21 03:07:29"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-21 03:03:30"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-21 02:58:02"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-21 02:46:58"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-21 02:43:43"
   }
  ]
 }
