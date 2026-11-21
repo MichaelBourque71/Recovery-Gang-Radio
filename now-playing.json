@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:31:44-04:00",
+ "generated_at": "2026-11-21T15:35:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-21 15:31:43"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-21 15:35:17"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-21 15:31:43"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-21 15:26:00"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-21 15:12:50"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-21 15:10:16"
   }
  ]
 }
