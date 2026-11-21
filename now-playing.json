@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T14:12:40-04:00",
+ "generated_at": "2026-11-21T14:16:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-21 14:12:35"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-21 14:16:07"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-21 14:12:35"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-21 14:06:43"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-21 13:56:23"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-21 13:52:04"
   }
  ]
 }
