@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T00:45:47-04:00",
+ "generated_at": "2026-11-21T00:50:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-21 00:45:46"
+  "title": "Stranger Danger",
+  "started": "2026-11-21 00:50:14"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-21 00:45:46"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-21 00:42:01"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-21 00:29:05"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-21 00:24:38"
   }
  ]
 }
