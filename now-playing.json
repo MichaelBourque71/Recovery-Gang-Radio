@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T21:07:50-04:00",
+ "generated_at": "2026-11-20T21:11:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-20 21:07:50"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-20 21:11:39"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-20 21:07:50"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-20 21:02:39"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-20 20:50:04"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-20 20:47:10"
   }
  ]
 }
