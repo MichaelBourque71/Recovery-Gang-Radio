@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T21:38:42-04:00",
+ "generated_at": "2026-11-20T21:41:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-20 21:38:41"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-20 21:41:46"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-20 21:38:41"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-20 21:35:43"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-20 21:23:34"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-20 21:20:28"
   }
  ]
 }
