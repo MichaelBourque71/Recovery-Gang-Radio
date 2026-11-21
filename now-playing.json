@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T14:20:04-04:00",
+ "generated_at": "2026-11-21T14:24:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-21 14:19:59"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-21 14:24:29"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-21 14:19:59"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-21 14:16:07"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-21 14:02:25"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-21 13:59:26"
   }
  ]
 }
