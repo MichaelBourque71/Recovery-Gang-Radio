@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T01:02:18-04:00",
+ "generated_at": "2026-11-21T01:07:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-21 01:02:16"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-21 01:07:54"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-21 01:02:16"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-21 00:58:13"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-21 00:45:46"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-21 00:42:01"
   }
  ]
 }
