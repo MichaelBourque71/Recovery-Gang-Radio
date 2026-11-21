@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T14:50:25-04:00",
+ "generated_at": "2026-11-21T14:54:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-21 14:50:22"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-21 14:54:49"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-21 14:50:22"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-21 14:47:15"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-21 14:36:16"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-21 14:30:44"
   }
  ]
 }
