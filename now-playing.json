@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:16:56-04:00",
+ "generated_at": "2026-11-21T19:22:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-21 19:16:54"
+  "title": "Living For Peace",
+  "started": "2026-11-21 19:22:07"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-21 19:16:54"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-21 19:12:15"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-21 18:58:27"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-21 18:54:40"
   }
  ]
 }
