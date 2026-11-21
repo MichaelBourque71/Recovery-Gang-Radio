@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:12:51-04:00",
+ "generated_at": "2026-11-21T15:18:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-21 15:12:50"
+  "title": "GUMMERS",
+  "started": "2026-11-21 15:18:05"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-21 15:12:50"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-21 15:10:16"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-21 14:58:36"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-21 14:54:49"
   }
  ]
 }
