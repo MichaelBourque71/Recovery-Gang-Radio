@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:35:59-04:00",
+ "generated_at": "2026-11-21T08:36:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-21 08:33:13"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-21 08:36:03"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-21 08:33:13"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-21 08:28:40"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-21 08:18:10"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-21 08:13:34"
   }
  ]
 }
