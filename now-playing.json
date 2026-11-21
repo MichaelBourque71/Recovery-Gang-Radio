@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T09:42:32-04:00",
+ "generated_at": "2026-11-21T09:47:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-21 09:42:30"
+  "title": "Killdozer Army",
+  "started": "2026-11-21 09:47:45"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-21 09:42:30"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-21 09:38:12"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-21 09:28:22"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-21 09:24:38"
   }
  ]
 }
