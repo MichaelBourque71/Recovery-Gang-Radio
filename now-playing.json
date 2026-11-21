@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:20:21-04:00",
+ "generated_at": "2026-11-21T06:23:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-21 06:20:16"
+  "title": "So Take a Chance",
+  "started": "2026-11-21 06:23:24"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-21 06:20:16"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-21 06:17:02"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-21 06:07:22"
-  },
-  {
-   "title": "Pair D - Unstoppable Force + Won't Stop Being Me",
-   "started": "2026-11-21 06:00:13"
   }
  ]
 }
