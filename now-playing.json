@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T09:56:44-04:00",
+ "generated_at": "2026-11-21T10:01:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-21 09:56:44"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-21 10:01:03"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-21 09:56:44"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-21 09:52:15"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-21 09:38:12"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-21 09:35:27"
   }
  ]
 }
