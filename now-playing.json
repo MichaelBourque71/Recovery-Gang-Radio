@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-21T09:14:41-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-21T09:17:24-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Democracy on Life Support",
+  "started": "2026-11-21 09:14:46"
+ },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-21 09:09:57"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-21 09:05:31"
@@ -18,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-21 08:52:13"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-21 08:48:44"
   }
  ]
 }
