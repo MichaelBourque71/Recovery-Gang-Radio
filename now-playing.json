@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T17:30:54-04:00",
+ "generated_at": "2026-11-21T17:36:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-21 17:30:50"
+  "title": "Mushroom Parade",
+  "started": "2026-11-21 17:36:09"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-21 17:30:50"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-21 17:27:06"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-21 17:13:29"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-21 17:10:19"
   }
  ]
 }
