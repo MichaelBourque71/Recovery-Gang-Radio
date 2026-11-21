@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T16:26:00-04:00",
+ "generated_at": "2026-11-21T16:31:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-21 16:25:57"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-21 16:31:20"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-21 16:25:57"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-21 16:20:45"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-21 16:06:57"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-21 16:04:01"
   }
  ]
 }
