@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:14:25-04:00",
+ "generated_at": "2026-11-21T06:17:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-21 06:14:21"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-21 06:17:02"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-21 06:14:21"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-21 06:12:27"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority",
    "started": "2026-11-21 05:57:13"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-21 05:53:13"
   }
  ]
 }
