@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:29:51-04:00",
+ "generated_at": "2026-11-21T10:32:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-21 10:29:50"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-21 10:32:15"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-21 10:29:50"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-21 10:26:24"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-21 10:14:38"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-21 10:10:59"
   }
  ]
 }
