@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:05:17-04:00",
+ "generated_at": "2026-11-21T13:07:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-21 13:05:12"
+  "title": "Low-End Disorder",
+  "started": "2026-11-21 13:07:34"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-21 13:05:12"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-21 13:00:24"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-21 12:49:07"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-21 12:45:29"
   }
  ]
 }
