@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:25:37-04:00",
+ "generated_at": "2026-11-21T13:29:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-21 13:25:36"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-21 13:29:11"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-21 13:25:36"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-21 13:21:08"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-21 13:07:34"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-21 13:05:12"
   }
  ]
 }
