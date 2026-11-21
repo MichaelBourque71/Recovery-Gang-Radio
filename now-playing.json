@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T02:12:22-04:00",
+ "generated_at": "2026-11-21T02:15:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-21 02:12:21"
+  "title": "Taste Your Honey",
+  "started": "2026-11-21 02:15:55"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-21 02:12:21"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-21 02:09:48"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-21 01:57:41"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-21 01:53:27"
   }
  ]
 }
