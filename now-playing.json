@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T04:49:22-04:00",
+ "generated_at": "2026-11-21T04:52:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-21 04:49:22"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-21 04:52:03"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-21 04:49:22"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-21 04:46:45"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-21 04:31:25"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-21 04:25:46"
   }
  ]
 }
