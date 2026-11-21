@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T04:56:43-04:00",
+ "generated_at": "2026-11-21T05:00:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-21 04:56:42"
+  "title": "Take Your Laws",
+  "started": "2026-11-21 05:00:54"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-21 04:56:42"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-21 04:52:03"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-21 04:42:23"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-21 04:38:18"
   }
  ]
 }
