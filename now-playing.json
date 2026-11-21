@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T22:29:04-04:00",
+ "generated_at": "2026-11-20T22:32:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-20 22:29:02"
+  "title": "Acid Freak",
+  "started": "2026-11-20 22:32:43"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-20 22:29:02"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-20 22:25:18"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-20 22:12:36"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-20 22:08:09"
   }
  ]
 }
