@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T00:05:07-04:00",
+ "generated_at": "2026-11-21T00:10:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-21 00:05:07"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-21 00:10:05"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-21 00:05:07"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-21 00:00:24"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-20 23:48:58"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-20 23:43:04"
   }
  ]
 }
