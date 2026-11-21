@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T04:52:07-04:00",
+ "generated_at": "2026-11-21T04:56:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-21 04:52:03"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-21 04:56:42"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-21 04:52:03"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-21 04:49:22"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-21 04:38:18"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-21 04:31:25"
   }
  ]
 }
