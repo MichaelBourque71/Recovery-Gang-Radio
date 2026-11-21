@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:00:24-04:00",
+ "generated_at": "2026-11-21T12:03:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-21 12:00:19"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-21 12:03:03"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-21 12:00:19"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-21 11:56:49"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-21 11:42:17"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-21 11:38:28"
   }
  ]
 }
