@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:10:13-04:00",
+ "generated_at": "2026-11-21T03:15:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-21 03:10:10"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-21 03:15:05"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-21 03:10:10"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-21 03:07:29"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-21 02:54:57"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-21 02:51:16"
   }
  ]
 }
