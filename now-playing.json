@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:42:58-04:00",
+ "generated_at": "2026-11-21T10:46:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-21 10:42:53"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-21 10:46:28"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-21 10:42:53"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-21 10:38:20"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-21 10:29:50"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-21 10:26:24"
   }
  ]
 }
