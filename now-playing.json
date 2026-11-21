@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T14:30:46-04:00",
+ "generated_at": "2026-11-21T14:36:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-21 14:30:44"
+  "title": "Space Cadet",
+  "started": "2026-11-21 14:36:16"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-21 14:30:44"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-21 14:28:57"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-21 14:16:07"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-21 14:12:35"
   }
  ]
 }
