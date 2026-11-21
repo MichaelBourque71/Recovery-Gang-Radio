@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T01:37:25-04:00",
+ "generated_at": "2026-11-21T01:40:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-21 01:37:20"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-21 01:39:57"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-21 01:37:20"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-21 01:32:48"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-21 01:20:04"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-21 01:15:13"
   }
  ]
 }
