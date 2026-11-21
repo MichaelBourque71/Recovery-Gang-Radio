@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:52:27-04:00",
+ "generated_at": "2026-11-20T23:56:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-20 23:52:23"
+  "title": "Burn It Slow",
+  "started": "2026-11-20 23:56:20"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-20 23:52:23"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-20 23:48:58"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-20 23:36:55"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-20 23:32:36"
   }
  ]
 }
