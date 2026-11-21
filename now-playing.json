@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:15:26-04:00",
+ "generated_at": "2026-11-20T23:18:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-20 23:15:22"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-20 23:18:54"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-20 23:15:22"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-20 23:10:12"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-20 22:55:23"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-20 22:49:32"
   }
  ]
 }
