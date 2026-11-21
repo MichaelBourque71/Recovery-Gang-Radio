@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:36:33-04:00",
+ "generated_at": "2026-11-21T06:40:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-21 06:36:33"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-21 06:40:07"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-21 06:36:33"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-21 06:32:08"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-21 06:20:16"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-21 06:17:02"
   }
  ]
 }
