@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T00:14:16-04:00",
+ "generated_at": "2026-11-21T00:20:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-21 00:14:11"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-21 00:20:20"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-21 00:14:11"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-21 00:10:05"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-20 23:56:20"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-20 23:52:23"
   }
  ]
 }
