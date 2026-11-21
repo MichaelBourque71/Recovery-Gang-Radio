@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T05:23:15-04:00",
+ "generated_at": "2026-11-21T05:27:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-21 05:23:14"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-21 05:27:34"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-21 05:23:14"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-21 05:18:57"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-21 05:09:32"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-21 05:06:52"
   }
  ]
 }
