@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:36:58-04:00",
+ "generated_at": "2026-11-20T23:39:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-20 23:36:55"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-20 23:39:50"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-20 23:36:55"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-20 23:32:36"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-20 23:23:02"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-20 23:18:54"
   }
  ]
 }
