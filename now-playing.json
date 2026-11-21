@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T04:05:45-04:00",
+ "generated_at": "2026-11-21T04:08:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-21 04:05:42"
+  "title": "Money & Fame",
+  "started": "2026-11-21 04:08:34"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-21 04:05:42"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-21 04:01:32"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-21 03:48:55"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-21 03:45:21"
   }
  ]
 }
