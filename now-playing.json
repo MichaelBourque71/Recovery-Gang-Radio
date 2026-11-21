@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:56:27-04:00",
+ "generated_at": "2026-11-21T13:59:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-21 13:56:23"
+  "title": "Here’s a Stack",
+  "started": "2026-11-21 13:59:26"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-21 13:56:23"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-21 13:52:04"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-21 13:40:50"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-21 13:35:23"
   }
  ]
 }
