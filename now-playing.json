@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T00:29:07-04:00",
+ "generated_at": "2026-11-21T00:32:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-21 00:29:05"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-21 00:32:20"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-21 00:29:05"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-21 00:24:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-21 00:10:05"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-21 00:05:07"
   }
  ]
 }
