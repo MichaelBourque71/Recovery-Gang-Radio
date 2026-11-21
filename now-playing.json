@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:43:17-04:00",
+ "generated_at": "2026-11-21T15:47:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-21 15:43:16"
+  "title": "Man With the Backbone",
+  "started": "2026-11-21 15:47:27"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-21 15:43:16"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-21 15:39:01"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-21 15:26:00"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-21 15:21:51"
   }
  ]
 }
