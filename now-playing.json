@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:33:56-04:00",
+ "generated_at": "2026-11-21T11:38:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-21 11:33:55"
+  "title": "Space Cadet",
+  "started": "2026-11-21 11:38:28"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-21 11:33:55"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-21 11:29:24"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-21 11:19:06"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-21 11:15:34"
   }
  ]
 }
