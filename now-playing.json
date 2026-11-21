@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:39:50-04:00",
+ "generated_at": "2026-11-20T23:43:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-20 23:39:50"
+  "title": "Mystical Journey",
+  "started": "2026-11-20 23:43:04"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-20 23:39:50"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-20 23:36:55"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-20 23:26:30"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-20 23:23:02"
   }
  ]
 }
