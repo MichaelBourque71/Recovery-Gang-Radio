@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T09:17:24-04:00",
+ "generated_at": "2026-11-21T09:17:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-21 09:14:46"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-21 09:17:43"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-21 09:14:46"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-21 09:09:57"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-21 08:55:58"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-21 08:52:13"
   }
  ]
 }
