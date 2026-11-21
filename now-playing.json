@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:56:21-04:00",
+ "generated_at": "2026-11-21T00:00:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-20 23:56:20"
+  "title": "I'm Ready For This",
+  "started": "2026-11-21 00:00:24"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-20 23:56:20"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-20 23:52:23"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-20 23:39:50"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-20 23:36:55"
   }
  ]
 }
