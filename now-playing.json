@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:46:02-04:00",
+ "generated_at": "2026-11-21T19:49:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-21 19:46:00"
+  "title": "Built To Love",
+  "started": "2026-11-21 19:49:26"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-21 19:46:00"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-21 19:42:40"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-21 19:33:14"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-21 19:28:35"
   }
  ]
 }
