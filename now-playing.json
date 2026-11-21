@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:35:27-04:00",
+ "generated_at": "2026-11-21T13:40:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-21 13:35:23"
+  "title": "Keyboard Courage",
+  "started": "2026-11-21 13:40:50"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-21 13:35:23"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-21 13:32:15"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-21 13:21:08"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-21 13:15:32"
   }
  ]
 }
