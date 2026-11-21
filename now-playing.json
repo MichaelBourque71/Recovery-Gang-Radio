@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T13:45:45-04:00",
+ "generated_at": "2026-11-21T13:48:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-21 13:45:43"
+  "title": "Time For Talking",
+  "started": "2026-11-21 13:48:53"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-21 13:45:43"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-21 13:40:50"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-21 13:29:11"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-21 13:25:36"
   }
  ]
 }
