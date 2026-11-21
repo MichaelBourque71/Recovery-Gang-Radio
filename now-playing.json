@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T01:15:15-04:00",
+ "generated_at": "2026-11-21T01:20:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-21 01:15:13"
+  "title": "Dead Ideology ",
+  "started": "2026-11-21 01:20:04"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-21 01:15:13"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-21 01:12:59"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-21 00:58:13"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-21 00:54:13"
   }
  ]
 }
