@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:07:54-04:00",
+ "generated_at": "2026-11-21T12:13:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-21 12:07:51"
+  "title": "Disobey Authority",
+  "started": "2026-11-21 12:13:08"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-21 12:07:51"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-21 12:03:03"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-21 11:50:31"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-21 11:46:14"
   }
  ]
 }
