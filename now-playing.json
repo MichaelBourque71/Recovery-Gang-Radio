@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:42:22-04:00",
+ "generated_at": "2026-11-21T11:46:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m Done Pretending ",
-  "started": "2026-11-21 11:42:17"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-21 11:46:14"
  },
  "previous": [
+  {
+   "title": "I’m Done Pretending ",
+   "started": "2026-11-21 11:42:17"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-21 11:38:28"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-21 11:26:07"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-21 11:22:45"
   }
  ]
 }
