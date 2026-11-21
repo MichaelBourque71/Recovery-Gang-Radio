@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T16:56:41-04:00",
+ "generated_at": "2026-11-21T17:00:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-21 16:56:40"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-21 17:00:27"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-21 16:56:40"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-21 16:51:44"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-21 16:39:30"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-21 16:35:09"
   }
  ]
 }
