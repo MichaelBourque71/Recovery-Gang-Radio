@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-21T08:41:39-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-21 08:41:38"
- },
+ "generated_at": "2026-11-21T08:45:02-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-21 08:41:38"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-21 08:36:03"
@@ -21,10 +22,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-21 08:24:42"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-21 08:20:46"
   }
  ]
 }
