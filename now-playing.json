@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:38:22-04:00",
+ "generated_at": "2026-11-21T10:42:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-21 10:38:20"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-21 10:42:53"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-21 10:38:20"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-21 10:35:48"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-21 10:26:24"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-21 10:20:54"
   }
  ]
 }
