@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:15:36-04:00",
+ "generated_at": "2026-11-21T11:19:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-21 11:15:34"
+  "title": "Putz in a Suit",
+  "started": "2026-11-21 11:19:06"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-21 11:15:34"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-21 11:11:13"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-21 10:58:28"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-21 10:55:18"
   }
  ]
 }
