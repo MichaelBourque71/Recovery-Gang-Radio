@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:25:41-04:00",
+ "generated_at": "2026-11-21T19:28:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-21 19:25:41"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-21 19:28:35"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-21 19:25:41"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-21 19:22:07"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-21 19:09:00"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-21 19:03:16"
   }
  ]
 }
