@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T02:43:45-04:00",
+ "generated_at": "2026-11-21T02:47:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-21 02:43:43"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-21 02:46:58"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-21 02:43:43"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-21 02:39:12"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-21 02:27:26"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-21 02:24:13"
   }
  ]
 }
