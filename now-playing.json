@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:59:34-04:00",
+ "generated_at": "2026-11-21T16:04:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-21 15:59:32"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-21 16:04:01"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-21 15:59:32"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-21 15:56:37"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-21 15:43:16"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-21 15:39:01"
   }
  ]
 }
