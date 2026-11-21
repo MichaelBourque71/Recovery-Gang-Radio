@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T18:06:12-04:00",
+ "generated_at": "2026-11-21T18:10:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-21 18:06:07"
+  "title": "Built To Love",
+  "started": "2026-11-21 18:10:27"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-21 18:06:07"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-21 18:02:56"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-21 17:50:00"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-21 17:45:52"
   }
  ]
 }
