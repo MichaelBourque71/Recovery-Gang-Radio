@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T23:32:38-04:00",
+ "generated_at": "2026-11-20T23:36:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-20 23:32:36"
+  "title": "Lines In Stone",
+  "started": "2026-11-20 23:36:55"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-20 23:32:36"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-20 23:29:37"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-20 23:18:54"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-20 23:15:22"
   }
  ]
 }
