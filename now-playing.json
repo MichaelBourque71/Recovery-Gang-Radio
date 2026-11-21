@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:09:05-04:00",
+ "generated_at": "2026-11-21T19:12:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-21 19:09:00"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-21 19:12:15"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-21 19:09:00"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-21 19:03:16"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-21 18:50:05"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-21 18:46:01"
   }
  ]
 }
