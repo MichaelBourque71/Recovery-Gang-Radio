@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-20T22:49:33-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-20 22:49:32"
- },
+ "generated_at": "2026-11-20T22:54:55-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Gavin Newsom, But Not Much",
