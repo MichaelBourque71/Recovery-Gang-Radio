@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T19:28:40-04:00",
+ "generated_at": "2026-11-21T19:33:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-21 19:28:35"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-21 19:33:14"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-21 19:28:35"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-21 19:25:41"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-21 19:12:15"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-21 19:09:00"
   }
  ]
 }
