@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:36:06-04:00",
+ "generated_at": "2026-11-21T08:41:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-21 08:36:03"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-21 08:41:38"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-21 08:36:03"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-21 08:33:13"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-21 08:20:46"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-21 08:18:10"
   }
  ]
 }
