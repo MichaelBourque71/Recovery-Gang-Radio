@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-21T08:33:16-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-21 08:33:13"
- },
+ "generated_at": "2026-11-21T08:35:45-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "I’m A Cougar-Beaver Hunter",
