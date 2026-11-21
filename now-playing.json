@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:01:06-04:00",
+ "generated_at": "2026-11-21T10:04:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-21 10:01:03"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-21 10:04:21"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-21 10:01:03"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-21 09:56:44"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-21 09:42:30"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-21 09:38:12"
   }
  ]
 }
