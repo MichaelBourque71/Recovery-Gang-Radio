@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T03:21:29-04:00",
+ "generated_at": "2026-11-21T03:25:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-21 03:21:26"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-21 03:25:46"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-21 03:21:26"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-21 03:17:50"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-21 03:07:29"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-21 03:03:30"
   }
  ]
 }
