@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T15:39:02-04:00",
+ "generated_at": "2026-11-21T15:43:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-21 15:39:01"
+  "title": "So Take a Chance",
+  "started": "2026-11-21 15:43:16"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-21 15:39:01"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-21 15:35:17"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-21 15:21:51"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-21 15:18:05"
   }
  ]
 }
