@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T22:18:26-04:00",
+ "generated_at": "2026-11-20T22:21:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-20 22:18:26"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-20 22:21:29"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-20 22:18:26"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-20 22:12:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-20 22:01:36"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-20 21:57:47"
   }
  ]
 }
