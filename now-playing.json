@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:03:06-04:00",
+ "generated_at": "2026-11-21T12:07:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-21 12:03:03"
+  "title": "Hard Way",
+  "started": "2026-11-21 12:07:51"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-21 12:03:03"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-21 12:00:19"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-21 11:46:14"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-21 11:42:17"
   }
  ]
 }
