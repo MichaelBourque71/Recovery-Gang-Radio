@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T07:17:42-04:00",
+ "generated_at": "2026-11-21T07:19:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-21 07:17:40"
+  "title": "Greatest Hits",
+  "started": "2026-11-21 07:19:27"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-21 07:17:40"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-21 07:12:29"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-21 06:59:31"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-21 06:55:28"
   }
  ]
 }
