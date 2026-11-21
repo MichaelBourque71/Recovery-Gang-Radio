@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:17:42-04:00",
+ "generated_at": "2026-11-21T10:20:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-21 10:17:38"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-21 10:20:54"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-21 10:17:38"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-21 10:14:38"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-21 10:04:21"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-21 10:01:03"
   }
  ]
 }
