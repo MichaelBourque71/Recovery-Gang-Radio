@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T10:04:24-04:00",
+ "generated_at": "2026-11-21T10:07:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-21 10:04:21"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-21 10:07:52"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-21 10:04:21"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-21 10:01:03"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-21 09:47:45"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-21 09:42:30"
   }
  ]
 }
