@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T06:17:03-04:00",
+ "generated_at": "2026-11-21T06:20:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-21 06:17:02"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-21 06:20:16"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-21 06:17:02"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-21 06:14:21"
@@ -21,10 +25,6 @@
   {
    "title": "Pair D - Unstoppable Force + Won't Stop Being Me",
    "started": "2026-11-21 06:00:13"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-21 05:57:13"
   }
  ]
 }
