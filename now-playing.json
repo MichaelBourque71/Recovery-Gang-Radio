@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T02:47:02-04:00",
+ "generated_at": "2026-11-21T02:51:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-21 02:46:58"
+  "title": "Hack It Or Slash It",
+  "started": "2026-11-21 02:51:16"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-21 02:46:58"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-21 02:43:43"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-21 02:32:16"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-21 02:27:26"
   }
  ]
 }
