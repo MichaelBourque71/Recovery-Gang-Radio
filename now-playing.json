@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-20T22:55:21-04:00",
+ "generated_at": "2026-11-20T23:00:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-20 22:49:32"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-20 23:00:01"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-20 22:55:23"
+  },
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-20 22:49:32"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-20 22:47:31"
@@ -17,14 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-20 22:40:03"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-20 22:35:05"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-20 22:32:43"
   }
  ]
 }
