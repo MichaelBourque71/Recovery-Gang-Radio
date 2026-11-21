@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-20T20:50:06-04:00",
+ "generated_at": "2026-11-20T20:54:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-20 20:50:04"
+  "title": "Delaware Sniff",
+  "started": "2026-11-20 20:54:54"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-20 20:50:04"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-20 20:47:10"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-20 20:34:19"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-20 20:31:21"
   }
  ]
 }
