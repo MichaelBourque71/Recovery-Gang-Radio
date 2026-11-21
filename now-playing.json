@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T09:21:24-04:00",
+ "generated_at": "2026-11-21T09:24:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-21 09:21:23"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-21 09:24:38"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-21 09:21:23"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-21 09:17:43"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-21 09:05:31"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-21 08:59:58"
   }
  ]
 }
