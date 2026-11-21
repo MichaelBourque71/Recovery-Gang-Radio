@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:07:38-04:00",
+ "generated_at": "2026-11-21T11:11:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-21 11:07:36"
+  "title": "So Take a Chance",
+  "started": "2026-11-21 11:11:13"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-21 11:07:36"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-21 11:03:13"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-21 10:49:52"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-21 10:46:28"
   }
  ]
 }
