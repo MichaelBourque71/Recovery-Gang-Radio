@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T12:49:07-04:00",
+ "generated_at": "2026-11-21T12:53:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-21 12:49:07"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-21 12:53:36"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-21 12:49:07"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-21 12:45:29"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-21 12:33:41"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-21 12:30:31"
   }
  ]
 }
