@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T17:05:38-04:00",
+ "generated_at": "2026-11-21T17:10:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-21 17:05:35"
+  "title": "Freedom Wave",
+  "started": "2026-11-21 17:10:19"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-21 17:05:35"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-21 17:00:27"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-21 16:48:04"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-21 16:44:45"
   }
  ]
 }
