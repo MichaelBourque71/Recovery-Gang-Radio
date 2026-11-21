@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T08:18:15-04:00",
+ "generated_at": "2026-11-21T08:20:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-21 08:18:10"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-21 08:20:46"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-21 08:18:10"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-21 08:13:34"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-21 08:00:16"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-21 07:56:50"
   }
  ]
 }
