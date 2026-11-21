@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T11:46:16-04:00",
+ "generated_at": "2026-11-21T11:50:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-21 11:46:14"
+  "title": "Nature Is Talking",
+  "started": "2026-11-21 11:50:31"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-21 11:46:14"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-21 11:42:17"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-21 11:29:24"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-21 11:26:07"
   }
  ]
 }
