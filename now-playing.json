@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T03:33:04-04:00",
+ "generated_at": "2026-11-22T03:35:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-22 03:32:59"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-22 03:35:54"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-22 03:32:59"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-22 03:29:49"
@@ -21,10 +25,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-22 03:17:12"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-22 03:13:37"
   }
  ]
 }
