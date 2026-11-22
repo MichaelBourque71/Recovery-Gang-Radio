@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T15:40:50-04:00",
+ "generated_at": "2026-11-22T15:45:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-22 15:40:47"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-22 15:45:20"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-22 15:40:47"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-22 15:36:17"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-22 15:24:58"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-22 15:20:49"
   }
  ]
 }
