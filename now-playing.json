@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T10:38:50-04:00",
+ "generated_at": "2026-11-22T10:43:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-22 10:38:46"
+  "title": "Low-End Disorder",
+  "started": "2026-11-22 10:43:25"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-22 10:38:46"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-22 10:34:28"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-22 10:22:10"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-22 10:18:02"
   }
  ]
 }
