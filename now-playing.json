@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:48:29-04:00",
+ "generated_at": "2026-11-21T21:53:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-21 21:48:28"
+  "title": "Alignment",
+  "started": "2026-11-21 21:53:22"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-21 21:48:28"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-21 21:43:24"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-21 21:30:48"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-21 21:28:38"
   }
  ]
 }
