@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T19:38:24-04:00",
+ "generated_at": "2026-11-22T19:41:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-22 19:38:21"
+  "title": "I Do What I Want",
+  "started": "2026-11-22 19:41:19"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-22 19:38:21"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-22 19:34:34"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-22 19:22:10"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-22 19:18:02"
   }
  ]
 }
