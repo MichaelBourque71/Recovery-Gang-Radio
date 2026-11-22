@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:31:53-04:00",
+ "generated_at": "2026-11-21T20:35:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-21 20:31:49"
+  "title": "I'm Ready For This",
+  "started": "2026-11-21 20:35:46"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-21 20:31:49"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-21 20:28:45"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-21 20:16:05"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-21 20:13:11"
   }
  ]
 }
