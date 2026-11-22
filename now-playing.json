@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:54:16-04:00",
+ "generated_at": "2026-11-22T06:59:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-22 06:54:15"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-22 06:59:21"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-22 06:54:15"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-22 06:49:52"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-22 06:38:07"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-22 06:33:55"
   }
  ]
 }
