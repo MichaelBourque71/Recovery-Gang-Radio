@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:20:22-04:00",
+ "generated_at": "2026-11-22T06:22:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-22 06:20:18"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-22 06:22:06"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-22 06:20:18"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-22 06:15:01"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-22 05:59:06"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-22 05:52:22"
   }
  ]
 }
