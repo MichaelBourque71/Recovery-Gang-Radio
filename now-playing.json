@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:03:59-04:00",
+ "generated_at": "2026-11-22T16:09:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-22 16:03:54"
+  "title": "Gaslight Halo",
+  "started": "2026-11-22 16:09:36"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-22 16:03:54"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-22 16:00:35"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-22 15:49:01"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-22 15:45:20"
   }
  ]
 }
