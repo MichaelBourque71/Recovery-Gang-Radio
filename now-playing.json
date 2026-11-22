@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T14:51:08-04:00",
+ "generated_at": "2026-11-22T14:55:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-22 14:51:04"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-22 14:55:08"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-22 14:51:04"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-22 14:48:12"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-22 14:37:50"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-22 14:32:23"
   }
  ]
 }
