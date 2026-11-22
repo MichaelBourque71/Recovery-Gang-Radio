@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T11:37:23-04:00",
+ "generated_at": "2026-11-22T11:41:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-22 11:37:21"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-22 11:41:07"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-22 11:37:21"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-22 11:33:59"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-22 11:22:01"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-22 11:18:44"
   }
  ]
 }
