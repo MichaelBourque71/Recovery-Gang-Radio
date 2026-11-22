@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T08:22:59-04:00",
+ "generated_at": "2026-11-22T08:26:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-22 08:22:59"
+  "title": "The Left Lies",
+  "started": "2026-11-22 08:26:57"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-22 08:22:59"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-22 08:16:36"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-22 08:06:55"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-22 08:02:28"
   }
  ]
 }
