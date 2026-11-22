@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:57:20-04:00",
+ "generated_at": "2026-11-21T22:03:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-21 21:57:17"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-21 22:03:13"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-21 21:57:17"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-21 21:53:22"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-21 21:37:48"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-21 21:34:49"
   }
  ]
 }
