@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:25:13-04:00",
+ "generated_at": "2026-11-22T00:29:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-22 00:25:13"
+  "title": "Nature Is Talking",
+  "started": "2026-11-22 00:29:37"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-22 00:25:13"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-22 00:21:10"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-22 00:10:26"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-22 00:07:03"
   }
  ]
 }
