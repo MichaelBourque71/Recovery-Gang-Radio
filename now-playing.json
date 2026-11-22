@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T17:06:22-04:00",
+ "generated_at": "2026-11-22T17:10:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-22 17:06:21"
+  "title": "Freedom Wave",
+  "started": "2026-11-22 17:10:25"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-22 17:06:21"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-22 17:02:27"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-22 16:50:31"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-22 16:45:16"
   }
  ]
 }
