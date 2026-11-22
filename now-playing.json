@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:10:00-04:00",
+ "generated_at": "2026-11-21T20:13:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-21 20:09:57"
+  "title": "Stand for Freedom",
+  "started": "2026-11-21 20:13:11"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-21 20:09:57"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-21 20:05:35"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-21 19:49:26"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-21 19:46:00"
   }
  ]
 }
