@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:21:11-04:00",
+ "generated_at": "2026-11-22T00:25:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-22 00:21:10"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-22 00:25:13"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-22 00:21:10"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-22 00:17:43"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-22 00:07:03"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-22 00:03:13"
   }
  ]
 }
