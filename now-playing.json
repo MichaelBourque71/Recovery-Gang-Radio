@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:47:06-04:00",
+ "generated_at": "2026-11-22T13:50:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-22 13:47:04"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-22 13:50:41"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-22 13:47:04"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-22 13:43:31"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-22 13:32:26"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-22 13:27:52"
   }
  ]
 }
