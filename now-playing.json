@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:43:30-04:00",
+ "generated_at": "2026-11-22T04:46:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-22 04:43:29"
+  "title": "Keyboard Courage",
+  "started": "2026-11-22 04:46:46"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-22 04:43:29"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-22 04:39:32"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-22 04:28:33"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-22 04:23:34"
   }
  ]
 }
