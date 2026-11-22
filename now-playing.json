@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:13:45-04:00",
+ "generated_at": "2026-11-22T16:18:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-22 16:13:41"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-22 16:18:38"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-22 16:13:41"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-22 16:09:36"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-22 15:57:28"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-22 15:52:21"
   }
  ]
 }
