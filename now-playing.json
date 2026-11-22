@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:58:40-04:00",
+ "generated_at": "2026-11-22T14:02:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-22 13:58:37"
+  "title": "Balls Intact",
+  "started": "2026-11-22 14:02:17"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-22 13:58:37"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-22 13:53:42"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-22 13:43:31"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-22 13:39:56"
   }
  ]
 }
