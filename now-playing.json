@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:13:11-04:00",
+ "generated_at": "2026-11-21T20:16:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-21 20:13:11"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-21 20:16:05"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-21 20:13:11"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-21 20:09:57"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-21 19:55:17"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-21 19:49:26"
   }
  ]
 }
