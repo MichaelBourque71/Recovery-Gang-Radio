@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T03:35:57-04:00",
+ "generated_at": "2026-11-22T03:38:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-22 03:35:54"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-22 03:38:46"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-22 03:35:54"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-22 03:32:59"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-22 03:22:04"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-22 03:17:12"
   }
  ]
 }
