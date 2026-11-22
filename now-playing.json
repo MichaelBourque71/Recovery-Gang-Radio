@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T11:48:13-04:00",
+ "generated_at": "2026-11-22T11:52:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-22 11:48:12"
+  "title": "Built To Love",
+  "started": "2026-11-22 11:52:38"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-22 11:48:12"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-22 11:44:53"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-22 11:33:59"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-22 11:30:00"
   }
  ]
 }
