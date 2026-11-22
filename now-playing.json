@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T12:53:37-04:00",
+ "generated_at": "2026-11-22T12:57:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-22 12:53:33"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-22 12:57:08"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-22 12:53:33"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-22 12:49:06"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-22 12:37:48"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-22 12:34:19"
   }
  ]
 }
