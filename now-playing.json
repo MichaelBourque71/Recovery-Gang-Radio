@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T18:27:38-04:00",
+ "generated_at": "2026-11-22T18:30:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-22 18:27:34"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-22 18:30:51"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-22 18:27:34"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-22 18:22:25"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-22 18:11:38"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-22 18:06:33"
   }
  ]
 }
