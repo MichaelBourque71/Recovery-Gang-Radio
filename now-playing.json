@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T23:16:10-04:00",
+ "generated_at": "2026-11-21T23:19:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-21 23:16:06"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-21 23:19:25"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-21 23:16:06"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-21 23:11:57"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-21 23:01:21"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-21 22:57:44"
   }
  ]
 }
