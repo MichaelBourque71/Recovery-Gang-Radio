@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:09:38-04:00",
+ "generated_at": "2026-11-22T16:13:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-22 16:09:36"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-22 16:13:41"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-22 16:09:36"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-22 16:03:54"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-22 15:52:21"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-22 15:49:01"
   }
  ]
 }
