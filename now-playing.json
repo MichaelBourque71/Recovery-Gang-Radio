@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T23:44:48-04:00",
+ "generated_at": "2026-11-21T23:49:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-21 23:44:45"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-21 23:49:36"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-21 23:44:45"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-21 23:38:41"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-21 23:25:07"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-21 23:19:25"
   }
  ]
 }
