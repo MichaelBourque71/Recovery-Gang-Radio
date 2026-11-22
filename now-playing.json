@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:44:19-04:00",
+ "generated_at": "2026-11-22T00:47:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-22 00:44:19"
+  "title": "Stand for Freedom",
+  "started": "2026-11-22 00:47:29"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-22 00:44:19"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-22 00:39:01"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-22 00:25:13"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-22 00:21:10"
   }
  ]
 }
