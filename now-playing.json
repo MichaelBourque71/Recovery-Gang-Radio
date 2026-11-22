@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:38:08-04:00",
+ "generated_at": "2026-11-22T06:42:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-22 06:38:07"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-22 06:42:16"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-22 06:38:07"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-22 06:33:55"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-22 06:22:06"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-22 06:20:18"
   }
  ]
 }
