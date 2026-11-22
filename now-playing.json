@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T08:51:04-04:00",
+ "generated_at": "2026-11-22T08:54:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-22 08:51:00"
+  "title": "Delaware Sniff",
+  "started": "2026-11-22 08:54:00"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-22 08:51:00"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-22 08:48:01"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-22 08:34:16"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-22 08:29:58"
   }
  ]
 }
