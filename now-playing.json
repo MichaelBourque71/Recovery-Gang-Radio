@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T19:26:44-04:00",
+ "generated_at": "2026-11-22T19:30:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-22 19:26:39"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-22 19:30:57"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-22 19:26:39"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-22 19:22:10"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-22 19:10:42"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-22 19:05:58"
   }
  ]
 }
