@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T05:59:11-04:00",
+ "generated_at": "2026-11-22T06:02:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-22 05:59:06"
+  "title": "Pair E - Yes + Your Feet On Steady Ground",
+  "started": "2026-11-22 06:02:32"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-22 05:59:06"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-22 05:52:22"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-22 05:39:11"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-22 05:33:30"
   }
  ]
 }
