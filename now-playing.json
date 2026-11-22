@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T18:15:18-04:00",
+ "generated_at": "2026-11-22T18:18:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-22 18:15:14"
+  "title": "Some People",
+  "started": "2026-11-22 18:18:55"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-22 18:15:14"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-22 18:11:38"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-22 17:58:15"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-22 17:53:34"
   }
  ]
 }
