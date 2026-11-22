@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:23:59-04:00",
+ "generated_at": "2026-11-21T20:28:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-21 20:23:54"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-21 20:28:45"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-21 20:23:54"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-21 20:19:40"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-21 20:09:57"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-21 20:05:35"
   }
  ]
 }
