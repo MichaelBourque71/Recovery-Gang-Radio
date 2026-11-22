@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:08:33-04:00",
+ "generated_at": "2026-11-21T21:12:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-21 21:08:29"
+  "title": "LGBTQ",
+  "started": "2026-11-21 21:12:21"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-21 21:08:29"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-21 21:03:44"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-21 20:54:43"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-21 20:50:19"
   }
  ]
 }
