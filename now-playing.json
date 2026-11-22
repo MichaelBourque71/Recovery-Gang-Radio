@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T15:52:22-04:00",
+ "generated_at": "2026-11-22T15:57:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-22 15:52:21"
+  "title": "Stand for Freedom",
+  "started": "2026-11-22 15:57:28"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-22 15:52:21"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-22 15:49:01"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-22 15:36:17"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-22 15:32:18"
   }
  ]
 }
