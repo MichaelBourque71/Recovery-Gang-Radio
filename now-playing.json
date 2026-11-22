@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T02:03:37-04:00",
+ "generated_at": "2026-11-22T02:05:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-22 02:03:34"
+  "title": "Space Cadet",
+  "started": "2026-11-22 02:05:41"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-22 02:03:34"
+  },
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-22 02:00:31"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-22 01:45:34"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-22 01:42:45"
   }
  ]
 }
