@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T14:29:06-04:00",
+ "generated_at": "2026-11-22T14:32:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-22 14:29:05"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-22 14:32:23"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-22 14:29:05"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-22 14:24:05"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-22 14:12:32"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-22 14:06:35"
   }
  ]
 }
