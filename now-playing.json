@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:54:03-04:00",
+ "generated_at": "2026-11-22T00:57:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-22 00:54:00"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-22 00:57:29"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-22 00:54:00"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-22 00:50:34"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-22 00:39:01"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-22 00:35:55"
   }
  ]
 }
