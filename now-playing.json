@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T22:23:20-04:00",
+ "generated_at": "2026-11-21T22:25:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-21 22:23:17"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-21 22:25:11"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-21 22:23:17"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-21 22:18:25"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-21 22:03:13"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-21 21:57:17"
   }
  ]
 }
