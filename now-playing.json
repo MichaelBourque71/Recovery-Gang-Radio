@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T15:20:51-04:00",
+ "generated_at": "2026-11-22T15:25:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-22 15:20:49"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-22 15:24:58"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-22 15:20:49"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-22 15:16:52"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-22 15:03:23"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-22 14:59:26"
   }
  ]
 }
