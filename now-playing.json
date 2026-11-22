@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:57:06-04:00",
+ "generated_at": "2026-11-21T21:00:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-21 20:57:05"
+  "title": "Living For Peace",
+  "started": "2026-11-21 21:00:11"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-21 20:57:05"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-21 20:54:43"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-21 20:40:31"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-21 20:35:46"
   }
  ]
 }
