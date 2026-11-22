@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T14:02:19-04:00",
+ "generated_at": "2026-11-22T14:06:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-22 14:02:17"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-22 14:06:35"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-22 14:02:17"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-22 13:58:37"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-22 13:47:04"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-22 13:43:31"
   }
  ]
 }
