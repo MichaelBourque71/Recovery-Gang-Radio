@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T11:44:55-04:00",
+ "generated_at": "2026-11-22T11:48:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-22 11:44:53"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-22 11:48:12"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-22 11:44:53"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-22 11:41:07"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-22 11:30:00"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-22 11:26:00"
   }
  ]
 }
