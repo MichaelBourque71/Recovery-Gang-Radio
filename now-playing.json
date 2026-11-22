@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T02:27:23-04:00",
+ "generated_at": "2026-11-22T02:30:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-22 02:27:20"
+  "title": "LGBTQ",
+  "started": "2026-11-22 02:30:53"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-22 02:27:20"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-22 02:24:21"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-22 02:13:33"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-22 02:09:30"
   }
  ]
 }
