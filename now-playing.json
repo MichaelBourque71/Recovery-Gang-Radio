@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T03:25:25-04:00",
+ "generated_at": "2026-11-22T03:29:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-22 03:25:24"
+  "title": "Freedom Wave",
+  "started": "2026-11-22 03:29:49"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-22 03:25:24"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-22 03:22:04"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-22 03:10:00"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-22 03:06:27"
   }
  ]
 }
