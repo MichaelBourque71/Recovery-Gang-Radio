@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:30:48-04:00",
+ "generated_at": "2026-11-21T21:34:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-21 21:30:48"
+  "title": "Stolen Democracy",
+  "started": "2026-11-21 21:34:49"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-21 21:30:48"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-21 21:28:38"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-21 21:16:34"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-21 21:12:21"
   }
  ]
 }
