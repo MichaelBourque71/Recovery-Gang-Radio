@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-22T16:32:16-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-22T16:35:22-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-22 16:32:16"
+ },
  "previous": [
   {
    "title": "Dead Ideology ",
