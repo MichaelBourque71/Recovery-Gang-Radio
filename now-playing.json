@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:36:23-04:00",
+ "generated_at": "2026-11-22T04:39:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-22 04:36:18"
+  "title": "Taste Your Honey",
+  "started": "2026-11-22 04:39:32"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-22 04:36:18"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-22 04:31:25"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-22 04:18:00"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-22 04:13:41"
   }
  ]
 }
