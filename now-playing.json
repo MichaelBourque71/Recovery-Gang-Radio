@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:54:21-04:00",
+ "generated_at": "2026-11-22T07:58:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-22 07:54:16"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-22 07:58:39"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-22 07:54:16"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-22 07:50:16"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-22 07:36:59"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-22 07:32:55"
   }
  ]
 }
