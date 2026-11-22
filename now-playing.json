@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T10:47:23-04:00",
+ "generated_at": "2026-11-22T10:52:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-22 10:47:19"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-22 10:52:01"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-22 10:47:19"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-22 10:43:25"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-22 10:30:07"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-22 10:27:15"
   }
  ]
 }
