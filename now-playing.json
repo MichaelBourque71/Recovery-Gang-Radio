@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T18:39:08-04:00",
+ "generated_at": "2026-11-22T18:42:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-22 18:39:04"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-22 18:42:40"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-22 18:39:04"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-22 18:34:14"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-22 18:22:25"
-  },
-  {
-   "title": "Some People",
-   "started": "2026-11-22 18:18:55"
   }
  ]
 }
