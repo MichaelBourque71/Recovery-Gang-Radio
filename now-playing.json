@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:35:56-04:00",
+ "generated_at": "2026-11-22T00:39:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-22 00:35:55"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-22 00:39:01"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-22 00:35:55"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-22 00:29:37"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-22 00:17:43"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-22 00:14:21"
   }
  ]
 }
