@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:40:00-04:00",
+ "generated_at": "2026-11-22T13:43:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-22 13:39:56"
+  "title": "Living For Peace",
+  "started": "2026-11-22 13:43:31"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-22 13:39:56"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-22 13:35:18"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-22 13:24:08"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-22 13:20:39"
   }
  ]
 }
