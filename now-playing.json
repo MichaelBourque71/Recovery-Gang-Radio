@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T02:20:48-04:00",
+ "generated_at": "2026-11-22T02:24:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-22 02:20:46"
+  "title": "Disobey Authority",
+  "started": "2026-11-22 02:24:21"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-22 02:20:46"
+  },
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-22 02:17:09"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-22 02:05:41"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-22 02:03:34"
   }
  ]
 }
