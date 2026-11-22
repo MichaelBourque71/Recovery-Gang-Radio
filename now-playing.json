@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:14:23-04:00",
+ "generated_at": "2026-11-22T00:17:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-22 00:14:21"
+  "title": "Dead Ideology ",
+  "started": "2026-11-22 00:17:43"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-22 00:14:21"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-22 00:10:26"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-21 23:59:36"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-21 23:55:32"
   }
  ]
 }
