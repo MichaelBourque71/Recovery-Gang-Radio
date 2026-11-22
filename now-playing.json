@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:28:45-04:00",
+ "generated_at": "2026-11-21T20:31:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-21 20:28:45"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-21 20:31:49"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-21 20:28:45"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-21 20:23:54"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-21 20:13:11"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-21 20:09:57"
   }
  ]
 }
