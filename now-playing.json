@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:34:52-04:00",
+ "generated_at": "2026-11-21T21:37:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-21 21:34:49"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-21 21:37:48"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-21 21:34:49"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-21 21:30:48"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-21 21:20:22"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-21 21:16:34"
   }
  ]
 }
