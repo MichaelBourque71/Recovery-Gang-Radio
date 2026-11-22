@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:59:32-04:00",
+ "generated_at": "2026-11-22T01:01:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-22 00:59:29"
+  "title": "I Have Something to Say",
+  "started": "2026-11-22 01:01:49"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-22 00:59:29"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-22 00:57:29"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-22 00:47:29"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-22 00:44:19"
   }
  ]
 }
