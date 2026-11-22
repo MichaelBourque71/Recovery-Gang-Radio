@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T15:57:30-04:00",
+ "generated_at": "2026-11-22T16:00:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-22 15:57:28"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-22 16:00:35"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-22 15:57:28"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-22 15:52:21"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-22 15:40:47"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-22 15:36:17"
   }
  ]
 }
