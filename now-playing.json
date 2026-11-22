@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:58:41-04:00",
+ "generated_at": "2026-11-22T08:02:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-22 07:58:39"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-22 08:02:28"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-22 07:58:39"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-22 07:54:16"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-22 07:41:02"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-22 07:36:59"
   }
  ]
 }
