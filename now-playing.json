@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T03:38:49-04:00",
+ "generated_at": "2026-11-22T03:43:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-22 03:38:46"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-22 03:43:03"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-22 03:38:46"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-22 03:35:54"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-22 03:25:24"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-22 03:22:04"
   }
  ]
 }
