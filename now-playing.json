@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:24:10-04:00",
+ "generated_at": "2026-11-22T13:27:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-22 13:24:08"
+  "title": "Back Down While You Still Can (Alt version)",
+  "started": "2026-11-22 13:27:52"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-22 13:24:08"
+  },
   {
    "title": "Yes",
    "started": "2026-11-22 13:20:39"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-22 13:10:53"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-22 13:07:06"
   }
  ]
 }
