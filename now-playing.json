@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:50:38-04:00",
+ "generated_at": "2026-11-22T00:54:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Unstoppable Force",
-  "started": "2026-11-22 00:50:34"
+  "title": "Time For Talking",
+  "started": "2026-11-22 00:54:00"
  },
  "previous": [
+  {
+   "title": "Unstoppable Force",
+   "started": "2026-11-22 00:50:34"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-22 00:47:29"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-22 00:35:55"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-22 00:29:37"
   }
  ]
 }
