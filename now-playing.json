@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:03:45-04:00",
+ "generated_at": "2026-11-22T04:06:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-22 04:03:43"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-22 04:06:31"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-22 04:03:43"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-22 03:58:34"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-22 03:46:52"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-22 03:43:03"
   }
  ]
 }
