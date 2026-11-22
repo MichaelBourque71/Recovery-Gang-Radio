@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T23:01:26-04:00",
+ "generated_at": "2026-11-21T23:04:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-21 23:01:21"
+  "title": "Unstoppable Force",
+  "started": "2026-11-21 23:04:15"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-21 23:01:21"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-21 22:57:44"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-21 22:45:41"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-21 22:42:52"
   }
  ]
 }
