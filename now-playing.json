@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:58:33-04:00",
+ "generated_at": "2026-11-22T17:02:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-22 16:58:31"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-22 17:02:27"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-22 16:58:31"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-22 16:54:35"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-22 16:39:50"
-  },
-  {
-   "title": "So Take a Chance",
-   "started": "2026-11-22 16:35:39"
   }
  ]
 }
