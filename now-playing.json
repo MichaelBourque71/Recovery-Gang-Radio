@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T22:30:07-04:00",
+ "generated_at": "2026-11-21T22:34:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-21 22:30:02"
+  "title": "Heavy Denim",
+  "started": "2026-11-21 22:34:40"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-21 22:30:02"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-21 22:25:11"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-21 22:12:46"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-21 22:08:09"
   }
  ]
 }
