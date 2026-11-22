@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:11:39-04:00",
+ "generated_at": "2026-11-22T06:15:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-22 06:11:37"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-22 06:15:01"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-22 06:11:37"
+  },
   {
    "title": "Pair E - Yes + Your Feet On Steady Ground",
    "started": "2026-11-22 06:02:32"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-22 05:47:13"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-22 05:43:18"
   }
  ]
 }
