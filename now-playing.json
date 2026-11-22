@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:16:36-04:00",
+ "generated_at": "2026-11-21T21:20:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-21 21:16:34"
+  "title": "You",
+  "started": "2026-11-21 21:20:22"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-21 21:16:34"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-21 21:12:21"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-21 21:00:11"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-21 20:57:05"
   }
  ]
 }
