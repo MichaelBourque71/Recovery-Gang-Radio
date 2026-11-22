@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:51:33-04:00",
+ "generated_at": "2026-11-22T04:55:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-22 04:51:30"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-22 04:55:47"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-22 04:51:30"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-22 04:46:46"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-22 04:36:18"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-22 04:31:25"
   }
  ]
 }
