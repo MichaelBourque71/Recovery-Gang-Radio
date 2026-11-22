@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T11:52:38-04:00",
+ "generated_at": "2026-11-22T11:58:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-22 11:52:38"
+  "title": "Putz in a Suit",
+  "started": "2026-11-22 11:58:29"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-22 11:52:38"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-22 11:48:12"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-22 11:37:21"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-22 11:33:59"
   }
  ]
 }
