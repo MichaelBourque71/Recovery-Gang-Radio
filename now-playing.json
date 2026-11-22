@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:43:33-04:00",
+ "generated_at": "2026-11-22T13:47:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-22 13:43:31"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-22 13:47:04"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-22 13:43:31"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-22 13:39:56"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-22 13:27:52"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-22 13:24:08"
   }
  ]
 }
