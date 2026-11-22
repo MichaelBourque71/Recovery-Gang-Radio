@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:11:22-04:00",
+ "generated_at": "2026-11-22T07:14:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-22 07:11:18"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-22 07:14:28"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-22 07:11:18"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-22 07:08:29"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-22 06:54:15"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-22 06:49:52"
   }
  ]
 }
