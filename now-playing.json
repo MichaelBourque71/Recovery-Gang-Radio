@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:17:27-04:00",
+ "generated_at": "2026-11-22T07:21:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-22 07:17:24"
+  "title": "Built To Love",
+  "started": "2026-11-22 07:21:40"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-22 07:17:24"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-22 07:14:28"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-22 07:02:39"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-22 06:59:21"
   }
  ]
 }
