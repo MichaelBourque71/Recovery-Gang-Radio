@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:18:06-04:00",
+ "generated_at": "2026-11-22T13:20:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-22 13:18:03"
+  "title": "Yes",
+  "started": "2026-11-22 13:20:39"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-22 13:18:03"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-22 13:15:41"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-22 13:04:08"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-22 13:01:10"
   }
  ]
 }
