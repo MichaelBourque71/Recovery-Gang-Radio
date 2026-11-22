@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T12:37:50-04:00",
+ "generated_at": "2026-11-22T12:40:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-22 12:37:48"
+  "title": "Weed Coughs",
+  "started": "2026-11-22 12:40:23"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-22 12:37:48"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-22 12:34:19"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-22 12:21:28"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-22 12:16:23"
   }
  ]
 }
