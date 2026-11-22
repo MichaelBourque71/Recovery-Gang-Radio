@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:59:26-04:00",
+ "generated_at": "2026-11-22T07:02:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-22 06:59:21"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-22 07:02:39"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-22 06:59:21"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-22 06:54:15"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-22 06:42:16"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-22 06:38:07"
   }
  ]
 }
