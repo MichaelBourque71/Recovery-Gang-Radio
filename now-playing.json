@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T05:47:18-04:00",
+ "generated_at": "2026-11-22T05:52:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-22 05:47:13"
+  "title": "Nature Is Talking",
+  "started": "2026-11-22 05:52:22"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-22 05:47:13"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-22 05:43:18"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-22 05:29:02"
-  },
-  {
-   "title": "Neurotic Kitty",
-   "started": "2026-11-22 05:25:34"
   }
  ]
 }
