@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T22:39:28-04:00",
+ "generated_at": "2026-11-21T22:42:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-21 22:39:27"
+  "title": "Mushroom Parade",
+  "started": "2026-11-21 22:42:52"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-21 22:39:27"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-21 22:34:40"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-21 22:23:17"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-21 22:18:25"
   }
  ]
 }
