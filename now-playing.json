@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:02:40-04:00",
+ "generated_at": "2026-11-22T07:08:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-22 07:02:39"
+  "title": "Mushroom Parade",
+  "started": "2026-11-22 07:08:29"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-22 07:02:39"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-22 06:59:21"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-22 06:45:41"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-22 06:42:16"
   }
  ]
 }
