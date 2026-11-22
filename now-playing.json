@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:28:34-04:00",
+ "generated_at": "2026-11-22T04:31:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-22 04:28:33"
+  "title": "Day And Night",
+  "started": "2026-11-22 04:31:25"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-22 04:28:33"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-22 04:23:34"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-22 04:10:05"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-22 04:06:31"
   }
  ]
 }
