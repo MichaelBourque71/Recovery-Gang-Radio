@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T01:54:48-04:00",
+ "generated_at": "2026-11-22T02:00:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-22 01:54:46"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-22 02:00:31"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-22 01:54:46"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-22 01:50:25"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-22 01:39:10"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-22 01:35:31"
   }
  ]
 }
