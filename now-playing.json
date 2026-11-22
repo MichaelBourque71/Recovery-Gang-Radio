@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T08:48:04-04:00",
+ "generated_at": "2026-11-22T08:51:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-22 08:48:01"
+  "title": "Stolen Democracy",
+  "started": "2026-11-22 08:51:00"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-22 08:48:01"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-22 08:43:24"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-22 08:29:58"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-22 08:26:57"
   }
  ]
 }
