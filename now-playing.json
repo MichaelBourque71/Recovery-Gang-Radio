@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T19:22:10-04:00",
+ "generated_at": "2026-11-22T19:26:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-22 19:22:10"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-22 19:26:39"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-22 19:22:10"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-22 19:18:02"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-22 19:05:58"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-22 19:01:12"
   }
  ]
 }
