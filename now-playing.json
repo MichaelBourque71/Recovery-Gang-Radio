@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:22:55-04:00",
+ "generated_at": "2026-11-22T16:28:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-22 16:22:54"
+  "title": "Dead Ideology ",
+  "started": "2026-11-22 16:28:49"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-22 16:22:54"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-22 16:18:38"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-22 16:03:54"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-22 16:00:35"
   }
  ]
 }
