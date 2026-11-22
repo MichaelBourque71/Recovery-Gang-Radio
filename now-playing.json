@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T22:48:57-04:00",
+ "generated_at": "2026-11-21T22:52:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-21 22:48:54"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-21 22:52:53"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-21 22:48:54"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-21 22:45:41"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-21 22:34:40"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-21 22:30:02"
   }
  ]
 }
