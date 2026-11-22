@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:23:41-04:00",
+ "generated_at": "2026-11-21T21:28:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-21 21:23:39"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-21 21:28:38"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-21 21:23:39"
+  },
   {
    "title": "You",
    "started": "2026-11-21 21:20:22"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-21 21:08:29"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-21 21:03:44"
   }
  ]
 }
