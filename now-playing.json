@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:10:27-04:00",
+ "generated_at": "2026-11-22T00:14:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-22 00:10:26"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-22 00:14:21"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-22 00:10:26"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-22 00:07:03"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-21 23:55:32"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-21 23:53:00"
   }
  ]
 }
