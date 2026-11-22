@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T12:25:21-04:00",
+ "generated_at": "2026-11-22T12:30:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-22 12:25:17"
+  "title": "Gaslight Halo",
+  "started": "2026-11-22 12:30:14"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-22 12:25:17"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-22 12:21:28"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-22 12:10:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-22 12:06:50"
   }
  ]
 }
