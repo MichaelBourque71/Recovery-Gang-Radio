@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:35:40-04:00",
+ "generated_at": "2026-11-22T16:39:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-22 16:35:39"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-22 16:39:50"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-22 16:35:39"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-22 16:32:16"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-22 16:18:38"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-22 16:13:41"
   }
  ]
 }
