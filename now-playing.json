@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:39:02-04:00",
+ "generated_at": "2026-11-22T00:44:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-22 00:39:01"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-22 00:44:19"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-22 00:39:01"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-22 00:35:55"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-22 00:21:10"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-22 00:17:43"
   }
  ]
 }
