@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T23:28:37-04:00",
+ "generated_at": "2026-11-21T23:31:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-21 23:28:35"
+  "title": "There's Still Hope",
+  "started": "2026-11-21 23:31:49"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-21 23:28:35"
+  },
   {
    "title": "Yes",
    "started": "2026-11-21 23:25:07"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-21 23:11:57"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-21 23:07:41"
   }
  ]
 }
