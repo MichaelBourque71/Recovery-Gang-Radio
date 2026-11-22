@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:01:24-04:00",
+ "generated_at": "2026-11-21T20:05:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-21 20:01:23"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-21 20:05:35"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-21 20:01:23"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-21 19:55:17"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-21 19:42:40"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-21 19:39:52"
   }
  ]
 }
