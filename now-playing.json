@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:10:09-04:00",
+ "generated_at": "2026-11-22T04:13:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-22 04:10:05"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-22 04:13:41"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-22 04:10:05"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-22 04:06:31"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-22 03:54:58"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-22 03:50:30"
   }
  ]
 }
