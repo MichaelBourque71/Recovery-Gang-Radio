@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-22T16:28:53-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-22 16:28:49"
- },
+ "generated_at": "2026-11-22T16:32:16-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-22 16:28:49"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-22 16:22:54"
@@ -21,10 +22,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-22 16:09:36"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-22 16:03:54"
   }
  ]
 }
