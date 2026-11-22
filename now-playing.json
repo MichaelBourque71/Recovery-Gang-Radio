@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T21:03:49-04:00",
+ "generated_at": "2026-11-21T21:08:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-21 21:03:44"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-21 21:08:29"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-21 21:03:44"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-21 21:00:11"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-21 20:50:19"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-21 20:44:58"
   }
  ]
 }
