@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T20:35:50-04:00",
+ "generated_at": "2026-11-21T20:40:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-21 20:35:46"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-21 20:40:31"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-21 20:35:46"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-21 20:31:49"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-21 20:19:40"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-21 20:16:05"
   }
  ]
 }
