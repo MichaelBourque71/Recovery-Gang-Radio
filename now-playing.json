@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:04:08-04:00",
+ "generated_at": "2026-11-22T13:07:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-22 13:04:08"
+  "title": "I'm Ready For This",
+  "started": "2026-11-22 13:07:06"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-22 13:04:08"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-22 13:01:10"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-22 12:49:06"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-22 12:45:11"
   }
  ]
 }
