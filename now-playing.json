@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T19:18:06-04:00",
+ "generated_at": "2026-11-22T19:22:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-22 19:18:02"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-22 19:22:10"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-22 19:18:02"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-22 19:13:33"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-22 19:01:12"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-22 18:58:50"
   }
  ]
 }
