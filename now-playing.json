@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T01:01:54-04:00",
+ "generated_at": "2026-11-22T01:07:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Have Something to Say",
-  "started": "2026-11-22 01:01:49"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-22 01:07:31"
  },
  "previous": [
+  {
+   "title": "I Have Something to Say",
+   "started": "2026-11-22 01:01:49"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-22 00:59:29"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-22 00:50:34"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-22 00:47:29"
   }
  ]
 }
