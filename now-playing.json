@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T03:43:08-04:00",
+ "generated_at": "2026-11-22T03:46:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-22 03:43:03"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-22 03:46:52"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-22 03:43:03"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-22 03:38:46"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-22 03:29:49"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-22 03:25:24"
   }
  ]
 }
