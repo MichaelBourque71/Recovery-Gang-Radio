@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T04:31:25-04:00",
+ "generated_at": "2026-11-22T04:36:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-22 04:31:25"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-22 04:36:18"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-22 04:31:25"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-22 04:28:33"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-22 04:13:41"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-22 04:10:05"
   }
  ]
 }
