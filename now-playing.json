@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T05:20:38-04:00",
+ "generated_at": "2026-11-22T05:25:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-22 05:20:36"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-22 05:25:34"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-22 05:20:36"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-22 05:17:24"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-22 05:04:44"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-22 05:01:17"
   }
  ]
 }
