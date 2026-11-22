@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T18:30:51-04:00",
+ "generated_at": "2026-11-22T18:34:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-22 18:30:51"
+  "title": "Gaslight Halo",
+  "started": "2026-11-22 18:34:14"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-22 18:30:51"
+  },
   {
    "title": "You",
    "started": "2026-11-22 18:27:34"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-22 18:15:14"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-22 18:11:38"
   }
  ]
 }
