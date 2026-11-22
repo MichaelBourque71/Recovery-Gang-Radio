@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T05:13:50-04:00",
+ "generated_at": "2026-11-22T05:17:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-22 05:13:46"
+  "title": "Weaponized Children",
+  "started": "2026-11-22 05:17:24"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-22 05:13:46"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-22 05:08:18"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-22 04:55:47"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-22 04:51:30"
   }
  ]
 }
