@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T11:04:57-04:00",
+ "generated_at": "2026-11-22T11:07:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-22 11:04:53"
+  "title": "Money & Fame",
+  "started": "2026-11-22 11:07:38"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-22 11:04:53"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-22 11:00:11"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-22 10:47:19"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-22 10:43:25"
   }
  ]
 }
