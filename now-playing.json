@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:49:55-04:00",
+ "generated_at": "2026-11-22T06:54:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-22 06:49:52"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-22 06:54:15"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-22 06:49:52"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-22 06:45:41"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-22 06:33:55"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-22 06:30:21"
   }
  ]
 }
