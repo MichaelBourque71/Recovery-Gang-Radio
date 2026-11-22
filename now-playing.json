@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T09:46:14-04:00",
+ "generated_at": "2026-11-22T09:50:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-22 09:46:09"
+  "title": "Heavy Denim",
+  "started": "2026-11-22 09:50:26"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-22 09:46:09"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-22 09:43:05"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-22 09:30:25"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-22 09:26:09"
   }
  ]
 }
