@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T09:08:48-04:00",
+ "generated_at": "2026-11-22T09:13:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-22 09:08:44"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-22 09:13:11"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-22 09:08:44"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-22 09:05:40"
@@ -21,10 +25,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-22 08:54:00"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-22 08:51:00"
   }
  ]
 }
