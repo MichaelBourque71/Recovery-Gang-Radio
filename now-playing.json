@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T07:21:42-04:00",
+ "generated_at": "2026-11-22T07:27:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-22 07:21:40"
+  "title": "Fuck Winter",
+  "started": "2026-11-22 07:27:41"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-22 07:21:40"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-22 07:17:24"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-22 07:08:29"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-22 07:02:39"
   }
  ]
 }
