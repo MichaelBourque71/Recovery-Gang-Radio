@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-21T23:12:00-04:00",
+ "generated_at": "2026-11-21T23:16:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-21 23:11:57"
+  "title": "Clown In A Crown",
+  "started": "2026-11-21 23:16:06"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-21 23:11:57"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-21 23:07:41"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-21 22:57:44"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-21 22:52:53"
   }
  ]
 }
