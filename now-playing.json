@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T00:57:33-04:00",
+ "generated_at": "2026-11-22T00:59:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-22 00:57:29"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-22 00:59:29"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-22 00:57:29"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-22 00:54:00"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-22 00:44:19"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-22 00:39:01"
   }
  ]
 }
