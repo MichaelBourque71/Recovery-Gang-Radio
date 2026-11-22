@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T02:09:32-04:00",
+ "generated_at": "2026-11-22T02:13:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-22 02:09:30"
+  "title": "History Collects",
+  "started": "2026-11-22 02:13:33"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-22 02:09:30"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-22 02:05:41"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-22 01:54:46"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-22 01:50:25"
   }
  ]
 }
