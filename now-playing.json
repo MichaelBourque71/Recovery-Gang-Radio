@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T06:42:20-04:00",
+ "generated_at": "2026-11-22T06:45:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-22 06:42:16"
+  "title": "So Take a Chance",
+  "started": "2026-11-22 06:45:41"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-22 06:42:16"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-22 06:38:07"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-22 06:25:55"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-22 06:22:06"
   }
  ]
 }
