@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T05:43:23-04:00",
+ "generated_at": "2026-11-22T05:47:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-22 05:43:18"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-22 05:47:13"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-22 05:43:18"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-22 05:39:11"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-22 05:25:34"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-22 05:20:36"
   }
  ]
 }
