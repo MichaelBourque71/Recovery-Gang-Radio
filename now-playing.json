@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T13:50:45-04:00",
+ "generated_at": "2026-11-22T13:53:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-22 13:50:41"
+  "title": "Keyboard Courage",
+  "started": "2026-11-22 13:53:42"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-22 13:50:41"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-22 13:47:04"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-22 13:35:18"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-22 13:32:26"
   }
  ]
 }
