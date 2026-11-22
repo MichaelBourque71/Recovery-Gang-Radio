@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T16:45:16-04:00",
+ "generated_at": "2026-11-22T16:50:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-22 16:45:16"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-22 16:50:31"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-22 16:45:16"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-22 16:39:50"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-22 16:28:49"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-22 16:22:54"
   }
  ]
 }
