@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T05:58:32-04:00",
+ "generated_at": "2026-11-23T06:03:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-23 05:58:32"
+  "title": "Invisible String",
+  "started": "2026-11-23 06:03:57"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-23 05:58:32"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-23 05:54:16"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-23 05:41:56"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-23 05:37:14"
   }
  ]
 }
