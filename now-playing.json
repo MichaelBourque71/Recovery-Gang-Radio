@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:09:13-04:00",
+ "generated_at": "2026-11-23T19:12:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-23 19:09:10"
+  "title": "Keyboard Courage",
+  "started": "2026-11-23 19:12:49"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-23 19:09:10"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-23 19:04:13"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-23 18:51:54"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-23 18:48:27"
   }
  ]
 }
