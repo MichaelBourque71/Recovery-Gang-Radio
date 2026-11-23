@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T02:25:15-04:00",
+ "generated_at": "2026-11-23T02:28:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-23 02:25:10"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-23 02:28:46"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-23 02:25:10"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-23 02:20:42"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-23 02:07:04"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-23 02:01:19"
   }
  ]
 }
