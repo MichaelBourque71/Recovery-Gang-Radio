@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T12:04:53-04:00",
+ "generated_at": "2026-11-23T12:08:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-23 12:04:51"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-23 12:08:05"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-23 12:04:51"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-23 12:01:10"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-23 11:50:17"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-23 11:44:55"
   }
  ]
 }
