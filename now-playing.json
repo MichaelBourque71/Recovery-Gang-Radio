@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:17:48-04:00",
+ "generated_at": "2026-11-23T19:20:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-23 19:17:45"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-23 19:20:50"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-23 19:17:45"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-23 19:12:49"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-23 19:01:23"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-23 18:57:40"
   }
  ]
 }
