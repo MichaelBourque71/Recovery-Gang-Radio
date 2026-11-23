@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T12:51:46-04:00",
+ "generated_at": "2026-11-23T12:56:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-23 12:51:45"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-23 12:56:44"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-23 12:51:45"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-23 12:48:25"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-23 12:36:51"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-23 12:32:33"
   }
  ]
 }
