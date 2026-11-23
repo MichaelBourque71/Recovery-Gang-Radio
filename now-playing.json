@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:37:55-04:00",
+ "generated_at": "2026-11-23T16:43:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-23 16:37:50"
+  "title": "History Collects",
+  "started": "2026-11-23 16:43:16"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-23 16:37:50"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-23 16:33:38"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-23 16:19:58"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-23 16:15:26"
   }
  ]
 }
