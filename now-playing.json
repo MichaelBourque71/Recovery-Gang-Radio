@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:54:27-04:00",
+ "generated_at": "2026-11-23T16:57:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-23 16:54:23"
+  "title": "Running With Scissors",
+  "started": "2026-11-23 16:57:54"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-23 16:54:23"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-23 16:49:27"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-23 16:37:50"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-23 16:33:38"
   }
  ]
 }
