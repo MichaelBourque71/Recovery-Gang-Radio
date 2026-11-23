@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:29:57-04:00",
+ "generated_at": "2026-11-23T03:33:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-23 03:29:56"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-23 03:32:57"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-23 03:29:56"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-23 03:25:42"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-23 03:10:49"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-23 03:05:22"
   }
  ]
 }
