@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:17:46-04:00",
+ "generated_at": "2026-11-22T22:22:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-22 22:17:45"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-22 22:21:56"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-22 22:17:45"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-22 22:13:35"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-22 22:04:22"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-22 22:00:08"
   }
  ]
 }
