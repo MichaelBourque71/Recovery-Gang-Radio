@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T10:33:22-04:00",
+ "generated_at": "2026-11-23T10:39:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-23 10:33:17"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-23 10:39:06"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-23 10:33:17"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-23 10:28:59"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-23 10:16:54"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-23 10:12:41"
   }
  ]
 }
