@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T10:44:57-04:00",
+ "generated_at": "2026-11-23T10:48:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-23 10:44:57"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-23 10:48:10"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-23 10:44:57"
+  },
   {
    "title": "Youth In Asia",
    "started": "2026-11-23 10:41:43"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-23 10:28:59"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-23 10:26:04"
   }
  ]
 }
