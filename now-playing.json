@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T12:56:47-04:00",
+ "generated_at": "2026-11-23T13:00:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-23 12:56:44"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-23 13:00:01"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-23 12:56:44"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-23 12:51:45"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-23 12:39:49"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-23 12:36:51"
   }
  ]
 }
