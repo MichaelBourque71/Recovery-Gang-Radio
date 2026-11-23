@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T15:18:23-04:00",
+ "generated_at": "2026-11-23T15:22:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-23 15:18:22"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-23 15:22:53"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-23 15:18:22"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-23 15:11:59"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-23 15:00:38"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-23 14:57:28"
   }
  ]
 }
