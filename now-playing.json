@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:12:05-04:00",
+ "generated_at": "2026-11-23T01:14:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-23 01:12:04"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-23 01:14:26"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-23 01:12:04"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-23 01:07:54"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-23 00:53:23"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-23 00:50:21"
   }
  ]
 }
