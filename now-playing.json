@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T05:54:17-04:00",
+ "generated_at": "2026-11-23T05:58:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-23 05:54:16"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-23 05:58:32"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-23 05:54:16"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-23 05:50:50"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-23 05:37:14"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-23 05:33:57"
   }
  ]
 }
