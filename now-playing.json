@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T00:50:26-04:00",
+ "generated_at": "2026-11-23T00:53:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-23 00:50:21"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-23 00:53:23"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-23 00:50:21"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-23 00:46:54"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-23 00:34:19"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-23 00:31:36"
   }
  ]
 }
