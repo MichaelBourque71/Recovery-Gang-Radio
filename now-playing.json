@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:00:47-04:00",
+ "generated_at": "2026-11-23T09:04:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-23 09:00:46"
+  "title": "Low-End Disorder",
+  "started": "2026-11-23 09:04:54"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-23 09:00:46"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-23 08:57:42"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-23 08:45:03"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-23 08:39:59"
   }
  ]
 }
