@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T20:24:57-04:00",
+ "generated_at": "2026-11-22T20:26:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-22 20:24:55"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-22 20:26:43"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-22 20:24:55"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-22 20:21:19"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-22 20:08:40"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-22 20:04:05"
   }
  ]
 }
