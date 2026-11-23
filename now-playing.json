@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T00:24:59-04:00",
+ "generated_at": "2026-11-23T00:31:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-23 00:24:56"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-23 00:31:36"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-23 00:24:56"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-23 00:20:29"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-23 00:08:11"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-23 00:05:17"
   }
  ]
 }
