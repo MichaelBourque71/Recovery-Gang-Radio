@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:00:30-04:00",
+ "generated_at": "2026-11-23T18:05:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-23 18:00:27"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-23 18:05:50"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-23 18:00:27"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-23 17:56:51"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-23 17:44:37"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-23 17:39:39"
   }
  ]
 }
