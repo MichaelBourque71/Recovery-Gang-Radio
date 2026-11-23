@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:33:00-04:00",
+ "generated_at": "2026-11-23T03:37:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-23 03:32:57"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-23 03:36:56"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-23 03:32:57"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-23 03:29:56"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-23 03:15:05"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-23 03:10:49"
   }
  ]
 }
