@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:43:20-04:00",
+ "generated_at": "2026-11-23T16:46:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-23 16:43:16"
+  "title": "Mushroom Parade",
+  "started": "2026-11-23 16:46:26"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-23 16:43:16"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-23 16:37:50"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-23 16:23:24"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-23 16:19:58"
   }
  ]
 }
