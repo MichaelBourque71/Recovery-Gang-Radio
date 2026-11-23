@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:35:36-04:00",
+ "generated_at": "2026-11-23T09:39:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-23 09:35:32"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-23 09:39:43"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-23 09:35:32"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-23 09:31:14"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-23 09:19:31"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-23 09:14:58"
   }
  ]
 }
