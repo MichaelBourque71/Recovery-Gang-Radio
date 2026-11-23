@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:49:05-04:00",
+ "generated_at": "2026-11-23T03:52:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-23 03:49:05"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-23 03:52:36"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-23 03:49:05"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-23 03:44:05"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-23 03:32:57"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-23 03:29:56"
   }
  ]
 }
