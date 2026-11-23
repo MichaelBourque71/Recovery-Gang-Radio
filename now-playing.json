@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:54:30-04:00",
+ "generated_at": "2026-11-23T19:58:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-23 19:54:26"
+  "title": "Stranger Danger",
+  "started": "2026-11-23 19:58:24"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-23 19:54:26"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-23 19:50:36"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-23 19:34:57"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-23 19:31:58"
   }
  ]
 }
