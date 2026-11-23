@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T20:40:48-04:00",
+ "generated_at": "2026-11-22T20:46:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-22 20:40:45"
+  "title": "I'm Ready For This",
+  "started": "2026-11-22 20:46:07"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-22 20:40:45"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-22 20:36:50"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-22 20:26:43"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-22 20:24:55"
   }
  ]
 }
