@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:04:58-04:00",
+ "generated_at": "2026-11-23T09:08:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-23 09:04:54"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-23 09:08:48"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-23 09:04:54"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-23 09:00:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-23 08:49:36"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-23 08:45:03"
   }
  ]
 }
