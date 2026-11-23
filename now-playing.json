@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:43:12-04:00",
+ "generated_at": "2026-11-23T01:47:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-23 01:43:09"
+  "title": "Stand for Freedom",
+  "started": "2026-11-23 01:47:31"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-23 01:43:09"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-23 01:37:33"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-23 01:24:26"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-23 01:21:38"
   }
  ]
 }
