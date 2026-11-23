@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:04:16-04:00",
+ "generated_at": "2026-11-23T19:09:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-23 19:04:13"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-23 19:09:10"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-23 19:04:13"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-23 19:01:23"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-23 18:48:27"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-23 18:45:00"
   }
  ]
 }
