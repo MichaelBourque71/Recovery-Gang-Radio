@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:57:43-04:00",
+ "generated_at": "2026-11-23T09:00:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-23 08:57:42"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-23 09:00:46"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-23 08:57:42"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-23 08:54:05"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-23 08:39:59"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-23 08:36:31"
   }
  ]
 }
