@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T12:48:27-04:00",
+ "generated_at": "2026-11-23T12:51:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-23 12:48:25"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-23 12:51:45"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-23 12:48:25"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-23 12:42:21"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-23 12:32:33"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-23 12:28:04"
   }
  ]
 }
