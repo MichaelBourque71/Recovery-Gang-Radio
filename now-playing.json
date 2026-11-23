@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:23:27-04:00",
+ "generated_at": "2026-11-23T16:29:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-23 16:23:24"
+  "title": "Weed Coughs",
+  "started": "2026-11-23 16:29:11"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-23 16:23:24"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-23 16:19:58"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-23 16:07:56"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-23 16:02:23"
   }
  ]
 }
