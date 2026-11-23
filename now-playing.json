@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:04:03-04:00",
+ "generated_at": "2026-11-23T08:07:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-23 08:04:01"
+  "title": "Greedy Bitch",
+  "started": "2026-11-23 08:07:34"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-23 08:04:01"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-23 07:58:44"
@@ -21,10 +25,6 @@
   {
    "title": "I Have Something to Say",
    "started": "2026-11-23 07:45:05"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-23 07:40:01"
   }
  ]
 }
