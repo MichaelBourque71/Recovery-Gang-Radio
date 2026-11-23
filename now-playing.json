@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T06:03:59-04:00",
+ "generated_at": "2026-11-23T06:08:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-23 06:03:57"
+  "title": "Unstoppable Force",
+  "started": "2026-11-23 06:07:59"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-23 06:03:57"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-23 05:58:32"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-23 05:45:44"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-23 05:41:56"
   }
  ]
 }
