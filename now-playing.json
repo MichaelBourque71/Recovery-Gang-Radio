@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:51:38-04:00",
+ "generated_at": "2026-11-23T09:56:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-23 09:51:37"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-23 09:55:59"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-23 09:51:37"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-23 09:47:42"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-23 09:35:32"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-23 09:31:14"
   }
  ]
 }
