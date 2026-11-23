@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:26:53-04:00",
+ "generated_at": "2026-11-23T18:31:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-23 18:26:51"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-23 18:31:19"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-23 18:26:51"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-23 18:23:32"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-23 18:12:50"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-23 18:09:19"
   }
  ]
 }
