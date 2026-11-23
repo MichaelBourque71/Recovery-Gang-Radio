@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T23:07:47-04:00",
+ "generated_at": "2026-11-22T23:11:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-22 23:07:44"
+  "title": "Invisible String",
+  "started": "2026-11-22 23:11:46"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-22 23:07:44"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-22 23:05:24"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-22 22:54:42"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-22 22:51:50"
   }
  ]
 }
