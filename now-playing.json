@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-23T05:27:31-04:00",
+ "generated_at": "2026-11-23T05:37:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corrupt Politicians (Belong In Prison)",
-  "started": "2026-11-23 05:27:26"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-23 05:37:14"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-23 05:33:57"
+  },
+  {
+   "title": "Corrupt Politicians (Belong In Prison)",
+   "started": "2026-11-23 05:27:26"
+  },
   {
    "title": "Here’s a Stack",
    "started": "2026-11-23 05:24:17"
@@ -17,14 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-23 05:17:14"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-23 05:13:02"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-23 05:09:15"
   }
  ]
 }
