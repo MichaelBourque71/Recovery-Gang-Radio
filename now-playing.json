@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:57:58-04:00",
+ "generated_at": "2026-11-23T17:01:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-23 16:57:54"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-23 17:01:01"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-23 16:57:54"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-23 16:54:23"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-23 16:43:16"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-23 16:37:50"
   }
  ]
 }
