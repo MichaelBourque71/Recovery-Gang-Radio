@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T11:50:19-04:00",
+ "generated_at": "2026-11-23T11:54:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-23 11:50:17"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-23 11:54:20"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-23 11:50:17"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-23 11:44:55"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-23 11:31:28"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-23 11:27:32"
   }
  ]
 }
