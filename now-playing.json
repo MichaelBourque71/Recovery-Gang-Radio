@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T07:07:46-04:00",
+ "generated_at": "2026-11-23T07:11:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-23 07:07:45"
+  "title": "Money & Fame",
+  "started": "2026-11-23 07:11:19"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-23 07:07:45"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-23 07:03:58"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-23 06:50:26"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-23 06:45:48"
   }
  ]
 }
