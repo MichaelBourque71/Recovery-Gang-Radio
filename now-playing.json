@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T07:26:44-04:00",
+ "generated_at": "2026-11-23T07:29:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-23 07:26:44"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-23 07:29:48"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-23 07:26:44"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-23 07:22:26"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-23 07:07:45"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-23 07:03:58"
   }
  ]
 }
