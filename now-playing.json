@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:52:20-04:00",
+ "generated_at": "2026-11-23T17:56:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-23 17:52:20"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-23 17:56:51"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-23 17:52:20"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-23 17:47:51"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-23 17:36:06"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-23 17:33:29"
   }
  ]
 }
