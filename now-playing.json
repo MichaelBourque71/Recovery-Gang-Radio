@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:25:45-04:00",
+ "generated_at": "2026-11-23T17:29:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-23 17:25:45"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-23 17:29:01"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-23 17:25:45"
+  },
   {
    "title": "Some People",
    "started": "2026-11-23 17:22:31"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-23 17:11:32"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-23 17:08:33"
   }
  ]
 }
