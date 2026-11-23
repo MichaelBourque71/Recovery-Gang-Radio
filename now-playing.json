@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:23:53-04:00",
+ "generated_at": "2026-11-23T13:29:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-23 13:23:48"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-23 13:29:12"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-23 13:23:48"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-23 13:20:11"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-23 13:08:05"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-23 13:04:06"
   }
  ]
 }
