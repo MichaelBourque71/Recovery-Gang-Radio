@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:48:28-04:00",
+ "generated_at": "2026-11-23T18:51:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-23 18:48:27"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-23 18:51:54"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-23 18:48:27"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-23 18:45:00"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-23 18:31:19"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-23 18:26:51"
   }
  ]
 }
