@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T05:37:18-04:00",
+ "generated_at": "2026-11-23T05:41:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-23 05:37:14"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-23 05:41:56"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-23 05:37:14"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-23 05:33:57"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-23 05:20:42"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-23 05:17:14"
   }
  ]
 }
