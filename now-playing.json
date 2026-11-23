@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:50:41-04:00",
+ "generated_at": "2026-11-23T13:55:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-23 13:50:37"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-23 13:55:25"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-23 13:50:37"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-23 13:47:13"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-23 13:34:37"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-23 13:29:12"
   }
  ]
 }
