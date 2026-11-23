@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T14:01:26-04:00",
+ "generated_at": "2026-11-23T14:05:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-23 14:01:21"
+  "title": "Hard Way",
+  "started": "2026-11-23 14:05:49"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-23 14:01:21"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-23 13:55:25"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-23 13:41:27"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-23 13:39:05"
   }
  ]
 }
