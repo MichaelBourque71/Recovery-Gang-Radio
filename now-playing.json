@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:13:36-04:00",
+ "generated_at": "2026-11-22T22:17:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-22 22:13:35"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-22 22:17:45"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-22 22:13:35"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-22 22:11:24"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-22 22:00:08"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-22 21:55:12"
   }
  ]
 }
