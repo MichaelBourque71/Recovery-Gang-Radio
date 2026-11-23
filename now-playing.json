@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:15:26-04:00",
+ "generated_at": "2026-11-23T16:20:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-23 16:15:26"
+  "title": "Unstoppable Force",
+  "started": "2026-11-23 16:19:58"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-23 16:15:26"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-23 16:11:05"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-23 15:57:36"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-23 15:55:00"
   }
  ]
 }
