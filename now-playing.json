@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T06:16:39-04:00",
+ "generated_at": "2026-11-23T06:19:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-23 06:16:37"
+  "title": "Running With Scissors",
+  "started": "2026-11-23 06:19:47"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-23 06:16:37"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-23 06:12:41"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-23 05:58:32"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-23 05:54:16"
   }
  ]
 }
