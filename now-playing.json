@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:56:51-04:00",
+ "generated_at": "2026-11-23T18:00:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-23 17:56:51"
+  "title": "Feel Alright",
+  "started": "2026-11-23 18:00:27"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-23 17:56:51"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-23 17:52:20"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-23 17:39:39"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-23 17:36:06"
   }
  ]
 }
