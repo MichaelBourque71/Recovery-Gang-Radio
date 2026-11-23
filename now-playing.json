@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T02:07:09-04:00",
+ "generated_at": "2026-11-23T02:10:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-23 02:07:04"
+  "title": "There's Still Hope",
+  "started": "2026-11-23 02:10:36"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-23 02:07:04"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-23 02:01:19"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-23 01:50:43"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-23 01:47:31"
   }
  ]
 }
