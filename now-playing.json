@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-23T12:22:12-04:00",
+ "generated_at": "2026-11-23T12:32:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-23 12:22:11"
+  "title": "Balls Intact",
+  "started": "2026-11-23 12:32:33"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-23 12:28:04"
+  },
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-23 12:22:11"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-23 12:17:33"
@@ -17,14 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-23 12:08:05"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-23 12:04:51"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-23 12:01:10"
   }
  ]
 }
