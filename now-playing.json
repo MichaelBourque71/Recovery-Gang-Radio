@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:00:05-04:00",
+ "generated_at": "2026-11-23T13:04:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-23 13:00:01"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-23 13:04:06"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-23 13:00:01"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-23 12:56:44"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-23 12:42:21"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-23 12:39:49"
   }
  ]
 }
