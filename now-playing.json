@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T10:09:00-04:00",
+ "generated_at": "2026-11-23T10:12:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-23 10:08:56"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-23 10:12:41"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-23 10:08:56"
+  },
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-23 10:04:38"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-23 09:51:37"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-23 09:47:42"
   }
  ]
 }
