@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:52:40-04:00",
+ "generated_at": "2026-11-23T03:57:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-23 03:52:36"
+  "title": "Mean Francine",
+  "started": "2026-11-23 03:57:25"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-23 03:52:36"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-23 03:49:05"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-23 03:36:56"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-23 03:32:57"
   }
  ]
 }
