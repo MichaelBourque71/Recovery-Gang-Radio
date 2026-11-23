@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:14:01-04:00",
+ "generated_at": "2026-11-23T13:20:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-23 13:14:00"
+  "title": "Painted Signals",
+  "started": "2026-11-23 13:20:11"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-23 13:14:00"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-23 13:12:13"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-23 13:00:01"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-23 12:56:44"
   }
  ]
 }
