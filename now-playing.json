@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T07:36:00-04:00",
+ "generated_at": "2026-11-23T07:40:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-23 07:35:55"
+  "title": "Breath Of Policy",
+  "started": "2026-11-23 07:40:01"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-23 07:35:55"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-23 07:29:48"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-23 07:17:42"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-23 07:11:19"
   }
  ]
 }
