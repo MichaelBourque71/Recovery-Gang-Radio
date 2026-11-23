@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T05:20:45-04:00",
+ "generated_at": "2026-11-23T05:24:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-23 05:20:42"
+  "title": "Here’s a Stack",
+  "started": "2026-11-23 05:24:17"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-23 05:20:42"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-23 05:17:14"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-23 05:04:25"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-23 04:59:47"
   }
  ]
 }
