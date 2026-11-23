@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:20:59-04:00",
+ "generated_at": "2026-11-23T03:25:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Puma-Beaver On The Prowl",
-  "started": "2026-11-23 03:20:57"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-23 03:25:42"
  },
  "previous": [
+  {
+   "title": "Puma-Beaver On The Prowl",
+   "started": "2026-11-23 03:20:57"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-23 03:15:05"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-23 03:00:38"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-23 02:56:14"
   }
  ]
 }
