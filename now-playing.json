@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T10:41:47-04:00",
+ "generated_at": "2026-11-23T10:44:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-23 10:41:43"
+  "title": "Stolen Democracy",
+  "started": "2026-11-23 10:44:57"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-23 10:41:43"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-23 10:39:06"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-23 10:26:04"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-23 10:21:20"
   }
  ]
 }
