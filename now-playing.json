@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:29:10-04:00",
+ "generated_at": "2026-11-23T19:32:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-23 19:29:09"
+  "title": "Stolen Democracy",
+  "started": "2026-11-23 19:31:58"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-23 19:29:09"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-23 19:25:12"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-23 19:12:49"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-23 19:09:10"
   }
  ]
 }
