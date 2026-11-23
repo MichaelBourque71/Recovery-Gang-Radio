@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:15:02-04:00",
+ "generated_at": "2026-11-23T09:19:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-23 09:14:58"
+  "title": "Living For Peace",
+  "started": "2026-11-23 09:19:31"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-23 09:14:58"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-23 09:11:21"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-23 09:00:46"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-23 08:57:42"
   }
  ]
 }
