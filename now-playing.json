@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T04:01:42-04:00",
+ "generated_at": "2026-11-23T04:05:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-23 04:01:40"
+  "title": "Weed Coughs",
+  "started": "2026-11-23 04:05:15"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-23 04:01:40"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-23 03:57:25"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-23 03:44:05"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-23 03:40:22"
   }
  ]
 }
