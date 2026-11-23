@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:33:39-04:00",
+ "generated_at": "2026-11-23T16:37:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-23 16:33:38"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-23 16:37:50"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-23 16:33:38"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-23 16:29:11"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-23 16:15:26"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-23 16:11:05"
   }
  ]
 }
