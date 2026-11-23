@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T10:12:42-04:00",
+ "generated_at": "2026-11-23T10:16:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-23 10:12:41"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-23 10:16:54"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-23 10:12:41"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-23 10:08:56"
@@ -21,10 +25,6 @@
   {
    "title": "There Were Three Beards In The Band",
    "started": "2026-11-23 09:55:59"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-23 09:51:37"
   }
  ]
 }
