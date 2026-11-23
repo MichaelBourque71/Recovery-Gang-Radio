@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T12:32:34-04:00",
+ "generated_at": "2026-11-23T12:36:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-23 12:32:33"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-23 12:36:51"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-23 12:32:33"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-23 12:28:04"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-23 12:13:00"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-23 12:08:05"
   }
  ]
 }
