@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:34:42-04:00",
+ "generated_at": "2026-11-23T13:39:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-23 13:34:37"
+  "title": "Acid Freak",
+  "started": "2026-11-23 13:39:05"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-23 13:34:37"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-23 13:29:12"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-23 13:14:00"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-23 13:12:13"
   }
  ]
 }
