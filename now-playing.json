@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:12:54-04:00",
+ "generated_at": "2026-11-23T18:15:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-23 18:12:50"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-23 18:15:22"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-23 18:12:50"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-23 18:09:19"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-23 17:56:51"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-23 17:52:20"
   }
  ]
 }
