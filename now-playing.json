@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:49:37-04:00",
+ "generated_at": "2026-11-23T08:54:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-23 08:49:36"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-23 08:54:05"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-23 08:49:36"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-23 08:45:03"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-23 08:33:07"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-23 08:29:33"
   }
  ]
 }
