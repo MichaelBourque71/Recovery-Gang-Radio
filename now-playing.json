@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:12:15-04:00",
+ "generated_at": "2026-11-23T13:14:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-23 13:12:13"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-23 13:14:00"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-23 13:12:13"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-23 13:08:05"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-23 12:56:44"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-23 12:51:45"
   }
  ]
 }
