@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:00:42-04:00",
+ "generated_at": "2026-11-23T03:05:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-23 03:00:38"
+  "title": "Take Our Country Back",
+  "started": "2026-11-23 03:05:22"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-23 03:00:38"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-23 02:56:14"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-23 02:45:45"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-23 02:41:35"
   }
  ]
 }
