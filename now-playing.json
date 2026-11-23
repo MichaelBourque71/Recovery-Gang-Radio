@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:21:39-04:00",
+ "generated_at": "2026-11-23T01:24:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-23 01:21:38"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-23 01:24:26"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-23 01:21:38"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-23 01:18:01"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-23 01:07:54"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-23 01:02:50"
   }
  ]
 }
