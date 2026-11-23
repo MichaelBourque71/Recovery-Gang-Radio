@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T04:10:33-04:00",
+ "generated_at": "2026-11-23T04:16:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-23 04:10:32"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-23 04:16:22"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-23 04:10:32"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-23 04:05:15"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-23 03:52:36"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-23 03:49:05"
   }
  ]
 }
