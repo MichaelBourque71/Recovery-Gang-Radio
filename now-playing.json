@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T11:07:41-04:00",
+ "generated_at": "2026-11-23T11:12:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-23 11:07:36"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-23 11:12:45"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-23 11:07:36"
+  },
   {
    "title": "Some People",
    "started": "2026-11-23 11:04:35"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-23 10:51:58"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-23 10:48:10"
   }
  ]
 }
