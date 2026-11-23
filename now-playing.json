@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T07:29:52-04:00",
+ "generated_at": "2026-11-23T07:36:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-23 07:29:48"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-23 07:35:55"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-23 07:29:48"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-23 07:26:44"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-23 07:11:19"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-23 07:07:45"
   }
  ]
 }
