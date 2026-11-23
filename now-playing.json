@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T04:45:05-04:00",
+ "generated_at": "2026-11-23T04:48:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-23 04:45:00"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-23 04:48:02"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-23 04:45:00"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-23 04:40:46"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-23 04:29:41"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-23 04:26:41"
   }
  ]
 }
