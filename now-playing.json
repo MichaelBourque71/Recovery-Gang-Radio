@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:47:17-04:00",
+ "generated_at": "2026-11-23T13:50:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-23 13:47:13"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-23 13:50:37"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-23 13:47:13"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-23 13:41:27"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-23 13:29:12"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-23 13:23:48"
   }
  ]
 }
