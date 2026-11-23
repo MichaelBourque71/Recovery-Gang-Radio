@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:56:03-04:00",
+ "generated_at": "2026-11-23T10:01:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-23 09:55:59"
+  "title": "Lines In Stone",
+  "started": "2026-11-23 10:01:33"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-23 09:55:59"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-23 09:51:37"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-23 09:39:43"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-23 09:35:32"
   }
  ]
 }
