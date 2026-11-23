@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T20:21:21-04:00",
+ "generated_at": "2026-11-22T20:24:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-22 20:21:19"
+  "title": "Doughnut Doug",
+  "started": "2026-11-22 20:24:55"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-22 20:21:19"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-22 20:17:07"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-22 20:04:05"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-22 19:57:47"
   }
  ]
 }
