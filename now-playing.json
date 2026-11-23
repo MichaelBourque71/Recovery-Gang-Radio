@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:41:05-04:00",
+ "generated_at": "2026-11-22T22:46:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-22 22:41:01"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-22 22:46:40"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-22 22:41:01"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-22 22:37:30"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-22 22:25:41"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-22 22:21:56"
   }
  ]
 }
