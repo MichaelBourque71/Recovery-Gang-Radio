@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T07:51:46-04:00",
+ "generated_at": "2026-11-23T07:54:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-23 07:51:42"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-23 07:54:16"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-23 07:51:42"
+  },
   {
    "title": "I Have Something to Say",
    "started": "2026-11-23 07:45:05"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-23 07:29:48"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-23 07:26:44"
   }
  ]
 }
