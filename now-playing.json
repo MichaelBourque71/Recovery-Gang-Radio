@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:09:19-04:00",
+ "generated_at": "2026-11-23T18:12:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-23 18:09:19"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-23 18:12:50"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-23 18:09:19"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-23 18:05:50"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-23 17:52:20"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-23 17:47:51"
   }
  ]
 }
