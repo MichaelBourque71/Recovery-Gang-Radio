@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T11:21:06-04:00",
+ "generated_at": "2026-11-23T11:24:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-23 11:21:03"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-23 11:23:59"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-23 11:21:03"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-23 11:17:43"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-23 11:04:35"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-23 10:59:37"
   }
  ]
 }
