@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T20:30:10-04:00",
+ "generated_at": "2026-11-22T20:34:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-22 20:30:08"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-22 20:34:07"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-22 20:30:08"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-22 20:26:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-22 20:17:07"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-22 20:13:18"
   }
  ]
 }
