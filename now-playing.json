@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:35:00-04:00",
+ "generated_at": "2026-11-23T19:40:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-23 19:34:57"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-23 19:40:22"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-23 19:34:57"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-23 19:31:58"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-23 19:20:50"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-23 19:17:45"
   }
  ]
 }
