@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T02:51:38-04:00",
+ "generated_at": "2026-11-23T02:56:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-23 02:51:36"
+  "title": "Delaware Sniff",
+  "started": "2026-11-23 02:56:14"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-23 02:51:36"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-23 02:48:25"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-23 02:37:24"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-23 02:32:22"
   }
  ]
 }
