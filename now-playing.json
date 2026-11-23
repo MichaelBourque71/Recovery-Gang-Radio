@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:39:10-04:00",
+ "generated_at": "2026-11-23T13:41:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-23 13:39:05"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-23 13:41:27"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-23 13:39:05"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-23 13:34:37"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-23 13:20:11"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-23 13:14:00"
   }
  ]
 }
