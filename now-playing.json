@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T06:50:28-04:00",
+ "generated_at": "2026-11-23T06:56:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-23 06:50:26"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-23 06:56:45"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-23 06:50:26"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-23 06:45:48"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-23 06:32:15"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-23 06:27:49"
   }
  ]
 }
