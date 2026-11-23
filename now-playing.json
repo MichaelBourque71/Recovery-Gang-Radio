@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:04:23-04:00",
+ "generated_at": "2026-11-22T22:07:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-22 22:04:22"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-22 22:07:44"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-22 22:04:22"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-22 22:00:08"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-22 21:47:21"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-22 21:43:56"
   }
  ]
 }
