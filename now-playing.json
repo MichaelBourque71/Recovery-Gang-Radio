@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:57:25-04:00",
+ "generated_at": "2026-11-23T04:01:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-23 03:57:25"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-23 04:01:40"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-23 03:57:25"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-23 03:52:36"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-23 03:40:22"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-23 03:36:56"
   }
  ]
 }
