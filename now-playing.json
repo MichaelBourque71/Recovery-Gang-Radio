@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:23:36-04:00",
+ "generated_at": "2026-11-23T18:26:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-23 18:23:32"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-23 18:26:51"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-23 18:23:32"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-23 18:19:35"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-23 18:09:19"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-23 18:05:50"
   }
  ]
 }
