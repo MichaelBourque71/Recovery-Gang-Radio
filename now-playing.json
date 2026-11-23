@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T20:13:20-04:00",
+ "generated_at": "2026-11-22T20:17:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-22 20:13:18"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-22 20:17:07"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-22 20:13:18"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-22 20:08:40"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-22 19:53:52"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-22 19:49:46"
   }
  ]
 }
