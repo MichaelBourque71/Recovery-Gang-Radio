@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T11:44:57-04:00",
+ "generated_at": "2026-11-23T11:50:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-23 11:44:55"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-23 11:50:17"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-23 11:44:55"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-23 11:40:04"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-23 11:27:32"
-  },
-  {
-   "title": "My Duty Is To My Heart",
-   "started": "2026-11-23 11:23:59"
   }
  ]
 }
