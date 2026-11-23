@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T21:07:23-04:00",
+ "generated_at": "2026-11-22T21:11:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-22 21:07:23"
+  "title": "Freedom Wave",
+  "started": "2026-11-22 21:10:59"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-22 21:07:23"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-22 21:02:44"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-22 20:49:54"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-22 20:46:07"
   }
  ]
 }
