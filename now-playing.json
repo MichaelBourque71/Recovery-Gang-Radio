@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:25:15-04:00",
+ "generated_at": "2026-11-23T19:29:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-23 19:25:12"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-23 19:29:09"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-23 19:25:12"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-23 19:20:50"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-23 19:09:10"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-23 19:04:13"
   }
  ]
 }
