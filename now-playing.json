@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:51:56-04:00",
+ "generated_at": "2026-11-23T18:57:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-23 18:51:54"
+  "title": "Duck On The Dash",
+  "started": "2026-11-23 18:57:40"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-23 18:51:54"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-23 18:48:27"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-23 18:36:39"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-23 18:31:19"
   }
  ]
 }
