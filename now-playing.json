@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:47:32-04:00",
+ "generated_at": "2026-11-23T01:50:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-23 01:47:31"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-23 01:50:43"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-23 01:47:31"
+  },
   {
    "title": "Man With the Backbone",
    "started": "2026-11-23 01:43:09"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-23 01:29:26"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-23 01:24:26"
   }
  ]
 }
