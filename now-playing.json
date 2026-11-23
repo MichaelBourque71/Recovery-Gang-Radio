@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:01:28-04:00",
+ "generated_at": "2026-11-23T19:04:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-23 19:01:23"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-23 19:04:13"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-23 19:01:23"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-23 18:57:40"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-23 18:45:00"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-23 18:41:41"
   }
  ]
 }
