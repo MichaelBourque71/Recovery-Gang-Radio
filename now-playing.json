@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T02:32:25-04:00",
+ "generated_at": "2026-11-23T02:37:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-23 02:32:22"
+  "title": "Painted Signals",
+  "started": "2026-11-23 02:37:24"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-23 02:32:22"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-23 02:28:46"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-23 02:17:30"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-23 02:10:36"
   }
  ]
 }
