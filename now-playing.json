@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T00:46:57-04:00",
+ "generated_at": "2026-11-23T00:50:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-23 00:46:54"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-23 00:50:21"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-23 00:46:54"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-23 00:42:27"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-23 00:31:36"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-23 00:24:56"
   }
  ]
 }
