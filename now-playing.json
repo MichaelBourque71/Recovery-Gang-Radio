@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T02:48:29-04:00",
+ "generated_at": "2026-11-23T02:51:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-23 02:48:25"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-23 02:51:36"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-23 02:48:25"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-23 02:45:45"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-23 02:32:22"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-23 02:28:46"
   }
  ]
 }
