@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:22:00-04:00",
+ "generated_at": "2026-11-22T22:25:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-22 22:21:56"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-22 22:25:41"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-22 22:21:56"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-22 22:17:45"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-22 22:07:44"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-22 22:04:22"
   }
  ]
 }
