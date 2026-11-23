@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:56:56-04:00",
+ "generated_at": "2026-11-23T02:01:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-23 01:56:51"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-23 02:01:19"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-23 01:56:51"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-23 01:53:41"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-23 01:43:09"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-23 01:37:33"
   }
  ]
 }
