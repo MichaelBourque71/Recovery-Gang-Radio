@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:22:32-04:00",
+ "generated_at": "2026-11-23T17:25:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-23 17:22:31"
+  "title": "Lines In Stone",
+  "started": "2026-11-23 17:25:45"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-23 17:22:31"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-23 17:19:46"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-23 17:08:33"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-23 17:05:05"
   }
  ]
 }
