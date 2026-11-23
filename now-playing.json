@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T06:45:49-04:00",
+ "generated_at": "2026-11-23T06:50:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-23 06:45:48"
+  "title": "Hard Way",
+  "started": "2026-11-23 06:50:26"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-23 06:45:48"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-23 06:41:41"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-23 06:27:49"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-23 06:22:39"
   }
  ]
 }
