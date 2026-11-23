@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:45:06-04:00",
+ "generated_at": "2026-11-23T08:49:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-23 08:45:03"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-23 08:49:36"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-23 08:45:03"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-23 08:39:59"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-23 08:29:33"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-23 08:25:04"
   }
  ]
 }
