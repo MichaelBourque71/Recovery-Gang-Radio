@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T22:34:44-04:00",
+ "generated_at": "2026-11-22T22:37:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-22 22:34:40"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-22 22:37:30"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-22 22:34:40"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-22 22:31:07"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-22 22:17:45"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-22 22:13:35"
   }
  ]
 }
