@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:21:36-04:00",
+ "generated_at": "2026-11-23T08:25:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-23 08:21:32"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-23 08:25:04"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-23 08:21:32"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-23 08:17:03"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-23 08:04:01"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-23 07:58:44"
   }
  ]
 }
