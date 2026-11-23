@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:15:24-04:00",
+ "generated_at": "2026-11-23T18:19:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-23 18:15:22"
+  "title": "Putz in a Suit",
+  "started": "2026-11-23 18:19:35"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-23 18:15:22"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-23 18:12:50"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-23 18:00:27"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-23 17:56:51"
   }
  ]
 }
