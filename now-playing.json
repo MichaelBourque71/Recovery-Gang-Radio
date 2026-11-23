@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T00:34:21-04:00",
+ "generated_at": "2026-11-23T00:38:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-23 00:34:19"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-23 00:38:27"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-23 00:34:19"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-23 00:31:36"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-23 00:16:06"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-23 00:11:49"
   }
  ]
 }
