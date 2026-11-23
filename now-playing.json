@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T21:11:03-04:00",
+ "generated_at": "2026-11-22T21:14:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-22 21:10:59"
+  "title": "Yes",
+  "started": "2026-11-22 21:14:09"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-22 21:10:59"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-22 21:07:23"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-22 20:56:02"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-22 20:49:54"
   }
  ]
 }
