@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T00:42:32-04:00",
+ "generated_at": "2026-11-23T00:46:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-23 00:42:27"
+  "title": "Dead Ideology ",
+  "started": "2026-11-23 00:46:54"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-23 00:42:27"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-23 00:38:27"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-23 00:24:56"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-23 00:20:29"
   }
  ]
 }
