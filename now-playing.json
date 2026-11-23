@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T19:32:03-04:00",
+ "generated_at": "2026-11-23T19:35:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-23 19:31:58"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-23 19:34:57"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-23 19:31:58"
+  },
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-23 19:29:09"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-23 19:17:45"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-23 19:12:49"
   }
  ]
 }
