@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T04:21:41-04:00",
+ "generated_at": "2026-11-23T04:26:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-23 04:21:38"
+  "title": "Stolen Democracy",
+  "started": "2026-11-23 04:26:41"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-23 04:21:38"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-23 04:16:22"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-23 04:01:40"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-23 03:57:25"
   }
  ]
 }
