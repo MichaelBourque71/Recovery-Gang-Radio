@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T14:29:00-04:00",
+ "generated_at": "2026-11-23T14:33:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-23 14:28:59"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-23 14:33:04"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-23 14:28:59"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-23 14:24:17"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-23 14:11:27"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-23 14:05:49"
   }
  ]
 }
