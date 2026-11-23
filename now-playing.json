@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T13:08:05-04:00",
+ "generated_at": "2026-11-23T13:12:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-23 13:08:05"
+  "title": "Doughnut Doug",
+  "started": "2026-11-23 13:12:13"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-23 13:08:05"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-23 13:04:06"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-23 12:51:45"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-23 12:48:25"
   }
  ]
 }
