@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T16:29:16-04:00",
+ "generated_at": "2026-11-23T16:33:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-23 16:29:11"
+  "title": "Burn It Slow",
+  "started": "2026-11-23 16:33:38"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-23 16:29:11"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-23 16:23:24"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-23 16:11:05"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-23 16:07:56"
   }
  ]
 }
