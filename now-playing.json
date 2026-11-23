@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:47:48-04:00",
+ "generated_at": "2026-11-23T17:47:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-23 17:44:37"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-23 17:47:51"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-23 17:44:37"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-23 17:39:39"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-23 17:29:01"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-23 17:25:45"
   }
  ]
 }
