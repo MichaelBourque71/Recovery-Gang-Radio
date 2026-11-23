@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-22T19:57:50-04:00",
+ "generated_at": "2026-11-22T20:04:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-22 19:57:47"
+  "title": "Day And Night",
+  "started": "2026-11-22 20:04:05"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-22 19:57:47"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-22 19:53:52"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-22 19:41:19"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-22 19:38:21"
   }
  ]
 }
