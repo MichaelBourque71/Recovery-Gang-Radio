@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:45:05-04:00",
+ "generated_at": "2026-11-23T18:48:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-23 18:45:00"
+  "title": "Dead Ideology ",
+  "started": "2026-11-23 18:48:27"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-23 18:45:00"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-23 18:41:41"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-23 18:26:51"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-23 18:23:32"
   }
  ]
 }
