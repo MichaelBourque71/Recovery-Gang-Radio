@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T09:19:32-04:00",
+ "generated_at": "2026-11-23T09:23:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-23 09:19:31"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-23 09:23:05"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-23 09:19:31"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-23 09:14:58"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-23 09:04:54"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-23 09:00:46"
   }
  ]
 }
