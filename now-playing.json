@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T17:36:07-04:00",
+ "generated_at": "2026-11-23T17:39:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-23 17:36:06"
+  "title": "I’m A Cougar-Beaver Hunter",
+  "started": "2026-11-23 17:39:39"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-23 17:36:06"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-23 17:33:29"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-23 17:22:31"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-23 17:19:46"
   }
  ]
 }
