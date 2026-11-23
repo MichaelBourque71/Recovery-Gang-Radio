@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T08:25:08-04:00",
+ "generated_at": "2026-11-23T08:29:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-23 08:25:04"
+  "title": "Duck On The Dash",
+  "started": "2026-11-23 08:29:33"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-23 08:25:04"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-23 08:21:32"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-23 08:07:34"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-23 08:04:01"
   }
  ]
 }
