@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T03:37:00-04:00",
+ "generated_at": "2026-11-23T03:40:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-23 03:36:56"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-23 03:40:22"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-23 03:36:56"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-23 03:32:57"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-23 03:20:57"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-23 03:15:05"
   }
  ]
 }
