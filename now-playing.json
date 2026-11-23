@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T18:57:44-04:00",
+ "generated_at": "2026-11-23T19:01:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-23 18:57:40"
+  "title": "Follow The Trail",
+  "started": "2026-11-23 19:01:23"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-23 18:57:40"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-23 18:51:54"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-23 18:41:41"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-23 18:36:39"
   }
  ]
 }
