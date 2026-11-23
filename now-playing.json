@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T11:04:37-04:00",
+ "generated_at": "2026-11-23T11:07:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-23 11:04:35"
+  "title": "Keyboard Courage",
+  "started": "2026-11-23 11:07:36"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-23 11:04:35"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-23 10:59:37"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-23 10:48:10"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-23 10:44:57"
   }
  ]
 }
