@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T01:18:05-04:00",
+ "generated_at": "2026-11-23T01:21:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-23 01:18:01"
+  "title": "What They Want…",
+  "started": "2026-11-23 01:21:38"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-23 01:18:01"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-23 01:14:26"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-23 01:02:50"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-23 00:58:01"
   }
  ]
 }
