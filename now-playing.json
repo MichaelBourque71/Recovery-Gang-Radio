@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:42:04-04:00",
+ "generated_at": "2026-11-24T16:45:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-24 16:42:00"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-24 16:45:20"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-24 16:42:00"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-24 16:38:26"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-24 16:26:40"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-24 16:24:08"
   }
  ]
 }
