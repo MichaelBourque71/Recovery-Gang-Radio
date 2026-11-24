@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:10:05-04:00",
+ "generated_at": "2026-11-24T04:13:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-24 04:10:00"
+  "title": "Breath Of Policy",
+  "started": "2026-11-24 04:13:35"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-24 04:10:00"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-24 04:06:16"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-24 03:51:35"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-24 03:47:41"
   }
  ]
 }
