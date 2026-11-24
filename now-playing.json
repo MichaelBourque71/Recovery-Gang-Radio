@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:32:00-04:00",
+ "generated_at": "2026-11-24T19:35:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-24 19:31:56"
+  "title": "Killdozer Army",
+  "started": "2026-11-24 19:35:54"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-24 19:31:56"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-24 19:26:27"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-24 19:13:43"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-24 19:09:15"
   }
  ]
 }
