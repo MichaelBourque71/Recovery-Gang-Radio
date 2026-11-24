@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:40:23-04:00",
+ "generated_at": "2026-11-23T20:40:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-23 20:36:09"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-23 20:40:26"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-23 20:36:09"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-23 20:31:04"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-23 20:16:59"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-23 20:13:05"
   }
  ]
 }
