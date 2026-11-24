@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T11:30:30-04:00",
+ "generated_at": "2026-11-24T11:34:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-24 11:30:28"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-24 11:34:06"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-24 11:30:28"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-24 11:24:51"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-24 11:12:14"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-24 11:09:16"
   }
  ]
 }
