@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T17:04:43-04:00",
+ "generated_at": "2026-11-24T17:09:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-24 17:04:40"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-24 17:09:06"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-24 17:04:40"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-24 16:59:35"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-24 16:50:28"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-24 16:45:20"
   }
  ]
 }
