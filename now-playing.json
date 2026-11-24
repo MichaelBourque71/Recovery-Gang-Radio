@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:07:11-04:00",
+ "generated_at": "2026-11-24T03:10:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-24 03:07:10"
+  "title": "Disobey Authority",
+  "started": "2026-11-24 03:10:20"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-24 03:07:10"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-24 03:03:06"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-24 02:49:36"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-24 02:45:43"
   }
  ]
 }
