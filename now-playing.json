@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T14:07:09-04:00",
+ "generated_at": "2026-11-24T14:10:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-24 14:07:09"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-24 14:10:28"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-24 14:07:09"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-24 14:03:34"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-24 13:49:24"
-  },
-  {
-   "title": "Show The World My Beaver",
-   "started": "2026-11-24 13:46:07"
   }
  ]
 }
