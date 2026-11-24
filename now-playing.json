@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T17:40:00-04:00",
+ "generated_at": "2026-11-24T17:41:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Woke Baby Sissy Dance 😂",
-  "started": "2026-11-24 17:39:02"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-24 17:41:42"
  },
  "previous": [
+  {
+   "title": "The Woke Baby Sissy Dance 😂",
+   "started": "2026-11-24 17:39:02"
+  },
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-24 17:35:39"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-24 17:20:21"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-24 17:14:42"
   }
  ]
 }
