@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:27:22-04:00",
+ "generated_at": "2026-11-24T03:30:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-24 03:27:17"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-24 03:30:18"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-24 03:27:17"
+  },
   {
    "title": "Yes",
    "started": "2026-11-24 03:23:48"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority",
    "started": "2026-11-24 03:10:20"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-24 03:07:10"
   }
  ]
 }
