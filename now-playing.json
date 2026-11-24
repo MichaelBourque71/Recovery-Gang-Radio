@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T08:44:11-04:00",
+ "generated_at": "2026-11-24T08:50:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "We Are Done Being Silent",
-  "started": "2026-11-24 08:44:09"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-24 08:50:17"
  },
  "previous": [
+  {
+   "title": "We Are Done Being Silent",
+   "started": "2026-11-24 08:44:09"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-24 08:40:31"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-24 08:26:56"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-24 08:22:25"
   }
  ]
 }
