@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:26:24-04:00",
+ "generated_at": "2026-11-24T01:29:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-24 01:26:20"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-24 01:29:19"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-24 01:26:20"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-24 01:22:43"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-24 01:09:00"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-24 01:03:37"
   }
  ]
 }
