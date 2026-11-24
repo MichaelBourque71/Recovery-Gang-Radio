@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:13:29-04:00",
+ "generated_at": "2026-11-24T06:17:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-24 06:13:25"
+  "title": "If You Keep on Complyin’",
+  "started": "2026-11-24 06:17:38"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-24 06:13:25"
+  },
   {
    "title": "Pair A - It Was Time + Built To Love",
    "started": "2026-11-24 06:02:06"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-24 05:51:06"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-24 05:46:10"
   }
  ]
 }
