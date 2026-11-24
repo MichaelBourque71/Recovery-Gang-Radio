@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:05:20-04:00",
+ "generated_at": "2026-11-24T13:09:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-24 13:05:20"
+  "title": "Yes",
+  "started": "2026-11-24 13:09:40"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-24 13:05:20"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-24 13:01:36"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-24 12:51:10"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-24 12:45:51"
   }
  ]
 }
