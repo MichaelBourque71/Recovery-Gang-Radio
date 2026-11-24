@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T10:12:49-04:00",
+ "generated_at": "2026-11-24T10:18:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-24 10:12:48"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-24 10:18:36"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-24 10:12:48"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-24 10:08:24"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-24 09:54:28"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-24 09:50:10"
   }
  ]
 }
