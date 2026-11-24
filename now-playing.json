@@ -1,10 +1,7 @@
 {
- "generated_at": "2026-11-23T20:36:13-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-23 20:36:09"
- },
+ "generated_at": "2026-11-23T20:39:53-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
   {
    "title": "Your Feet on Steady Ground",
