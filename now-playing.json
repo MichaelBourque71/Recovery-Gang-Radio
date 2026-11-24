@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:07:04-04:00",
+ "generated_at": "2026-11-24T12:09:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-24 12:07:02"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-24 12:09:52"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-24 12:07:02"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-24 12:02:27"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-24 11:50:38"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-24 11:46:12"
   }
  ]
 }
