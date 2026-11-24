@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:52:51-04:00",
+ "generated_at": "2026-11-24T16:56:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-24 16:52:47"
+  "title": "Take Your Laws",
+  "started": "2026-11-24 16:56:43"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-24 16:52:47"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-24 16:50:28"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-24 16:38:26"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-24 16:33:55"
   }
  ]
 }
