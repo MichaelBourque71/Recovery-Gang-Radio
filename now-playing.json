@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:19:16-04:00",
+ "generated_at": "2026-11-24T19:22:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-24 19:19:11"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-24 19:22:01"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-24 19:19:11"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-24 19:13:43"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-24 19:00:52"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-24 18:58:34"
   }
  ]
 }
