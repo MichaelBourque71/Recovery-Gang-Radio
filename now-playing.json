@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:57:23-04:00",
+ "generated_at": "2026-11-24T04:02:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-24 03:57:19"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-24 04:02:15"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-24 03:57:19"
+  },
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-24 03:51:35"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-24 03:38:42"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-24 03:34:41"
   }
  ]
 }
