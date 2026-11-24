@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:40:18-04:00",
+ "generated_at": "2026-11-24T12:45:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-24 12:40:18"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-24 12:45:51"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-24 12:40:18"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-24 12:35:48"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-24 12:22:36"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-24 12:18:12"
   }
  ]
 }
