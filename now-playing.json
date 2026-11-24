@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T09:33:09-04:00",
+ "generated_at": "2026-11-24T09:36:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-24 09:33:04"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-24 09:36:53"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-24 09:33:04"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-24 09:30:19"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-24 09:19:01"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-24 09:16:34"
   }
  ]
 }
