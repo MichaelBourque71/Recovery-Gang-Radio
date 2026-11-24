@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T09:21:00-04:00",
+ "generated_at": "2026-11-24T09:26:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-24 09:20:55"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-24 09:25:59"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-24 09:20:55"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-24 09:19:01"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-24 09:07:59"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-24 09:04:15"
   }
  ]
 }
