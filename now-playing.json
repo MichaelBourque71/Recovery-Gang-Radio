@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:50:28-04:00",
+ "generated_at": "2026-11-24T16:52:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-24 16:50:28"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-24 16:52:47"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-24 16:50:28"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-24 16:45:20"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-24 16:33:55"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-24 16:29:52"
   }
  ]
 }
