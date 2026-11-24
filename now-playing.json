@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:16:52-04:00",
+ "generated_at": "2026-11-24T16:19:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-24 16:16:51"
+  "title": "Roadside Puddles",
+  "started": "2026-11-24 16:19:43"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-24 16:16:51"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-24 16:12:10"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-24 16:01:40"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-24 15:58:41"
   }
  ]
 }
