@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T09:19:04-04:00",
+ "generated_at": "2026-11-24T09:21:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-24 09:19:01"
+  "title": "Fuck Winter",
+  "started": "2026-11-24 09:20:55"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-24 09:19:01"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-24 09:16:34"
@@ -21,10 +25,6 @@
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-24 09:04:15"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-24 09:01:04"
   }
  ]
 }
