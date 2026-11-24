@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:06:20-04:00",
+ "generated_at": "2026-11-24T04:10:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-24 04:06:16"
+  "title": "One More Night",
+  "started": "2026-11-24 04:10:00"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-24 04:06:16"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-24 04:02:15"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-24 03:47:41"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-24 03:43:23"
   }
  ]
 }
