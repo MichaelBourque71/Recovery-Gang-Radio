@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:38:29-04:00",
+ "generated_at": "2026-11-24T16:42:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-24 16:38:26"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-24 16:42:00"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-24 16:38:26"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-24 16:33:55"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-24 16:24:08"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-24 16:19:43"
   }
  ]
 }
