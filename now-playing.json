@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:44:44-04:00",
+ "generated_at": "2026-11-24T01:47:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-24 01:44:41"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-24 01:47:43"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-24 01:44:41"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-24 01:40:52"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-24 01:29:19"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-24 01:26:20"
   }
  ]
 }
