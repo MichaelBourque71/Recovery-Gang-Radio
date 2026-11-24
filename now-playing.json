@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:23:53-04:00",
+ "generated_at": "2026-11-24T03:27:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-24 03:23:48"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-24 03:27:17"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-24 03:23:48"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-24 03:20:24"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-24 03:07:10"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-24 03:03:06"
   }
  ]
 }
