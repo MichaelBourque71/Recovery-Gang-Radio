@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:35:22-04:00",
+ "generated_at": "2026-11-24T13:39:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-24 13:35:22"
+  "title": "Alignment",
+  "started": "2026-11-24 13:39:12"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-24 13:35:22"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-24 13:30:21"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-24 13:18:10"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-24 13:13:09"
   }
  ]
 }
