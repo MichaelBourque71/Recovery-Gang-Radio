@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:14:04-04:00",
+ "generated_at": "2026-11-24T07:19:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-24 07:14:01"
+  "title": "Follow The Trail",
+  "started": "2026-11-24 07:19:05"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-24 07:14:01"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-24 07:10:32"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-24 06:56:39"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-24 06:51:30"
   }
  ]
 }
