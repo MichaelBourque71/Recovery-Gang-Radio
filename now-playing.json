@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:37:47-04:00",
+ "generated_at": "2026-11-24T06:41:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-24 06:37:47"
+  "title": "Mystical Journey",
+  "started": "2026-11-24 06:41:13"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-24 06:37:47"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-24 06:32:12"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-24 06:19:49"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-24 06:17:38"
   }
  ]
 }
