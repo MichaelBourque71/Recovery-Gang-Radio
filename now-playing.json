@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T11:37:43-04:00",
+ "generated_at": "2026-11-24T11:41:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-24 11:37:43"
+  "title": "Weed Coughs",
+  "started": "2026-11-24 11:41:19"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-24 11:37:43"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-24 11:34:06"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-24 11:20:24"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-24 11:15:59"
   }
  ]
 }
