@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:02:23-04:00",
+ "generated_at": "2026-11-23T20:08:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-23 20:02:23"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-23 20:08:16"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-23 20:02:23"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-23 19:58:24"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-23 19:46:37"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-23 19:40:22"
   }
  ]
 }
