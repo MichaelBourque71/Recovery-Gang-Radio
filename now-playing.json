@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:25:05-04:00",
+ "generated_at": "2026-11-24T04:29:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-24 04:25:01"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-24 04:29:02"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-24 04:25:01"
+  },
   {
    "title": "Acid Freak",
    "started": "2026-11-24 04:22:39"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-24 04:10:00"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-24 04:06:16"
   }
  ]
 }
