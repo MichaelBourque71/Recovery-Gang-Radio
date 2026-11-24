@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:25:59-04:00",
+ "generated_at": "2026-11-23T20:31:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-23 20:25:54"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-23 20:31:04"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-23 20:25:54"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-23 20:21:48"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-23 20:08:16"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-23 20:02:23"
   }
  ]
 }
