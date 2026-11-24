@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:33:57-04:00",
+ "generated_at": "2026-11-24T16:38:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-24 16:33:55"
+  "title": "Living For Peace",
+  "started": "2026-11-24 16:38:26"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-24 16:33:55"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-24 16:29:52"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-24 16:19:43"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-24 16:16:51"
   }
  ]
 }
