@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:17:43-04:00",
+ "generated_at": "2026-11-24T06:19:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-24 06:17:38"
+  "title": "One More Night",
+  "started": "2026-11-24 06:19:49"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-24 06:17:38"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-24 06:13:25"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-24 05:54:30"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-24 05:51:06"
   }
  ]
 }
