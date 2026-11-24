@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:17:02-04:00",
+ "generated_at": "2026-11-24T01:22:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-24 01:17:01"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-24 01:22:43"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-24 01:17:01"
+  },
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-24 01:13:06"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-24 00:59:32"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-24 00:55:24"
   }
  ]
 }
