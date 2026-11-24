@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T11:50:43-04:00",
+ "generated_at": "2026-11-24T11:55:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "No Parade for the Broken",
-  "started": "2026-11-24 11:50:38"
+  "title": "Invisible String",
+  "started": "2026-11-24 11:54:59"
  },
  "previous": [
+  {
+   "title": "No Parade for the Broken",
+   "started": "2026-11-24 11:50:38"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-24 11:46:12"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-24 11:34:06"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-24 11:30:28"
   }
  ]
 }
