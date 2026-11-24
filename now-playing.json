@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T10:04:18-04:00",
+ "generated_at": "2026-11-24T10:08:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-24 10:04:14"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-24 10:08:24"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-24 10:04:14"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-24 09:58:47"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-24 09:46:04"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-24 09:41:18"
   }
  ]
 }
