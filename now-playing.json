@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:30:07-04:00",
+ "generated_at": "2026-11-24T02:32:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-24 02:30:02"
+  "title": "Gaslight Halo",
+  "started": "2026-11-24 02:32:52"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-24 02:30:02"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-24 02:25:20"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-24 02:12:43"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-24 02:09:08"
   }
  ]
 }
