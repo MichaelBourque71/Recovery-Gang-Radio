@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:09:10-04:00",
+ "generated_at": "2026-11-24T02:12:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-24 02:09:08"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-24 02:12:43"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-24 02:09:08"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-24 02:04:15"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-24 01:51:20"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-24 01:47:43"
   }
  ]
 }
