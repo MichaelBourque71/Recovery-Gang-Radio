@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T21:11:57-04:00",
+ "generated_at": "2026-11-23T21:17:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-23 21:11:55"
+  "title": "Delaware Sniff",
+  "started": "2026-11-23 21:17:46"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-23 21:11:55"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-23 21:08:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-23 20:56:11"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-23 20:51:11"
   }
  ]
 }
