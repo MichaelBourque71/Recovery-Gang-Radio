@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:03:09-04:00",
+ "generated_at": "2026-11-24T03:07:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-24 03:03:06"
+  "title": "Freedom Wave",
+  "started": "2026-11-24 03:07:10"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-24 03:03:06"
+  },
   {
    "title": "We Are Done Being Silent",
    "started": "2026-11-24 02:56:55"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-24 02:45:43"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-24 02:41:35"
   }
  ]
 }
