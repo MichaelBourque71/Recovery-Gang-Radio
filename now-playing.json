@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:37:21-04:00",
+ "generated_at": "2026-11-24T01:40:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-24 01:37:20"
+  "title": "Space Cadet",
+  "started": "2026-11-24 01:40:52"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-24 01:37:20"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-24 01:32:30"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-24 01:22:43"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-24 01:17:01"
   }
  ]
 }
