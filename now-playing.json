@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:19:47-04:00",
+ "generated_at": "2026-11-24T16:24:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-24 16:19:43"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-24 16:24:08"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-24 16:19:43"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-24 16:16:51"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-24 16:04:12"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-24 16:01:40"
   }
  ]
 }
