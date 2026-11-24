@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T18:04:07-04:00",
+ "generated_at": "2026-11-24T18:06:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-24 18:04:03"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-24 18:06:41"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-24 18:04:03"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-24 18:01:14"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-24 17:49:32"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-24 17:46:34"
   }
  ]
 }
