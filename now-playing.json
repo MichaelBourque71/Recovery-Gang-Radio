@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:13:34-04:00",
+ "generated_at": "2026-11-24T03:20:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-24 03:13:29"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-24 03:20:24"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-24 03:13:29"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-24 03:10:20"
@@ -21,10 +25,6 @@
   {
    "title": "We Are Done Being Silent",
    "started": "2026-11-24 02:56:55"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-24 02:53:10"
   }
  ]
 }
