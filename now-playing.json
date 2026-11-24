@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:58:34-04:00",
+ "generated_at": "2026-11-24T08:01:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-24 07:58:34"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-24 08:01:50"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-24 07:58:34"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-24 07:55:02"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-24 07:44:54"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-24 07:38:34"
   }
  ]
 }
