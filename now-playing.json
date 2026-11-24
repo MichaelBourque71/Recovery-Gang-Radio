@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T15:10:18-04:00",
+ "generated_at": "2026-11-24T15:13:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-24 15:10:18"
+  "title": "Nature Is Talking",
+  "started": "2026-11-24 15:13:54"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-24 15:10:18"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-24 15:07:17"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-24 14:53:12"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-24 14:49:50"
   }
  ]
 }
