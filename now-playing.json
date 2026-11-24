@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T00:21:47-04:00",
+ "generated_at": "2026-11-24T00:26:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-24 00:21:44"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-24 00:26:08"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-24 00:21:44"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-24 00:17:36"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-24 00:03:48"
-  },
-  {
-   "title": "So Take a Chance",
-   "started": "2026-11-23 23:59:18"
   }
  ]
 }
