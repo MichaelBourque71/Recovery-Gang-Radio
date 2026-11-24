@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:13:09-04:00",
+ "generated_at": "2026-11-24T01:17:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-24 01:13:06"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-24 01:17:01"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-24 01:13:06"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-24 01:09:00"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-24 00:55:24"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-24 00:52:09"
   }
  ]
 }
