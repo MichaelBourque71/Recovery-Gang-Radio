@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:26:12-04:00",
+ "generated_at": "2026-11-24T12:31:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-24 12:26:08"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-24 12:31:50"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-24 12:26:08"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-24 12:22:36"
@@ -21,10 +25,6 @@
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-24 12:09:52"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-24 12:07:02"
   }
  ]
 }
