@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:47:00-04:00",
+ "generated_at": "2026-11-24T06:51:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-24 06:46:58"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-24 06:51:30"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-24 06:46:58"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-24 06:41:13"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-24 06:28:18"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-24 06:24:21"
   }
  ]
 }
