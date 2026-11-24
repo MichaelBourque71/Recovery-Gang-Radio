@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-24T14:25:26-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-24T14:25:46-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-24 14:20:13"
+ },
  "previous": [
   {
    "title": "Torches And Pitchforks",
