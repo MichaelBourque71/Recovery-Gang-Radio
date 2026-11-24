@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:35:53-04:00",
+ "generated_at": "2026-11-24T07:38:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-24 07:35:53"
+  "title": "Hard Way",
+  "started": "2026-11-24 07:38:34"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-24 07:35:53"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-24 07:31:15"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-24 07:21:55"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-24 07:19:05"
   }
  ]
 }
