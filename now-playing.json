@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T15:51:21-04:00",
+ "generated_at": "2026-11-24T15:54:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-24 15:51:18"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-24 15:54:07"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-24 15:51:18"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-24 15:49:18"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-24 15:38:17"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-24 15:34:35"
   }
  ]
 }
