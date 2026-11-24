@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:08:20-04:00",
+ "generated_at": "2026-11-23T20:13:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-23 20:08:16"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-23 20:13:05"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-23 20:08:16"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-23 20:02:23"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-23 19:50:36"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-23 19:46:37"
   }
  ]
 }
