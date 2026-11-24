@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:23:15-04:00",
+ "generated_at": "2026-11-24T02:25:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-24 02:23:12"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-24 02:25:20"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-24 02:23:12"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-24 02:18:09"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-24 02:04:15"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-24 01:59:17"
   }
  ]
 }
