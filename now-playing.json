@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:19:10-04:00",
+ "generated_at": "2026-11-24T07:21:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Follow The Trail",
-  "started": "2026-11-24 07:19:05"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-24 07:21:55"
  },
  "previous": [
+  {
+   "title": "Follow The Trail",
+   "started": "2026-11-24 07:19:05"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-24 07:14:01"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-24 07:01:14"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-24 06:56:39"
   }
  ]
 }
