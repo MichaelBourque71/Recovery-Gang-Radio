@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T14:29:29-04:00",
+ "generated_at": "2026-11-24T14:34:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can",
-  "started": "2026-11-24 14:29:27"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-24 14:34:24"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can",
+   "started": "2026-11-24 14:29:27"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-24 14:25:48"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-24 14:10:28"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-24 14:07:09"
   }
  ]
 }
