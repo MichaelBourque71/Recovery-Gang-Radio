@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:25:17-04:00",
+ "generated_at": "2026-11-24T07:27:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-24 07:25:14"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-24 07:27:01"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-24 07:25:14"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-24 07:21:55"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-24 07:10:32"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-24 07:06:43"
   }
  ]
 }
