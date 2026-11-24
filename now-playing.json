@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:38:35-04:00",
+ "generated_at": "2026-11-24T07:44:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-24 07:38:34"
+  "title": "If You Have To Hide Your Identity",
+  "started": "2026-11-24 07:44:54"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-24 07:38:34"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-24 07:35:53"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-24 07:25:14"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-24 07:21:55"
   }
  ]
 }
