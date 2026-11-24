@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:51:33-04:00",
+ "generated_at": "2026-11-24T06:56:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-24 06:51:30"
+  "title": "Day And Night",
+  "started": "2026-11-24 06:56:39"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-24 06:51:30"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-24 06:46:58"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-24 06:32:12"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-24 06:28:18"
   }
  ]
 }
