@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:56:15-04:00",
+ "generated_at": "2026-11-23T20:59:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-23 20:56:11"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-23 20:59:37"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-23 20:56:11"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-23 20:51:11"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-23 20:40:26"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-23 20:36:09"
   }
  ]
 }
