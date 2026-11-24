@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:26:28-04:00",
+ "generated_at": "2026-11-24T19:32:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-24 19:26:27"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-24 19:31:56"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-24 19:26:27"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-24 19:22:01"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-24 19:09:15"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-24 19:05:11"
   }
  ]
 }
