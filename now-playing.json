@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:09:54-04:00",
+ "generated_at": "2026-11-24T12:14:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-24 12:09:52"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-24 12:14:28"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-24 12:09:52"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-24 12:07:02"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-24 11:54:59"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-24 11:50:38"
   }
  ]
 }
