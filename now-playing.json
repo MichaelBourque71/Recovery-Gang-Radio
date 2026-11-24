@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T14:15:20-04:00",
+ "generated_at": "2026-11-24T14:20:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-24 14:15:17"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-24 14:20:13"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-24 14:15:17"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-24 14:10:28"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-24 13:59:37"
-  },
-  {
-   "title": "We Are Done Being Silent",
-   "started": "2026-11-24 13:53:22"
   }
  ]
 }
