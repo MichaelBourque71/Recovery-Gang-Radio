@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:03:41-04:00",
+ "generated_at": "2026-11-24T01:09:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-24 01:03:37"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-24 01:09:00"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-24 01:03:37"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-24 00:59:32"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-24 00:45:27"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-24 00:40:05"
   }
  ]
 }
