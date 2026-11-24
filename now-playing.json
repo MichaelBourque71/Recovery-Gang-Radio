@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:22:44-04:00",
+ "generated_at": "2026-11-24T01:26:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-24 01:22:43"
+  "title": "Disobey Authority",
+  "started": "2026-11-24 01:26:20"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-24 01:22:43"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-24 01:17:01"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-24 01:03:37"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-24 00:59:32"
   }
  ]
 }
