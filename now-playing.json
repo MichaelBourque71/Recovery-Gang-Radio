@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T22:07:09-04:00",
+ "generated_at": "2026-11-23T22:10:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-23 22:07:05"
+  "title": "Follow The Trail",
+  "started": "2026-11-23 22:10:39"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-23 22:07:05"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-23 22:04:11"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-23 21:54:13"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-23 21:49:03"
   }
  ]
 }
