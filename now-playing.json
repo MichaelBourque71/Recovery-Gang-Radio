@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T00:26:09-04:00",
+ "generated_at": "2026-11-24T00:31:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-24 00:26:08"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-24 00:30:58"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-24 00:26:08"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-24 00:21:44"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-24 00:07:42"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-24 00:03:48"
   }
  ]
 }
