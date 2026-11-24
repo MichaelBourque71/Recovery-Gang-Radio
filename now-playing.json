@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:25:35-04:00",
+ "generated_at": "2026-11-24T13:30:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-24 13:25:31"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-24 13:30:21"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-24 13:25:31"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-24 13:22:05"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-24 13:09:40"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-24 13:05:20"
   }
  ]
 }
