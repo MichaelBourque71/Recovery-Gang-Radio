@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T17:14:44-04:00",
+ "generated_at": "2026-11-24T17:20:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-24 17:14:42"
+  "title": "It Was Time",
+  "started": "2026-11-24 17:20:21"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-24 17:14:42"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-24 17:09:06"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-24 16:56:43"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-24 16:52:47"
   }
  ]
 }
