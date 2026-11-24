@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T10:56:27-04:00",
+ "generated_at": "2026-11-24T11:00:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-24 10:56:26"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-24 11:00:37"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-24 10:56:26"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-24 10:51:57"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-24 10:40:50"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-24 10:35:45"
   }
  ]
 }
