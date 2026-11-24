@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:07:40-04:00",
+ "generated_at": "2026-11-24T16:12:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Was A Time",
-  "started": "2026-11-24 16:07:36"
+  "title": "I Do What I Want",
+  "started": "2026-11-24 16:12:10"
  },
  "previous": [
+  {
+   "title": "There Was A Time",
+   "started": "2026-11-24 16:07:36"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-24 16:04:12"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-24 15:54:07"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-24 15:51:18"
   }
  ]
 }
