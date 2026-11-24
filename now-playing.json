@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T05:51:09-04:00",
+ "generated_at": "2026-11-24T05:54:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-24 05:51:06"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-24 05:54:30"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-24 05:51:06"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-24 05:46:10"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-24 05:31:37"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-24 05:25:13"
   }
  ]
 }
