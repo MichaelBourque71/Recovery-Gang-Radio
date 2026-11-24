@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T15:34:39-04:00",
+ "generated_at": "2026-11-24T15:38:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-24 15:34:35"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-24 15:38:17"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-24 15:34:35"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-24 15:27:51"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-24 15:13:54"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-24 15:10:18"
   }
  ]
 }
