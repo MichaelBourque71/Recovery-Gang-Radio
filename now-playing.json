@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:55:05-04:00",
+ "generated_at": "2026-11-24T07:58:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-24 07:55:02"
+  "title": "You",
+  "started": "2026-11-24 07:58:34"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-24 07:55:02"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-24 07:51:14"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-24 07:38:34"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-24 07:35:53"
   }
  ]
 }
