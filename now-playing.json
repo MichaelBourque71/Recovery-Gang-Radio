@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:51:16-04:00",
+ "generated_at": "2026-11-24T07:55:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-24 07:51:14"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-24 07:55:02"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-24 07:51:14"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-24 07:48:03"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-24 07:35:53"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-24 07:31:15"
   }
  ]
 }
