@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:04:17-04:00",
+ "generated_at": "2026-11-24T02:09:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-24 02:04:15"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-24 02:09:08"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-24 02:04:15"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-24 01:59:17"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-24 01:47:43"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-24 01:44:41"
   }
  ]
 }
