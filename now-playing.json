@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:22:03-04:00",
+ "generated_at": "2026-11-24T19:26:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-24 19:22:01"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-24 19:26:27"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-24 19:22:01"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-24 19:19:11"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-24 19:05:11"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-24 19:00:52"
   }
  ]
 }
