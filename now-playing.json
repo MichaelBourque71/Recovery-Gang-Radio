@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:45:48-04:00",
+ "generated_at": "2026-11-24T02:49:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-24 02:45:43"
+  "title": "Upgraded",
+  "started": "2026-11-24 02:49:36"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-24 02:45:43"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-24 02:41:35"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-24 02:30:02"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-24 02:25:20"
   }
  ]
 }
