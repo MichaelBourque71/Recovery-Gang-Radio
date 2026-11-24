@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:43:41-04:00",
+ "generated_at": "2026-11-24T19:46:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-24 19:43:38"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-24 19:46:43"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-24 19:43:38"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-24 19:39:58"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-24 19:26:27"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-24 19:22:01"
   }
  ]
 }
