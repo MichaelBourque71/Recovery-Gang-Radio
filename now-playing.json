@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:31:54-04:00",
+ "generated_at": "2026-11-24T12:35:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-24 12:31:50"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-24 12:35:48"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-24 12:31:50"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-24 12:26:08"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-24 12:14:28"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-24 12:09:52"
   }
  ]
 }
