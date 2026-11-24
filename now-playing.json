@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:37:15-04:00",
+ "generated_at": "2026-11-24T02:41:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-24 02:37:15"
+  "title": "FUCK YOUR DIGITAL ID",
+  "started": "2026-11-24 02:41:35"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-24 02:37:15"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-24 02:32:52"
@@ -21,10 +25,6 @@
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-24 02:23:12"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-24 02:18:09"
   }
  ]
 }
