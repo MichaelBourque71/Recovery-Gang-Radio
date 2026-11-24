@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T18:06:42-04:00",
+ "generated_at": "2026-11-24T18:12:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-24 18:06:41"
+  "title": "Greedy Bitch",
+  "started": "2026-11-24 18:12:11"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-24 18:06:41"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-24 18:04:03"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-24 17:52:24"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-24 17:49:32"
   }
  ]
 }
