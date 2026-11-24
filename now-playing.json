@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:38:45-04:00",
+ "generated_at": "2026-11-24T03:43:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-24 03:38:42"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-24 03:43:23"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-24 03:38:42"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-24 03:34:41"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-24 03:23:48"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-24 03:20:24"
   }
  ]
 }
