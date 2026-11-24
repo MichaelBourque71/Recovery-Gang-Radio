@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T16:56:45-04:00",
+ "generated_at": "2026-11-24T16:59:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-24 16:56:43"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-24 16:59:35"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-24 16:56:43"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-24 16:52:47"
@@ -21,10 +25,6 @@
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-24 16:42:00"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-24 16:38:26"
   }
  ]
 }
