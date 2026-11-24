@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:46:10-04:00",
+ "generated_at": "2026-11-24T13:49:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-24 13:46:07"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-24 13:49:24"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-24 13:46:07"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-24 13:43:30"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-24 13:30:21"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-24 13:25:31"
   }
  ]
 }
