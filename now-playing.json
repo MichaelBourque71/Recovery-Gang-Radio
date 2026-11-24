@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T21:30:40-04:00",
+ "generated_at": "2026-11-23T21:33:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-23 21:30:38"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-23 21:33:18"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-23 21:30:38"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-23 21:26:34"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-23 21:11:55"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-23 21:08:36"
   }
  ]
 }
