@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T18:43:27-04:00",
+ "generated_at": "2026-11-24T18:45:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-24 18:43:26"
+  "title": "Some People",
+  "started": "2026-11-24 18:45:20"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-24 18:43:26"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-24 18:38:46"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-24 18:25:48"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-24 18:21:17"
   }
  ]
 }
