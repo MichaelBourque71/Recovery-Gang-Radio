@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:13:44-04:00",
+ "generated_at": "2026-11-24T19:19:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-24 19:13:43"
+  "title": "One Brain Cell",
+  "started": "2026-11-24 19:19:11"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-24 19:13:43"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-24 19:09:15"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-24 18:58:34"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-24 18:54:17"
   }
  ]
 }
