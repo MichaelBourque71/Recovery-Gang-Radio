@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:09:05-04:00",
+ "generated_at": "2026-11-24T01:13:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-24 01:09:00"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-24 01:13:06"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-24 01:09:00"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-24 01:03:37"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-24 00:52:09"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-24 00:45:27"
   }
  ]
 }
