@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T11:59:23-04:00",
+ "generated_at": "2026-11-24T12:02:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-24 11:59:22"
+  "title": "Keyboard Courage",
+  "started": "2026-11-24 12:02:27"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-24 11:59:22"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-24 11:54:59"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-24 11:41:19"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-24 11:37:43"
   }
  ]
 }
