@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:41:40-04:00",
+ "generated_at": "2026-11-24T02:45:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-24 02:41:35"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-24 02:45:43"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-24 02:41:35"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-24 02:37:15"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-24 02:25:20"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-24 02:23:12"
   }
  ]
 }
