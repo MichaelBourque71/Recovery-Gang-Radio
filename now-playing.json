@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T22:44:14-04:00",
+ "generated_at": "2026-11-23T22:49:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-23 22:44:10"
+  "title": "There Was A Time",
+  "started": "2026-11-23 22:49:41"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-23 22:44:10"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-23 22:39:42"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-23 22:29:03"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-23 22:25:42"
   }
  ]
 }
