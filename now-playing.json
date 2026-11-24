@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T22:22:13-04:00",
+ "generated_at": "2026-11-23T22:25:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-23 22:22:11"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-23 22:25:42"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-23 22:22:11"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-23 22:18:26"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-23 22:10:39"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-23 22:07:05"
   }
  ]
 }
