@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T15:07:20-04:00",
+ "generated_at": "2026-11-24T15:10:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Orange Rage (TDS)",
-  "started": "2026-11-24 15:07:17"
+  "title": "Painted Signals",
+  "started": "2026-11-24 15:10:18"
  },
  "previous": [
+  {
+   "title": "Orange Rage (TDS)",
+   "started": "2026-11-24 15:07:17"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-24 15:01:04"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-24 14:49:50"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-24 14:46:06"
   }
  ]
 }
