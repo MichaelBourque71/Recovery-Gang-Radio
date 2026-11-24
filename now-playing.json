@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:50:09-04:00",
+ "generated_at": "2026-11-24T04:55:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-24 04:50:04"
+  "title": "Weed Coughs",
+  "started": "2026-11-24 04:55:08"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-24 04:50:04"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-24 04:45:07"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-24 04:34:14"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-24 04:29:02"
   }
  ]
 }
