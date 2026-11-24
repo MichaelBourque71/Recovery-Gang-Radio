@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:48:07-04:00",
+ "generated_at": "2026-11-24T07:51:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-24 07:48:03"
+  "title": "Fight For Your Right To Breathe",
+  "started": "2026-11-24 07:51:14"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-24 07:48:03"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-24 07:44:54"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-24 07:31:15"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-24 07:27:01"
   }
  ]
 }
