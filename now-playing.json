@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:34:45-04:00",
+ "generated_at": "2026-11-24T03:38:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-24 03:34:41"
+  "title": "Mean Francine",
+  "started": "2026-11-24 03:38:42"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-24 03:34:41"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-24 03:30:18"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-24 03:20:24"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-24 03:13:29"
   }
  ]
 }
