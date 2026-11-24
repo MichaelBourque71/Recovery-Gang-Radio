@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T17:09:10-04:00",
+ "generated_at": "2026-11-24T17:14:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-24 17:09:06"
+  "title": "Hard Way",
+  "started": "2026-11-24 17:14:42"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-24 17:09:06"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-24 17:04:40"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-24 16:52:47"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-24 16:50:28"
   }
  ]
 }
