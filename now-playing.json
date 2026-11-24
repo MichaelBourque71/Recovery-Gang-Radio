@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:47:44-04:00",
+ "generated_at": "2026-11-23T20:51:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sometimes It Takes A Breakdown",
-  "started": "2026-11-23 20:47:43"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-23 20:51:11"
  },
  "previous": [
+  {
+   "title": "Sometimes It Takes A Breakdown",
+   "started": "2026-11-23 20:47:43"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-23 20:44:07"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-23 20:31:04"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-23 20:25:54"
   }
  ]
 }
