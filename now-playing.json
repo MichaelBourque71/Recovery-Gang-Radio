@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:49:28-04:00",
+ "generated_at": "2026-11-24T13:53:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-24 13:49:24"
+  "title": "We Are Done Being Silent",
+  "started": "2026-11-24 13:53:22"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-24 13:49:24"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-24 13:46:07"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-24 13:35:22"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-24 13:30:21"
   }
  ]
 }
