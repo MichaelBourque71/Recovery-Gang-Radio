@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:51:11-04:00",
+ "generated_at": "2026-11-23T20:56:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-23 20:51:11"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-23 20:56:11"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-23 20:51:11"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-23 20:47:43"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-23 20:36:09"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-23 20:31:04"
   }
  ]
 }
