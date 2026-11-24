@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T18:25:50-04:00",
+ "generated_at": "2026-11-24T18:29:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-24 18:25:48"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-24 18:29:16"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-24 18:25:48"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-24 18:21:17"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-24 18:06:41"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-24 18:04:03"
   }
  ]
 }
