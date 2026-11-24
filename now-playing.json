@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T10:32:29-04:00",
+ "generated_at": "2026-11-24T10:35:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-24 10:32:28"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-24 10:35:45"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-24 10:32:28"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-24 10:28:30"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-24 10:12:48"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-24 10:08:24"
   }
  ]
 }
