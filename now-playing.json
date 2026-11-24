@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:02:20-04:00",
+ "generated_at": "2026-11-24T04:06:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-24 04:02:15"
+  "title": "Dead Ideology ",
+  "started": "2026-11-24 04:06:16"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-24 04:02:15"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-24 03:57:19"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-24 03:43:23"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-24 03:38:42"
   }
  ]
 }
