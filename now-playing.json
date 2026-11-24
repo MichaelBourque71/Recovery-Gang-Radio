@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T02:49:38-04:00",
+ "generated_at": "2026-11-24T02:53:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-24 02:49:36"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-24 02:53:10"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-24 02:49:36"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-24 02:45:43"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-24 02:32:52"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-24 02:30:02"
   }
  ]
 }
