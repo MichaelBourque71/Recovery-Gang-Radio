@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:59:38-04:00",
+ "generated_at": "2026-11-23T21:04:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-23 20:59:37"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-23 21:04:07"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-23 20:59:37"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-23 20:56:11"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-23 20:44:07"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-23 20:40:26"
   }
  ]
 }
