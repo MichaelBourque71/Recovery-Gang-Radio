@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:29:22-04:00",
+ "generated_at": "2026-11-24T01:32:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-24 01:29:19"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-24 01:32:30"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-24 01:29:19"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-24 01:26:20"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-24 01:13:06"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-24 01:09:00"
   }
  ]
 }
