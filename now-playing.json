@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T11:34:09-04:00",
+ "generated_at": "2026-11-24T11:37:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-24 11:34:06"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-24 11:37:43"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-24 11:34:06"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-24 11:30:28"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-24 11:15:59"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-24 11:12:14"
   }
  ]
 }
