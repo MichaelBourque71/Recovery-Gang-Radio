@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T05:14:57-04:00",
+ "generated_at": "2026-11-24T05:19:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-24 05:14:55"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-24 05:19:39"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-24 05:14:55"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-24 05:11:19"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-24 04:59:36"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-24 04:55:08"
   }
  ]
 }
