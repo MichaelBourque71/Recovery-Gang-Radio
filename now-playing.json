@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T05:08:02-04:00",
+ "generated_at": "2026-11-24T05:11:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-24 05:07:59"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-24 05:11:19"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-24 05:07:59"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-24 05:03:29"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-24 04:50:04"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-24 04:45:07"
   }
  ]
 }
