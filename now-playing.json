@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T18:12:14-04:00",
+ "generated_at": "2026-11-24T18:16:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-24 18:12:11"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-24 18:16:47"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-24 18:12:11"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-24 18:06:41"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-24 17:55:55"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-24 17:52:24"
   }
  ]
 }
