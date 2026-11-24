@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:51:20-04:00",
+ "generated_at": "2026-11-24T01:55:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-24 01:51:20"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-24 01:55:39"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-24 01:51:20"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-24 01:47:43"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-24 01:37:20"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-24 01:32:30"
   }
  ]
 }
