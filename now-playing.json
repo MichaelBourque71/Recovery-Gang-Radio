@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T06:41:17-04:00",
+ "generated_at": "2026-11-24T06:47:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-24 06:41:13"
+  "title": "Greatest Hits",
+  "started": "2026-11-24 06:46:58"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-24 06:41:13"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-24 06:37:47"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-24 06:24:21"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-24 06:19:49"
   }
  ]
 }
