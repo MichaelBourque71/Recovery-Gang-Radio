@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T12:18:13-04:00",
+ "generated_at": "2026-11-24T12:22:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-24 12:18:12"
+  "title": "Weaponized Children",
+  "started": "2026-11-24 12:22:36"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-24 12:18:12"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-24 12:14:28"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-24 12:02:27"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-24 11:59:22"
   }
  ]
 }
