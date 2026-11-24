@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T15:38:18-04:00",
+ "generated_at": "2026-11-24T15:41:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-24 15:38:17"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-24 15:41:23"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-24 15:38:17"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-24 15:34:35"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-24 15:20:30"
-  },
-  {
-   "title": "Nature Is Talking",
-   "started": "2026-11-24 15:13:54"
   }
  ]
 }
