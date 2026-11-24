@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T00:12:20-04:00",
+ "generated_at": "2026-11-24T00:17:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-24 00:12:16"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-24 00:17:36"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-24 00:12:16"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-24 00:07:42"
@@ -21,10 +25,6 @@
   {
    "title": "I Think My Ex Rides A Broom",
    "started": "2026-11-23 23:56:30"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-23 23:53:38"
   }
  ]
 }
