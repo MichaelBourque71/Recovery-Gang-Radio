@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:36:38-04:00",
+ "generated_at": "2026-11-24T04:41:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-24 04:36:36"
+  "title": "Honourable, My Ass!! (silentH)",
+  "started": "2026-11-24 04:41:04"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-24 04:36:36"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-24 04:34:14"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-24 04:22:39"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-24 04:18:40"
   }
  ]
 }
