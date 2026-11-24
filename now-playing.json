@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T03:43:25-04:00",
+ "generated_at": "2026-11-24T03:47:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-24 03:43:23"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-24 03:47:41"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-24 03:43:23"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-24 03:38:42"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-24 03:27:17"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-24 03:23:48"
   }
  ]
 }
