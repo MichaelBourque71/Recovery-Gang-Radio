@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T23:36:48-04:00",
+ "generated_at": "2026-11-23T23:39:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-23 23:36:44"
+  "title": "What They Want…",
+  "started": "2026-11-23 23:39:50"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-23 23:36:44"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-23 23:32:04"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-23 23:18:22"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-23 23:15:03"
   }
  ]
 }
