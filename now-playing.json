@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T05:19:40-04:00",
+ "generated_at": "2026-11-24T05:22:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-24 05:19:39"
+  "title": "Monopoly Mark",
+  "started": "2026-11-24 05:22:15"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-24 05:19:39"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-24 05:14:55"
@@ -21,10 +25,6 @@
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-24 05:03:29"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-24 04:59:36"
   }
  ]
 }
