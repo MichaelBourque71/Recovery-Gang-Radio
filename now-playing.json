@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T04:59:40-04:00",
+ "generated_at": "2026-11-24T05:03:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-24 04:59:36"
+  "title": "SKY ON FIRE",
+  "started": "2026-11-24 05:03:29"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-24 04:59:36"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-24 04:55:08"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-24 04:41:04"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-24 04:36:36"
   }
  ]
 }
