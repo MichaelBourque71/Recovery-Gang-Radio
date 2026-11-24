@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:01:18-04:00",
+ "generated_at": "2026-11-24T07:06:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-24 07:01:14"
+  "title": "Space Cadet",
+  "started": "2026-11-24 07:06:43"
  },
  "previous": [
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-24 07:01:14"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-24 06:56:39"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-24 06:41:13"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-24 06:37:47"
   }
  ]
 }
