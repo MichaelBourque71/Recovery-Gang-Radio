@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T13:39:12-04:00",
+ "generated_at": "2026-11-24T13:43:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-24 13:39:12"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-24 13:43:30"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-24 13:39:12"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-24 13:35:22"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-24 13:22:05"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-24 13:18:10"
   }
  ]
 }
