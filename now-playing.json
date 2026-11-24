@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:39:58-04:00",
+ "generated_at": "2026-11-24T19:43:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-24 19:39:58"
+  "title": "Mailer Demon",
+  "started": "2026-11-24 19:43:38"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-24 19:39:58"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-24 19:35:54"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-24 19:22:01"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-24 19:19:11"
   }
  ]
 }
