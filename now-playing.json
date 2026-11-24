@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T07:21:58-04:00",
+ "generated_at": "2026-11-24T07:25:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-24 07:21:55"
+  "title": "Doughnut Doug",
+  "started": "2026-11-24 07:25:14"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-24 07:21:55"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-24 07:19:05"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-24 07:06:43"
-  },
-  {
-   "title": "Man With the Backbone",
-   "started": "2026-11-24 07:01:14"
   }
  ]
 }
