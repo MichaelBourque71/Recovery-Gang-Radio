@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-24T17:24:41-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-24 17:24:39"
- },
+ "generated_at": "2026-11-24T17:30:47-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-24 17:24:39"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-24 17:20:21"
@@ -21,10 +22,6 @@
   {
    "title": "Delaware Sniff",
    "started": "2026-11-24 17:04:40"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-24 16:59:35"
   }
  ]
 }
