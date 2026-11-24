@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T22:35:28-04:00",
+ "generated_at": "2026-11-23T22:39:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-23 22:35:25"
+  "title": "Invisible String",
+  "started": "2026-11-23 22:39:42"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-23 22:35:25"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-23 22:31:59"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-23 22:22:11"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-23 22:18:26"
   }
  ]
 }
