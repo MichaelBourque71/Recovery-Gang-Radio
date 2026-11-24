@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T22:16:28-04:00",
+ "generated_at": "2026-11-23T22:18:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-23 22:16:25"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-23 22:18:26"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-23 22:16:25"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-23 22:13:29"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-23 22:04:11"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-23 22:00:59"
   }
  ]
 }
