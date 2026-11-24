@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:00:56-04:00",
+ "generated_at": "2026-11-24T19:05:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-24 19:00:52"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-24 19:05:11"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-24 19:00:52"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-24 18:58:34"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-24 18:45:20"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-24 18:43:26"
   }
  ]
 }
