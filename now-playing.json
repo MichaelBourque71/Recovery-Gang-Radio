@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-23T20:13:06-04:00",
+ "generated_at": "2026-11-23T20:17:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-23 20:13:05"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-23 20:16:59"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-23 20:13:05"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-23 20:08:16"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-23 19:54:26"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-23 19:50:36"
   }
  ]
 }
