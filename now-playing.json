@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T01:55:41-04:00",
+ "generated_at": "2026-11-24T01:59:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-24 01:55:39"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-24 01:59:17"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-24 01:55:39"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-24 01:51:20"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-24 01:40:52"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-24 01:37:20"
   }
  ]
 }
