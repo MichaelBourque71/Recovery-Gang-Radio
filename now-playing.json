@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T04:14:25-04:00",
+ "generated_at": "2026-11-25T04:18:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-25 04:14:25"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-25 04:18:26"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-25 04:14:25"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-25 04:10:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-25 03:58:04"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-25 03:54:47"
   }
  ]
 }
