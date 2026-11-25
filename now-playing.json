@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:21:45-04:00",
+ "generated_at": "2026-11-25T14:27:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feel Alright",
-  "started": "2026-11-25 14:21:41"
+  "title": "Taste Your Honey",
+  "started": "2026-11-25 14:27:19"
  },
  "previous": [
+  {
+   "title": "Feel Alright",
+   "started": "2026-11-25 14:21:41"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-25 14:17:40"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-25 14:05:42"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-25 14:00:14"
   }
  ]
 }
