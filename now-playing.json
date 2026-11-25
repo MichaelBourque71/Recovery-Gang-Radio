@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:20:18-04:00",
+ "generated_at": "2026-11-25T00:23:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-25 00:20:15"
+  "title": "Dead Ideology ",
+  "started": "2026-11-25 00:23:25"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-25 00:20:15"
+  },
   {
    "title": "FUCK YOUR DIGITAL ID",
    "started": "2026-11-25 00:16:18"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-25 00:04:26"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-24 23:58:19"
   }
  ]
 }
