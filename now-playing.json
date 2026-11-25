@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:26:17-04:00",
+ "generated_at": "2026-11-25T13:29:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whistle Through The Light Bar",
-  "started": "2026-11-25 13:26:13"
+  "title": "Burn It Slow",
+  "started": "2026-11-25 13:29:48"
  },
  "previous": [
+  {
+   "title": "Whistle Through The Light Bar",
+   "started": "2026-11-25 13:26:13"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-25 13:23:02"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-25 13:10:58"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-25 13:06:40"
   }
  ]
 }
