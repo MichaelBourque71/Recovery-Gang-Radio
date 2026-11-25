@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T20:40:17-04:00",
+ "generated_at": "2026-11-24T20:43:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right (Reggae version)",
-  "started": "2026-11-24 20:40:13"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-24 20:43:54"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right (Reggae version)",
+   "started": "2026-11-24 20:40:13"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-24 20:36:53"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-24 20:26:32"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-24 20:20:08"
   }
  ]
 }
