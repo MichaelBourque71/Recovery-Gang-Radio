@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:08:54-04:00",
+ "generated_at": "2026-11-25T18:12:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-25 18:08:53"
+  "title": "Hell Didn’t Keep Her",
+  "started": "2026-11-25 18:12:50"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-25 18:08:53"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-25 18:02:07"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-25 17:47:16"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-25 17:44:40"
   }
  ]
 }
