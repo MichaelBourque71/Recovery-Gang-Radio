@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:16:39-04:00",
+ "generated_at": "2026-11-25T12:21:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-25 12:16:38"
+  "title": "One Brain Cell",
+  "started": "2026-11-25 12:21:06"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-25 12:16:38"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-25 12:11:10"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-25 11:59:43"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-25 11:55:25"
   }
  ]
 }
