@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T07:22:28-04:00",
+ "generated_at": "2026-11-25T07:25:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-25 07:22:27"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-25 07:25:04"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-25 07:22:27"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-25 07:17:03"
@@ -21,10 +25,6 @@
   {
    "title": "Invisible String",
    "started": "2026-11-25 07:06:52"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-25 07:01:27"
   }
  ]
 }
