@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:18:02-04:00",
+ "generated_at": "2026-11-25T09:22:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-25 09:17:58"
+  "title": "Duck On The Dash",
+  "started": "2026-11-25 09:22:49"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-25 09:17:58"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-25 09:14:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-25 09:03:32"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-25 08:58:51"
   }
  ]
 }
