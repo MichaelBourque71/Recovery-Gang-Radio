@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T07:06:52-04:00",
+ "generated_at": "2026-11-25T07:10:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-25 07:06:52"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-25 07:10:54"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-25 07:06:52"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-25 07:01:27"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-25 06:49:16"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-25 06:45:44"
   }
  ]
 }
