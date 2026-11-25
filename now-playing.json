@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:46:51-04:00",
+ "generated_at": "2026-11-25T13:51:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-25 13:46:50"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-25 13:51:48"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-25 13:46:50"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-25 13:40:50"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-25 13:29:48"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-25 13:26:13"
   }
  ]
 }
