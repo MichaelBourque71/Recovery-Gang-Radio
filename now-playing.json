@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T19:57:23-04:00",
+ "generated_at": "2026-11-24T20:01:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-24 19:57:21"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-24 20:01:26"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-24 19:57:21"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-24 19:53:25"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-24 19:43:38"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-24 19:39:58"
   }
  ]
 }
