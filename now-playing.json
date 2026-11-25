@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:52:07-04:00",
+ "generated_at": "2026-11-25T16:56:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-25 16:52:02"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-25 16:55:56"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-25 16:52:02"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-25 16:49:59"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-25 16:38:02"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-25 16:33:23"
   }
  ]
 }
