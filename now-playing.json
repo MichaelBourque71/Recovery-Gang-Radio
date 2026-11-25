@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:00:58-04:00",
+ "generated_at": "2026-11-25T03:04:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-25 03:00:57"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-25 03:04:16"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-25 03:00:57"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-25 02:56:52"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-25 02:43:54"
-  },
-  {
-   "title": "Straight Ahead Jed",
-   "started": "2026-11-25 02:39:32"
   }
  ]
 }
