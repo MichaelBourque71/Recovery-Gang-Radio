@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:47:21-04:00",
+ "generated_at": "2026-11-25T03:50:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-25 03:47:19"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-25 03:50:39"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-25 03:47:19"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-25 03:43:14"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-25 03:35:04"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-25 03:30:32"
   }
  ]
 }
