@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T11:03:30-04:00",
+ "generated_at": "2026-11-25T11:06:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-25 11:03:27"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-25 11:06:41"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-25 11:03:27"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-25 10:59:09"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-25 10:44:13"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-25 10:38:59"
   }
  ]
 }
