@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:58:08-04:00",
+ "generated_at": "2026-11-25T04:02:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-25 03:58:04"
+  "title": "Honourable, My Ass!! (silentH)",
+  "started": "2026-11-25 04:02:36"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-25 03:58:04"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-25 03:54:47"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-25 03:43:14"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-25 03:40:04"
   }
  ]
 }
