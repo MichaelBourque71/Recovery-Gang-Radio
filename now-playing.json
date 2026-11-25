@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:51:51-04:00",
+ "generated_at": "2026-11-25T13:56:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-25 13:51:48"
+  "title": "Yes",
+  "started": "2026-11-25 13:56:20"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-25 13:51:48"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-25 13:46:50"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-25 13:34:26"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-25 13:29:48"
   }
  ]
 }
