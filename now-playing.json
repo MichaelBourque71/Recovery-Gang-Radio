@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:35:09-04:00",
+ "generated_at": "2026-11-25T10:39:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-  "started": "2026-11-25 10:35:07"
+  "title": "Breath Of Policy",
+  "started": "2026-11-25 10:38:59"
  },
  "previous": [
+  {
+   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+   "started": "2026-11-25 10:35:07"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-25 10:30:39"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-25 10:19:17"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-25 10:14:10"
   }
  ]
 }
