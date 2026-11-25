@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T07:43:16-04:00",
+ "generated_at": "2026-11-25T07:48:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-25 07:43:14"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-25 07:48:31"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-25 07:43:14"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-25 07:39:52"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-25 07:25:04"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-25 07:22:27"
   }
  ]
 }
