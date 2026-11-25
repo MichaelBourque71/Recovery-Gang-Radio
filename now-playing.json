@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T04:52:19-04:00",
+ "generated_at": "2026-11-25T04:58:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "We Are Done Being Silent",
-  "started": "2026-11-25 04:52:17"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-25 04:58:09"
  },
  "previous": [
+  {
+   "title": "We Are Done Being Silent",
+   "started": "2026-11-25 04:52:17"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-25 04:47:28"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-25 04:34:05"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-25 04:29:35"
   }
  ]
 }
