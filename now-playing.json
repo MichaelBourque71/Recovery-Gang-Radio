@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:42:31-04:00",
+ "generated_at": "2026-11-24T22:47:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-24 22:42:28"
+  "title": "It Was Time",
+  "started": "2026-11-24 22:47:05"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-24 22:42:28"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-24 22:39:08"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-24 22:29:38"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-24 22:25:53"
   }
  ]
 }
