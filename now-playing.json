@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:57:17-04:00",
+ "generated_at": "2026-11-25T15:04:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-25 14:57:12"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-25 15:04:05"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-25 14:57:12"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-25 14:50:49"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-25 14:39:27"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-25 14:34:40"
   }
  ]
 }
