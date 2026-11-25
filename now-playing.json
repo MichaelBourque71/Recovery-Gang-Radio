@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T15:11:13-04:00",
+ "generated_at": "2026-11-25T15:14:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-25 15:11:10"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-25 15:14:24"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-25 15:11:10"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-25 15:07:31"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-25 14:50:49"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-25 14:47:24"
   }
  ]
 }
