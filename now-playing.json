@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T11:59:43-04:00",
+ "generated_at": "2026-11-25T12:03:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-25 11:59:43"
+  "title": "Low-End Disorder",
+  "started": "2026-11-25 12:03:02"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-25 11:59:43"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-25 11:55:25"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-25 11:43:39"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-25 11:39:41"
   }
  ]
 }
