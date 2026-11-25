@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:45:45-04:00",
+ "generated_at": "2026-11-25T06:49:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-25 06:45:44"
+  "title": "Stolen Democracy",
+  "started": "2026-11-25 06:49:16"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-25 06:45:44"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-25 06:40:37"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-25 06:27:50"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-25 06:21:46"
   }
  ]
 }
