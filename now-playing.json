@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:00:18-04:00",
+ "generated_at": "2026-11-25T14:05:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-25 14:00:14"
+  "title": "Stolen Democracy",
+  "started": "2026-11-25 14:05:42"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-25 14:00:14"
+  },
   {
    "title": "Yes",
    "started": "2026-11-25 13:56:20"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-25 13:40:50"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-25 13:37:31"
   }
  ]
 }
