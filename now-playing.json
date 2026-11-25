@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:47:06-04:00",
+ "generated_at": "2026-11-24T22:51:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-24 22:47:05"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-24 22:51:34"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-24 22:47:05"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-24 22:42:28"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-24 22:33:16"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-24 22:29:38"
   }
  ]
 }
