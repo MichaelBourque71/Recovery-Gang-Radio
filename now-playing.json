@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T08:02:14-04:00",
+ "generated_at": "2026-11-25T08:05:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-25 08:02:14"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-25 08:05:30"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-25 08:02:14"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-25 07:56:34"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-25 07:43:14"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-25 07:39:52"
   }
  ]
 }
