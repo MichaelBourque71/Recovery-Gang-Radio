@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:56:01-04:00",
+ "generated_at": "2026-11-25T17:00:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-25 16:55:56"
+  "title": "Thin Skull Recruit",
+  "started": "2026-11-25 17:00:53"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-25 16:55:56"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-25 16:52:02"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-25 16:40:16"
-  },
-  {
-   "title": "The Left Lies",
-   "started": "2026-11-25 16:38:02"
   }
  ]
 }
