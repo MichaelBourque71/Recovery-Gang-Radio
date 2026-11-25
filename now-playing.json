@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:45:02-04:00",
+ "generated_at": "2026-11-25T00:48:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-25 00:44:58"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-25 00:48:34"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-25 00:44:58"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-25 00:42:13"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-25 00:30:50"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-25 00:26:53"
   }
  ]
 }
