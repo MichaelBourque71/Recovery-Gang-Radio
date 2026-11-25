@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:37:23-04:00",
+ "generated_at": "2026-11-25T09:42:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-25 09:37:20"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-25 09:42:16"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-25 09:37:20"
+  },
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-25 09:32:46"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-25 09:22:49"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-25 09:17:58"
   }
  ]
 }
