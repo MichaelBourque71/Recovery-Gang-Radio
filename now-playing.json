@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:27:50-04:00",
+ "generated_at": "2026-11-25T06:31:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-25 06:27:50"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-25 06:31:50"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-25 06:27:50"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-25 06:21:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-25 06:10:43"
-  },
-  {
-   "title": "Pair B - Living For Peace + You",
-   "started": "2026-11-25 06:03:41"
   }
  ]
 }
