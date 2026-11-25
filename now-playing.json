@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T01:13:32-04:00",
+ "generated_at": "2026-11-25T01:18:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-25 01:13:31"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-25 01:18:01"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-25 01:13:31"
+  },
   {
    "title": "There Was A Time",
    "started": "2026-11-25 01:09:18"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-25 00:56:38"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-25 00:52:14"
   }
  ]
 }
