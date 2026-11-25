@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:39:08-04:00",
+ "generated_at": "2026-11-24T22:42:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-24 22:39:08"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-24 22:42:28"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-24 22:39:08"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-24 22:35:57"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-24 22:25:53"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-24 22:21:24"
   }
  ]
 }
