@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:44:47-04:00",
+ "generated_at": "2026-11-25T05:48:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-25 05:44:46"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-25 05:48:54"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-25 05:44:46"
+  },
   {
    "title": "You",
    "started": "2026-11-25 05:40:34"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-25 05:31:21"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-25 05:28:02"
   }
  ]
 }
