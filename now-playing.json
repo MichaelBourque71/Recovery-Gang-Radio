@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:17:51-04:00",
+ "generated_at": "2026-11-25T18:21:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-25 18:17:48"
+  "title": "He Came Home (But He Wasn't The Same)",
+  "started": "2026-11-25 18:21:22"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-25 18:17:48"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-25 18:12:50"
@@ -21,10 +25,6 @@
   {
    "title": "Built To Love",
    "started": "2026-11-25 17:56:16"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-25 17:51:39"
   }
  ]
 }
