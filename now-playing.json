@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:54:30-04:00",
+ "generated_at": "2026-11-25T18:58:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-25 18:54:28"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-25 18:58:57"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-25 18:54:28"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-25 18:50:29"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-25 18:38:04"
-  },
-  {
-   "title": "Fight For Your Right To Breathe",
-   "started": "2026-11-25 18:34:02"
   }
  ]
 }
