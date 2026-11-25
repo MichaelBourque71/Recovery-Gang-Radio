@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T23:16:21-04:00",
+ "generated_at": "2026-11-24T23:19:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-24 23:16:16"
+  "title": "GUMMERS",
+  "started": "2026-11-24 23:19:15"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-24 23:16:16"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-24 23:12:04"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-24 22:59:07"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-24 22:55:55"
   }
  ]
 }
