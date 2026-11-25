@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:44:09-04:00",
+ "generated_at": "2026-11-25T12:47:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Duty Is To My Heart",
-  "started": "2026-11-25 12:44:04"
+  "title": "Killdozer Army",
+  "started": "2026-11-25 12:47:49"
  },
  "previous": [
+  {
+   "title": "My Duty Is To My Heart",
+   "started": "2026-11-25 12:44:04"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-25 12:39:43"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-25 12:29:29"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-25 12:23:56"
   }
  ]
 }
