@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:28:22-04:00",
+ "generated_at": "2026-11-25T17:31:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Cognitively Deceased",
-  "started": "2026-11-25 17:28:22"
+  "title": "Burn It Slow",
+  "started": "2026-11-25 17:31:03"
  },
  "previous": [
+  {
+   "title": "Cognitively Deceased",
+   "started": "2026-11-25 17:28:22"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-25 17:23:35"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-25 17:12:31"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-25 17:09:05"
   }
  ]
 }
