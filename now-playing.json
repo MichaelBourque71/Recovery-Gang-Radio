@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:00:42-04:00",
+ "generated_at": "2026-11-25T06:03:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-25 06:00:42"
+  "title": "Pair B - Living For Peace + You",
+  "started": "2026-11-25 06:03:41"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-25 06:00:42"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-25 05:56:18"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-25 05:44:46"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-25 05:40:34"
   }
  ]
 }
