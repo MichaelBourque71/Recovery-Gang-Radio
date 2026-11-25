@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T04:10:28-04:00",
+ "generated_at": "2026-11-25T04:14:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-25 04:10:27"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-25 04:14:25"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-25 04:10:27"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-25 04:07:03"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-25 03:54:47"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-25 03:50:39"
   }
  ]
 }
