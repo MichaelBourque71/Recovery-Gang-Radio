@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:11:00-04:00",
+ "generated_at": "2026-11-25T13:14:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-25 13:10:58"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-25 13:14:11"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-25 13:10:58"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-25 13:06:40"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-25 12:51:53"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-25 12:47:49"
   }
  ]
 }
