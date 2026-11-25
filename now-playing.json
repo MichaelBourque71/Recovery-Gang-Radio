@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:21:42-04:00",
+ "generated_at": "2026-11-24T21:27:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-24 21:21:41"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-24 21:27:05"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-24 21:21:41"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-24 21:17:55"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-24 21:08:10"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-24 21:02:51"
   }
  ]
 }
