@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:35:13-04:00",
+ "generated_at": "2026-11-25T00:38:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-25 00:35:13"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-25 00:38:25"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-25 00:35:13"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-25 00:30:50"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-25 00:20:15"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-25 00:16:18"
   }
  ]
 }
