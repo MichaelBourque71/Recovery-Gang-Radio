@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T11:51:44-04:00",
+ "generated_at": "2026-11-25T11:55:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-25 11:51:41"
+  "title": "Stranger Danger",
+  "started": "2026-11-25 11:55:25"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-25 11:51:41"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-25 11:47:13"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-25 11:34:40"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-25 11:29:40"
   }
  ]
 }
