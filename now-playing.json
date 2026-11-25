@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T01:32:50-04:00",
+ "generated_at": "2026-11-25T01:37:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-25 01:32:47"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-25 01:37:33"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-25 01:32:47"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-25 01:29:58"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-25 01:18:01"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-25 01:13:31"
   }
  ]
 }
