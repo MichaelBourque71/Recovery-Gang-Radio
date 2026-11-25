@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:31:54-04:00",
+ "generated_at": "2026-11-25T06:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-25 06:31:50"
+  "title": "Heavy Denim",
+  "started": "2026-11-25 06:34:56"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-25 06:31:50"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-25 06:27:50"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-25 06:16:13"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-25 06:10:43"
   }
  ]
 }
