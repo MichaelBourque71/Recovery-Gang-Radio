@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:34:15-04:00",
+ "generated_at": "2026-11-25T19:39:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-25 19:34:14"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-25 19:39:03"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-25 19:34:14"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-25 19:28:27"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-25 19:16:28"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-25 19:13:40"
   }
  ]
 }
