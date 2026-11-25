@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:06:19-04:00",
+ "generated_at": "2026-11-25T05:11:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-25 05:06:18"
+  "title": "Feeling Froggy",
+  "started": "2026-11-25 05:11:15"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-25 05:06:18"
+  },
   {
    "title": "Some People",
    "started": "2026-11-25 05:03:18"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-25 04:47:28"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-25 04:43:26"
   }
  ]
 }
