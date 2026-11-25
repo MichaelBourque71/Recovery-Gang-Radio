@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:16:21-04:00",
+ "generated_at": "2026-11-25T00:20:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-25 00:16:18"
+  "title": "Time For Talking",
+  "started": "2026-11-25 00:20:15"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-25 00:16:18"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-25 00:11:50"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-24 23:58:19"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-24 23:53:53"
   }
  ]
 }
