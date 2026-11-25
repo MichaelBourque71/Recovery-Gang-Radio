@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:40:20-04:00",
+ "generated_at": "2026-11-25T16:43:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-25 16:40:16"
+  "title": "We Are Done Being Silent",
+  "started": "2026-11-25 16:43:56"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-25 16:40:16"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-25 16:38:02"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-25 16:25:44"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-25 16:20:27"
   }
  ]
 }
