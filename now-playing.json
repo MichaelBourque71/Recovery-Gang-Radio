@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:35:30-04:00",
+ "generated_at": "2026-11-24T21:38:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-24 21:35:25"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-24 21:38:22"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-24 21:35:25"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-24 21:32:07"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-24 21:17:55"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-24 21:14:40"
   }
  ]
 }
