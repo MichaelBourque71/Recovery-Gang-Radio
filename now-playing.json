@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:48:36-04:00",
+ "generated_at": "2026-11-25T00:52:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-25 00:48:34"
+  "title": "Stranger Danger",
+  "started": "2026-11-25 00:52:14"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-25 00:48:34"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-25 00:44:58"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-25 00:35:13"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-25 00:30:50"
   }
  ]
 }
