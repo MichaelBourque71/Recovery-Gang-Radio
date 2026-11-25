@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:47:26-04:00",
+ "generated_at": "2026-11-25T14:50:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-25 14:47:24"
+  "title": "Money & Fame",
+  "started": "2026-11-25 14:50:49"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-25 14:47:24"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-25 14:43:05"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-25 14:31:16"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-25 14:27:19"
   }
  ]
 }
