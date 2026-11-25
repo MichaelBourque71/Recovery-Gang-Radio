@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:40:38-04:00",
+ "generated_at": "2026-11-25T05:44:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You",
-  "started": "2026-11-25 05:40:34"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-25 05:44:46"
  },
  "previous": [
+  {
+   "title": "You",
+   "started": "2026-11-25 05:40:34"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-25 05:36:47"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-25 05:28:02"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-25 05:24:08"
   }
  ]
 }
