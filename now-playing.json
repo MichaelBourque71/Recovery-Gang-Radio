@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T04:02:39-04:00",
+ "generated_at": "2026-11-25T04:07:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-25 04:02:36"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-25 04:07:03"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-25 04:02:36"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-25 03:58:04"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-25 03:47:19"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-25 03:43:14"
   }
  ]
 }
