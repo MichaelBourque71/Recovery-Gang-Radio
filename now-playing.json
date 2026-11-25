@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:54:49-04:00",
+ "generated_at": "2026-11-25T03:58:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-25 03:54:47"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-25 03:58:04"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-25 03:54:47"
+  },
   {
    "title": "Faded Fire Still Burns Bright",
    "started": "2026-11-25 03:50:39"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-25 03:40:04"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-25 03:37:16"
   }
  ]
 }
