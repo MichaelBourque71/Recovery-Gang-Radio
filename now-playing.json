@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:23:35-04:00",
+ "generated_at": "2026-11-25T17:28:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-25 17:23:35"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-25 17:28:22"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-25 17:23:35"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-25 17:20:07"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-25 17:09:05"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-25 17:03:43"
   }
  ]
 }
