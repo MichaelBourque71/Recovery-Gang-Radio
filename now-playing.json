@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:39:07-04:00",
+ "generated_at": "2026-11-25T19:41:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-25 19:39:03"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-25 19:41:40"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-25 19:39:03"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-25 19:34:14"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-25 19:19:52"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-25 19:16:28"
   }
  ]
 }
