@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T02:53:15-04:00",
+ "generated_at": "2026-11-25T02:56:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-25 02:53:13"
+  "title": "Roadside Puddles",
+  "started": "2026-11-25 02:56:52"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-25 02:53:13"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-25 02:47:37"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-25 02:36:42"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-25 02:31:18"
   }
  ]
 }
