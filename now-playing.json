@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:51:03-04:00",
+ "generated_at": "2026-11-25T09:54:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-25 09:51:02"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-25 09:54:08"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-25 09:51:02"
+  },
   {
    "title": "Upgraded",
    "started": "2026-11-25 09:47:29"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-25 09:32:46"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-25 09:29:03"
   }
  ]
 }
