@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:21:47-04:00",
+ "generated_at": "2026-11-25T06:27:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-25 06:21:46"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-25 06:27:50"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-25 06:21:46"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-25 06:19:11"
@@ -21,10 +25,6 @@
   {
    "title": "Pair B - Living For Peace + You",
    "started": "2026-11-25 06:03:41"
-  },
-  {
-   "title": "Here’s a Stack",
-   "started": "2026-11-25 06:00:42"
   }
  ]
 }
