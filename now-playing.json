@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:35:08-04:00",
+ "generated_at": "2026-11-25T17:40:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-25 17:35:06"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-25 17:40:06"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-25 17:35:06"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-25 17:31:03"
@@ -21,10 +25,6 @@
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-25 17:20:07"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-25 17:16:55"
   }
  ]
 }
