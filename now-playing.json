@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T11:43:42-04:00",
+ "generated_at": "2026-11-25T11:47:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-25 11:43:39"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-25 11:47:13"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-25 11:43:39"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-25 11:39:41"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority",
    "started": "2026-11-25 11:26:37"
-  },
-  {
-   "title": "Feeling Froggy",
-   "started": "2026-11-25 11:23:01"
   }
  ]
 }
