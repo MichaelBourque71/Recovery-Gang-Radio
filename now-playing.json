@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:22:51-04:00",
+ "generated_at": "2026-11-25T09:26:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Duck On The Dash",
-  "started": "2026-11-25 09:22:49"
+  "title": "Follow The Trail",
+  "started": "2026-11-25 09:26:13"
  },
  "previous": [
+  {
+   "title": "Duck On The Dash",
+   "started": "2026-11-25 09:22:49"
+  },
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-25 09:17:58"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-25 09:07:49"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-25 09:03:32"
   }
  ]
 }
