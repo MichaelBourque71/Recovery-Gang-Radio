@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:01:48-04:00",
+ "generated_at": "2026-11-25T10:04:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-25 10:01:47"
+  "title": "Orange Rage (TDS)",
+  "started": "2026-11-25 10:04:39"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-25 10:01:47"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-25 09:57:37"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-25 09:47:29"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-25 09:42:16"
   }
  ]
 }
