@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:03:35-04:00",
+ "generated_at": "2026-11-25T09:07:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-25 09:03:32"
+  "title": "Lines In Stone",
+  "started": "2026-11-25 09:07:49"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-25 09:03:32"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-25 08:58:51"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-25 08:49:26"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-25 08:45:35"
   }
  ]
 }
