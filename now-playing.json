@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:04:19-04:00",
+ "generated_at": "2026-11-25T03:08:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-25 03:04:16"
+  "title": "I Have Something to Say",
+  "started": "2026-11-25 03:08:19"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-25 03:04:16"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-25 03:00:57"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-25 02:47:37"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-25 02:43:54"
   }
  ]
 }
