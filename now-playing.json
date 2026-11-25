@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:17:57-04:00",
+ "generated_at": "2026-11-24T21:21:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-24 21:17:55"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-24 21:21:41"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-24 21:17:55"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-24 21:14:40"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-24 21:02:51"
-  },
-  {
-   "title": "I Ain't No Saint (But I Love Jesus)",
-   "started": "2026-11-24 20:57:53"
   }
  ]
 }
