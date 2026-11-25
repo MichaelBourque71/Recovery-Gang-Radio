@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:34:05-04:00",
+ "generated_at": "2026-11-25T18:38:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-25 18:34:02"
+  "title": "Mean Francine",
+  "started": "2026-11-25 18:38:04"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-25 18:34:02"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-25 18:29:45"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-25 18:12:50"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-25 18:08:53"
   }
  ]
 }
