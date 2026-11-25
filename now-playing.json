@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:33:28-04:00",
+ "generated_at": "2026-11-25T16:38:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-25 16:33:23"
+  "title": "The Left Lies",
+  "started": "2026-11-25 16:38:02"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-25 16:33:23"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-25 16:31:03"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-25 16:18:05"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-25 16:13:32"
   }
  ]
 }
