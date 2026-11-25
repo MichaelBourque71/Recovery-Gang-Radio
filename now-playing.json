@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:35:06-04:00",
+ "generated_at": "2026-11-25T03:37:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-25 03:35:04"
+  "title": "The Woke Baby Sissy Dance 😂",
+  "started": "2026-11-25 03:37:16"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-25 03:35:04"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-25 03:30:32"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-25 03:19:13"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-25 03:14:13"
   }
  ]
 }
