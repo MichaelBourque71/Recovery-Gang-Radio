@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:51:36-04:00",
+ "generated_at": "2026-11-24T22:55:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-24 22:51:34"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-24 22:55:55"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-24 22:51:34"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-24 22:47:05"
@@ -21,10 +25,6 @@
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-24 22:35:57"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-24 22:33:16"
   }
  ]
 }
