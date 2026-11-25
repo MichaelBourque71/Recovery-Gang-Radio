@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:56:41-04:00",
+ "generated_at": "2026-11-25T01:00:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-25 00:56:38"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-25 01:00:32"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-25 00:56:38"
+  },
   {
    "title": "Stranger Danger",
    "started": "2026-11-25 00:52:14"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-25 00:42:13"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-25 00:38:25"
   }
  ]
 }
