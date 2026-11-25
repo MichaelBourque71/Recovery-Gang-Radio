@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T00:07:42-04:00",
+ "generated_at": "2026-11-25T00:11:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-25 00:07:38"
+  "title": "Delaware Sniff",
+  "started": "2026-11-25 00:11:50"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-25 00:07:38"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-25 00:04:26"
@@ -21,10 +25,6 @@
   {
    "title": "There's Still Hope",
    "started": "2026-11-24 23:46:59"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-24 23:42:41"
   }
  ]
 }
