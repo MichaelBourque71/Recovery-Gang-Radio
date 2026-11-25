@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:11:28-04:00",
+ "generated_at": "2026-11-24T22:16:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-24 22:11:09"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-24 22:16:34"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-24 22:11:09"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-24 22:07:23"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-24 21:55:26"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-24 21:52:07"
   }
  ]
 }
