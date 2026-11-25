@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:49:28-04:00",
+ "generated_at": "2026-11-25T10:54:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-25 10:49:24"
+  "title": "It Was Time",
+  "started": "2026-11-25 10:54:51"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-25 10:49:24"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-25 10:44:13"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-25 10:30:39"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-25 10:26:09"
   }
  ]
 }
