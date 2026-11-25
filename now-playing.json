@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:32:46-04:00",
+ "generated_at": "2026-11-25T09:37:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Canada, Rise Up!!",
-  "started": "2026-11-25 09:32:46"
+  "title": "Fuck Winter",
+  "started": "2026-11-25 09:37:20"
  },
  "previous": [
+  {
+   "title": "Canada, Rise Up!!",
+   "started": "2026-11-25 09:32:46"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-25 09:29:03"
@@ -21,10 +25,6 @@
   {
    "title": "Carney Is Great At Creating Jobs (In The USA)",
    "started": "2026-11-25 09:17:58"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-25 09:14:55"
   }
  ]
 }
