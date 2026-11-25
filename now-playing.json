@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:24:10-04:00",
+ "generated_at": "2026-11-25T03:26:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-25 03:24:07"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-25 03:26:07"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-25 03:24:07"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-25 03:19:13"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-25 03:04:16"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-25 03:00:57"
   }
  ]
 }
