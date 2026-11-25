@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:56:21-04:00",
+ "generated_at": "2026-11-25T14:00:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-25 13:56:20"
+  "title": "Take Our Country Back",
+  "started": "2026-11-25 14:00:14"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-25 13:56:20"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-25 13:51:48"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-25 13:37:31"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-25 13:34:26"
   }
  ]
 }
