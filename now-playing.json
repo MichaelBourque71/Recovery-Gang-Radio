@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:12:54-04:00",
+ "generated_at": "2026-11-25T18:17:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-25 18:12:50"
+  "title": "Upgraded",
+  "started": "2026-11-25 18:17:48"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-25 18:12:50"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-25 18:08:53"
@@ -21,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-25 17:51:39"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-25 17:47:16"
   }
  ]
 }
