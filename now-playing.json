@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T20:11:30-04:00",
+ "generated_at": "2026-11-24T20:14:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-24 20:11:26"
+  "title": "Feel Alright",
+  "started": "2026-11-24 20:14:45"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-24 20:11:26"
+  },
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-24 20:07:40"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-24 19:57:21"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-24 19:53:25"
   }
  ]
 }
