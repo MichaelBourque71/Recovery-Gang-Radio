@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T07:56:36-04:00",
+ "generated_at": "2026-11-25T08:02:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-25 07:56:34"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-25 08:02:14"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-25 07:56:34"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-25 07:52:05"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-25 07:39:52"
-  },
-  {
-   "title": "You Don’t Own Me",
-   "started": "2026-11-25 07:37:11"
   }
  ]
 }
