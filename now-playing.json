@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:40:09-04:00",
+ "generated_at": "2026-11-25T03:43:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-25 03:40:04"
+  "title": "Gaslight Halo",
+  "started": "2026-11-25 03:43:14"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-25 03:40:04"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-25 03:37:16"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-25 03:26:07"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-25 03:24:07"
   }
  ]
 }
