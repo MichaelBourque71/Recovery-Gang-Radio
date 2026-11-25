@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:13:44-04:00",
+ "generated_at": "2026-11-25T19:16:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Think My Ex Rides A Broom",
-  "started": "2026-11-25 19:13:40"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-25 19:16:28"
  },
  "previous": [
+  {
+   "title": "I Think My Ex Rides A Broom",
+   "started": "2026-11-25 19:13:40"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-25 19:10:30"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-25 18:58:57"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-   "started": "2026-11-25 18:54:28"
   }
  ]
 }
