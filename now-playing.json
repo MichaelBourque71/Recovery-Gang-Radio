@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:55:56-04:00",
+ "generated_at": "2026-11-24T22:59:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-24 22:55:55"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-24 22:59:07"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-24 22:55:55"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-24 22:51:34"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-24 22:39:08"
-  },
-  {
-   "title": "Singin’ Through The Fear",
-   "started": "2026-11-24 22:35:57"
   }
  ]
 }
