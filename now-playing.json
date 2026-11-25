@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:51:56-04:00",
+ "generated_at": "2026-11-25T12:57:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-25 12:51:53"
+  "title": "Painted Signals",
+  "started": "2026-11-25 12:57:26"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-25 12:51:53"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-25 12:47:49"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-25 12:36:02"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-25 12:33:25"
   }
  ]
 }
