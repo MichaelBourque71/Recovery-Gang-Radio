@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:03:03-04:00",
+ "generated_at": "2026-11-25T12:06:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-25 12:03:02"
+  "title": "There Was A Time",
+  "started": "2026-11-25 12:06:56"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-25 12:03:02"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-25 11:59:43"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-25 11:47:13"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-25 11:43:39"
   }
  ]
 }
