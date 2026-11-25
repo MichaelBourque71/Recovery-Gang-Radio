@@ -1,8 +1,15 @@
 {
- "generated_at": "2026-11-25T12:33:25-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-25T12:36:07-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-25 12:36:02"
+ },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-25 12:33:25"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-25 12:29:29"
@@ -18,10 +25,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-25 12:16:38"
-  },
-  {
-   "title": "People Think I’m Crazy",
-   "started": "2026-11-25 12:11:10"
   }
  ]
 }
