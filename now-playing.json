@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:21:08-04:00",
+ "generated_at": "2026-11-25T12:24:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-25 12:21:06"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-25 12:23:56"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-25 12:21:06"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-25 12:16:38"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-25 12:03:02"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-25 11:59:43"
   }
  ]
 }
