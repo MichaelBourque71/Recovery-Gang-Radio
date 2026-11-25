@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T03:43:17-04:00",
+ "generated_at": "2026-11-25T03:47:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-25 03:43:14"
+  "title": "Stolen Democracy",
+  "started": "2026-11-25 03:47:19"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-25 03:43:14"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-25 03:40:04"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-25 03:30:32"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-25 03:26:07"
   }
  ]
 }
