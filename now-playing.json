@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:11:51-04:00",
+ "generated_at": "2026-11-24T21:14:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-24 21:11:47"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-24 21:14:40"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-24 21:11:47"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-24 21:08:10"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-24 20:54:48"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-24 20:49:20"
   }
  ]
 }
