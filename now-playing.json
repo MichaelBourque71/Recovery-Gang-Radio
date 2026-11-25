@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:19:42-04:00",
+ "generated_at": "2026-11-25T05:24:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-25 05:19:38"
+  "title": "Every Room’s a Lie",
+  "started": "2026-11-25 05:24:08"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-25 05:19:38"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-25 05:15:26"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-25 05:03:18"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-25 04:58:09"
   }
  ]
 }
