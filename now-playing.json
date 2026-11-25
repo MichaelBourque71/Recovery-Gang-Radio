@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:48:57-04:00",
+ "generated_at": "2026-11-25T19:53:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-25 19:48:55"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-25 19:53:05"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-25 19:48:55"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-25 19:45:24"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-25 19:34:14"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-25 19:28:27"
   }
  ]
 }
