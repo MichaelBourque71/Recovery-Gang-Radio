@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:10:43-04:00",
+ "generated_at": "2026-11-25T06:16:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Do What I Want",
-  "started": "2026-11-25 06:10:43"
+  "title": "Monopoly Mark",
+  "started": "2026-11-25 06:16:13"
  },
  "previous": [
+  {
+   "title": "I Do What I Want",
+   "started": "2026-11-25 06:10:43"
+  },
   {
    "title": "Pair B - Living For Peace + You",
    "started": "2026-11-25 06:03:41"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-25 05:52:17"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-25 05:48:54"
   }
  ]
 }
