@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:57:39-04:00",
+ "generated_at": "2026-11-25T10:01:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-25 09:57:37"
+  "title": "Take Your Laws",
+  "started": "2026-11-25 10:01:47"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-25 09:57:37"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-25 09:54:08"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-25 09:42:16"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-25 09:37:20"
   }
  ]
 }
