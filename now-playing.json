@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T01:25:44-04:00",
+ "generated_at": "2026-11-25T01:29:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-25 01:25:39"
+  "title": "Mushroom Parade",
+  "started": "2026-11-25 01:29:58"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-25 01:25:39"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-25 01:21:16"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-25 01:09:18"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-25 01:03:58"
   }
  ]
 }
