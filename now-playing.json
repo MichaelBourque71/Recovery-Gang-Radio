@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:25:49-04:00",
+ "generated_at": "2026-11-25T16:31:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-25 16:25:44"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-25 16:31:03"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-25 16:25:44"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-25 16:20:27"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-25 16:10:28"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-25 16:06:55"
   }
  ]
 }
