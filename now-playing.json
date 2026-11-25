@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:38:25-04:00",
+ "generated_at": "2026-11-24T21:41:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-24 21:38:22"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-24 21:41:26"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-24 21:38:22"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-24 21:35:25"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-24 21:21:41"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-24 21:17:55"
   }
  ]
 }
