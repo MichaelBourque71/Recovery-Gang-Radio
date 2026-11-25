@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:38:05-04:00",
+ "generated_at": "2026-11-25T18:42:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-25 18:38:04"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-25 18:42:30"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-25 18:38:04"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-25 18:34:02"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-25 18:17:48"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-25 18:12:50"
   }
  ]
 }
