@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:39:01-04:00",
+ "generated_at": "2026-11-25T10:44:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-25 10:38:59"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-25 10:44:13"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-25 10:38:59"
+  },
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-25 10:35:07"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-25 10:22:35"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-25 10:19:17"
   }
  ]
 }
