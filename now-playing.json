@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:19:55-04:00",
+ "generated_at": "2026-11-25T19:25:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Land, Free People",
-  "started": "2026-11-25 19:19:52"
+  "title": "Putz in a Suit",
+  "started": "2026-11-25 19:25:07"
  },
  "previous": [
+  {
+   "title": "Hard Land, Free People",
+   "started": "2026-11-25 19:19:52"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-25 19:16:28"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-25 19:06:12"
-  },
-  {
-   "title": "Yes",
-   "started": "2026-11-25 19:02:20"
   }
  ]
 }
