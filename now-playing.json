@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:49:18-04:00",
+ "generated_at": "2026-11-25T06:53:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stolen Democracy",
-  "started": "2026-11-25 06:49:16"
+  "title": "What They Want…",
+  "started": "2026-11-25 06:53:09"
  },
  "previous": [
+  {
+   "title": "Stolen Democracy",
+   "started": "2026-11-25 06:49:16"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-25 06:45:44"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-25 06:31:50"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-25 06:27:50"
   }
  ]
 }
