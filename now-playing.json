@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:41:44-04:00",
+ "generated_at": "2026-11-25T19:45:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-25 19:41:40"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-25 19:45:24"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-25 19:41:40"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-25 19:39:03"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-25 19:25:07"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-25 19:19:52"
   }
  ]
 }
