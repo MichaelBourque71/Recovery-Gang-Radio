@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T07:39:53-04:00",
+ "generated_at": "2026-11-25T07:43:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-25 07:39:52"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-25 07:43:14"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-25 07:39:52"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-25 07:37:11"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-25 07:22:27"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-25 07:17:03"
   }
  ]
 }
