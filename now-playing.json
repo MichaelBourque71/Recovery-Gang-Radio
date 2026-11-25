@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:25:12-04:00",
+ "generated_at": "2026-11-25T19:28:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-25 19:25:07"
+  "title": "My Harley Waits",
+  "started": "2026-11-25 19:28:27"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-25 19:25:07"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-25 19:19:52"
@@ -21,10 +25,6 @@
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-25 19:10:30"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-25 19:06:12"
   }
  ]
 }
