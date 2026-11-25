@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:38:03-04:00",
+ "generated_at": "2026-11-25T16:40:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Left Lies",
-  "started": "2026-11-25 16:38:02"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-25 16:40:16"
  },
  "previous": [
+  {
+   "title": "The Left Lies",
+   "started": "2026-11-25 16:38:02"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-25 16:33:23"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-25 16:20:27"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-25 16:18:05"
   }
  ]
 }
