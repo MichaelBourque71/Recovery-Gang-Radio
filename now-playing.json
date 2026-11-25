@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:02:08-04:00",
+ "generated_at": "2026-11-25T18:08:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-25 18:02:07"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-25 18:08:53"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-25 18:02:07"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-25 17:56:16"
@@ -21,10 +25,6 @@
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-25 17:44:40"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-25 17:40:06"
   }
  ]
 }
