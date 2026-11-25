@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:52:09-04:00",
+ "generated_at": "2026-11-24T21:55:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-24 21:52:07"
+  "title": "LGBTQ",
+  "started": "2026-11-24 21:55:26"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-24 21:52:07"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-24 21:46:04"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-24 21:35:25"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-24 21:32:07"
   }
  ]
 }
