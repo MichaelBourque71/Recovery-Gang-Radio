@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T23:03:38-04:00",
+ "generated_at": "2026-11-24T23:07:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-24 23:03:34"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-24 23:07:56"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-24 23:03:34"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-24 22:59:07"
@@ -21,10 +25,6 @@
   {
    "title": "It Was Time",
    "started": "2026-11-24 22:47:05"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-24 22:42:28"
   }
  ]
 }
