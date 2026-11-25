@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:42:19-04:00",
+ "generated_at": "2026-11-25T09:47:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-25 09:42:16"
+  "title": "Upgraded",
+  "started": "2026-11-25 09:47:29"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-25 09:42:16"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-25 09:37:20"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-25 09:26:13"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-25 09:22:49"
   }
  ]
 }
