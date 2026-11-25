@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-25T12:29:32-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-25 12:29:29"
- },
+ "generated_at": "2026-11-25T12:33:25-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-25 12:29:29"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-25 12:23:56"
@@ -21,10 +22,6 @@
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-25 12:11:10"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-25 12:06:56"
   }
  ]
 }
