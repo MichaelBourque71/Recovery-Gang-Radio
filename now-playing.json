@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:10:30-04:00",
+ "generated_at": "2026-11-25T16:13:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-25 16:10:28"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-25 16:13:32"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-25 16:10:28"
+  },
   {
    "title": "You",
    "started": "2026-11-25 16:06:55"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-25 15:52:54"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-25 15:49:05"
   }
  ]
 }
