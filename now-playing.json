@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:55:30-04:00",
+ "generated_at": "2026-11-24T21:59:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-24 21:55:26"
+  "title": "Burn It Slow",
+  "started": "2026-11-24 21:59:39"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-24 21:55:26"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-24 21:52:07"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-24 21:38:22"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-24 21:35:25"
   }
  ]
 }
