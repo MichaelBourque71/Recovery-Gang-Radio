@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:26:09-04:00",
+ "generated_at": "2026-11-25T10:30:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-25 10:26:09"
+  "title": "Weed Coughs",
+  "started": "2026-11-25 10:30:39"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-25 10:26:09"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-25 10:22:35"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-25 10:10:45"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-25 10:07:27"
   }
  ]
 }
