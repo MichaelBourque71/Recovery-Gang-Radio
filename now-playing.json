@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T12:47:52-04:00",
+ "generated_at": "2026-11-25T12:51:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-25 12:47:49"
+  "title": "Mystical Journey",
+  "started": "2026-11-25 12:51:53"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-25 12:47:49"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-25 12:44:04"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-25 12:33:25"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-25 12:29:29"
   }
  ]
 }
