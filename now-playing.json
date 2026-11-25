@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:44:40-04:00",
+ "generated_at": "2026-11-25T17:47:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "City of Fading Shadows",
-  "started": "2026-11-25 17:44:40"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-25 17:47:16"
  },
  "previous": [
+  {
+   "title": "City of Fading Shadows",
+   "started": "2026-11-25 17:44:40"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-25 17:40:06"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-25 17:28:22"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-25 17:23:35"
   }
  ]
 }
