@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T10:59:09-04:00",
+ "generated_at": "2026-11-25T11:03:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-25 10:59:09"
+  "title": "Running With Scissors",
+  "started": "2026-11-25 11:03:27"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-25 10:59:09"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-25 10:54:51"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-25 10:38:59"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-25 10:35:07"
   }
  ]
 }
