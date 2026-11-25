@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T21:02:54-04:00",
+ "generated_at": "2026-11-24T21:08:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hell Didn’t Keep Her",
-  "started": "2026-11-24 21:02:51"
+  "title": "Feeling Froggy",
+  "started": "2026-11-24 21:08:10"
  },
  "previous": [
+  {
+   "title": "Hell Didn’t Keep Her",
+   "started": "2026-11-24 21:02:51"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-24 20:57:53"
@@ -21,10 +25,6 @@
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-24 20:46:26"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-24 20:43:54"
   }
  ]
 }
