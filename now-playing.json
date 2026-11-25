@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:56:20-04:00",
+ "generated_at": "2026-11-25T18:02:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-25 17:56:16"
+  "title": "Money & Fame",
+  "started": "2026-11-25 18:02:07"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-25 17:56:16"
+  },
   {
    "title": "Balls Intact",
    "started": "2026-11-25 17:51:39"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-25 17:40:06"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-25 17:35:06"
   }
  ]
 }
