@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:00:57-04:00",
+ "generated_at": "2026-11-25T17:03:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-25 17:00:53"
+  "title": "Feel Alright",
+  "started": "2026-11-25 17:03:43"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-25 17:00:53"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-25 16:55:56"
@@ -21,10 +25,6 @@
   {
    "title": "We Are Done Being Silent",
    "started": "2026-11-25 16:43:56"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-25 16:40:16"
   }
  ]
 }
