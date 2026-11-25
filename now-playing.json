@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T15:27:52-04:00",
+ "generated_at": "2026-11-25T15:33:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-25 15:27:48"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-25 15:33:05"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-25 15:27:48"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-25 15:21:30"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-25 15:11:10"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-25 15:07:31"
   }
  ]
 }
