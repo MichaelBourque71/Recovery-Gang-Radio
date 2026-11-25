@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:29:50-04:00",
+ "generated_at": "2026-11-25T13:34:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-25 13:29:48"
+  "title": "Mailer Demon",
+  "started": "2026-11-25 13:34:26"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-25 13:29:48"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-25 13:26:13"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-25 13:14:11"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-25 13:10:58"
   }
  ]
 }
