@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:24:10-04:00",
+ "generated_at": "2026-11-25T05:28:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-25 05:24:08"
+  "title": "Acid Freak",
+  "started": "2026-11-25 05:28:02"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-25 05:24:08"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-25 05:19:38"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-25 05:06:18"
-  },
-  {
-   "title": "Some People",
-   "started": "2026-11-25 05:03:18"
   }
  ]
 }
