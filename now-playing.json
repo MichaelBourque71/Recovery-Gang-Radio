@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T15:52:56-04:00",
+ "generated_at": "2026-11-25T15:58:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-25 15:52:54"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-25 15:58:38"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-25 15:52:54"
+  },
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-25 15:49:05"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-25 15:36:29"
-  },
-  {
-   "title": "How Many Times Can You Patch A Road",
-   "started": "2026-11-25 15:33:05"
   }
  ]
 }
