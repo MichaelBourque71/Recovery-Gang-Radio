@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:45:28-04:00",
+ "generated_at": "2026-11-25T19:48:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-25 19:45:24"
+  "title": "Start Living Again",
+  "started": "2026-11-25 19:48:55"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-25 19:45:24"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-25 19:41:40"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-25 19:28:27"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-25 19:25:07"
   }
  ]
 }
