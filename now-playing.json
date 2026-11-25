@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:19:29-04:00",
+ "generated_at": "2026-11-25T13:23:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-25 13:19:27"
+  "title": "Freedom Wave",
+  "started": "2026-11-25 13:23:02"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-25 13:19:27"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-25 13:14:11"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-25 13:01:17"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-25 12:57:26"
   }
  ]
 }
