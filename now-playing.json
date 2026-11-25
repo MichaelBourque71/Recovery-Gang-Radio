@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T09:47:30-04:00",
+ "generated_at": "2026-11-25T09:51:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-25 09:47:29"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-25 09:51:02"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-25 09:47:29"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-25 09:42:16"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-25 09:29:03"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-25 09:26:13"
   }
  ]
 }
