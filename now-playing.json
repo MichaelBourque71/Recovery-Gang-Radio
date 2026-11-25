@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:53:13-04:00",
+ "generated_at": "2026-11-25T06:55:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-25 06:53:09"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-25 06:55:51"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-25 06:53:09"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-25 06:49:16"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-25 06:34:56"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-25 06:31:50"
   }
  ]
 }
