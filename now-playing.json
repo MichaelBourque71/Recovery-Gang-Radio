@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:36:01-04:00",
+ "generated_at": "2026-11-24T22:39:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-24 22:35:57"
+  "title": "Stand for Freedom",
+  "started": "2026-11-24 22:39:08"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-24 22:35:57"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-24 22:33:16"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-24 22:21:24"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-24 22:16:34"
   }
  ]
 }
