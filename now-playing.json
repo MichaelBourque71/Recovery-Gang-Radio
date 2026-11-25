@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:43:06-04:00",
+ "generated_at": "2026-11-25T14:47:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-25 14:43:05"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-25 14:47:24"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-25 14:43:05"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-25 14:39:27"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-25 14:27:19"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-25 14:21:41"
   }
  ]
 }
