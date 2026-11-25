@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T20:33:01-04:00",
+ "generated_at": "2026-11-24T20:36:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-24 20:32:58"
+  "title": "Putz in a Suit",
+  "started": "2026-11-24 20:36:53"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-24 20:32:58"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-24 20:29:34"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-24 20:14:45"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-24 20:11:26"
   }
  ]
 }
