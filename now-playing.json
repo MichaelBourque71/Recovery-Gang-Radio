@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T16:13:34-04:00",
+ "generated_at": "2026-11-25T16:18:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-25 16:13:32"
+  "title": "Acid Freak",
+  "started": "2026-11-25 16:18:05"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-25 16:13:32"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-25 16:10:28"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-25 15:58:38"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-25 15:52:54"
   }
  ]
 }
