@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T08:42:15-04:00",
+ "generated_at": "2026-11-25T08:45:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-25 08:42:11"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-25 08:45:35"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-25 08:42:11"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-25 08:38:16"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-25 08:25:15"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-25 08:22:11"
   }
  ]
 }
