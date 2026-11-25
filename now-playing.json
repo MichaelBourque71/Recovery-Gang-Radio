@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:31:04-04:00",
+ "generated_at": "2026-11-25T17:35:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-25 17:31:03"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-25 17:35:06"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-25 17:31:03"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-25 17:28:22"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-25 17:16:55"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-25 17:12:31"
   }
  ]
 }
