@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T18:50:30-04:00",
+ "generated_at": "2026-11-25T18:54:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Straight Ahead Jed",
-  "started": "2026-11-25 18:50:29"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-25 18:54:28"
  },
  "previous": [
+  {
+   "title": "Straight Ahead Jed",
+   "started": "2026-11-25 18:50:29"
+  },
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-25 18:45:02"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-25 18:34:02"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-25 18:29:45"
   }
  ]
 }
