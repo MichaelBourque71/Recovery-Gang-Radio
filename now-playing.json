@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T14:08:46-04:00",
+ "generated_at": "2026-11-25T14:13:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-25 14:08:41"
+  "title": "TDS Ruined The Entertainment World",
+  "started": "2026-11-25 14:13:13"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-25 14:08:41"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-25 14:05:42"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-25 13:51:48"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-25 13:46:50"
   }
  ]
 }
