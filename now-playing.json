@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T17:20:12-04:00",
+ "generated_at": "2026-11-25T17:23:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-25 17:20:07"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-25 17:23:35"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-25 17:20:07"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-25 17:16:55"
@@ -21,10 +25,6 @@
   {
    "title": "Feel Alright",
    "started": "2026-11-25 17:03:43"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-25 17:00:53"
   }
  ]
 }
