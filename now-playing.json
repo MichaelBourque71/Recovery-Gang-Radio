@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T05:33:26-04:00",
+ "generated_at": "2026-11-25T05:36:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Not Enough Hours",
-  "started": "2026-11-25 05:33:22"
+  "title": "I'm Ready For This",
+  "started": "2026-11-25 05:36:47"
  },
  "previous": [
+  {
+   "title": "Not Enough Hours",
+   "started": "2026-11-25 05:33:22"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-25 05:31:21"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-25 05:19:38"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-25 05:15:26"
   }
  ]
 }
