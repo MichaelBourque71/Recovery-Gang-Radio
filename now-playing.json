@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T06:19:15-04:00",
+ "generated_at": "2026-11-25T06:21:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-25 06:19:11"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-25 06:21:46"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-25 06:19:11"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-25 06:16:13"
@@ -21,10 +25,6 @@
   {
    "title": "Here’s a Stack",
    "started": "2026-11-25 06:00:42"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-25 05:56:18"
   }
  ]
 }
