@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T13:01:21-04:00",
+ "generated_at": "2026-11-25T13:06:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-25 13:01:17"
+  "title": "Gaslight Halo",
+  "started": "2026-11-25 13:06:40"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-25 13:01:17"
+  },
   {
    "title": "Painted Signals",
    "started": "2026-11-25 12:57:26"
@@ -21,10 +25,6 @@
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-25 12:44:04"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-25 12:39:43"
   }
  ]
 }
