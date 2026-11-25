@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-24T22:59:08-04:00",
+ "generated_at": "2026-11-24T23:03:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-24 22:59:07"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-24 23:03:34"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-24 22:59:07"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-24 22:55:55"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-24 22:42:28"
-  },
-  {
-   "title": "Stand for Freedom",
-   "started": "2026-11-24 22:39:08"
   }
  ]
 }
