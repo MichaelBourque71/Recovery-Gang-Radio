@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T22:29:37-04:00",
+ "generated_at": "2026-11-25T22:32:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-25 22:29:33"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-25 22:32:14"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-25 22:29:33"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-25 22:25:15"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-25 22:12:50"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-25 22:09:18"
   }
  ]
 }
