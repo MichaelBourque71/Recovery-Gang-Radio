@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:34:20-04:00",
+ "generated_at": "2026-11-26T08:39:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-26 08:34:20"
+  "title": "Doughnut Doug",
+  "started": "2026-11-26 08:39:16"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-26 08:34:20"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-26 08:30:33"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-26 08:18:57"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-26 08:16:37"
   }
  ]
 }
