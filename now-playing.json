@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T01:36:56-04:00",
+ "generated_at": "2026-11-26T01:41:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-26 01:36:55"
+  "title": "Mystical Journey",
+  "started": "2026-11-26 01:41:44"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-26 01:36:55"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-26 01:32:17"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-26 01:20:32"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-26 01:16:43"
   }
  ]
 }
