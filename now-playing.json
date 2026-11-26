@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T10:45:38-04:00",
+ "generated_at": "2026-11-26T10:47:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-26 10:45:35"
+  "title": "Feeling Froggy",
+  "started": "2026-11-26 10:47:46"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-26 10:45:35"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-26 10:41:24"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-26 10:29:11"
-  },
-  {
-   "title": "SELLIN’ HELL",
-   "started": "2026-11-26 10:23:18"
   }
  ]
 }
