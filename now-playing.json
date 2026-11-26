@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:12:56-04:00",
+ "generated_at": "2026-11-26T14:17:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-26 14:12:53"
+  "title": "Clown In A Crown",
+  "started": "2026-11-26 14:17:21"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-26 14:12:53"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-26 14:08:16"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-26 13:57:14"
-  },
-  {
-   "title": "Greedy Bitch",
-   "started": "2026-11-26 13:52:12"
   }
  ]
 }
