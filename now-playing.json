@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:59:51-04:00",
+ "generated_at": "2026-11-26T16:04:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-26 15:59:48"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-26 16:04:03"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-26 15:59:48"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-26 15:55:50"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-26 15:43:54"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-26 15:38:37"
   }
  ]
 }
