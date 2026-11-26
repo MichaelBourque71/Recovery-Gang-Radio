@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T19:11:45-04:00",
+ "generated_at": "2026-11-26T19:15:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-26 19:11:45"
+  "title": "Feel Alright",
+  "started": "2026-11-26 19:15:30"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-26 19:11:45"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-26 19:07:18"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-26 18:57:04"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-26 18:53:05"
   }
  ]
 }
