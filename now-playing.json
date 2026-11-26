@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:59:28-04:00",
+ "generated_at": "2026-11-25T21:04:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-25 20:59:23"
+  "title": "LGBTQ",
+  "started": "2026-11-25 21:04:24"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-25 20:59:23"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-25 20:54:35"
@@ -21,10 +25,6 @@
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-25 20:41:53"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-25 20:37:02"
   }
  ]
 }
