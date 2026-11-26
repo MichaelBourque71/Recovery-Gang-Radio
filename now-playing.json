@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:21:43-04:00",
+ "generated_at": "2026-11-26T04:25:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go (Gadget Wiener)",
-  "started": "2026-11-26 04:21:41"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-26 04:25:28"
  },
  "previous": [
+  {
+   "title": "Go Go (Gadget Wiener)",
+   "started": "2026-11-26 04:21:41"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-26 04:18:06"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-26 04:06:56"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-26 04:02:26"
   }
  ]
 }
