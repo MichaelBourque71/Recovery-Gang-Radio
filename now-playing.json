@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T17:24:11-04:00",
+ "generated_at": "2026-11-26T17:28:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peoplekind Gunperson",
-  "started": "2026-11-26 17:24:07"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-26 17:28:50"
  },
  "previous": [
+  {
+   "title": "Peoplekind Gunperson",
+   "started": "2026-11-26 17:24:07"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-26 17:19:11"
@@ -21,10 +25,6 @@
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-26 17:08:49"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-26 17:05:21"
   }
  ]
 }
