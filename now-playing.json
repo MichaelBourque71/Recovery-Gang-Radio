@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T12:25:44-04:00",
+ "generated_at": "2026-11-26T12:29:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Liberals Are A Dime A Dozen",
-  "started": "2026-11-26 12:25:40"
+  "title": "Save A Motorcycle, Ride A Biker",
+  "started": "2026-11-26 12:29:44"
  },
  "previous": [
+  {
+   "title": "Liberals Are A Dime A Dozen",
+   "started": "2026-11-26 12:25:40"
+  },
   {
    "title": "Mean Francine",
    "started": "2026-11-26 12:21:01"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-26 12:08:38"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-26 12:04:20"
   }
  ]
 }
