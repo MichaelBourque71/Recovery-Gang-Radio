@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T10:36:57-04:00",
+ "generated_at": "2026-11-26T10:41:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-26 10:36:56"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-26 10:41:24"
  },
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-26 10:36:56"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-26 10:33:37"
@@ -21,10 +25,6 @@
   {
    "title": "The Left Lies",
    "started": "2026-11-26 10:20:46"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-26 10:17:26"
   }
  ]
 }
