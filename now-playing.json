@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:57:17-04:00",
+ "generated_at": "2026-11-26T14:01:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Outlaws And Oddballs",
-  "started": "2026-11-26 13:57:14"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-26 14:01:41"
  },
  "previous": [
+  {
+   "title": "Outlaws And Oddballs",
+   "started": "2026-11-26 13:57:14"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-26 13:52:12"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-26 13:38:22"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-26 13:34:14"
   }
  ]
 }
