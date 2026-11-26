@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:35:18-04:00",
+ "generated_at": "2026-11-25T20:37:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-25 20:35:14"
+  "title": "Day And Night",
+  "started": "2026-11-25 20:37:02"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-25 20:35:14"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-25 20:31:26"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-25 20:17:20"
-  },
-  {
-   "title": "I'm Ready For This",
-   "started": "2026-11-25 20:13:34"
   }
  ]
 }
