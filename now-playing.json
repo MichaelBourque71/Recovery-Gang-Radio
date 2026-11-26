@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T22:03:57-04:00",
+ "generated_at": "2026-11-25T22:09:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-25 22:03:54"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-25 22:09:18"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-25 22:03:54"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-25 22:01:18"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-25 21:50:18"
-  },
-  {
-   "title": "Jesus Is The Phoenix",
-   "started": "2026-11-25 21:45:57"
   }
  ]
 }
