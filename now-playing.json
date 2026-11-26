@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:15:34-04:00",
+ "generated_at": "2026-11-25T21:19:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-25 21:15:31"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-25 21:19:27"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-25 21:15:31"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-25 21:12:57"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-25 20:59:23"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks (Funk Version)",
-   "started": "2026-11-25 20:54:35"
   }
  ]
 }
