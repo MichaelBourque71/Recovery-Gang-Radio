@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:32:32-04:00",
+ "generated_at": "2026-11-26T15:36:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-26 15:32:28"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-26 15:36:05"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-26 15:32:28"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-26 15:28:42"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-26 15:18:00"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-26 15:14:54"
   }
  ]
 }
