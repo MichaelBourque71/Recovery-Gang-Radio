@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T01:10:08-04:00",
+ "generated_at": "2026-11-26T01:13:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-26 01:10:03"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-26 01:13:24"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-26 01:10:03"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-26 01:06:06"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-26 00:57:49"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-26 00:54:15"
   }
  ]
 }
