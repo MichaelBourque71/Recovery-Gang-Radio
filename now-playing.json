@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T23:03:57-04:00",
+ "generated_at": "2026-11-25T23:10:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-25 23:03:56"
+  "title": "Breath Of Policy",
+  "started": "2026-11-25 23:10:12"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-25 23:03:56"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-25 23:00:28"
@@ -21,10 +25,6 @@
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-25 22:47:07"
-  },
-  {
-   "title": "I Don’t Bow To Tyrants",
-   "started": "2026-11-25 22:43:33"
   }
  ]
 }
