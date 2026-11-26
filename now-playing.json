@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T06:14:43-04:00",
+ "generated_at": "2026-11-26T06:17:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-26 06:14:40"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-26 06:17:45"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-26 06:14:40"
+  },
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-26 06:08:29"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-26 05:50:25"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-26 05:48:30"
   }
  ]
 }
