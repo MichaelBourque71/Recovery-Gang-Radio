@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:14:51-04:00",
+ "generated_at": "2026-11-26T04:18:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-26 04:14:46"
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-26 04:18:06"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-26 04:14:46"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-26 04:10:41"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-26 03:59:16"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-26 03:53:31"
   }
  ]
 }
