@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-26T19:25:19-04:00",
+ "generated_at": "2026-11-26T19:28:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-26 19:21:11"
+  "title": "How Many Times Can You Patch A Road",
+  "started": "2026-11-26 19:28:25"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-26 19:25:21"
+  },
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-26 19:21:11"
+  },
   {
    "title": "Feel Alright",
    "started": "2026-11-26 19:15:30"
@@ -17,14 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-26 19:07:18"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-26 19:04:23"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-26 19:00:04"
   }
  ]
 }
