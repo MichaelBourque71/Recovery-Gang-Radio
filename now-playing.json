@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:32:02-04:00",
+ "generated_at": "2026-11-26T14:34:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-26 14:31:58"
+  "title": "Whistle Through The Light Bar",
+  "started": "2026-11-26 14:34:32"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-26 14:31:58"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-26 14:27:18"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-26 14:12:53"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-26 14:08:16"
   }
  ]
 }
