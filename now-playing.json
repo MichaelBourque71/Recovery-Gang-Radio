@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:12:43-04:00",
+ "generated_at": "2026-11-26T13:17:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-26 13:12:41"
+  "title": "Acid Freak",
+  "started": "2026-11-26 13:17:11"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-26 13:12:41"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-26 13:06:54"
@@ -21,10 +25,6 @@
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-26 12:54:33"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-26 12:49:51"
   }
  ]
 }
