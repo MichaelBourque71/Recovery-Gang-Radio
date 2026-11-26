@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:47:47-04:00",
+ "generated_at": "2026-11-26T04:52:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-26 04:47:42"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-26 04:52:08"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-26 04:47:42"
+  },
   {
    "title": "There's Still Hope",
    "started": "2026-11-26 04:40:52"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-26 04:30:00"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-26 04:25:28"
   }
  ]
 }
