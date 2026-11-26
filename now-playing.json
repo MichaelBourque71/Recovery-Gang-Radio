@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:03:37-04:00",
+ "generated_at": "2026-11-26T15:08:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-26 15:03:34"
+  "title": "City of Fading Shadows",
+  "started": "2026-11-26 15:08:11"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-26 15:03:34"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-26 15:00:47"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-26 14:46:21"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-26 14:42:40"
   }
  ]
 }
