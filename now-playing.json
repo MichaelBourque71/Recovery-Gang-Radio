@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:25:31-04:00",
+ "generated_at": "2026-11-26T04:30:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-26 04:25:28"
+  "title": "Heavy Denim",
+  "started": "2026-11-26 04:30:00"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-26 04:25:28"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-26 04:21:41"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-26 04:10:41"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-26 04:06:56"
   }
  ]
 }
