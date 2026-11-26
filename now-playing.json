@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:28:59-04:00",
+ "generated_at": "2026-11-25T21:33:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-25 21:28:54"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-25 21:33:24"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-25 21:28:54"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-25 21:24:46"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-25 21:12:57"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-25 21:08:59"
   }
  ]
 }
