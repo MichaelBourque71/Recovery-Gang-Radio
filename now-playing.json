@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:37:18-04:00",
+ "generated_at": "2026-11-26T03:40:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-26 03:37:18"
+  "title": "Time For Talking",
+  "started": "2026-11-26 03:40:10"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-26 03:37:18"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-26 03:32:27"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-26 03:20:01"
-  },
-  {
-   "title": "Feeling Froggy",
-   "started": "2026-11-26 03:16:25"
   }
  ]
 }
