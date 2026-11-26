@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:00:31-04:00",
+ "generated_at": "2026-11-26T03:05:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If Canada Was Still O Canada",
-  "started": "2026-11-26 03:00:30"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-26 03:05:40"
  },
  "previous": [
+  {
+   "title": "If Canada Was Still O Canada",
+   "started": "2026-11-26 03:00:30"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-26 02:56:52"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-26 02:43:10"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-26 02:39:28"
   }
  ]
 }
