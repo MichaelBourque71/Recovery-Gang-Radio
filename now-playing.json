@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:55:23-04:00",
+ "generated_at": "2026-11-26T08:59:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-26 08:55:19"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-26 08:59:52"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-26 08:55:19"
+  },
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-26 08:50:42"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-26 08:39:16"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-26 08:34:20"
   }
  ]
 }
