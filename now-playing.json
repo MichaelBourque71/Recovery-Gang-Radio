@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:41:12-04:00",
+ "generated_at": "2026-11-26T18:45:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-26 18:41:10"
+  "title": "History Collects",
+  "started": "2026-11-26 18:45:32"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-26 18:41:10"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-26 18:38:18"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-26 18:26:10"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-26 18:22:16"
   }
  ]
 }
