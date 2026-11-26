@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:33:57-04:00",
+ "generated_at": "2026-11-26T07:40:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Money & Fame",
-  "started": "2026-11-26 07:33:52"
+  "title": "He Came Home (But He Wasn't The Same)",
+  "started": "2026-11-26 07:40:15"
  },
  "previous": [
+  {
+   "title": "Money & Fame",
+   "started": "2026-11-26 07:33:52"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-26 07:30:33"
@@ -21,10 +25,6 @@
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-26 07:21:34"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-26 07:17:01"
   }
  ]
 }
