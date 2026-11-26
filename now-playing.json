@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-25T22:32:18-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-25 22:32:14"
- },
+ "generated_at": "2026-11-25T22:35:10-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-25 22:32:14"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-25 22:29:33"
@@ -21,10 +22,6 @@
   {
    "title": "Balls Intact",
    "started": "2026-11-25 22:17:25"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-25 22:12:50"
   }
  ]
 }
