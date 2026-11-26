@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T00:19:10-04:00",
+ "generated_at": "2026-11-26T00:23:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-26 00:19:06"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-26 00:23:26"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-26 00:19:06"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-26 00:16:32"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-26 00:04:39"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-25 23:59:45"
   }
  ]
 }
