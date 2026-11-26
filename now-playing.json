@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T12:58:28-04:00",
+ "generated_at": "2026-11-26T13:03:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-26 12:58:27"
+  "title": "Painted Signals",
+  "started": "2026-11-26 13:03:17"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-26 12:58:27"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-26 12:54:33"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-26 12:40:17"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-26 12:35:59"
   }
  ]
 }
