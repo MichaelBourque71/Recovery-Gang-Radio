@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T12:49:52-04:00",
+ "generated_at": "2026-11-26T12:54:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-26 12:49:51"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-26 12:54:33"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-26 12:49:51"
+  },
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-26 12:45:42"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-26 12:32:04"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-26 12:29:44"
   }
  ]
 }
