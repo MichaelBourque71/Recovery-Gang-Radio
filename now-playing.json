@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T12:21:03-04:00",
+ "generated_at": "2026-11-26T12:25:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-26 12:21:01"
+  "title": "Liberals Are A Dime A Dozen",
+  "started": "2026-11-26 12:25:40"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-26 12:21:01"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-26 12:16:50"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-26 12:04:20"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-26 12:00:12"
   }
  ]
 }
