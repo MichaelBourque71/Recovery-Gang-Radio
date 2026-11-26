@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:43:58-04:00",
+ "generated_at": "2026-11-26T15:47:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Time For Talking",
-  "started": "2026-11-26 15:43:54"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-26 15:47:05"
  },
  "previous": [
+  {
+   "title": "Time For Talking",
+   "started": "2026-11-26 15:43:54"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-26 15:38:37"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-26 15:28:42"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-26 15:25:08"
   }
  ]
 }
