@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T19:35:54-04:00",
+ "generated_at": "2026-11-26T19:40:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-26 19:35:51"
+  "title": "Yes",
+  "started": "2026-11-26 19:40:42"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-26 19:35:51"
+  },
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-26 19:32:11"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-26 19:21:11"
-  },
-  {
-   "title": "Feel Alright",
-   "started": "2026-11-26 19:15:30"
   }
  ]
 }
