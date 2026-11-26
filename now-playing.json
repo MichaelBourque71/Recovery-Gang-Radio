@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:46:41-04:00",
+ "generated_at": "2026-11-26T02:51:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Wrong Hole, Wrong Goal (Reggae version)",
-  "started": "2026-11-26 02:46:36"
+  "title": "Fuck Winter",
+  "started": "2026-11-26 02:51:56"
  },
  "previous": [
+  {
+   "title": "Wrong Hole, Wrong Goal (Reggae version)",
+   "started": "2026-11-26 02:46:36"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-26 02:43:10"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-26 02:32:15"
-  },
-  {
-   "title": "One More Night",
-   "started": "2026-11-26 02:28:41"
   }
  ]
 }
