@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:02:28-04:00",
+ "generated_at": "2026-11-26T04:06:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-26 04:02:26"
+  "title": "Muscle Cars & Motorcycles",
+  "started": "2026-11-26 04:06:56"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-26 04:02:26"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-26 03:59:16"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-26 03:46:24"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-26 03:43:43"
   }
  ]
 }
