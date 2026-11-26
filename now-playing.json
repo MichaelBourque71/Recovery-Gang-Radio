@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:25:08-04:00",
+ "generated_at": "2026-11-26T15:28:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-26 15:25:08"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-26 15:28:42"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-26 15:25:08"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-26 15:22:27"
@@ -21,10 +25,6 @@
   {
    "title": "Killdozer Army",
    "started": "2026-11-26 15:10:48"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-26 15:08:11"
   }
  ]
 }
