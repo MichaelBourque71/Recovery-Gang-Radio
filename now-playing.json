@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:48:57-04:00",
+ "generated_at": "2026-11-26T16:51:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-26 16:48:55"
+  "title": "Disobey Authority",
+  "started": "2026-11-26 16:51:23"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-26 16:48:55"
+  },
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-26 16:45:28"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-26 16:34:56"
-  },
-  {
-   "title": "Living For Peace",
-   "started": "2026-11-26 16:31:22"
   }
  ]
 }
