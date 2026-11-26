@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T01:50:38-04:00",
+ "generated_at": "2026-11-26T01:55:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-26 01:50:36"
+  "title": "We Are Done Being Silent",
+  "started": "2026-11-26 01:55:31"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-26 01:50:36"
+  },
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-26 01:47:17"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-26 01:32:17"
-  },
-  {
-   "title": "Southbound 737",
-   "started": "2026-11-26 01:28:51"
   }
  ]
 }
