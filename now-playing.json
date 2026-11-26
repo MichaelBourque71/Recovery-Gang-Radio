@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T17:28:52-04:00",
+ "generated_at": "2026-11-26T17:34:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-26 17:28:50"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-26 17:34:23"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-26 17:28:50"
+  },
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-26 17:24:07"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-26 17:12:43"
-  },
-  {
-   "title": "He Came Home (But He Wasn't The Same)",
-   "started": "2026-11-26 17:08:49"
   }
  ]
 }
