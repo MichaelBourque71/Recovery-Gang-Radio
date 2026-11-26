@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T10:02:38-04:00",
+ "generated_at": "2026-11-26T10:07:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "So Take a Chance",
-  "started": "2026-11-26 10:02:36"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-26 10:07:10"
  },
  "previous": [
+  {
+   "title": "So Take a Chance",
+   "started": "2026-11-26 10:02:36"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-26 09:58:30"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-26 09:46:27"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-26 09:41:41"
   }
  ]
 }
