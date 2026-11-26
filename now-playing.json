@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:17:14-04:00",
+ "generated_at": "2026-11-26T13:19:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-26 13:17:11"
+  "title": "Duck On The Dash",
+  "started": "2026-11-26 13:19:33"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-26 13:17:11"
+  },
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-26 13:12:41"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-26 12:58:27"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-26 12:54:33"
   }
  ]
 }
