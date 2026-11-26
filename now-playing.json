@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:16:40-04:00",
+ "generated_at": "2026-11-26T08:19:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-26 08:16:37"
+  "title": "Two Joints To Fly Right",
+  "started": "2026-11-26 08:18:57"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-26 08:16:37"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-26 08:11:02"
@@ -21,10 +25,6 @@
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-26 08:01:12"
-  },
-  {
-   "title": "Hack It Or Slash It",
-   "started": "2026-11-26 07:56:30"
   }
  ]
 }
