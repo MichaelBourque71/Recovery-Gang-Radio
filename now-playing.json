@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T19:07:22-04:00",
+ "generated_at": "2026-11-26T19:11:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-26 19:07:18"
+  "title": "GUMMERS",
+  "started": "2026-11-26 19:11:45"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-26 19:07:18"
+  },
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-26 19:04:23"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-26 18:53:05"
-  },
-  {
-   "title": "Roadside Puddles",
-   "started": "2026-11-26 18:48:42"
   }
  ]
 }
