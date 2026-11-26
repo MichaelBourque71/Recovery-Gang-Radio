@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:02:01-04:00",
+ "generated_at": "2026-11-26T18:04:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-26 18:01:57"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-26 18:04:19"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-26 18:01:57"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-26 17:57:46"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-26 17:45:13"
-  },
-  {
-   "title": "Sweetleaf Reminiscence",
-   "started": "2026-11-26 17:42:10"
   }
  ]
 }
