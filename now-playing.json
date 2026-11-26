@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:38:02-04:00",
+ "generated_at": "2026-11-26T04:40:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-26 04:38:02"
+  "title": "There's Still Hope",
+  "started": "2026-11-26 04:40:52"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-26 04:38:02"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-26 04:34:58"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-26 04:21:41"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-26 04:18:06"
   }
  ]
 }
