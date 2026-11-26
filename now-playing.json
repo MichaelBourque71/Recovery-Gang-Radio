@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T19:40:43-04:00",
+ "generated_at": "2026-11-26T19:45:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Yes",
-  "started": "2026-11-26 19:40:42"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-26 19:44:59"
  },
  "previous": [
+  {
+   "title": "Yes",
+   "started": "2026-11-26 19:40:42"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-26 19:35:51"
@@ -21,10 +25,6 @@
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-26 19:25:21"
-  },
-  {
-   "title": "Honourable, My Ass!! (silentH)",
-   "started": "2026-11-26 19:21:11"
   }
  ]
 }
