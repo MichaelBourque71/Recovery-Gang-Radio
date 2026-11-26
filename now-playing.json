@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T23:43:54-04:00",
+ "generated_at": "2026-11-25T23:47:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-25 23:43:53"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-25 23:47:05"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-25 23:43:53"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-25 23:41:10"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-25 23:27:24"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-25 23:23:55"
   }
  ]
 }
