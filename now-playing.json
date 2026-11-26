@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:27:15-04:00",
+ "generated_at": "2026-11-26T13:30:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-26 13:27:10"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-26 13:30:27"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-26 13:27:10"
+  },
   {
    "title": "LGBTQ",
    "started": "2026-11-26 13:22:57"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-26 13:12:41"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-26 13:06:54"
   }
  ]
 }
