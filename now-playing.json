@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:05:54-04:00",
+ "generated_at": "2026-11-26T02:09:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-  "started": "2026-11-26 02:05:53"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-26 02:09:01"
  },
  "previous": [
+  {
+   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
+   "started": "2026-11-26 02:05:53"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-26 02:01:33"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-26 01:47:17"
-  },
-  {
-   "title": "Mystical Journey",
-   "started": "2026-11-26 01:41:44"
   }
  ]
 }
