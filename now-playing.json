@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:48:45-04:00",
+ "generated_at": "2026-11-26T18:53:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-26 18:48:42"
+  "title": "Go Go, Gadget Wiener (Part 2)",
+  "started": "2026-11-26 18:53:05"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-26 18:48:42"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-26 18:45:32"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-26 18:34:29"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-26 18:29:47"
   }
  ]
 }
