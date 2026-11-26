@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T01:04:16-04:00",
+ "generated_at": "2026-11-26T01:06:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-26 01:04:12"
+  "title": "I'm Ready For This",
+  "started": "2026-11-26 01:06:06"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-26 01:04:12"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-26 01:01:13"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-26 00:50:22"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-26 00:47:32"
   }
  ]
 }
