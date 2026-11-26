@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T23:59:45-04:00",
+ "generated_at": "2026-11-26T00:04:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-25 23:59:45"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-26 00:04:39"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-25 23:59:45"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-25 23:55:27"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-25 23:43:53"
-  },
-  {
-   "title": "I Like The Strains That Give Me The Giggles",
-   "started": "2026-11-25 23:41:10"
   }
  ]
 }
