@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T19:56:51-04:00",
+ "generated_at": "2026-11-25T20:01:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-25 19:56:49"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-25 20:01:10"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-25 19:56:49"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-25 19:53:05"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-25 19:41:40"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-25 19:39:03"
   }
  ]
 }
