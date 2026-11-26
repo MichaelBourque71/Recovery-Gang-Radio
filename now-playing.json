@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:27:21-04:00",
+ "generated_at": "2026-11-26T14:32:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-26 14:27:18"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-26 14:31:58"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-26 14:27:18"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-26 14:20:41"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-26 14:08:16"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-26 14:05:01"
   }
  ]
 }
