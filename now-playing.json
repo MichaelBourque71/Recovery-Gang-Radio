@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:36:10-04:00",
+ "generated_at": "2026-11-26T15:38:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Bigfoot Hangs Out With A Duck",
-  "started": "2026-11-26 15:36:05"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-26 15:38:37"
  },
  "previous": [
+  {
+   "title": "Bigfoot Hangs Out With A Duck",
+   "started": "2026-11-26 15:36:05"
+  },
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-26 15:32:28"
@@ -21,10 +25,6 @@
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-26 15:22:27"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-26 15:18:00"
   }
  ]
 }
