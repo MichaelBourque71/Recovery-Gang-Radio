@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:49:54-04:00",
+ "generated_at": "2026-11-25T20:54:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-25 20:49:51"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-25 20:54:35"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-25 20:49:51"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-25 20:46:04"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-25 20:35:14"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-25 20:31:26"
   }
  ]
 }
