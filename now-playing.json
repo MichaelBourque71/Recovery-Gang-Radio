@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:06:57-04:00",
+ "generated_at": "2026-11-26T04:10:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-26 04:06:56"
+  "title": "The Truth Walks Slow",
+  "started": "2026-11-26 04:10:41"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-26 04:06:56"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-26 04:02:26"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-26 03:49:56"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-26 03:46:24"
   }
  ]
 }
