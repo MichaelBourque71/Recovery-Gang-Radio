@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:03:15-04:00",
+ "generated_at": "2026-11-26T08:06:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-26 08:03:13"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-26 08:06:43"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-26 08:03:13"
+  },
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-26 08:01:12"
@@ -21,10 +25,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-26 07:48:41"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-26 07:44:23"
   }
  ]
 }
