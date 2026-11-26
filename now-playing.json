@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:25:10-04:00",
+ "generated_at": "2026-11-26T03:29:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Blurred Meridian Lines",
-  "started": "2026-11-26 03:25:07"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-26 03:29:22"
  },
  "previous": [
+  {
+   "title": "Blurred Meridian Lines",
+   "started": "2026-11-26 03:25:07"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-26 03:20:01"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-26 03:05:40"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-26 03:00:30"
   }
  ]
 }
