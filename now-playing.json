@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:03:20-04:00",
+ "generated_at": "2026-11-26T13:06:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Painted Signals",
-  "started": "2026-11-26 13:03:17"
+  "title": "    Can We Still Save It?",
+  "started": "2026-11-26 13:06:54"
  },
  "previous": [
+  {
+   "title": "Painted Signals",
+   "started": "2026-11-26 13:03:17"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-26 12:58:27"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-26 12:45:42"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-26 12:40:17"
   }
  ]
 }
