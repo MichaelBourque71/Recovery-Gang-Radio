@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:55:51-04:00",
+ "generated_at": "2026-11-26T15:59:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-26 15:55:50"
+  "title": "Mean Francine",
+  "started": "2026-11-26 15:59:48"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-26 15:55:50"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-26 15:52:15"
@@ -21,10 +25,6 @@
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-26 15:38:37"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-26 15:36:05"
   }
  ]
 }
