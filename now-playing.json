@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:45:29-04:00",
+ "generated_at": "2026-11-26T16:48:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-26 16:45:28"
+  "title": "What They Want…",
+  "started": "2026-11-26 16:48:55"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-26 16:45:28"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-26 16:42:09"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-26 16:31:22"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-26 16:27:28"
   }
  ]
 }
