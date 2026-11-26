@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:30:33-04:00",
+ "generated_at": "2026-11-26T07:33:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You Don’t Own Me",
-  "started": "2026-11-26 07:30:33"
+  "title": "Money & Fame",
+  "started": "2026-11-26 07:33:52"
  },
  "previous": [
+  {
+   "title": "You Don’t Own Me",
+   "started": "2026-11-26 07:30:33"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-26 07:27:38"
@@ -21,10 +25,6 @@
   {
    "title": "Legal Ain’t Right",
    "started": "2026-11-26 07:17:01"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-26 07:12:34"
   }
  ]
 }
