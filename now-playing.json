@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:01:11-04:00",
+ "generated_at": "2026-11-25T20:05:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-25 20:01:10"
+  "title": "History Collects",
+  "started": "2026-11-25 20:05:06"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-25 20:01:10"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-25 19:56:49"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-25 19:45:24"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-25 19:41:40"
   }
  ]
 }
