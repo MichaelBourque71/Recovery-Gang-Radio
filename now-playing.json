@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:25:23-04:00",
+ "generated_at": "2026-11-26T02:28:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-26 02:25:22"
+  "title": "One More Night",
+  "started": "2026-11-26 02:28:41"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-26 02:25:22"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-26 02:21:43"
@@ -21,10 +25,6 @@
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-26 02:09:01"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-26 02:05:53"
   }
  ]
 }
