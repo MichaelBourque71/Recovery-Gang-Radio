@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T11:50:44-04:00",
+ "generated_at": "2026-11-26T11:55:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-26 11:50:39"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-26 11:55:49"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-26 11:50:39"
+  },
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-26 11:47:11"
@@ -21,10 +25,6 @@
   {
    "title": "Weed Coughs",
    "started": "2026-11-26 11:33:55"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-26 11:30:22"
   }
  ]
 }
