@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:10:48-04:00",
+ "generated_at": "2026-11-26T15:14:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-26 15:10:48"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-26 15:14:54"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-26 15:10:48"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-26 15:08:11"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-26 14:55:37"
-  },
-  {
-   "title": "Go Go, Gadget Wiener (Part 2)",
-   "started": "2026-11-26 14:51:11"
   }
  ]
 }
