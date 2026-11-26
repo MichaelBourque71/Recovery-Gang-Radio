@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:39:17-04:00",
+ "generated_at": "2026-11-26T08:41:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-26 08:39:16"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-26 08:41:39"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-26 08:39:16"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-26 08:34:20"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-26 08:22:21"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-26 08:18:57"
   }
  ]
 }
