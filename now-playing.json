@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:14:59-04:00",
+ "generated_at": "2026-11-26T15:18:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-26 15:14:54"
+  "title": "Allah Abracadabra",
+  "started": "2026-11-26 15:18:00"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-26 15:14:54"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-26 15:10:48"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-26 15:00:47"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-26 14:55:37"
   }
  ]
 }
