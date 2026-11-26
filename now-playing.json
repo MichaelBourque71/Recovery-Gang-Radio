@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T05:48:34-04:00",
+ "generated_at": "2026-11-26T05:50:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-26 05:48:30"
+  "title": "Mystical Journey",
+  "started": "2026-11-26 05:50:25"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-26 05:48:30"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-26 05:44:25"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-26 05:27:33"
-  },
-  {
-   "title": "The Storm Rolls In",
-   "started": "2026-11-26 05:22:12"
   }
  ]
 }
