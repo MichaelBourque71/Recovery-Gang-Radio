@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:21:32-04:00",
+ "generated_at": "2026-11-26T16:24:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-  "started": "2026-11-26 16:21:30"
+  "title": "Lines In Stone",
+  "started": "2026-11-26 16:24:34"
  },
  "previous": [
+  {
+   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
+   "started": "2026-11-26 16:21:30"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-26 16:17:30"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-26 16:04:03"
-  },
-  {
-   "title": "Mean Francine",
-   "started": "2026-11-26 15:59:48"
   }
  ]
 }
