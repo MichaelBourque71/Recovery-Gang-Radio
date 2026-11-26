@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:05:42-04:00",
+ "generated_at": "2026-11-26T03:11:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-26 03:05:40"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-26 03:11:00"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-26 03:05:40"
+  },
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-26 03:00:30"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-26 02:46:36"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-26 02:43:10"
   }
  ]
 }
