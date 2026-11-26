@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:18:10-04:00",
+ "generated_at": "2026-11-26T04:21:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-26 04:18:06"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-26 04:21:41"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-26 04:18:06"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-26 04:14:46"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-26 04:02:26"
-  },
-  {
-   "title": "Freedom Wave",
-   "started": "2026-11-26 03:59:16"
   }
  ]
 }
