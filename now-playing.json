@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T11:23:01-04:00",
+ "generated_at": "2026-11-26T11:27:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK CARNEY!!",
-  "started": "2026-11-26 11:22:56"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-26 11:27:09"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-26 11:22:56"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-26 11:20:06"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-26 11:09:39"
-  },
-  {
-   "title": "Hell Didn’t Keep Her",
-   "started": "2026-11-26 11:04:41"
   }
  ]
 }
