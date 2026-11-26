@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:43:14-04:00",
+ "generated_at": "2026-11-26T02:46:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-26 02:43:10"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-26 02:46:36"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-26 02:43:10"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-26 02:39:28"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-26 02:28:41"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-26 02:25:22"
   }
  ]
 }
