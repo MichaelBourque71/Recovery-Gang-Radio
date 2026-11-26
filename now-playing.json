@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T15:38:40-04:00",
+ "generated_at": "2026-11-26T15:43:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Your Feet on Steady Ground",
-  "started": "2026-11-26 15:38:37"
+  "title": "Time For Talking",
+  "started": "2026-11-26 15:43:54"
  },
  "previous": [
+  {
+   "title": "Your Feet on Steady Ground",
+   "started": "2026-11-26 15:38:37"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-26 15:36:05"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-26 15:25:08"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-26 15:22:27"
   }
  ]
 }
