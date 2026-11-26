@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:37:03-04:00",
+ "generated_at": "2026-11-25T20:41:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-25 20:37:02"
+  "title": "No Parade for the Broken",
+  "started": "2026-11-25 20:41:53"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-25 20:37:02"
+  },
   {
    "title": "Doughnut Doug",
    "started": "2026-11-25 20:35:14"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-25 20:21:51"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-25 20:17:20"
   }
  ]
 }
