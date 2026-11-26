@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:48:44-04:00",
+ "generated_at": "2026-11-26T07:52:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-26 07:48:41"
+  "title": "Low-End Disorder",
+  "started": "2026-11-26 07:52:35"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-26 07:48:41"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-26 07:44:23"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-26 07:30:33"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-26 07:27:38"
   }
  ]
 }
