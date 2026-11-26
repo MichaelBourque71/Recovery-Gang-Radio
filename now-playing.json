@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:47:07-04:00",
+ "generated_at": "2026-11-26T13:52:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-26 13:47:05"
+  "title": "Greedy Bitch",
+  "started": "2026-11-26 13:52:12"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-26 13:47:05"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-26 13:43:02"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-26 13:30:27"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-26 13:27:10"
   }
  ]
 }
