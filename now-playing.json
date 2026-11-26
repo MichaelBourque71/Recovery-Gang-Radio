@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:46:02-04:00",
+ "generated_at": "2026-11-25T21:50:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-25 21:45:57"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-25 21:50:18"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-25 21:45:57"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-25 21:43:16"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-25 21:33:24"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-25 21:28:54"
   }
  ]
 }
