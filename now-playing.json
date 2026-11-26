@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T09:54:48-04:00",
+ "generated_at": "2026-11-26T09:55:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-26 09:51:49"
+  "title": "Unstoppable Force",
+  "started": "2026-11-26 09:55:05"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-26 09:51:49"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-26 09:46:27"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-26 09:34:10"
-  },
-  {
-   "title": "Peoplekind Gunperson",
-   "started": "2026-11-26 09:29:45"
   }
  ]
 }
