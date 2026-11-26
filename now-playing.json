@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:38:25-04:00",
+ "generated_at": "2026-11-26T13:43:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-26 13:38:22"
+  "title": "Honourable, My Ass!! (silentH)",
+  "started": "2026-11-26 13:43:02"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-26 13:38:22"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-26 13:34:14"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-26 13:22:57"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-26 13:19:33"
   }
  ]
 }
