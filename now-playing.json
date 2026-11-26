@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T19:00:09-04:00",
+ "generated_at": "2026-11-26T19:04:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-26 19:00:04"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-26 19:04:23"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-26 19:00:04"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-26 18:57:04"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-26 18:45:32"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-26 18:41:10"
   }
  ]
 }
