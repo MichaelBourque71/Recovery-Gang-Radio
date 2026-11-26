@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:21:46-04:00",
+ "generated_at": "2026-11-26T02:25:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Slow Down, Rider",
-  "started": "2026-11-26 02:21:43"
+  "title": "Suicide Bombers And Sleeper Cells",
+  "started": "2026-11-26 02:25:22"
  },
  "previous": [
+  {
+   "title": "Slow Down, Rider",
+   "started": "2026-11-26 02:21:43"
+  },
   {
    "title": "Killdozer Army",
    "started": "2026-11-26 02:17:17"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-26 02:05:53"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-26 02:01:33"
   }
  ]
 }
