@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T09:58:32-04:00",
+ "generated_at": "2026-11-26T10:02:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslight Halo",
-  "started": "2026-11-26 09:58:30"
+  "title": "So Take a Chance",
+  "started": "2026-11-26 10:02:36"
  },
  "previous": [
+  {
+   "title": "Gaslight Halo",
+   "started": "2026-11-26 09:58:30"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-26 09:55:05"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-26 09:41:41"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-26 09:37:47"
   }
  ]
 }
