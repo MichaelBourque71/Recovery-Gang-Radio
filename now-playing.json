@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:40:55-04:00",
+ "generated_at": "2026-11-26T04:47:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-26 04:40:52"
+  "title": "Greedy Bitch",
+  "started": "2026-11-26 04:47:42"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-26 04:40:52"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-26 04:38:02"
@@ -21,10 +25,6 @@
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-26 04:25:28"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-26 04:21:41"
   }
  ]
 }
