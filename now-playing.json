@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:42:11-04:00",
+ "generated_at": "2026-11-26T16:45:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-26 16:42:09"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-26 16:45:28"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-26 16:42:09"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-26 16:38:46"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-26 16:27:28"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-26 16:24:34"
   }
  ]
 }
