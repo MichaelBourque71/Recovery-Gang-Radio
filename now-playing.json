@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T01:01:15-04:00",
+ "generated_at": "2026-11-26T01:04:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-26 01:01:13"
+  "title": "420 Twice A Day",
+  "started": "2026-11-26 01:04:12"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-26 01:01:13"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-26 00:57:49"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-26 00:47:32"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-26 00:42:47"
   }
  ]
 }
