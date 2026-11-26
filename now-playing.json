@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:57:42-04:00",
+ "generated_at": "2026-11-26T17:01:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-26 16:57:37"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-26 17:01:36"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-26 16:57:37"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-26 16:54:22"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-26 16:45:28"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-26 16:42:09"
   }
  ]
 }
