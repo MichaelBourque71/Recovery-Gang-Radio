@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:13:02-04:00",
+ "generated_at": "2026-11-25T21:15:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-25 21:12:57"
+  "title": "GUMMERS",
+  "started": "2026-11-25 21:15:31"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-25 21:12:57"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-25 21:08:59"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-25 20:54:35"
-  },
-  {
-   "title": "FUCK CARNEY!!",
-   "started": "2026-11-25 20:49:51"
   }
  ]
 }
