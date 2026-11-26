@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:40:37-04:00",
+ "generated_at": "2026-11-25T21:43:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "What They Want…",
-  "started": "2026-11-25 21:40:35"
+  "title": "Cognitively Deceased",
+  "started": "2026-11-25 21:43:16"
  },
  "previous": [
+  {
+   "title": "What They Want…",
+   "started": "2026-11-25 21:40:35"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-25 21:37:57"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-25 21:24:46"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-25 21:19:27"
   }
  ]
 }
