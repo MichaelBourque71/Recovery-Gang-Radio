@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T20:46:06-04:00",
+ "generated_at": "2026-11-25T20:49:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-25 20:46:04"
+  "title": "FUCK CARNEY!!",
+  "started": "2026-11-25 20:49:51"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-25 20:46:04"
+  },
   {
    "title": "No Parade for the Broken",
    "started": "2026-11-25 20:41:53"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right (Reggae version)",
    "started": "2026-11-25 20:31:26"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-25 20:27:27"
   }
  ]
 }
