@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:01:43-04:00",
+ "generated_at": "2026-11-26T14:05:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-26 14:01:41"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-26 14:05:01"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-26 14:01:41"
+  },
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-26 13:57:14"
@@ -21,10 +25,6 @@
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-26 13:43:02"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-26 13:38:22"
   }
  ]
 }
