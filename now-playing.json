@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T23:55:31-04:00",
+ "generated_at": "2026-11-25T23:59:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-25 23:55:27"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-25 23:59:45"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-25 23:55:27"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-25 23:52:14"
@@ -21,10 +25,6 @@
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-25 23:41:10"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-25 23:35:13"
   }
  ]
 }
