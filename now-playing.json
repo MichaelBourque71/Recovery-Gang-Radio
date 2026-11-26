@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T02:09:01-04:00",
+ "generated_at": "2026-11-26T02:12:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-26 02:09:01"
+  "title": "Breath Of Policy",
+  "started": "2026-11-26 02:12:12"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-26 02:09:01"
+  },
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-26 02:05:53"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-26 01:50:36"
-  },
-  {
-   "title": "Won't Stop Being Me",
-   "started": "2026-11-26 01:47:17"
   }
  ]
 }
