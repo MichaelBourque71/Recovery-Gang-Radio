@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:24:37-04:00",
+ "generated_at": "2026-11-26T07:27:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-26 07:24:33"
+  "title": "Lines In Stone",
+  "started": "2026-11-26 07:27:38"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-26 07:24:33"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-26 07:21:34"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-26 07:09:42"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-26 07:06:11"
   }
  ]
 }
