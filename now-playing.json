@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:17:22-04:00",
+ "generated_at": "2026-11-26T14:20:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-26 14:17:21"
+  "title": "Nature Is Talking",
+  "started": "2026-11-26 14:20:41"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-26 14:17:21"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-26 14:12:53"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-26 14:01:41"
-  },
-  {
-   "title": "Outlaws And Oddballs",
-   "started": "2026-11-26 13:57:14"
   }
  ]
 }
