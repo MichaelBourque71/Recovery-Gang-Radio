@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:35:00-04:00",
+ "generated_at": "2026-11-26T16:38:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-26 16:34:56"
+  "title": "History Collects",
+  "started": "2026-11-26 16:38:46"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-26 16:34:56"
+  },
   {
    "title": "Living For Peace",
    "started": "2026-11-26 16:31:22"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-26 16:21:30"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-26 16:17:30"
   }
  ]
 }
