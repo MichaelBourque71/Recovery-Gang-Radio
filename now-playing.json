@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:57:40-04:00",
+ "generated_at": "2026-11-25T22:01:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-25 21:57:37"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-25 22:01:18"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-25 21:57:37"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-25 21:54:03"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-25 21:43:16"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-25 21:40:35"
   }
  ]
 }
