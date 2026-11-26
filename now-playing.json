@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T17:08:49-04:00",
+ "generated_at": "2026-11-26T17:12:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Came Home (But He Wasn't The Same)",
-  "started": "2026-11-26 17:08:49"
+  "title": "Not Enough Hours",
+  "started": "2026-11-26 17:12:43"
  },
  "previous": [
+  {
+   "title": "He Came Home (But He Wasn't The Same)",
+   "started": "2026-11-26 17:08:49"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-26 17:05:21"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-26 16:54:22"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-26 16:51:23"
   }
  ]
 }
