@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-26T09:46:29-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-26 09:46:27"
- },
+ "generated_at": "2026-11-26T09:51:50-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-26 09:46:27"
+  },
   {
    "title": "Keyboard Courage",
    "started": "2026-11-26 09:41:41"
@@ -21,10 +22,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-26 09:29:45"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-26 09:25:30"
   }
  ]
 }
