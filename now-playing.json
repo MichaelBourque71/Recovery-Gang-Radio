@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T06:54:16-04:00",
+ "generated_at": "2026-11-26T06:58:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-26 06:54:13"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-26 06:58:41"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-26 06:54:13"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-26 06:49:48"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-26 06:36:42"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-26 06:32:18"
   }
  ]
 }
