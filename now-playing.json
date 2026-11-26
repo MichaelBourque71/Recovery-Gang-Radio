@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T16:07:51-04:00",
+ "generated_at": "2026-11-26T16:12:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stranger Danger",
-  "started": "2026-11-26 16:07:50"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-26 16:12:07"
  },
  "previous": [
+  {
+   "title": "Stranger Danger",
+   "started": "2026-11-26 16:07:50"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-26 16:04:03"
@@ -21,10 +25,6 @@
   {
    "title": "One Brain Cell",
    "started": "2026-11-26 15:52:15"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-26 15:47:05"
   }
  ]
 }
