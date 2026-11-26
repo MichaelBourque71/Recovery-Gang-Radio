@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T09:12:51-04:00",
+ "generated_at": "2026-11-26T09:19:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-26 09:12:50"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-26 09:19:01"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-26 09:12:50"
+  },
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-26 09:08:50"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-26 08:55:19"
-  },
-  {
-   "title": "Leftists Can Go Fuck Themselves",
-   "started": "2026-11-26 08:50:42"
   }
  ]
 }
