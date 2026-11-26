@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:11:04-04:00",
+ "generated_at": "2026-11-26T03:16:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-26 03:11:00"
+  "title": "Feeling Froggy",
+  "started": "2026-11-26 03:16:25"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-26 03:11:00"
+  },
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-26 03:05:40"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-26 02:51:56"
-  },
-  {
-   "title": "Wrong Hole, Wrong Goal (Reggae version)",
-   "started": "2026-11-26 02:46:36"
   }
  ]
 }
