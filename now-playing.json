@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:27:41-04:00",
+ "generated_at": "2026-11-26T07:30:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-26 07:27:38"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-26 07:30:33"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-26 07:27:38"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-26 07:24:33"
@@ -21,10 +25,6 @@
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-26 07:12:34"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-26 07:09:42"
   }
  ]
 }
