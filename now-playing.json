@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-25T21:24:51-04:00",
+ "generated_at": "2026-11-25T21:28:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gear Jammin’ Road Hammer",
-  "started": "2026-11-25 21:24:46"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-25 21:28:54"
  },
  "previous": [
+  {
+   "title": "Gear Jammin’ Road Hammer",
+   "started": "2026-11-25 21:24:46"
+  },
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-25 21:19:27"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-25 21:08:59"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-25 21:04:24"
   }
  ]
 }
