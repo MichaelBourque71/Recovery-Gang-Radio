@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:10:20-04:00",
+ "generated_at": "2026-11-26T18:15:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Breath Of Policy",
-  "started": "2026-11-26 18:10:20"
+  "title": "Singin’ Through The Fear",
+  "started": "2026-11-26 18:15:25"
  },
  "previous": [
+  {
+   "title": "Breath Of Policy",
+   "started": "2026-11-26 18:10:20"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-26 18:04:19"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-26 17:53:25"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-26 17:48:50"
   }
  ]
 }
