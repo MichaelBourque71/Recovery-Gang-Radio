@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T12:29:46-04:00",
+ "generated_at": "2026-11-26T12:32:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Save A Motorcycle, Ride A Biker",
-  "started": "2026-11-26 12:29:44"
+  "title": "Alignment",
+  "started": "2026-11-26 12:32:04"
  },
  "previous": [
+  {
+   "title": "Save A Motorcycle, Ride A Biker",
+   "started": "2026-11-26 12:29:44"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-26 12:25:40"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-26 12:12:27"
-  },
-  {
-   "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
-   "started": "2026-11-26 12:08:38"
   }
  ]
 }
