@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:12:36-04:00",
+ "generated_at": "2026-11-26T07:17:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-26 07:12:34"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-26 07:17:01"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-26 07:12:34"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-26 07:09:42"
@@ -21,10 +25,6 @@
   {
    "title": "The Logan Act Blues",
    "started": "2026-11-26 06:58:41"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-26 06:54:13"
   }
  ]
 }
