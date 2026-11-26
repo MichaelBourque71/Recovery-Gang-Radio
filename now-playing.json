@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T08:01:14-04:00",
+ "generated_at": "2026-11-26T08:03:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-26 08:01:12"
+  "title": "Putz in a Suit",
+  "started": "2026-11-26 08:03:13"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-26 08:01:12"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-26 07:56:30"
@@ -21,10 +25,6 @@
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-26 07:44:23"
-  },
-  {
-   "title": "He Came Home (But He Wasn't The Same)",
-   "started": "2026-11-26 07:40:15"
   }
  ]
 }
