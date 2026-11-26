@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T00:54:16-04:00",
+ "generated_at": "2026-11-26T00:57:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Living For Peace",
-  "started": "2026-11-26 00:54:15"
+  "title": "Not Enough Hours",
+  "started": "2026-11-26 00:57:49"
  },
  "previous": [
+  {
+   "title": "Living For Peace",
+   "started": "2026-11-26 00:54:15"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-26 00:50:22"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-26 00:39:37"
-  },
-  {
-   "title": "Upgraded",
-   "started": "2026-11-26 00:36:03"
   }
  ]
 }
