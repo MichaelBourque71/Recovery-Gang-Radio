@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:45:33-04:00",
+ "generated_at": "2026-11-26T18:48:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-26 18:45:32"
+  "title": "Roadside Puddles",
+  "started": "2026-11-26 18:48:42"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-26 18:45:32"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-26 18:41:10"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-26 18:29:47"
-  },
-  {
-   "title": "Painted Signals",
-   "started": "2026-11-26 18:26:10"
   }
  ]
 }
