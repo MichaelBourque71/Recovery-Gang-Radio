@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T06:08:32-04:00",
+ "generated_at": "2026-11-26T06:14:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Half Truths, Whole Lies",
-  "started": "2026-11-26 06:08:29"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-26 06:14:40"
  },
  "previous": [
+  {
+   "title": "Half Truths, Whole Lies",
+   "started": "2026-11-26 06:08:29"
+  },
   {
    "title": "Pair C - I'm Ready For This + My Duty Is To My Heart",
    "started": "2026-11-26 06:00:25"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-26 05:48:30"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-26 05:44:25"
   }
  ]
 }
