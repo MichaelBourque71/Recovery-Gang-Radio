@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T03:46:28-04:00",
+ "generated_at": "2026-11-26T03:49:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-26 03:46:24"
+  "title": "Some People",
+  "started": "2026-11-26 03:49:56"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-26 03:46:24"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-26 03:43:43"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-26 03:32:27"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-26 03:29:22"
   }
  ]
 }
