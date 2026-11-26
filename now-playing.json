@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T07:40:20-04:00",
+ "generated_at": "2026-11-26T07:44:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Came Home (But He Wasn't The Same)",
-  "started": "2026-11-26 07:40:15"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-26 07:44:23"
  },
  "previous": [
+  {
+   "title": "He Came Home (But He Wasn't The Same)",
+   "started": "2026-11-26 07:40:15"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-26 07:33:52"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-26 07:24:33"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-26 07:21:34"
   }
  ]
 }
