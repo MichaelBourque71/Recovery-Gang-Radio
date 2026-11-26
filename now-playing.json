@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:53:05-04:00",
+ "generated_at": "2026-11-26T18:57:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-26 18:53:05"
+  "title": "Mushroom Parade",
+  "started": "2026-11-26 18:57:04"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-26 18:53:05"
+  },
   {
    "title": "Roadside Puddles",
    "started": "2026-11-26 18:48:42"
@@ -21,10 +25,6 @@
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-26 18:38:18"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-26 18:34:29"
   }
  ]
 }
