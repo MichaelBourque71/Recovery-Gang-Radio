@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T06:53:33-04:00",
+ "generated_at": "2026-11-26T06:54:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-26 06:49:48"
+  "title": "Weed Coughs",
+  "started": "2026-11-26 06:54:13"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-26 06:49:48"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-26 06:46:48"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-26 06:32:18"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-26 06:26:51"
   }
  ]
 }
