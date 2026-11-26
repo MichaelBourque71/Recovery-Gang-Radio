@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T04:30:08-04:00",
+ "generated_at": "2026-11-26T04:34:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-26 04:30:00"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-26 04:34:58"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-26 04:30:00"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-26 04:25:28"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-26 04:14:46"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-26 04:10:41"
   }
  ]
 }
