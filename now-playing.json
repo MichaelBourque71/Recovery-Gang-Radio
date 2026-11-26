@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T18:18:45-04:00",
+ "generated_at": "2026-11-26T18:22:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Have To Hide Your Identity",
-  "started": "2026-11-26 18:18:44"
+  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+  "started": "2026-11-26 18:22:16"
  },
  "previous": [
+  {
+   "title": "If You Have To Hide Your Identity",
+   "started": "2026-11-26 18:18:44"
+  },
   {
    "title": "Singin’ Through The Fear",
    "started": "2026-11-26 18:15:25"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-26 18:01:57"
-  },
-  {
-   "title": "No Parade for the Broken",
-   "started": "2026-11-26 17:57:46"
   }
  ]
 }
