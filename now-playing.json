@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T10:51:44-04:00",
+ "generated_at": "2026-11-26T10:54:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-26 10:51:40"
+  "title": "Money & Fame",
+  "started": "2026-11-26 10:54:39"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-26 10:51:40"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-26 10:47:46"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-26 10:36:56"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-26 10:33:37"
   }
  ]
 }
