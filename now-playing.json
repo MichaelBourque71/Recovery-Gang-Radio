@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T14:38:21-04:00",
+ "generated_at": "2026-11-26T14:42:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-26 14:38:18"
+  "title": "Two Joints To Fly Right (Reggae version)",
+  "started": "2026-11-26 14:42:40"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-26 14:38:18"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-26 14:34:32"
@@ -21,10 +25,6 @@
   {
    "title": "Nature Is Talking",
    "started": "2026-11-26 14:20:41"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-26 14:17:21"
   }
  ]
 }
