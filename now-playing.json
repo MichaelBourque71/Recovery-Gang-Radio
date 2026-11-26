@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:43:07-04:00",
+ "generated_at": "2026-11-26T13:47:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-26 13:43:02"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-26 13:47:05"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-26 13:43:02"
+  },
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-26 13:38:22"
@@ -21,10 +25,6 @@
   {
    "title": "Monopoly Mark",
    "started": "2026-11-26 13:27:10"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-26 13:22:57"
   }
  ]
 }
