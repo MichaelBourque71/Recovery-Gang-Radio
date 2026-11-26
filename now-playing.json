@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T06:32:20-04:00",
+ "generated_at": "2026-11-26T06:36:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Wrangler Hotel",
-  "started": "2026-11-26 06:32:18"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-26 06:36:42"
  },
  "previous": [
+  {
+   "title": "The Wrangler Hotel",
+   "started": "2026-11-26 06:32:18"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-26 06:26:51"
@@ -21,10 +25,6 @@
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-26 06:14:40"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-26 06:08:29"
   }
  ]
 }
