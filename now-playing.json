@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T13:30:29-04:00",
+ "generated_at": "2026-11-26T13:34:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-26 13:30:27"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-26 13:34:14"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-26 13:30:27"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-26 13:27:10"
@@ -21,10 +25,6 @@
   {
    "title": "Acid Freak",
    "started": "2026-11-26 13:17:11"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-26 13:12:41"
   }
  ]
 }
