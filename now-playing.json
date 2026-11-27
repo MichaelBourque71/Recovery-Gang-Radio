@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T09:11:51-04:00",
+ "generated_at": "2026-11-27T09:15:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Muscle Cars & Motorcycles",
-  "started": "2026-11-27 09:11:49"
+  "title": "The Left Lies",
+  "started": "2026-11-27 09:15:55"
  },
  "previous": [
+  {
+   "title": "Muscle Cars & Motorcycles",
+   "started": "2026-11-27 09:11:49"
+  },
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-27 09:07:41"
@@ -21,10 +25,6 @@
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-27 08:55:23"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-27 08:52:03"
   }
  ]
 }
