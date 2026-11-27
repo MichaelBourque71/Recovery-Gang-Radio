@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:06:46-04:00",
+ "generated_at": "2026-11-27T16:09:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-27 16:06:43"
+  "title": "Honourable, My Ass!! (silentH)",
+  "started": "2026-11-27 16:09:25"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-27 16:06:43"
+  },
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-27 16:01:53"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-27 15:46:40"
-  },
-  {
-   "title": "Hard Truth, No Cheers",
-   "started": "2026-11-27 15:41:59"
   }
  ]
 }
