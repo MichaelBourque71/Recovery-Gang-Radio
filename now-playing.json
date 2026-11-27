@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:17:28-04:00",
+ "generated_at": "2026-11-27T04:20:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks",
-  "started": "2026-11-27 04:17:25"
+  "title": "Medicated Zeal (HEAVY Country Version)",
+  "started": "2026-11-27 04:20:26"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks",
+   "started": "2026-11-27 04:17:25"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-27 04:14:10"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-27 04:03:15"
-  },
-  {
-   "title": "Intolerant Tolerance",
-   "started": "2026-11-27 03:59:32"
   }
  ]
 }
