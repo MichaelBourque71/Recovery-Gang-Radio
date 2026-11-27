@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:42:09-04:00",
+ "generated_at": "2026-11-27T11:46:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greedy Bitch",
-  "started": "2026-11-27 11:42:05"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-27 11:46:51"
  },
  "previous": [
+  {
+   "title": "Greedy Bitch",
+   "started": "2026-11-27 11:42:05"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-27 11:36:25"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-27 11:29:22"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-27 11:26:46"
   }
  ]
 }
