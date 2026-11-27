@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:19:31-04:00",
+ "generated_at": "2026-11-27T03:22:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-27 03:19:28"
+  "title": "Weaponized Children",
+  "started": "2026-11-27 03:22:02"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-27 03:19:28"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-27 03:15:44"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-27 03:04:00"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-27 02:59:35"
   }
  ]
 }
