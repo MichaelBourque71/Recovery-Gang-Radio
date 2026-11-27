@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:02:30-04:00",
+ "generated_at": "2026-11-27T14:02:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-27 13:59:09"
+  "title": "Hard Way",
+  "started": "2026-11-27 14:02:38"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-27 13:59:09"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-27 13:53:44"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-27 13:40:34"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-27 13:37:24"
   }
  ]
 }
