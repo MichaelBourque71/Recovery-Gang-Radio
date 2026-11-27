@@ -1,11 +1,12 @@
 {
- "generated_at": "2026-11-27T18:20:12-04:00",
- "on_air": true,
- "now_playing": {
-  "title": "Allah Abracadabra",
-  "started": "2026-11-27 18:20:10"
- },
+ "generated_at": "2026-11-27T18:24:39-04:00",
+ "on_air": false,
+ "now_playing": null,
  "previous": [
+  {
+   "title": "Allah Abracadabra",
+   "started": "2026-11-27 18:20:10"
+  },
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-27 18:15:53"
@@ -21,10 +22,6 @@
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-27 18:04:23"
-  },
-  {
-   "title": "TDS Ruined The Entertainment World",
-   "started": "2026-11-27 17:59:55"
   }
  ]
 }
