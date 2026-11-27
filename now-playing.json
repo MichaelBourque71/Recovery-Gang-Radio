@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:15:43-04:00",
+ "generated_at": "2026-11-27T07:20:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Balls Intact",
-  "started": "2026-11-27 07:15:41"
+  "title": "Heavy Denim",
+  "started": "2026-11-27 07:20:34"
  },
  "previous": [
+  {
+   "title": "Balls Intact",
+   "started": "2026-11-27 07:15:41"
+  },
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-27 07:10:43"
@@ -21,10 +25,6 @@
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-27 06:54:35"
-  },
-  {
-   "title": "Low-End Disorder",
-   "started": "2026-11-27 06:50:40"
   }
  ]
 }
