@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:54:27-04:00",
+ "generated_at": "2026-11-26T21:59:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-26 21:54:26"
+  "title": "Take Our Country Back",
+  "started": "2026-11-26 21:59:53"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-26 21:54:26"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-26 21:51:16"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-26 21:38:09"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-26 21:34:45"
   }
  ]
 }
