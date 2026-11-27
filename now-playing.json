@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:04:26-04:00",
+ "generated_at": "2026-11-27T18:08:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-27 18:04:23"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-27 18:08:27"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-27 18:04:23"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-27 17:59:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-27 17:48:04"
-  },
-  {
-   "title": "Burn It Slow",
-   "started": "2026-11-27 17:43:38"
   }
  ]
 }
