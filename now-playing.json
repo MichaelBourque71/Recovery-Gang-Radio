@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:51:20-04:00",
+ "generated_at": "2026-11-27T11:55:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-27 11:51:19"
+  "title": "Youth In Asia",
+  "started": "2026-11-27 11:55:37"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-27 11:51:19"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-27 11:46:51"
@@ -21,10 +25,6 @@
   {
    "title": "If You Keep on Complyin’",
    "started": "2026-11-27 11:34:25"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-27 11:32:31"
   }
  ]
 }
