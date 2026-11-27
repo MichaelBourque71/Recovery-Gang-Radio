@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:58:54-04:00",
+ "generated_at": "2026-11-27T06:02:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-27 05:58:52"
+  "title": "Pair D - Unstoppable Force + Won't Stop Being Me",
+  "started": "2026-11-27 06:01:58"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-27 05:58:52"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-27 05:53:38"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-27 05:42:50"
-  },
-  {
-   "title": "Save A Motorcycle, Ride A Biker",
-   "started": "2026-11-27 05:39:55"
   }
  ]
 }
