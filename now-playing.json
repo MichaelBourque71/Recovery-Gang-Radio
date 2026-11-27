@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:56:37-04:00",
+ "generated_at": "2026-11-27T04:59:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-27 04:56:33"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-27 04:59:48"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-27 04:56:33"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-27 04:52:02"
@@ -21,10 +25,6 @@
   {
    "title": "What They Want…",
    "started": "2026-11-27 04:39:16"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-27 04:35:17"
   }
  ]
 }
