@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:47:54-04:00",
+ "generated_at": "2026-11-27T16:52:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-27 16:47:53"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-27 16:52:30"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-27 16:47:53"
+  },
   {
    "title": "One Brain Cell",
    "started": "2026-11-27 16:44:53"
@@ -21,10 +25,6 @@
   {
    "title": "Outlaws And Oddballs",
    "started": "2026-11-27 16:32:24"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-27 16:28:00"
   }
  ]
 }
