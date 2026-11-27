@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:43:45-04:00",
+ "generated_at": "2026-11-27T07:47:40-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-27 07:43:42"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-27 07:47:35"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-27 07:43:42"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-27 07:39:58"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-27 07:25:22"
-  },
-  {
-   "title": "Heavy Denim",
-   "started": "2026-11-27 07:20:34"
   }
  ]
 }
