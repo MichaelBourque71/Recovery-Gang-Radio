@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:13:33-04:00",
+ "generated_at": "2026-11-27T11:18:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Fuck-Knuckle Shuffle",
-  "started": "2026-11-27 11:13:31"
+  "title": "There Was A Time",
+  "started": "2026-11-27 11:18:10"
  },
  "previous": [
+  {
+   "title": "The Fuck-Knuckle Shuffle",
+   "started": "2026-11-27 11:13:31"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-27 11:10:17"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-27 10:57:40"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-27 10:52:17"
   }
  ]
 }
