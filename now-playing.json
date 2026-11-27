@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:52:10-04:00",
+ "generated_at": "2026-11-27T15:56:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "GUMMERS",
-  "started": "2026-11-27 15:52:07"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-27 15:55:55"
  },
  "previous": [
+  {
+   "title": "GUMMERS",
+   "started": "2026-11-27 15:52:07"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-27 15:46:40"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-27 15:36:39"
-  },
-  {
-   "title": "Lines In Stone",
-   "started": "2026-11-27 15:33:19"
   }
  ]
 }
