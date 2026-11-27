@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:51:17-04:00",
+ "generated_at": "2026-11-26T21:54:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-26 21:51:16"
+  "title": "Hard Way",
+  "started": "2026-11-26 21:54:26"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-26 21:51:16"
+  },
   {
    "title": "Fuck Winter",
    "started": "2026-11-26 21:46:09"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-26 21:34:45"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-26 21:30:03"
   }
  ]
 }
