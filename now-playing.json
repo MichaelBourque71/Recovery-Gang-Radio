@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T13:53:46-04:00",
+ "generated_at": "2026-11-27T14:02:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Corporate Unaccountability ",
-  "started": "2026-11-27 13:53:44"
+  "title": "Glazed Meat (alternate)",
+  "started": "2026-11-27 13:59:09"
  },
  "previous": [
+  {
+   "title": "Corporate Unaccountability ",
+   "started": "2026-11-27 13:53:44"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-27 13:50:08"
@@ -21,10 +25,6 @@
   {
    "title": "History Collects",
    "started": "2026-11-27 13:37:24"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-27 13:33:40"
   }
  ]
 }
