@@ -1,11 +1,19 @@
 {
- "generated_at": "2026-11-27T11:01:27-04:00",
+ "generated_at": "2026-11-27T11:10:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Man With the Backbone",
-  "started": "2026-11-27 11:01:23"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-27 11:10:17"
  },
  "previous": [
+  {
+   "title": "FUCK CARNEY!!",
+   "started": "2026-11-27 11:06:04"
+  },
+  {
+   "title": "Man With the Backbone",
+   "started": "2026-11-27 11:01:23"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-27 10:57:40"
@@ -17,14 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-27 10:49:07"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-27 10:45:12"
-  },
-  {
-   "title": "Go Go, Gadget Beaver!🦫 ",
-   "started": "2026-11-27 10:41:36"
   }
  ]
 }
