@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:32:38-04:00",
+ "generated_at": "2026-11-26T22:35:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Running With Scissors",
-  "started": "2026-11-26 22:32:35"
+  "title": "The Shitter Smells Better When You Hot-Box It",
+  "started": "2026-11-26 22:35:27"
  },
  "previous": [
+  {
+   "title": "Running With Scissors",
+   "started": "2026-11-26 22:32:35"
+  },
   {
    "title": "When Opportunity Knocks",
    "started": "2026-11-26 22:29:04"
@@ -21,10 +25,6 @@
   {
    "title": "Start Living Again",
    "started": "2026-11-26 22:13:51"
-  },
-  {
-   "title": "It Was Time",
-   "started": "2026-11-26 22:09:33"
   }
  ]
 }
