@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T06:47:39-04:00",
+ "generated_at": "2026-11-27T06:50:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-27 06:47:35"
+  "title": "Low-End Disorder",
+  "started": "2026-11-27 06:50:40"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-27 06:47:35"
+  },
   {
    "title": "Disobey Authority",
    "started": "2026-11-27 06:44:36"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-27 06:30:11"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-27 06:25:13"
   }
  ]
 }
