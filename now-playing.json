@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T02:03:42-04:00",
+ "generated_at": "2026-11-27T02:07:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-27 02:03:41"
+  "title": "Lines In Stone",
+  "started": "2026-11-27 02:07:16"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-27 02:03:41"
+  },
   {
    "title": "Neurotic Kitty",
    "started": "2026-11-27 02:00:31"
@@ -21,10 +25,6 @@
   {
    "title": "Duck On The Dash",
    "started": "2026-11-27 01:47:55"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-27 01:43:53"
   }
  ]
 }
