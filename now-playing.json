@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:46:02-04:00",
+ "generated_at": "2026-11-26T22:49:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-26 22:46:01"
+  "title": "We Are Done Being Silent",
+  "started": "2026-11-26 22:49:55"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-26 22:46:01"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-26 22:40:59"
@@ -21,10 +25,6 @@
   {
    "title": "Running With Scissors",
    "started": "2026-11-26 22:32:35"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-26 22:29:04"
   }
  ]
 }
