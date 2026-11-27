@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:31:12-04:00",
+ "generated_at": "2026-11-27T04:35:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Delaware Sniff",
-  "started": "2026-11-27 04:31:09"
+  "title": "Stranger Danger",
+  "started": "2026-11-27 04:35:17"
  },
  "previous": [
+  {
+   "title": "Delaware Sniff",
+   "started": "2026-11-27 04:31:09"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-27 04:27:50"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-27 04:17:25"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-27 04:14:10"
   }
  ]
 }
