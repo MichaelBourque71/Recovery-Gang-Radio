@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:47:56-04:00",
+ "generated_at": "2026-11-27T03:52:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Ain't No Saint (But I Love Jesus)",
-  "started": "2026-11-27 03:47:51"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-27 03:52:57"
  },
  "previous": [
+  {
+   "title": "I Ain't No Saint (But I Love Jesus)",
+   "started": "2026-11-27 03:47:51"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-27 03:43:13"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-27 03:32:07"
-  },
-  {
-   "title": "Money & Fame",
-   "started": "2026-11-27 03:25:26"
   }
  ]
 }
