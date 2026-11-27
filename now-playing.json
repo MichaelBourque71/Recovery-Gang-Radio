@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T19:41:11-04:00",
+ "generated_at": "2026-11-27T19:46:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stop Killing Babies",
-  "started": "2026-11-27 19:41:08"
+  "title": "Upgraded",
+  "started": "2026-11-27 19:46:28"
  },
  "previous": [
+  {
+   "title": "Stop Killing Babies",
+   "started": "2026-11-27 19:41:08"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-27 19:37:41"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-27 19:24:16"
-  },
-  {
-   "title": "Nobody Wants To See Your Gut ",
-   "started": "2026-11-27 19:20:51"
   }
  ]
 }
