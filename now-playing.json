@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:38:10-04:00",
+ "generated_at": "2026-11-26T21:42:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2)",
-  "started": "2026-11-26 21:38:09"
+  "title": "Unstoppable Force",
+  "started": "2026-11-26 21:42:08"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2)",
+   "started": "2026-11-26 21:38:09"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-26 21:34:45"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-26 21:20:50"
-  },
-  {
-   "title": "Rubber Duck On The Dash (Part 2)",
-   "started": "2026-11-26 21:15:58"
   }
  ]
 }
