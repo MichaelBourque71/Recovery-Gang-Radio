@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:28:36-04:00",
+ "generated_at": "2026-11-27T18:31:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-27 18:28:34"
+  "title": "He Didn’t Need A Knife",
+  "started": "2026-11-27 18:31:04"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-27 18:28:34"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-27 18:24:38"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-27 18:11:33"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-27 18:08:27"
   }
  ]
 }
