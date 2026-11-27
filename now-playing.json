@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:29:23-04:00",
+ "generated_at": "2026-11-27T11:32:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-  "started": "2026-11-27 11:29:22"
+  "title": "420 Twice A Day",
+  "started": "2026-11-27 11:32:31"
  },
  "previous": [
+  {
+   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
+   "started": "2026-11-27 11:29:22"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-27 11:26:46"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-27 11:13:31"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-27 11:10:17"
   }
  ]
 }
