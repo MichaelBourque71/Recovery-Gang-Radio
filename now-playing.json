@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:36:07-04:00",
+ "generated_at": "2026-11-27T18:39:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Stand for Freedom",
-  "started": "2026-11-27 18:36:02"
+  "title": "Start Living Again",
+  "started": "2026-11-27 18:38:56"
  },
  "previous": [
+  {
+   "title": "Stand for Freedom",
+   "started": "2026-11-27 18:36:02"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-27 18:31:04"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-27 18:20:10"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-27 18:15:53"
   }
  ]
 }
