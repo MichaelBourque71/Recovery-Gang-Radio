@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T01:35:12-04:00",
+ "generated_at": "2026-11-27T01:37:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-27 01:35:08"
+  "title": "Clown In A Crown",
+  "started": "2026-11-27 01:37:02"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-27 01:35:08"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-27 01:28:35"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-27 01:14:43"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-27 01:11:04"
   }
  ]
 }
