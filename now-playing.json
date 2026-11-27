@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T00:34:18-04:00",
+ "generated_at": "2026-11-27T00:38:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-27 00:34:16"
+  "title": "Yes",
+  "started": "2026-11-27 00:37:59"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-27 00:34:16"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-27 00:31:11"
@@ -21,10 +25,6 @@
   {
    "title": "Youth In Asia",
    "started": "2026-11-27 00:20:28"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-27 00:16:20"
   }
  ]
 }
