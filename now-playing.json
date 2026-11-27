@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:46:10-04:00",
+ "generated_at": "2026-11-26T21:51:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck Winter",
-  "started": "2026-11-26 21:46:09"
+  "title": "Freedom Wave",
+  "started": "2026-11-26 21:51:16"
  },
  "previous": [
+  {
+   "title": "Fuck Winter",
+   "started": "2026-11-26 21:46:09"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-26 21:42:08"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-26 21:30:03"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-26 21:24:48"
   }
  ]
 }
