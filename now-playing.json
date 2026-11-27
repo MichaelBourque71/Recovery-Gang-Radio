@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:09:38-04:00",
+ "generated_at": "2026-11-26T22:13:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-26 22:09:33"
+  "title": "Start Living Again",
+  "started": "2026-11-26 22:13:51"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-26 22:09:33"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-26 22:05:35"
@@ -21,10 +25,6 @@
   {
    "title": "Freedom Wave",
    "started": "2026-11-26 21:51:16"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-26 21:46:09"
   }
  ]
 }
