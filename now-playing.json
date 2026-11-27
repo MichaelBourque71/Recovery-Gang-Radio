@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T10:33:00-04:00",
+ "generated_at": "2026-11-27T10:37:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Invisible String",
-  "started": "2026-11-27 10:32:55"
+  "title": "Burn It Slow",
+  "started": "2026-11-27 10:37:21"
  },
  "previous": [
+  {
+   "title": "Invisible String",
+   "started": "2026-11-27 10:32:55"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-27 10:29:29"
@@ -21,10 +25,6 @@
   {
    "title": "Space Cadet",
    "started": "2026-11-27 10:15:26"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-27 10:11:43"
   }
  ]
 }
