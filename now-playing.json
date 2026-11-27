@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:40:07-04:00",
+ "generated_at": "2026-11-27T03:43:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mailer Demon",
-  "started": "2026-11-27 03:40:07"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-27 03:43:13"
  },
  "previous": [
+  {
+   "title": "Mailer Demon",
+   "started": "2026-11-27 03:40:07"
+  },
   {
    "title": "Slow Down, Rider",
    "started": "2026-11-27 03:36:39"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-27 03:22:02"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-27 03:19:28"
   }
  ]
 }
