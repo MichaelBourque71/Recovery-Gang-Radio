@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T08:52:08-04:00",
+ "generated_at": "2026-11-27T08:55:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-27 08:52:03"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-27 08:55:23"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-27 08:52:03"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-27 08:47:52"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-27 08:35:39"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-27 08:31:21"
   }
  ]
 }
