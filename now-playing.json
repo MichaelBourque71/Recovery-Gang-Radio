@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T01:51:30-04:00",
+ "generated_at": "2026-11-27T01:56:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Go Away, Justin!!",
-  "started": "2026-11-27 01:51:27"
+  "title": "Everybody’s Twitchin’",
+  "started": "2026-11-27 01:56:13"
  },
  "previous": [
+  {
+   "title": "Just Go Away, Justin!!",
+   "started": "2026-11-27 01:51:27"
+  },
   {
    "title": "Duck On The Dash",
    "started": "2026-11-27 01:47:55"
@@ -21,10 +25,6 @@
   {
    "title": "Clown In A Crown",
    "started": "2026-11-27 01:37:02"
-  },
-  {
-   "title": "420 Twice A Day",
-   "started": "2026-11-27 01:35:08"
   }
  ]
 }
