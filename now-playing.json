@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:22:05-04:00",
+ "generated_at": "2026-11-27T03:25:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-27 03:22:02"
+  "title": "Money & Fame",
+  "started": "2026-11-27 03:25:26"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-27 03:22:02"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-27 03:19:28"
@@ -21,10 +25,6 @@
   {
    "title": "Mean Francine",
    "started": "2026-11-27 03:07:30"
-  },
-  {
-   "title": "Glazed Meat (alternate)",
-   "started": "2026-11-27 03:04:00"
   }
  ]
 }
