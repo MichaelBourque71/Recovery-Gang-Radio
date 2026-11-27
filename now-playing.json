@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:10:29-04:00",
+ "generated_at": "2026-11-27T04:14:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-27 04:10:24"
+  "title": "Go Go, Gadget Wiener",
+  "started": "2026-11-27 04:14:10"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-27 04:10:24"
+  },
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-27 04:06:43"
@@ -21,10 +25,6 @@
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-27 03:55:34"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-27 03:52:57"
   }
  ]
 }
