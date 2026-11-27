@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:39:02-04:00",
+ "generated_at": "2026-11-26T22:41:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-26 22:38:58"
+  "title": "People Think I’m Crazy",
+  "started": "2026-11-26 22:40:59"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-26 22:38:58"
+  },
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-26 22:35:27"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-26 22:23:26"
-  },
-  {
-   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-   "started": "2026-11-26 22:18:26"
   }
  ]
 }
