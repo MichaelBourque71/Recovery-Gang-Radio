@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:58:17-04:00",
+ "generated_at": "2026-11-27T15:02:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-27 14:58:12"
+  "title": "Fuck Winter",
+  "started": "2026-11-27 15:02:09"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-27 14:58:12"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-27 14:53:28"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-27 14:41:12"
-  },
-  {
-   "title": "Mushroom Parade",
-   "started": "2026-11-27 14:37:59"
   }
  ]
 }
