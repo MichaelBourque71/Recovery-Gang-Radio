@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T23:54:52-04:00",
+ "generated_at": "2026-11-26T23:57:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-26 23:54:50"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-26 23:57:34"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-26 23:54:50"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-26 23:50:35"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-26 23:40:04"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-26 23:35:44"
   }
  ]
 }
