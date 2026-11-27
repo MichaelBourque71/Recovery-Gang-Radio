@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:03:04-04:00",
+ "generated_at": "2026-11-26T21:07:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-26 21:02:59"
+  "title": "LGBTQ",
+  "started": "2026-11-26 21:07:23"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-26 21:02:59"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-26 21:00:04"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-26 20:47:18"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-26 20:43:50"
   }
  ]
 }
