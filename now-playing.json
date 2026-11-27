@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:25:24-04:00",
+ "generated_at": "2026-11-27T07:28:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-27 07:25:22"
+  "title": "Mystical Journey",
+  "started": "2026-11-27 07:28:48"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-27 07:25:22"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-27 07:20:34"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-27 07:06:13"
-  },
-  {
-   "title": "There's Still Hope",
-   "started": "2026-11-27 06:59:07"
   }
  ]
 }
