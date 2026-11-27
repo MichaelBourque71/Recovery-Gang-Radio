@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T08:09:19-04:00",
+ "generated_at": "2026-11-27T08:13:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Freedom Wave",
-  "started": "2026-11-27 08:09:18"
+  "title": "Follow The Trail",
+  "started": "2026-11-27 08:13:02"
  },
  "previous": [
+  {
+   "title": "Freedom Wave",
+   "started": "2026-11-27 08:09:18"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-27 08:04:19"
@@ -21,10 +25,6 @@
   {
    "title": "Peoplekind Gunperson",
    "started": "2026-11-27 07:52:17"
-  },
-  {
-   "title": "Torches And Pitchforks",
-   "started": "2026-11-27 07:47:35"
   }
  ]
 }
