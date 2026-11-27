@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T08:31:24-04:00",
+ "generated_at": "2026-11-27T08:35:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Back Down While You Still Can (Alt version)",
-  "started": "2026-11-27 08:31:21"
+  "title": "Time For Talking",
+  "started": "2026-11-27 08:35:39"
  },
  "previous": [
+  {
+   "title": "Back Down While You Still Can (Alt version)",
+   "started": "2026-11-27 08:31:21"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-27 08:28:40"
@@ -21,10 +25,6 @@
   {
    "title": "Roadside Puddles",
    "started": "2026-11-27 08:15:52"
-  },
-  {
-   "title": "Follow The Trail",
-   "started": "2026-11-27 08:13:02"
   }
  ]
 }
