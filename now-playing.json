@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:35:30-04:00",
+ "generated_at": "2026-11-26T22:39:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Shitter Smells Better When You Hot-Box It",
-  "started": "2026-11-26 22:35:27"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-26 22:38:58"
  },
  "previous": [
+  {
+   "title": "The Shitter Smells Better When You Hot-Box It",
+   "started": "2026-11-26 22:35:27"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-26 22:32:35"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-26 22:18:26"
-  },
-  {
-   "title": "Start Living Again",
-   "started": "2026-11-26 22:13:51"
   }
  ]
 }
