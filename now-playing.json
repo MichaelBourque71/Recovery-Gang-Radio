@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:34:29-04:00",
+ "generated_at": "2026-11-27T11:36:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "If You Keep on Complyin’",
-  "started": "2026-11-27 11:34:25"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-27 11:36:25"
  },
  "previous": [
+  {
+   "title": "If You Keep on Complyin’",
+   "started": "2026-11-27 11:34:25"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-27 11:32:31"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-27 11:22:23"
-  },
-  {
-   "title": "There Was A Time",
-   "started": "2026-11-27 11:18:10"
   }
  ]
 }
