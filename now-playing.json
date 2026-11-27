@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:18:30-04:00",
+ "generated_at": "2026-11-26T22:23:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-26 22:18:26"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-26 22:23:26"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-26 22:18:26"
+  },
   {
    "title": "Start Living Again",
    "started": "2026-11-26 22:13:51"
@@ -21,10 +25,6 @@
   {
    "title": "Take Our Country Back",
    "started": "2026-11-26 21:59:53"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-26 21:54:26"
   }
  ]
 }
