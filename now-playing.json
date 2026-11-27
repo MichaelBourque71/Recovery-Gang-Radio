@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T10:37:25-04:00",
+ "generated_at": "2026-11-27T10:41:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn It Slow",
-  "started": "2026-11-27 10:37:21"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-27 10:41:36"
  },
  "previous": [
+  {
+   "title": "Burn It Slow",
+   "started": "2026-11-27 10:37:21"
+  },
   {
    "title": "Invisible String",
    "started": "2026-11-27 10:32:55"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-27 10:19:15"
-  },
-  {
-   "title": "Space Cadet",
-   "started": "2026-11-27 10:15:26"
   }
  ]
 }
