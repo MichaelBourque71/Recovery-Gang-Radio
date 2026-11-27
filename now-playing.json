@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T06:59:11-04:00",
+ "generated_at": "2026-11-27T07:06:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There's Still Hope",
-  "started": "2026-11-27 06:59:07"
+  "title": "I Do What I Want",
+  "started": "2026-11-27 07:06:13"
  },
  "previous": [
+  {
+   "title": "There's Still Hope",
+   "started": "2026-11-27 06:59:07"
+  },
   {
    "title": "The Truth Walks Slow",
    "started": "2026-11-27 06:54:35"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority",
    "started": "2026-11-27 06:44:36"
-  },
-  {
-   "title": "Glaze On The Meat",
-   "started": "2026-11-27 06:40:59"
   }
  ]
 }
