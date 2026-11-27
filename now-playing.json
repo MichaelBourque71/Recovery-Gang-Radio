@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:42:54-04:00",
+ "generated_at": "2026-11-27T05:46:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-27 05:42:50"
+  "title": "Burn Through The Spin",
+  "started": "2026-11-27 05:46:26"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-27 05:42:50"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-27 05:39:55"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-27 05:26:54"
-  },
-  {
-   "title": "You’ll Have To Kill Me To Shut Me Up",
-   "started": "2026-11-27 05:23:07"
   }
  ]
 }
