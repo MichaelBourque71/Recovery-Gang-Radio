@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T02:07:21-04:00",
+ "generated_at": "2026-11-27T02:10:28-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-27 02:07:16"
+  "title": "Built To Love",
+  "started": "2026-11-27 02:10:28"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-27 02:07:16"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-27 02:03:41"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-27 01:51:27"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-27 01:47:55"
   }
  ]
 }
