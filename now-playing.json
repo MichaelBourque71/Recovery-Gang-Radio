@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T08:59:03-04:00",
+ "generated_at": "2026-11-27T09:04:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-27 08:59:02"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-27 09:04:04"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-27 08:59:02"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-27 08:55:23"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-27 08:43:34"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-27 08:39:23"
   }
  ]
 }
