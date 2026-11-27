@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T13:10:08-04:00",
+ "generated_at": "2026-11-27T13:14:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SKY ON FIRE",
-  "started": "2026-11-27 13:10:06"
+  "title": "Doughnut Doug",
+  "started": "2026-11-27 13:14:40"
  },
  "previous": [
+  {
+   "title": "SKY ON FIRE",
+   "started": "2026-11-27 13:10:06"
+  },
   {
    "title": "I Do What I Want",
    "started": "2026-11-27 13:05:36"
@@ -21,10 +25,6 @@
   {
    "title": "Keyboard Courage",
    "started": "2026-11-27 12:54:28"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-27 12:48:39"
   }
  ]
 }
