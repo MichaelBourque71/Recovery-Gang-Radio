@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T13:29:14-04:00",
+ "generated_at": "2026-11-27T13:33:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Low-End Disorder",
-  "started": "2026-11-27 13:29:12"
+  "title": "Go Go, Gadget Beaver!🦫 ",
+  "started": "2026-11-27 13:33:40"
  },
  "previous": [
+  {
+   "title": "Low-End Disorder",
+   "started": "2026-11-27 13:29:12"
+  },
   {
    "title": "My Duty Is To My Heart",
    "started": "2026-11-27 13:25:39"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-27 13:14:40"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-27 13:10:06"
   }
  ]
 }
