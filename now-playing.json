@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:46:54-04:00",
+ "generated_at": "2026-11-27T11:51:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Rubber Duck On The Dash (Part 2)",
-  "started": "2026-11-27 11:46:51"
+  "title": "It Was Time",
+  "started": "2026-11-27 11:51:19"
  },
  "previous": [
+  {
+   "title": "Rubber Duck On The Dash (Part 2)",
+   "started": "2026-11-27 11:46:51"
+  },
   {
    "title": "Greedy Bitch",
    "started": "2026-11-27 11:42:05"
@@ -21,10 +25,6 @@
   {
    "title": "420 Twice A Day",
    "started": "2026-11-27 11:32:31"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-27 11:29:22"
   }
  ]
 }
