@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:47:40-04:00",
+ "generated_at": "2026-11-27T07:52:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Torches And Pitchforks",
-  "started": "2026-11-27 07:47:35"
+  "title": "Peoplekind Gunperson",
+  "started": "2026-11-27 07:52:17"
  },
  "previous": [
+  {
+   "title": "Torches And Pitchforks",
+   "started": "2026-11-27 07:47:35"
+  },
   {
    "title": "Running With Scissors",
    "started": "2026-11-27 07:43:42"
@@ -21,10 +25,6 @@
   {
    "title": "Mystical Journey",
    "started": "2026-11-27 07:28:48"
-  },
-  {
-   "title": "Some People",
-   "started": "2026-11-27 07:25:22"
   }
  ]
 }
