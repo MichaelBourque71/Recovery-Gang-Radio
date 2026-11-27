@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:43:15-04:00",
+ "generated_at": "2026-11-27T03:47:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Real Stupidity Versus Artificial Intelligence ",
-  "started": "2026-11-27 03:43:13"
+  "title": "I Ain't No Saint (But I Love Jesus)",
+  "started": "2026-11-27 03:47:51"
  },
  "previous": [
+  {
+   "title": "Real Stupidity Versus Artificial Intelligence ",
+   "started": "2026-11-27 03:43:13"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-27 03:40:07"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-27 03:25:26"
-  },
-  {
-   "title": "Weaponized Children",
-   "started": "2026-11-27 03:22:02"
   }
  ]
 }
