@@ -1,7 +1,10 @@
 {
- "generated_at": "2026-11-27T18:24:39-04:00",
- "on_air": false,
- "now_playing": null,
+ "generated_at": "2026-11-27T18:28:18-04:00",
+ "on_air": true,
+ "now_playing": {
+  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+  "started": "2026-11-27 18:24:38"
+ },
  "previous": [
   {
    "title": "Allah Abracadabra",
