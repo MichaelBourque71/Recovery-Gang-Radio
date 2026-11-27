@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:41:15-04:00",
+ "generated_at": "2026-11-27T14:44:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-27 14:41:12"
+  "title": "Here’s a Stack",
+  "started": "2026-11-27 14:44:48"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-27 14:41:12"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-27 14:37:59"
@@ -21,10 +25,6 @@
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-27 14:27:04"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-27 14:22:51"
   }
  ]
 }
