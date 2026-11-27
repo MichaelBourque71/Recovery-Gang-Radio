@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:39:01-04:00",
+ "generated_at": "2026-11-27T18:43:34-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-27 18:38:56"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-27 18:43:32"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-27 18:38:56"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-27 18:36:02"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-27 18:24:38"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-27 18:20:10"
   }
  ]
 }
