@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T00:54:05-04:00",
+ "generated_at": "2026-11-27T00:59:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-27 00:54:04"
+  "title": "Wrong Hole, Wrong Goal (Reggae version)",
+  "started": "2026-11-27 00:59:29"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-27 00:54:04"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-27 00:50:26"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-27 00:37:59"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-27 00:34:16"
   }
  ]
 }
