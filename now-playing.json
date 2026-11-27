@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T12:39:13-04:00",
+ "generated_at": "2026-11-27T12:41:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Thin Skull Recruit",
-  "started": "2026-11-27 12:39:13"
+  "title": "Painted Signals",
+  "started": "2026-11-27 12:41:45"
  },
  "previous": [
+  {
+   "title": "Thin Skull Recruit",
+   "started": "2026-11-27 12:39:13"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-27 12:34:44"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-27 12:21:04"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-27 12:18:23"
   }
  ]
 }
