@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:10:32-04:00",
+ "generated_at": "2026-11-27T14:15:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-27 14:10:27"
+  "title": "Nobody Wants To See Your Gut ",
+  "started": "2026-11-27 14:15:06"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-27 14:10:27"
+  },
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-27 14:07:56"
@@ -21,10 +25,6 @@
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-27 13:53:44"
-  },
-  {
-   "title": "Feeling Froggy",
-   "started": "2026-11-27 13:50:08"
   }
  ]
 }
