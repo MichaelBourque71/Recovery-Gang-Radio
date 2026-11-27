@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T06:54:39-04:00",
+ "generated_at": "2026-11-27T06:59:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-27 06:54:35"
+  "title": "There's Still Hope",
+  "started": "2026-11-27 06:59:07"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-27 06:54:35"
+  },
   {
    "title": "Low-End Disorder",
    "started": "2026-11-27 06:50:40"
@@ -21,10 +25,6 @@
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-27 06:40:59"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-27 06:34:48"
   }
  ]
 }
