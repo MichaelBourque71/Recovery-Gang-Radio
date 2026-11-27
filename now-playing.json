@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T23:40:05-04:00",
+ "generated_at": "2026-11-26T23:41:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-26 23:40:04"
+  "title": "Stop Killing Babies",
+  "started": "2026-11-26 23:41:52"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-26 23:40:04"
+  },
   {
    "title": "The Inmates Are Running The Asylum",
    "started": "2026-11-26 23:35:44"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-26 23:24:55"
-  },
-  {
-   "title": "Keyboard Courage",
-   "started": "2026-11-26 23:20:00"
   }
  ]
 }
