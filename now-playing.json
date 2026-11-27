@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:40:02-04:00",
+ "generated_at": "2026-11-27T07:43:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-27 07:39:58"
+  "title": "Running With Scissors",
+  "started": "2026-11-27 07:43:42"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-27 07:39:58"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-27 07:34:52"
@@ -21,10 +25,6 @@
   {
    "title": "Heavy Denim",
    "started": "2026-11-27 07:20:34"
-  },
-  {
-   "title": "Balls Intact",
-   "started": "2026-11-27 07:15:41"
   }
  ]
 }
