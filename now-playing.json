@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:22:16-04:00",
+ "generated_at": "2026-11-27T15:25:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-27 15:22:12"
+  "title": "When the Wind Shifts",
+  "started": "2026-11-27 15:25:32"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-27 15:22:12"
+  },
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-27 15:16:30"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck Winter",
    "started": "2026-11-27 15:02:09"
-  },
-  {
-   "title": "FUCK YOUR DIGITAL ID",
-   "started": "2026-11-27 14:58:12"
   }
  ]
 }
