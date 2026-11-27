@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T19:24:20-04:00",
+ "generated_at": "2026-11-27T19:28:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-27 19:24:16"
+  "title": "Hard Land, Free People",
+  "started": "2026-11-27 19:28:24"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-27 19:24:16"
+  },
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-27 19:20:51"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-27 19:06:07"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-27 19:00:40"
   }
  ]
 }
