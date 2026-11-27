@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T10:45:15-04:00",
+ "generated_at": "2026-11-27T10:49:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Vagitarian",
-  "started": "2026-11-27 10:45:12"
+  "title": "Take Your Laws",
+  "started": "2026-11-27 10:49:07"
  },
  "previous": [
+  {
+   "title": "I’m A Vagitarian",
+   "started": "2026-11-27 10:45:12"
+  },
   {
    "title": "Go Go, Gadget Beaver!🦫 ",
    "started": "2026-11-27 10:41:36"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-27 10:29:29"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-27 10:24:24"
   }
  ]
 }
