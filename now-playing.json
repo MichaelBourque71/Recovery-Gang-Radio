@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:56:07-04:00",
+ "generated_at": "2026-11-27T17:02:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-27 16:56:06"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-27 17:02:41"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-27 16:56:06"
+  },
   {
    "title": "Glaze On The Meat",
    "started": "2026-11-27 16:52:30"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-27 16:42:19"
-  },
-  {
-   "title": "Beer Goggles And Boondoggles",
-   "started": "2026-11-27 16:36:51"
   }
  ]
 }
