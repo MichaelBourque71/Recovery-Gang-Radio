@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:25:12-04:00",
+ "generated_at": "2026-11-27T04:27:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-27 04:25:08"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-27 04:27:50"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-27 04:25:08"
+  },
   {
    "title": "Medicated Zeal (HEAVY Country Version)",
    "started": "2026-11-27 04:20:26"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-27 04:10:24"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-27 04:06:43"
   }
  ]
 }
