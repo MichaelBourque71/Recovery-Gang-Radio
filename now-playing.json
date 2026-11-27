@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T23:57:35-04:00",
+ "generated_at": "2026-11-27T00:01:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-26 23:57:34"
+  "title": "Show The World My Beaver",
+  "started": "2026-11-27 00:01:30"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-26 23:57:34"
+  },
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-26 23:54:50"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-26 23:41:52"
-  },
-  {
-   "title": "Doughnut Doug",
-   "started": "2026-11-26 23:40:04"
   }
  ]
 }
