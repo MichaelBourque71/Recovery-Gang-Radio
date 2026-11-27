@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T09:54:56-04:00",
+ "generated_at": "2026-11-27T09:59:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-27 09:54:53"
+  "title": "Medicated Zeal (Metal Version)",
+  "started": "2026-11-27 09:59:40"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-27 09:54:53"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-27 09:52:03"
@@ -21,10 +25,6 @@
   {
    "title": "You",
    "started": "2026-11-27 09:40:59"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-27 09:35:54"
   }
  ]
 }
