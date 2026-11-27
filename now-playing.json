@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:33:22-04:00",
+ "generated_at": "2026-11-27T15:36:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-27 15:33:19"
+  "title": "Gavin Newsom, But Not Much",
+  "started": "2026-11-27 15:36:39"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-27 15:33:19"
+  },
   {
    "title": "Greatest Hits",
    "started": "2026-11-27 15:28:57"
@@ -21,10 +25,6 @@
   {
    "title": "Corrupt Politicians (Belong In Prison)",
    "started": "2026-11-27 15:16:30"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-27 15:12:26"
   }
  ]
 }
