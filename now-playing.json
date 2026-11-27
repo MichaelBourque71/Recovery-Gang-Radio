@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:59:35-04:00",
+ "generated_at": "2026-11-27T04:03:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Intolerant Tolerance",
-  "started": "2026-11-27 03:59:32"
+  "title": "Sometimes It Takes A Breakdown",
+  "started": "2026-11-27 04:03:15"
  },
  "previous": [
+  {
+   "title": "Intolerant Tolerance",
+   "started": "2026-11-27 03:59:32"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-27 03:55:34"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-27 03:43:13"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-27 03:40:07"
   }
  ]
 }
