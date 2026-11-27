@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:15:50-04:00",
+ "generated_at": "2026-11-27T05:18:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-27 05:15:50"
+  "title": "Moldy Cat Puke on the Carpet",
+  "started": "2026-11-27 05:18:49"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-27 05:15:50"
+  },
   {
    "title": "Your Feet on Steady Ground",
    "started": "2026-11-27 05:10:11"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-27 04:59:48"
-  },
-  {
-   "title": "Parliament Hill Stinks",
-   "started": "2026-11-27 04:56:33"
   }
  ]
 }
