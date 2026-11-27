@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T01:56:16-04:00",
+ "generated_at": "2026-11-27T02:00:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-27 01:56:13"
+  "title": "Neurotic Kitty",
+  "started": "2026-11-27 02:00:31"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-27 01:56:13"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-27 01:51:27"
@@ -21,10 +25,6 @@
   {
    "title": "Fuck It—Never Mind",
    "started": "2026-11-27 01:40:22"
-  },
-  {
-   "title": "Clown In A Crown",
-   "started": "2026-11-27 01:37:02"
   }
  ]
 }
