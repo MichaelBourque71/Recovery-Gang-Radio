@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:52:06-04:00",
+ "generated_at": "2026-11-27T04:56:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weed Coughs",
-  "started": "2026-11-27 04:52:02"
+  "title": "Parliament Hill Stinks",
+  "started": "2026-11-27 04:56:33"
  },
  "previous": [
+  {
+   "title": "Weed Coughs",
+   "started": "2026-11-27 04:52:02"
+  },
   {
    "title": "Mystical Journey",
    "started": "2026-11-27 04:46:29"
@@ -21,10 +25,6 @@
   {
    "title": "Stranger Danger",
    "started": "2026-11-27 04:35:17"
-  },
-  {
-   "title": "Delaware Sniff",
-   "started": "2026-11-27 04:31:09"
   }
  ]
 }
