@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T03:55:37-04:00",
+ "generated_at": "2026-11-27T03:59:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-27 03:55:34"
+  "title": "Intolerant Tolerance",
+  "started": "2026-11-27 03:59:32"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-27 03:55:34"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-27 03:52:57"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-27 03:40:07"
-  },
-  {
-   "title": "Slow Down, Rider",
-   "started": "2026-11-27 03:36:39"
   }
  ]
 }
