@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T01:37:06-04:00",
+ "generated_at": "2026-11-27T01:40:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Clown In A Crown",
-  "started": "2026-11-27 01:37:02"
+  "title": "Fuck It—Never Mind",
+  "started": "2026-11-27 01:40:22"
  },
  "previous": [
+  {
+   "title": "Clown In A Crown",
+   "started": "2026-11-27 01:37:02"
+  },
   {
    "title": "420 Twice A Day",
    "started": "2026-11-27 01:35:08"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-27 01:20:19"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-27 01:14:43"
   }
  ]
 }
