@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:49:32-04:00",
+ "generated_at": "2026-11-27T05:53:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Faded Fire Still Burns Bright",
-  "started": "2026-11-27 05:49:30"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-27 05:53:38"
  },
  "previous": [
+  {
+   "title": "Faded Fire Still Burns Bright",
+   "started": "2026-11-27 05:49:30"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-27 05:46:26"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-27 05:35:45"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-27 05:32:21"
   }
  ]
 }
