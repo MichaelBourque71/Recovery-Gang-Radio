@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:38:45-04:00",
+ "generated_at": "2026-11-27T15:42:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-27 15:38:40"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-27 15:41:59"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-27 15:38:40"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-27 15:36:39"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-27 15:25:32"
-  },
-  {
-   "title": "Putz in a Suit",
-   "started": "2026-11-27 15:22:12"
   }
  ]
 }
