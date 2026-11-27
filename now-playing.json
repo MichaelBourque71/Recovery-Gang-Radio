@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:44:49-04:00",
+ "generated_at": "2026-11-27T14:47:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Here’s a Stack",
-  "started": "2026-11-27 14:44:48"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-27 14:47:47"
  },
  "previous": [
+  {
+   "title": "Here’s a Stack",
+   "started": "2026-11-27 14:44:48"
+  },
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-27 14:41:12"
@@ -21,10 +25,6 @@
   {
    "title": "Sweetleaf Reminiscence",
    "started": "2026-11-27 14:31:02"
-  },
-  {
-   "title": "The Inmates Are Running The Asylum",
-   "started": "2026-11-27 14:27:04"
   }
  ]
 }
