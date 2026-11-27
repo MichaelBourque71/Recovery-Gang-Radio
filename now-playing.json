@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:46:43-04:00",
+ "generated_at": "2026-11-27T15:52:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Our Country Back",
-  "started": "2026-11-27 15:46:40"
+  "title": "GUMMERS",
+  "started": "2026-11-27 15:52:07"
  },
  "previous": [
+  {
+   "title": "Take Our Country Back",
+   "started": "2026-11-27 15:46:40"
+  },
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-27 15:41:59"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-27 15:33:19"
-  },
-  {
-   "title": "Greatest Hits",
-   "started": "2026-11-27 15:28:57"
   }
  ]
 }
