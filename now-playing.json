@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T19:58:11-04:00",
+ "generated_at": "2026-11-27T19:59:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Doughnut Doug",
-  "started": "2026-11-27 19:58:09"
+  "title": "Bigfoot Hangs Out With A Duck",
+  "started": "2026-11-27 19:59:57"
  },
  "previous": [
+  {
+   "title": "Doughnut Doug",
+   "started": "2026-11-27 19:58:09"
+  },
   {
    "title": "Gaslight Halo",
    "started": "2026-11-27 19:54:05"
@@ -21,10 +25,6 @@
   {
    "title": "Stop Killing Babies",
    "started": "2026-11-27 19:41:08"
-  },
-  {
-   "title": "Dead Ideology ",
-   "started": "2026-11-27 19:37:41"
   }
  ]
 }
