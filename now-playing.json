@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:25:37-04:00",
+ "generated_at": "2026-11-27T15:28:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-27 15:25:32"
+  "title": "Greatest Hits",
+  "started": "2026-11-27 15:28:57"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-27 15:25:32"
+  },
   {
    "title": "Putz in a Suit",
    "started": "2026-11-27 15:22:12"
@@ -21,10 +25,6 @@
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-27 15:07:24"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-27 15:02:09"
   }
  ]
 }
