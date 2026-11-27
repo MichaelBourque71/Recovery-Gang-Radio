@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:56:00-04:00",
+ "generated_at": "2026-11-27T16:01:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-27 15:55:55"
+  "title": "Make Insane Asylums Great Again",
+  "started": "2026-11-27 16:01:53"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-27 15:55:55"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-27 15:52:07"
@@ -21,10 +25,6 @@
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-27 15:38:40"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-27 15:36:39"
   }
  ]
 }
