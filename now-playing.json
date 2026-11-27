@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:18:53-04:00",
+ "generated_at": "2026-11-27T05:23:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-27 05:18:49"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-27 05:23:07"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-27 05:18:49"
+  },
   {
    "title": "Take Your Laws",
    "started": "2026-11-27 05:15:50"
@@ -21,10 +25,6 @@
   {
    "title": "The Fuck-Knuckle Shuffle",
    "started": "2026-11-27 05:02:41"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-27 04:59:48"
   }
  ]
 }
