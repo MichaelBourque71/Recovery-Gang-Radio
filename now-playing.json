@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T00:01:30-04:00",
+ "generated_at": "2026-11-27T00:04:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-27 00:01:30"
+  "title": "Gear Jammin’ Road Hammer",
+  "started": "2026-11-27 00:04:47"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-27 00:01:30"
+  },
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-26 23:57:34"
@@ -21,10 +25,6 @@
   {
    "title": "Upgraded",
    "started": "2026-11-26 23:47:01"
-  },
-  {
-   "title": "Stop Killing Babies",
-   "started": "2026-11-26 23:41:52"
   }
  ]
 }
