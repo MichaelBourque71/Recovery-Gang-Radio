@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:22:53-04:00",
+ "generated_at": "2026-11-27T14:27:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Alignment",
-  "started": "2026-11-27 14:22:51"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-27 14:27:04"
  },
  "previous": [
+  {
+   "title": "Alignment",
+   "started": "2026-11-27 14:22:51"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-27 14:18:11"
@@ -21,10 +25,6 @@
   {
    "title": "Bigfoot Hangs Out With A Duck",
    "started": "2026-11-27 14:07:56"
-  },
-  {
-   "title": "Hard Way",
-   "started": "2026-11-27 14:02:38"
   }
  ]
 }
