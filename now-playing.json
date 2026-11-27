@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T02:10:28-04:00",
+ "generated_at": "2026-11-27T02:16:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Built To Love",
-  "started": "2026-11-27 02:10:28"
+  "title": "The Delaware Sniff (Part 2)",
+  "started": "2026-11-27 02:16:30"
  },
  "previous": [
+  {
+   "title": "Built To Love",
+   "started": "2026-11-27 02:10:28"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-27 02:07:16"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-27 01:56:13"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-27 01:51:27"
   }
  ]
 }
