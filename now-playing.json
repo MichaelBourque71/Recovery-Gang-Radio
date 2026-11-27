@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:46:58-04:00",
+ "generated_at": "2026-11-27T18:53:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-27 18:46:57"
+  "title": "I'm Ready For This",
+  "started": "2026-11-27 18:52:59"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-27 18:46:57"
+  },
   {
    "title": "Go Go (Gadget Wiener)",
    "started": "2026-11-27 18:43:32"
@@ -21,10 +25,6 @@
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-27 18:31:04"
-  },
-  {
-   "title": "Acid Freak",
-   "started": "2026-11-27 18:28:34"
   }
  ]
 }
