@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T06:13:39-04:00",
+ "generated_at": "2026-11-27T06:18:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
-  "started": "2026-11-27 06:13:36"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-27 06:18:05"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+   "started": "2026-11-27 06:13:36"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-27 06:09:31"
@@ -21,10 +25,6 @@
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-27 05:53:38"
-  },
-  {
-   "title": "Faded Fire Still Burns Bright",
-   "started": "2026-11-27 05:49:30"
   }
  ]
 }
