@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:15:08-04:00",
+ "generated_at": "2026-11-27T14:18:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nobody Wants To See Your Gut ",
-  "started": "2026-11-27 14:15:06"
+  "title": "I Don’t Care Who You Love",
+  "started": "2026-11-27 14:18:11"
  },
  "previous": [
+  {
+   "title": "Nobody Wants To See Your Gut ",
+   "started": "2026-11-27 14:15:06"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-27 14:10:27"
@@ -21,10 +25,6 @@
   {
    "title": "Glazed Meat (alternate)",
    "started": "2026-11-27 13:59:09"
-  },
-  {
-   "title": "Corporate Unaccountability ",
-   "started": "2026-11-27 13:53:44"
   }
  ]
 }
