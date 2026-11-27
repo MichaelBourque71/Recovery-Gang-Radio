@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:59:50-04:00",
+ "generated_at": "2026-11-27T05:02:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-27 04:59:48"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-27 05:02:41"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-27 04:59:48"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-27 04:56:33"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-27 04:41:58"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-27 04:39:16"
   }
  ]
 }
