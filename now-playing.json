@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T08:55:27-04:00",
+ "generated_at": "2026-11-27T08:59:03-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-27 08:55:23"
+  "title": "Heavy Denim",
+  "started": "2026-11-27 08:59:02"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-27 08:55:23"
+  },
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-27 08:52:03"
@@ -21,10 +25,6 @@
   {
    "title": "I’m Done Pretending ",
    "started": "2026-11-27 08:39:23"
-  },
-  {
-   "title": "Time For Talking",
-   "started": "2026-11-27 08:35:39"
   }
  ]
 }
