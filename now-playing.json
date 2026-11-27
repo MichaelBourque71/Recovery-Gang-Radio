@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T20:35:45-04:00",
+ "generated_at": "2026-11-26T20:39:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Parliament Hill Stinks",
-  "started": "2026-11-26 20:35:44"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-26 20:39:19"
  },
  "previous": [
+  {
+   "title": "Parliament Hill Stinks",
+   "started": "2026-11-26 20:35:44"
+  },
   {
    "title": "SKY ON FIRE",
    "started": "2026-11-26 20:31:14"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-26 20:16:39"
-  },
-  {
-   "title": "The Delaware Sniff (Part 2)",
-   "started": "2026-11-26 20:11:54"
   }
  ]
 }
