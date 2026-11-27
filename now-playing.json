@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:32:23-04:00",
+ "generated_at": "2026-11-27T05:35:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Two Joints To Fly Right",
-  "started": "2026-11-27 05:32:21"
+  "title": "Straight Ahead Jed",
+  "started": "2026-11-27 05:35:45"
  },
  "previous": [
+  {
+   "title": "Two Joints To Fly Right",
+   "started": "2026-11-27 05:32:21"
+  },
   {
    "title": "Day And Night",
    "started": "2026-11-27 05:26:54"
@@ -21,10 +25,6 @@
   {
    "title": "Take Your Laws",
    "started": "2026-11-27 05:15:50"
-  },
-  {
-   "title": "Your Feet on Steady Ground",
-   "started": "2026-11-27 05:10:11"
   }
  ]
 }
