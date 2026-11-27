@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T00:50:31-04:00",
+ "generated_at": "2026-11-27T00:54:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-27 00:50:26"
+  "title": "There Were Three Beards In The Band",
+  "started": "2026-11-27 00:54:04"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-27 00:50:26"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-27 00:46:12"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-27 00:34:16"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-27 00:31:11"
   }
  ]
 }
