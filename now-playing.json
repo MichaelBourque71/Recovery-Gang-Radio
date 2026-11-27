@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:08:30-04:00",
+ "generated_at": "2026-11-27T18:11:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-27 18:08:27"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-27 18:11:33"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-27 18:08:27"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-27 18:04:23"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-27 17:53:10"
-  },
-  {
-   "title": "Hard Land, Free People",
-   "started": "2026-11-27 17:48:04"
   }
  ]
 }
