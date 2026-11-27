@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T02:47:15-04:00",
+ "generated_at": "2026-11-27T02:51:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Came Home (But He Wasn't The Same)",
-  "started": "2026-11-27 02:47:12"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-27 02:51:28"
  },
  "previous": [
+  {
+   "title": "He Came Home (But He Wasn't The Same)",
+   "started": "2026-11-27 02:47:12"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-27 02:44:12"
@@ -21,10 +25,6 @@
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-27 02:31:19"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-27 02:26:49"
   }
  ]
 }
