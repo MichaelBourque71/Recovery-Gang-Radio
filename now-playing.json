@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:09:27-04:00",
+ "generated_at": "2026-11-27T16:13:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-27 16:09:25"
+  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+  "started": "2026-11-27 16:13:50"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-27 16:09:25"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-27 16:06:43"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-27 15:52:07"
-  },
-  {
-   "title": "Take Our Country Back",
-   "started": "2026-11-27 15:46:40"
   }
  ]
 }
