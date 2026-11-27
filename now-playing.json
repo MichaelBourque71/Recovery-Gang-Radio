@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T07:28:53-04:00",
+ "generated_at": "2026-11-27T07:34:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-27 07:28:48"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-27 07:34:52"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-27 07:28:48"
+  },
   {
    "title": "Some People",
    "started": "2026-11-27 07:25:22"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-27 07:10:43"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-27 07:06:13"
   }
  ]
 }
