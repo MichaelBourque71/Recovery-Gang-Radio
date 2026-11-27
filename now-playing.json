@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T20:19:45-04:00",
+ "generated_at": "2026-11-26T20:24:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Keyboard Courage",
-  "started": "2026-11-26 20:19:44"
+  "title": "There's Still Hope",
+  "started": "2026-11-26 20:24:40"
  },
  "previous": [
+  {
+   "title": "Keyboard Courage",
+   "started": "2026-11-26 20:19:44"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-26 20:16:39"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-26 20:03:11"
-  },
-  {
-   "title": "Corrupt Politicians (Belong In Prison)",
-   "started": "2026-11-26 19:57:45"
   }
  ]
 }
