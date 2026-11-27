@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:42:04-04:00",
+ "generated_at": "2026-11-27T15:46:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Truth, No Cheers",
-  "started": "2026-11-27 15:41:59"
+  "title": "Take Our Country Back",
+  "started": "2026-11-27 15:46:40"
  },
  "previous": [
+  {
+   "title": "Hard Truth, No Cheers",
+   "started": "2026-11-27 15:41:59"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-27 15:38:40"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-27 15:28:57"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-27 15:25:32"
   }
  ]
 }
