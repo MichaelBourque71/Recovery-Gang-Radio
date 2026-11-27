@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T22:49:58-04:00",
+ "generated_at": "2026-11-26T22:55:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "We Are Done Being Silent",
-  "started": "2026-11-26 22:49:55"
+  "title": "Outlaws And Oddballs",
+  "started": "2026-11-26 22:55:48"
  },
  "previous": [
+  {
+   "title": "We Are Done Being Silent",
+   "started": "2026-11-26 22:49:55"
+  },
   {
    "title": "Clown In A Crown",
    "started": "2026-11-26 22:46:01"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-26 22:35:27"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-26 22:32:35"
   }
  ]
 }
