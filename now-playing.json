@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T01:20:23-04:00",
+ "generated_at": "2026-11-27T01:23:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Peck of Pickled Peppers",
-  "started": "2026-11-27 01:20:19"
+  "title": "Rubber Duck On The Dash (Part 2)",
+  "started": "2026-11-27 01:23:42"
  },
  "previous": [
+  {
+   "title": "Peck of Pickled Peppers",
+   "started": "2026-11-27 01:20:19"
+  },
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-27 01:14:43"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-27 00:59:29"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-27 00:54:04"
   }
  ]
 }
