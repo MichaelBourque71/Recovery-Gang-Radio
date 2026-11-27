@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:27:08-04:00",
+ "generated_at": "2026-11-27T14:31:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-27 14:27:04"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-27 14:31:02"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-27 14:27:04"
+  },
   {
    "title": "Alignment",
    "started": "2026-11-27 14:22:51"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-27 14:10:27"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-27 14:07:56"
   }
  ]
 }
