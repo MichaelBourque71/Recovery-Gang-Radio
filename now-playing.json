@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T15:28:57-04:00",
+ "generated_at": "2026-11-27T15:33:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Greatest Hits",
-  "started": "2026-11-27 15:28:57"
+  "title": "Lines In Stone",
+  "started": "2026-11-27 15:33:19"
  },
  "previous": [
+  {
+   "title": "Greatest Hits",
+   "started": "2026-11-27 15:28:57"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-27 15:25:32"
@@ -21,10 +25,6 @@
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-27 15:12:26"
-  },
-  {
-   "title": "Allah Abracadabra",
-   "started": "2026-11-27 15:07:24"
   }
  ]
 }
