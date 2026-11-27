@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T00:13:11-04:00",
+ "generated_at": "2026-11-27T00:16:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-27 00:13:08"
+  "title": "Legal Ain’t Right",
+  "started": "2026-11-27 00:16:20"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-27 00:13:08"
+  },
   {
    "title": "I'm Ready For This",
    "started": "2026-11-27 00:09:21"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-26 23:57:34"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-26 23:54:50"
   }
  ]
 }
