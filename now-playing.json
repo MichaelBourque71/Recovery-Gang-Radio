@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:10:17-04:00",
+ "generated_at": "2026-11-27T11:13:33-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Wiener",
-  "started": "2026-11-27 11:10:17"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-27 11:13:31"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Wiener",
+   "started": "2026-11-27 11:10:17"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-27 11:06:04"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-27 10:52:17"
-  },
-  {
-   "title": "Take Your Laws",
-   "started": "2026-11-27 10:49:07"
   }
  ]
 }
