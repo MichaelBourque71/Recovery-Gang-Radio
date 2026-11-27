@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T19:33:33-04:00",
+ "generated_at": "2026-11-27T19:37:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glazed Meat (alternate)",
-  "started": "2026-11-27 19:33:30"
+  "title": "Dead Ideology ",
+  "started": "2026-11-27 19:37:41"
  },
  "previous": [
+  {
+   "title": "Glazed Meat (alternate)",
+   "started": "2026-11-27 19:33:30"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-27 19:28:24"
@@ -21,10 +25,6 @@
   {
    "title": "    Can We Still Save It?",
    "started": "2026-11-27 19:15:07"
-  },
-  {
-   "title": "There Were Three Beards In The Band",
-   "started": "2026-11-27 19:09:55"
   }
  ]
 }
