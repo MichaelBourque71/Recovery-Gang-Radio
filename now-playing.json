@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T04:20:31-04:00",
+ "generated_at": "2026-11-27T04:25:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (HEAVY Country Version)",
-  "started": "2026-11-27 04:20:26"
+  "title": "Acid Freak",
+  "started": "2026-11-27 04:25:08"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (HEAVY Country Version)",
+   "started": "2026-11-27 04:20:26"
+  },
   {
    "title": "Her Beaver Is Full of Ticks",
    "started": "2026-11-27 04:17:25"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-27 04:06:43"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-27 04:03:15"
   }
  ]
 }
