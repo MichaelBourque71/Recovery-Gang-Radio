@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:01:54-04:00",
+ "generated_at": "2026-11-27T16:06:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-27 16:01:53"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-27 16:06:43"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-27 16:01:53"
+  },
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-27 15:55:55"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-27 15:41:59"
-  },
-  {
-   "title": "Suicide Bombers And Sleeper Cells",
-   "started": "2026-11-27 15:38:40"
   }
  ]
 }
