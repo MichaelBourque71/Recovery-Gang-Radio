@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T05:46:29-04:00",
+ "generated_at": "2026-11-27T05:49:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-27 05:46:26"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-27 05:49:30"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-27 05:46:26"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-27 05:42:50"
@@ -21,10 +25,6 @@
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-27 05:32:21"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-27 05:26:54"
   }
  ]
 }
