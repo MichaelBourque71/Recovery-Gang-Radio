@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T16:44:57-04:00",
+ "generated_at": "2026-11-27T16:47:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One Brain Cell",
-  "started": "2026-11-27 16:44:53"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-27 16:47:53"
  },
  "previous": [
+  {
+   "title": "One Brain Cell",
+   "started": "2026-11-27 16:44:53"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-27 16:42:19"
@@ -21,10 +25,6 @@
   {
    "title": "Canada, Rise Up!!",
    "started": "2026-11-27 16:28:00"
-  },
-  {
-   "title": "Blurred Meridian Lines",
-   "started": "2026-11-27 16:23:49"
   }
  ]
 }
