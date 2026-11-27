@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T10:41:41-04:00",
+ "generated_at": "2026-11-27T10:45:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Go Go, Gadget Beaver!🦫 ",
-  "started": "2026-11-27 10:41:36"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-27 10:45:12"
  },
  "previous": [
+  {
+   "title": "Go Go, Gadget Beaver!🦫 ",
+   "started": "2026-11-27 10:41:36"
+  },
   {
    "title": "Burn It Slow",
    "started": "2026-11-27 10:37:21"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-27 10:24:24"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-27 10:19:15"
   }
  ]
 }
