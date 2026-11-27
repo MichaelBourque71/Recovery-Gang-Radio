@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T14:38:02-04:00",
+ "generated_at": "2026-11-27T14:41:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mushroom Parade",
-  "started": "2026-11-27 14:37:59"
+  "title": "Peck of Pickled Peppers",
+  "started": "2026-11-27 14:41:12"
  },
  "previous": [
+  {
+   "title": "Mushroom Parade",
+   "started": "2026-11-27 14:37:59"
+  },
   {
    "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
    "started": "2026-11-27 14:34:04"
@@ -21,10 +25,6 @@
   {
    "title": "Alignment",
    "started": "2026-11-27 14:22:51"
-  },
-  {
-   "title": "I Don’t Care Who You Love",
-   "started": "2026-11-27 14:18:11"
   }
  ]
 }
