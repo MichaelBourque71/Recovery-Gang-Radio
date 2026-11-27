@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T21:07:28-04:00",
+ "generated_at": "2026-11-26T21:11:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "LGBTQ",
-  "started": "2026-11-26 21:07:23"
+  "title": "Man With the Backbone",
+  "started": "2026-11-26 21:11:36"
  },
  "previous": [
+  {
+   "title": "LGBTQ",
+   "started": "2026-11-26 21:07:23"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-26 21:02:59"
@@ -21,10 +25,6 @@
   {
    "title": "Beer Goggles And Boondoggles",
    "started": "2026-11-26 20:51:36"
-  },
-  {
-   "title": "Taste Your Honey",
-   "started": "2026-11-26 20:47:18"
   }
  ]
 }
