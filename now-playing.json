@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T18:53:02-04:00",
+ "generated_at": "2026-11-27T18:57:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I'm Ready For This",
-  "started": "2026-11-27 18:52:59"
+  "title": "I Don’t Bow To Tyrants",
+  "started": "2026-11-27 18:57:05"
  },
  "previous": [
+  {
+   "title": "I'm Ready For This",
+   "started": "2026-11-27 18:52:59"
+  },
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-27 18:46:57"
@@ -21,10 +25,6 @@
   {
    "title": "Stand for Freedom",
    "started": "2026-11-27 18:36:02"
-  },
-  {
-   "title": "He Didn’t Need A Knife",
-   "started": "2026-11-27 18:31:04"
   }
  ]
 }
