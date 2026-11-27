@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T10:11:47-04:00",
+ "generated_at": "2026-11-27T10:15:27-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-27 10:11:43"
+  "title": "Space Cadet",
+  "started": "2026-11-27 10:15:26"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-27 10:11:43"
+  },
   {
    "title": "Built To Love",
    "started": "2026-11-27 10:05:31"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-27 09:52:03"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-27 09:48:38"
   }
  ]
 }
