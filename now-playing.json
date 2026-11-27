@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T11:55:41-04:00",
+ "generated_at": "2026-11-27T11:59:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-27 11:55:37"
+  "title": "Her Beaver Is Full of Ticks",
+  "started": "2026-11-27 11:59:16"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-27 11:55:37"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-27 11:51:19"
@@ -21,10 +25,6 @@
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-27 11:36:25"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-27 11:34:25"
   }
  ]
 }
