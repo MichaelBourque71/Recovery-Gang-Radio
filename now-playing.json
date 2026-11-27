@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T02:51:31-04:00",
+ "generated_at": "2026-11-27T02:54:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Won't Stop Being Me",
-  "started": "2026-11-27 02:51:28"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-27 02:54:47"
  },
  "previous": [
+  {
+   "title": "Won't Stop Being Me",
+   "started": "2026-11-27 02:51:28"
+  },
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-27 02:47:12"
@@ -21,10 +25,6 @@
   {
    "title": "Living For Peace",
    "started": "2026-11-27 02:35:17"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-27 02:31:19"
   }
  ]
 }
