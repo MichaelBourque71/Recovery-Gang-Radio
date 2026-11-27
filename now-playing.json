@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-26T20:51:37-04:00",
+ "generated_at": "2026-11-26T20:56:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-26 20:51:36"
+  "title": "You",
+  "started": "2026-11-26 20:56:47"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-26 20:51:36"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-26 20:47:18"
@@ -21,10 +25,6 @@
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-26 20:35:44"
-  },
-  {
-   "title": "SKY ON FIRE",
-   "started": "2026-11-26 20:31:14"
   }
  ]
 }
