@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:40:11-04:00",
+ "generated_at": "2026-11-28T10:43:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Suicide Bombers And Sleeper Cells",
-  "started": "2026-11-28 10:40:08"
+  "title": "When Opportunity Knocks",
+  "started": "2026-11-28 10:43:26"
  },
  "previous": [
+  {
+   "title": "Suicide Bombers And Sleeper Cells",
+   "started": "2026-11-28 10:40:08"
+  },
   {
    "title": "Two Joints To Fly Right",
    "started": "2026-11-28 10:36:44"
@@ -21,10 +25,6 @@
   {
    "title": "NOT YOUR THRONE",
    "started": "2026-11-28 10:23:55"
-  },
-  {
-   "title": "There’s Some Truth To The Lies",
-   "started": "2026-11-28 10:20:32"
   }
  ]
 }
