@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:28:47-04:00",
+ "generated_at": "2026-11-28T11:31:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-28 11:28:45"
+  "title": "Stranger Danger",
+  "started": "2026-11-28 11:31:55"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-28 11:28:45"
+  },
   {
    "title": "I Like The Strains That Give Me The Giggles",
    "started": "2026-11-28 11:25:42"
@@ -21,10 +25,6 @@
   {
    "title": "One More Night",
    "started": "2026-11-28 11:11:31"
-  },
-  {
-   "title": "Puma-Beaver On The Prowl",
-   "started": "2026-11-28 11:06:35"
   }
  ]
 }
