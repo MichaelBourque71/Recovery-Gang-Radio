@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T05:49:57-04:00",
+ "generated_at": "2026-11-28T05:53:36-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fight For Your Right To Breathe",
-  "started": "2026-11-28 05:49:55"
+  "title": "Weaponized Children",
+  "started": "2026-11-28 05:53:33"
  },
  "previous": [
+  {
+   "title": "Fight For Your Right To Breathe",
+   "started": "2026-11-28 05:49:55"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-28 05:43:33"
@@ -21,10 +25,6 @@
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-28 05:31:59"
-  },
-  {
-   "title": "Whistle Through The Light Bar",
-   "started": "2026-11-28 05:28:39"
   }
  ]
 }
