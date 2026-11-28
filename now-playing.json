@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:23:46-04:00",
+ "generated_at": "2026-11-27T23:27:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-27 23:23:44"
+  "title": "Time For Talking",
+  "started": "2026-11-27 23:27:16"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-27 23:23:44"
+  },
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-27 23:20:53"
@@ -21,10 +25,6 @@
   {
    "title": "Weaponized Children",
    "started": "2026-11-27 23:09:52"
-  },
-  {
-   "title": "The Shitter Smells Better When You Hot-Box It",
-   "started": "2026-11-27 23:06:00"
   }
  ]
 }
