@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T07:43:16-04:00",
+ "generated_at": "2026-11-28T07:49:15-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "My Harley Waits",
-  "started": "2026-11-28 07:43:16"
+  "title": "Democracy on Life Support",
+  "started": "2026-11-28 07:49:13"
  },
  "previous": [
+  {
+   "title": "My Harley Waits",
+   "started": "2026-11-28 07:43:16"
+  },
   {
    "title": "There Was A Time",
    "started": "2026-11-28 07:38:44"
@@ -21,10 +25,6 @@
   {
    "title": "I Do What I Want",
    "started": "2026-11-28 07:26:47"
-  },
-  {
-   "title": "Her Beaver Is Full of Ticks",
-   "started": "2026-11-28 07:23:45"
   }
  ]
 }
