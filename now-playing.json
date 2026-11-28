@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T07:51:52-04:00",
+ "generated_at": "2026-11-28T07:55:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gaslit By Retards",
-  "started": "2026-11-28 07:51:50"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-28 07:55:09"
  },
  "previous": [
+  {
+   "title": "Gaslit By Retards",
+   "started": "2026-11-28 07:51:50"
+  },
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-28 07:49:13"
@@ -21,10 +25,6 @@
   {
    "title": "Muscle Cars & Motorcycles",
    "started": "2026-11-28 07:34:59"
-  },
-  {
-   "title": "Unstoppable Force",
-   "started": "2026-11-28 07:31:34"
   }
  ]
 }
