@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T07:49:15-04:00",
+ "generated_at": "2026-11-28T07:51:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Democracy on Life Support",
-  "started": "2026-11-28 07:49:13"
+  "title": "Gaslit By Retards",
+  "started": "2026-11-28 07:51:50"
  },
  "previous": [
+  {
+   "title": "Democracy on Life Support",
+   "started": "2026-11-28 07:49:13"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-28 07:43:16"
@@ -21,10 +25,6 @@
   {
    "title": "Unstoppable Force",
    "started": "2026-11-28 07:31:34"
-  },
-  {
-   "title": "I Do What I Want",
-   "started": "2026-11-28 07:26:47"
   }
  ]
 }
