@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T09:55:54-04:00",
+ "generated_at": "2026-11-28T09:59:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Killdozer Army",
-  "started": "2026-11-28 09:55:49"
+  "title": "Just Go Away, Justin!!",
+  "started": "2026-11-28 09:59:53"
  },
  "previous": [
+  {
+   "title": "Killdozer Army",
+   "started": "2026-11-28 09:55:49"
+  },
   {
    "title": "FUCK CARNEY!!",
    "started": "2026-11-28 09:51:26"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-28 09:37:52"
-  },
-  {
-   "title": "You",
-   "started": "2026-11-28 09:34:24"
   }
  ]
 }
