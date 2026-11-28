@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:14:15-04:00",
+ "generated_at": "2026-11-28T08:19:02-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Heavy Denim",
-  "started": "2026-11-28 08:14:13"
+  "title": "The Inmates Are Running The Asylum",
+  "started": "2026-11-28 08:19:00"
  },
  "previous": [
+  {
+   "title": "Heavy Denim",
+   "started": "2026-11-28 08:14:13"
+  },
   {
    "title": "History Collects",
    "started": "2026-11-28 08:11:03"
@@ -21,10 +25,6 @@
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-28 08:00:11"
-  },
-  {
-   "title": "What They Want…",
-   "started": "2026-11-28 07:57:44"
   }
  ]
 }
