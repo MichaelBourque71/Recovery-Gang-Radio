@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:00:14-04:00",
+ "generated_at": "2026-11-28T08:04:14-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-  "started": "2026-11-28 08:00:11"
+  "title": "Dead Ideology ",
+  "started": "2026-11-28 08:04:12"
  },
  "previous": [
+  {
+   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
+   "started": "2026-11-28 08:00:11"
+  },
   {
    "title": "What They Want…",
    "started": "2026-11-28 07:57:44"
@@ -21,10 +25,6 @@
   {
    "title": "Democracy on Life Support",
    "started": "2026-11-28 07:49:13"
-  },
-  {
-   "title": "My Harley Waits",
-   "started": "2026-11-28 07:43:16"
   }
  ]
 }
