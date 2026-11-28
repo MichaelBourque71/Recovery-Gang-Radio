@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T21:10:02-04:00",
+ "generated_at": "2026-11-27T21:13:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-27 21:10:01"
+  "title": "Hard Truth, No Cheers",
+  "started": "2026-11-27 21:12:57"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-27 21:10:01"
+  },
   {
    "title": "Unstoppable Force",
    "started": "2026-11-27 21:06:15"
@@ -21,10 +25,6 @@
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-27 20:53:18"
-  },
-  {
-   "title": "Fuck Winter",
-   "started": "2026-11-27 20:48:12"
   }
  ]
 }
