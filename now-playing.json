@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:26:45-04:00",
+ "generated_at": "2026-11-27T22:30:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Southbound 737",
-  "started": "2026-11-27 22:26:43"
+  "title": "Morganna (The Kissing Bandit)",
+  "started": "2026-11-27 22:30:24"
  },
  "previous": [
+  {
+   "title": "Southbound 737",
+   "started": "2026-11-27 22:26:43"
+  },
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-27 22:22:48"
@@ -21,10 +25,6 @@
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-27 22:11:47"
-  },
-  {
-   "title": "Orange Rage (TDS)",
-   "started": "2026-11-27 22:08:59"
   }
  ]
 }
