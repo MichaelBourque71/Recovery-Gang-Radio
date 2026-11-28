@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:23:59-04:00",
+ "generated_at": "2026-11-28T10:29:31-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "NOT YOUR THRONE",
-  "started": "2026-11-28 10:23:55"
+  "title": "Painted Signals",
+  "started": "2026-11-28 10:29:30"
  },
  "previous": [
+  {
+   "title": "NOT YOUR THRONE",
+   "started": "2026-11-28 10:23:55"
+  },
   {
    "title": "There’s Some Truth To The Lies",
    "started": "2026-11-28 10:20:32"
@@ -21,10 +25,6 @@
   {
    "title": "Stolen Democracy",
    "started": "2026-11-28 10:08:16"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-28 10:04:28"
   }
  ]
 }
