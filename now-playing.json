@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:11:50-04:00",
+ "generated_at": "2026-11-27T22:15:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When the Wind Shifts",
-  "started": "2026-11-27 22:11:47"
+  "title": "You’ll Have To Kill Me To Shut Me Up",
+  "started": "2026-11-27 22:15:35"
  },
  "previous": [
+  {
+   "title": "When the Wind Shifts",
+   "started": "2026-11-27 22:11:47"
+  },
   {
    "title": "Orange Rage (TDS)",
    "started": "2026-11-27 22:08:59"
@@ -21,10 +25,6 @@
   {
    "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
    "started": "2026-11-27 21:54:53"
-  },
-  {
-   "title": "City of Fading Shadows",
-   "started": "2026-11-27 21:52:17"
   }
  ]
 }
