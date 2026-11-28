@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T03:26:55-04:00",
+ "generated_at": "2026-11-28T03:30:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Feeling Froggy",
-  "started": "2026-11-28 03:26:50"
+  "title": "Glaze On The Meat",
+  "started": "2026-11-28 03:30:26"
  },
  "previous": [
+  {
+   "title": "Feeling Froggy",
+   "started": "2026-11-28 03:26:50"
+  },
   {
    "title": "Weed Coughs",
    "started": "2026-11-28 03:22:22"
@@ -21,10 +25,6 @@
   {
    "title": "LGBTQ",
    "started": "2026-11-28 03:08:02"
-  },
-  {
-   "title": "The Truth Walks Slow",
-   "started": "2026-11-28 03:03:13"
   }
  ]
 }
