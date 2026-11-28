@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:19:25-04:00",
+ "generated_at": "2026-11-28T11:25:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Nature Is Talking",
-  "started": "2026-11-28 11:19:24"
+  "title": "I Like The Strains That Give Me The Giggles",
+  "started": "2026-11-28 11:25:42"
  },
  "previous": [
+  {
+   "title": "Nature Is Talking",
+   "started": "2026-11-28 11:19:24"
+  },
   {
    "title": "Taste Your Honey",
    "started": "2026-11-28 11:15:27"
@@ -21,10 +25,6 @@
   {
    "title": "Medicated Zeal (Metal Version)",
    "started": "2026-11-28 10:59:54"
-  },
-  {
-   "title": "Cognitively Deceased",
-   "started": "2026-11-28 10:57:13"
   }
  ]
 }
