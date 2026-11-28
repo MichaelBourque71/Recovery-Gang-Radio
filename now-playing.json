@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:55:43-04:00",
+ "generated_at": "2026-11-28T02:59:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fecal Matter Ejector Ring",
-  "started": "2026-11-28 02:55:42"
+  "title": "So Take a Chance",
+  "started": "2026-11-28 02:59:02"
  },
  "previous": [
+  {
+   "title": "Fecal Matter Ejector Ring",
+   "started": "2026-11-28 02:55:42"
+  },
   {
    "title": "Her Beaver Is Full of Ticks (Funk Version)",
    "started": "2026-11-28 02:50:54"
@@ -21,10 +25,6 @@
   {
    "title": "Not Enough Hours",
    "started": "2026-11-28 02:40:07"
-  },
-  {
-   "title": "Back Down While You Still Can (Alt version)",
-   "started": "2026-11-28 02:35:30"
   }
  ]
 }
