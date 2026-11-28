@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T01:06:39-04:00",
+ "generated_at": "2026-11-28T01:12:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There Were Three Beards In The Band",
-  "started": "2026-11-28 01:06:34"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-28 01:12:21"
  },
  "previous": [
+  {
+   "title": "There Were Three Beards In The Band",
+   "started": "2026-11-28 01:06:34"
+  },
   {
    "title": "Stand for Freedom",
    "started": "2026-11-28 01:03:40"
@@ -21,10 +25,6 @@
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-28 00:51:35"
-  },
-  {
-   "title": "Go Go (Gadget Wiener)",
-   "started": "2026-11-28 00:48:09"
   }
  ]
 }
