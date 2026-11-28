@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:55:06-04:00",
+ "generated_at": "2026-11-27T23:59:41-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-27 23:55:02"
+  "title": "Greatest Hits",
+  "started": "2026-11-27 23:59:37"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-27 23:55:02"
+  },
   {
    "title": "The Woke Baby Sissy Dance 😂",
    "started": "2026-11-27 23:51:55"
@@ -21,10 +25,6 @@
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-27 23:39:11"
-  },
-  {
-   "title": "Just Be Who You Are",
-   "started": "2026-11-27 23:35:04"
   }
  ]
 }
