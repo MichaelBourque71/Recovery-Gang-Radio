@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T20:06:12-04:00",
+ "generated_at": "2026-11-27T20:10:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "People Think I’m Crazy",
-  "started": "2026-11-27 20:06:10"
+  "title": "Mean Francine",
+  "started": "2026-11-27 20:10:48"
  },
  "previous": [
+  {
+   "title": "People Think I’m Crazy",
+   "started": "2026-11-27 20:06:10"
+  },
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-27 20:02:50"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslight Halo",
    "started": "2026-11-27 19:54:05"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-27 19:50:19"
   }
  ]
 }
