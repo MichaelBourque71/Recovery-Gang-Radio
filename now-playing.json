@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:44:41-04:00",
+ "generated_at": "2026-11-28T08:49:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Moldy Cat Puke on the Carpet",
-  "started": "2026-11-28 08:44:40"
+  "title": "Mushroom Parade",
+  "started": "2026-11-28 08:49:15"
  },
  "previous": [
+  {
+   "title": "Moldy Cat Puke on the Carpet",
+   "started": "2026-11-28 08:44:40"
+  },
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-28 08:39:44"
@@ -21,10 +25,6 @@
   {
    "title": "Greedy Bitch",
    "started": "2026-11-28 08:26:08"
-  },
-  {
-   "title": "Running With Scissors",
-   "started": "2026-11-28 08:23:13"
   }
  ]
 }
