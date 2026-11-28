@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:55:16-04:00",
+ "generated_at": "2026-11-28T11:57:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-28 11:55:11"
+  "title": "Jesus Is The Phoenix",
+  "started": "2026-11-28 11:57:56"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-28 11:55:11"
+  },
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-28 11:50:28"
@@ -21,10 +25,6 @@
   {
    "title": "Gear Jammin’ Road Hammer",
    "started": "2026-11-28 11:38:34"
-  },
-  {
-   "title": "Thin Skull Recruit",
-   "started": "2026-11-28 11:36:02"
   }
  ]
 }
