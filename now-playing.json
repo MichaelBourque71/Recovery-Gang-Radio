@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T00:11:27-04:00",
+ "generated_at": "2026-11-28T00:15:01-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hack It Or Slash It",
-  "started": "2026-11-28 00:11:22"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-28 00:14:58"
  },
  "previous": [
+  {
+   "title": "Hack It Or Slash It",
+   "started": "2026-11-28 00:11:22"
+  },
   {
    "title": "Blurred Meridian Lines",
    "started": "2026-11-28 00:07:23"
@@ -21,10 +25,6 @@
   {
    "title": "Day And Night",
    "started": "2026-11-27 23:55:02"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-27 23:51:55"
   }
  ]
 }
