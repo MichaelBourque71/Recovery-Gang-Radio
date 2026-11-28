@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T06:52:52-04:00",
+ "generated_at": "2026-11-28T06:56:57-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Every Room’s a Lie",
-  "started": "2026-11-28 06:52:47"
+  "title": "SELLIN’ HELL",
+  "started": "2026-11-28 06:56:52"
  },
  "previous": [
+  {
+   "title": "Every Room’s a Lie",
+   "started": "2026-11-28 06:52:47"
+  },
   {
    "title": "TDS Ruined The Entertainment World",
    "started": "2026-11-28 06:48:20"
@@ -21,10 +25,6 @@
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-28 06:36:36"
-  },
-  {
-   "title": "Youth In Asia",
-   "started": "2026-11-28 06:33:05"
   }
  ]
 }
