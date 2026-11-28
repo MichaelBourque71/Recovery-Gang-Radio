@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T00:15:01-04:00",
+ "generated_at": "2026-11-28T00:20:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Carney Is Great At Creating Jobs (In The USA)",
-  "started": "2026-11-28 00:14:58"
+  "title": "Won't Stop Being Me",
+  "started": "2026-11-28 00:20:10"
  },
  "previous": [
+  {
+   "title": "Carney Is Great At Creating Jobs (In The USA)",
+   "started": "2026-11-28 00:14:58"
+  },
   {
    "title": "Hack It Or Slash It",
    "started": "2026-11-28 00:11:22"
@@ -21,10 +25,6 @@
   {
    "title": "Greatest Hits",
    "started": "2026-11-27 23:59:37"
-  },
-  {
-   "title": "Day And Night",
-   "started": "2026-11-27 23:55:02"
   }
  ]
 }
