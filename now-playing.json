@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T05:53:36-04:00",
+ "generated_at": "2026-11-28T05:57:05-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Weaponized Children",
-  "started": "2026-11-28 05:53:33"
+  "title": "Faded Fire Still Burns Bright",
+  "started": "2026-11-28 05:57:05"
  },
  "previous": [
+  {
+   "title": "Weaponized Children",
+   "started": "2026-11-28 05:53:33"
+  },
   {
    "title": "Fight For Your Right To Breathe",
    "started": "2026-11-28 05:49:55"
@@ -21,10 +25,6 @@
   {
    "title": "Putz in a Suit",
    "started": "2026-11-28 05:36:21"
-  },
-  {
-   "title": "Everybody’s Twitchin’",
-   "started": "2026-11-28 05:31:59"
   }
  ]
 }
