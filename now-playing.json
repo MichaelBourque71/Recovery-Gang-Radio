@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T20:35:10-04:00",
+ "generated_at": "2026-11-27T20:39:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-27 20:35:05"
+  "title": "Back Down While You Still Can",
+  "started": "2026-11-27 20:39:00"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-27 20:35:05"
+  },
   {
    "title": "Burn Through The Spin",
    "started": "2026-11-27 20:32:02"
@@ -21,10 +25,6 @@
   {
    "title": "Show The World My Beaver",
    "started": "2026-11-27 20:18:23"
-  },
-  {
-   "title": "Stolen Democracy",
-   "started": "2026-11-27 20:15:03"
   }
  ]
 }
