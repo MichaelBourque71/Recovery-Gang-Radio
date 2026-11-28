@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:10:07-04:00",
+ "generated_at": "2026-11-28T02:15:04-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
-  "started": "2026-11-28 02:10:04"
+  "title": "Take Our Country Back",
+  "started": "2026-11-28 02:15:04"
  },
  "previous": [
+  {
+   "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+   "started": "2026-11-28 02:10:04"
+  },
   {
    "title": "Intolerant Tolerance",
    "started": "2026-11-28 02:05:59"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-28 01:52:17"
-  },
-  {
-   "title": "The Wrangler Hotel",
-   "started": "2026-11-28 01:48:19"
   }
  ]
 }
