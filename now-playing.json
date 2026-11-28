@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:57:58-04:00",
+ "generated_at": "2026-11-28T12:02:08-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Jesus Is The Phoenix",
-  "started": "2026-11-28 11:57:56"
+  "title": "The Left Lies",
+  "started": "2026-11-28 12:02:04"
  },
  "previous": [
+  {
+   "title": "Jesus Is The Phoenix",
+   "started": "2026-11-28 11:57:56"
+  },
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-28 11:55:11"
@@ -21,10 +25,6 @@
   {
    "title": "How Many Times Can You Patch A Road",
    "started": "2026-11-28 11:42:59"
-  },
-  {
-   "title": "Gear Jammin’ Road Hammer",
-   "started": "2026-11-28 11:38:34"
   }
  ]
 }
