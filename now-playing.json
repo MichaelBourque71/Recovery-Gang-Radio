@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:20:35-04:00",
+ "generated_at": "2026-11-28T02:26:32-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-28 02:20:31"
+  "title": "If Canada Was Still O Canada",
+  "started": "2026-11-28 02:26:30"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-28 02:20:31"
+  },
   {
    "title": "Take Our Country Back",
    "started": "2026-11-28 02:15:04"
@@ -21,10 +25,6 @@
   {
    "title": "Low-End Disorder",
    "started": "2026-11-28 02:02:05"
-  },
-  {
-   "title": "Built To Love",
-   "started": "2026-11-28 01:56:04"
   }
  ]
 }
