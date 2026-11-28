@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:15:39-04:00",
+ "generated_at": "2026-11-27T22:19:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-27 22:15:35"
+  "title": "The Logan Act Blues",
+  "started": "2026-11-27 22:19:22"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-27 22:15:35"
+  },
   {
    "title": "When the Wind Shifts",
    "started": "2026-11-27 22:11:47"
@@ -21,10 +25,6 @@
   {
    "title": "Half Truths, Whole Lies",
    "started": "2026-11-27 21:58:49"
-  },
-  {
-   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-   "started": "2026-11-27 21:54:53"
   }
  ]
 }
