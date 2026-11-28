@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T07:55:10-04:00",
+ "generated_at": "2026-11-28T07:57:48-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Reality vs. Delusion",
-  "started": "2026-11-28 07:55:09"
+  "title": "What They Want…",
+  "started": "2026-11-28 07:57:44"
  },
  "previous": [
+  {
+   "title": "Reality vs. Delusion",
+   "started": "2026-11-28 07:55:09"
+  },
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-28 07:51:50"
@@ -21,10 +25,6 @@
   {
    "title": "There Was A Time",
    "started": "2026-11-28 07:38:44"
-  },
-  {
-   "title": "Muscle Cars & Motorcycles",
-   "started": "2026-11-28 07:34:59"
   }
  ]
 }
