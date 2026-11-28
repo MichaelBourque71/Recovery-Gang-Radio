@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:50:30-04:00",
+ "generated_at": "2026-11-28T11:55:16-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Care Who You Love",
-  "started": "2026-11-28 11:50:28"
+  "title": "Reality vs. Delusion",
+  "started": "2026-11-28 11:55:11"
  },
  "previous": [
+  {
+   "title": "I Don’t Care Who You Love",
+   "started": "2026-11-28 11:50:28"
+  },
   {
    "title": "Liberals Are A Dime A Dozen",
    "started": "2026-11-28 11:46:24"
@@ -21,10 +25,6 @@
   {
    "title": "Thin Skull Recruit",
    "started": "2026-11-28 11:36:02"
-  },
-  {
-   "title": "Stranger Danger",
-   "started": "2026-11-28 11:31:55"
   }
  ]
 }
