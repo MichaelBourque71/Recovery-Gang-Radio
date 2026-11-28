@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T05:36:22-04:00",
+ "generated_at": "2026-11-28T05:39:44-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Putz in a Suit",
-  "started": "2026-11-28 05:36:21"
+  "title": "My Duty Is To My Heart",
+  "started": "2026-11-28 05:39:41"
  },
  "previous": [
+  {
+   "title": "Putz in a Suit",
+   "started": "2026-11-28 05:36:21"
+  },
   {
    "title": "Everybody’s Twitchin’",
    "started": "2026-11-28 05:31:59"
@@ -21,10 +25,6 @@
   {
    "title": "Burn It Slow",
    "started": "2026-11-28 05:19:49"
-  },
-  {
-   "title": "Sometimes It Takes A Breakdown",
-   "started": "2026-11-28 05:16:22"
   }
  ]
 }
