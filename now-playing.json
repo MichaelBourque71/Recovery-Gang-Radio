@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T06:24:58-04:00",
+ "generated_at": "2026-11-28T06:27:51-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Take Your Laws",
-  "started": "2026-11-28 06:24:56"
+  "title": "Corporate Unaccountability ",
+  "started": "2026-11-28 06:27:47"
  },
  "previous": [
+  {
+   "title": "Take Your Laws",
+   "started": "2026-11-28 06:24:56"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-28 06:22:15"
@@ -21,10 +25,6 @@
   {
    "title": "Taste Your Honey",
    "started": "2026-11-28 06:10:20"
-  },
-  {
-   "title": "Pair E - Yes + Your Feet On Steady Ground",
-   "started": "2026-11-28 06:01:13"
   }
  ]
 }
