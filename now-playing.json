@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T03:30:29-04:00",
+ "generated_at": "2026-11-28T03:34:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Glaze On The Meat",
-  "started": "2026-11-28 03:30:26"
+  "title": "Feel Alright",
+  "started": "2026-11-28 03:34:18"
  },
  "previous": [
+  {
+   "title": "Glaze On The Meat",
+   "started": "2026-11-28 03:30:26"
+  },
   {
    "title": "Feeling Froggy",
    "started": "2026-11-28 03:26:50"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-28 03:12:14"
-  },
-  {
-   "title": "LGBTQ",
-   "started": "2026-11-28 03:08:02"
   }
  ]
 }
