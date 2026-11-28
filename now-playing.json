@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:04:14-04:00",
+ "generated_at": "2026-11-28T08:07:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-28 08:04:12"
+  "title": "Sweetleaf Reminiscence",
+  "started": "2026-11-28 08:07:39"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-28 08:04:12"
+  },
   {
    "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
    "started": "2026-11-28 08:00:11"
@@ -21,10 +25,6 @@
   {
    "title": "Gaslit By Retards",
    "started": "2026-11-28 07:51:50"
-  },
-  {
-   "title": "Democracy on Life Support",
-   "started": "2026-11-28 07:49:13"
   }
  ]
 }
