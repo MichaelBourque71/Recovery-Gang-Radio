@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T09:04:18-04:00",
+ "generated_at": "2026-11-28T09:08:52-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Day And Night",
-  "started": "2026-11-28 09:04:13"
+  "title": "I’m Done Pretending ",
+  "started": "2026-11-28 09:08:48"
  },
  "previous": [
+  {
+   "title": "Day And Night",
+   "started": "2026-11-28 09:04:13"
+  },
   {
    "title": "Hard Way",
    "started": "2026-11-28 08:58:16"
@@ -21,10 +25,6 @@
   {
    "title": "Mushroom Parade",
    "started": "2026-11-28 08:49:15"
-  },
-  {
-   "title": "Moldy Cat Puke on the Carpet",
-   "started": "2026-11-28 08:44:40"
   }
  ]
 }
