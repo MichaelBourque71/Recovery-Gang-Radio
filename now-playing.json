@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:44:54-04:00",
+ "generated_at": "2026-11-27T22:49:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Roadside Puddles",
-  "started": "2026-11-27 22:44:52"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-27 22:49:07"
  },
  "previous": [
+  {
+   "title": "Roadside Puddles",
+   "started": "2026-11-27 22:44:52"
+  },
   {
    "title": "The Delaware Sniff (Part 2)",
    "started": "2026-11-27 22:40:19"
@@ -21,10 +25,6 @@
   {
    "title": "Southbound 737",
    "started": "2026-11-27 22:26:43"
-  },
-  {
-   "title": "Real Stupidity Versus Artificial Intelligence ",
-   "started": "2026-11-27 22:22:48"
   }
  ]
 }
