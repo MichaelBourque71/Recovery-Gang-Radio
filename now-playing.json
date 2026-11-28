@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T21:28:32-04:00",
+ "generated_at": "2026-11-27T21:32:00-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "How Many Times Can You Patch A Road",
-  "started": "2026-11-27 21:28:31"
+  "title": "I Have Something to Say",
+  "started": "2026-11-27 21:31:56"
  },
  "previous": [
+  {
+   "title": "How Many Times Can You Patch A Road",
+   "started": "2026-11-27 21:28:31"
+  },
   {
    "title": "Monopoly Mark",
    "started": "2026-11-27 21:25:34"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-27 21:12:57"
-  },
-  {
-   "title": "Fuck It—Never Mind",
-   "started": "2026-11-27 21:10:01"
   }
  ]
 }
