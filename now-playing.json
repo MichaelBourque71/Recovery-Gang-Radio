@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:52:16-04:00",
+ "generated_at": "2026-11-28T08:55:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Fuck It—Never Mind",
-  "started": "2026-11-28 08:52:15"
+  "title": "Mailer Demon",
+  "started": "2026-11-28 08:55:11"
  },
  "previous": [
+  {
+   "title": "Fuck It—Never Mind",
+   "started": "2026-11-28 08:52:15"
+  },
   {
    "title": "Mushroom Parade",
    "started": "2026-11-28 08:49:15"
@@ -21,10 +25,6 @@
   {
    "title": "Hell Didn’t Keep Her",
    "started": "2026-11-28 08:34:29"
-  },
-  {
-   "title": "Alignment",
-   "started": "2026-11-28 08:30:34"
   }
  ]
 }
