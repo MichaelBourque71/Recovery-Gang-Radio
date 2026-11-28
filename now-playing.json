@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T04:46:24-04:00",
+ "generated_at": "2026-11-28T04:51:26-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-28 04:46:21"
+  "title": "Slow Down, Rider",
+  "started": "2026-11-28 04:51:24"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-28 04:46:21"
+  },
   {
    "title": "Freedom Wave",
    "started": "2026-11-28 04:43:11"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
    "started": "2026-11-28 04:29:23"
-  },
-  {
-   "title": "History Collects",
-   "started": "2026-11-28 04:25:52"
   }
  ]
 }
