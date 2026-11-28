@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:04:31-04:00",
+ "generated_at": "2026-11-28T10:08:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Whatever You Call ’Em",
-  "started": "2026-11-28 10:04:28"
+  "title": "Stolen Democracy",
+  "started": "2026-11-28 10:08:16"
  },
  "previous": [
+  {
+   "title": "Whatever You Call ’Em",
+   "started": "2026-11-28 10:04:28"
+  },
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-28 09:59:53"
@@ -21,10 +25,6 @@
   {
    "title": "Straight Ahead Jed",
    "started": "2026-11-28 09:47:27"
-  },
-  {
-   "title": "Make Insane Asylums Great Again",
-   "started": "2026-11-28 09:42:37"
   }
  ]
 }
