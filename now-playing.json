@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:15:30-04:00",
+ "generated_at": "2026-11-28T11:19:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Taste Your Honey",
-  "started": "2026-11-28 11:15:27"
+  "title": "Nature Is Talking",
+  "started": "2026-11-28 11:19:24"
  },
  "previous": [
+  {
+   "title": "Taste Your Honey",
+   "started": "2026-11-28 11:15:27"
+  },
   {
    "title": "One More Night",
    "started": "2026-11-28 11:11:31"
@@ -21,10 +25,6 @@
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-28 10:57:13"
-  },
-  {
-   "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
-   "started": "2026-11-28 10:54:28"
   }
  ]
 }
