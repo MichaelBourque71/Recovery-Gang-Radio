@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T09:17:27-04:00",
+ "generated_at": "2026-11-28T09:23:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "    Can We Still Save It?",
-  "started": "2026-11-28 09:17:22"
+  "title": "Here’s a Stack",
+  "started": "2026-11-28 09:22:58"
  },
  "previous": [
+  {
+   "title": "    Can We Still Save It?",
+   "started": "2026-11-28 09:17:22"
+  },
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-28 09:13:00"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Way",
    "started": "2026-11-28 08:58:16"
-  },
-  {
-   "title": "Mailer Demon",
-   "started": "2026-11-28 08:55:11"
   }
  ]
 }
