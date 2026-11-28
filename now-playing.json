@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:20:35-04:00",
+ "generated_at": "2026-11-28T10:23:59-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "There’s Some Truth To The Lies",
-  "started": "2026-11-28 10:20:32"
+  "title": "NOT YOUR THRONE",
+  "started": "2026-11-28 10:23:55"
  },
  "previous": [
+  {
+   "title": "There’s Some Truth To The Lies",
+   "started": "2026-11-28 10:20:32"
+  },
   {
    "title": "It Was Time",
    "started": "2026-11-28 10:16:14"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-28 10:04:28"
-  },
-  {
-   "title": "Just Go Away, Justin!!",
-   "started": "2026-11-28 09:59:53"
   }
  ]
 }
