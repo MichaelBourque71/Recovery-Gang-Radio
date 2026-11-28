@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T09:32:40-04:00",
+ "generated_at": "2026-11-28T09:34:25-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-28 09:30:45"
+  "title": "You",
+  "started": "2026-11-28 09:34:24"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-28 09:30:45"
+  },
   {
    "title": "Allah Abracadabra",
    "started": "2026-11-28 09:25:58"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener (Part 2)",
    "started": "2026-11-28 09:13:00"
-  },
-  {
-   "title": "I’m Done Pretending ",
-   "started": "2026-11-28 09:08:48"
   }
  ]
 }
