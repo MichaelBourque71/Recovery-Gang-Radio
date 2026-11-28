@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T06:33:08-04:00",
+ "generated_at": "2026-11-28T06:36:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Youth In Asia",
-  "started": "2026-11-28 06:33:05"
+  "title": "He Came Home (But He Wasn't The Same)",
+  "started": "2026-11-28 06:36:36"
  },
  "previous": [
+  {
+   "title": "Youth In Asia",
+   "started": "2026-11-28 06:33:05"
+  },
   {
    "title": "Corporate Unaccountability ",
    "started": "2026-11-28 06:27:47"
@@ -21,10 +25,6 @@
   {
    "title": "Wrong Hole, Wrong Goal (Reggae version)",
    "started": "2026-11-28 06:17:05"
-  },
-  {
-   "title": "The Woke Baby Sissy Dance 😂",
-   "started": "2026-11-28 06:14:24"
   }
  ]
 }
