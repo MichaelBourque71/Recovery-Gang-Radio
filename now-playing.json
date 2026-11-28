@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:07:43-04:00",
+ "generated_at": "2026-11-28T08:11:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Sweetleaf Reminiscence",
-  "started": "2026-11-28 08:07:39"
+  "title": "History Collects",
+  "started": "2026-11-28 08:11:03"
  },
  "previous": [
+  {
+   "title": "Sweetleaf Reminiscence",
+   "started": "2026-11-28 08:07:39"
+  },
   {
    "title": "Dead Ideology ",
    "started": "2026-11-28 08:04:12"
@@ -21,10 +25,6 @@
   {
    "title": "Reality vs. Delusion",
    "started": "2026-11-28 07:55:09"
-  },
-  {
-   "title": "Gaslit By Retards",
-   "started": "2026-11-28 07:51:50"
   }
  ]
 }
