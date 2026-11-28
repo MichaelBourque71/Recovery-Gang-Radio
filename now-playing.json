@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T13:32:12-04:00",
+ "generated_at": "2026-11-28T13:35:39-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Dead Ideology ",
-  "started": "2026-11-28 13:32:08"
+  "title": "Your Feet on Steady Ground",
+  "started": "2026-11-28 13:35:35"
  },
  "previous": [
+  {
+   "title": "Dead Ideology ",
+   "started": "2026-11-28 13:32:08"
+  },
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-28 13:27:57"
@@ -21,10 +25,6 @@
   {
    "title": "Money & Fame",
    "started": "2026-11-28 13:14:45"
-  },
-  {
-   "title": "Disobey Authority",
-   "started": "2026-11-28 13:11:46"
   }
  ]
 }
