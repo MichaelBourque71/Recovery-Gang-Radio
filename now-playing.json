@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:43:10-04:00",
+ "generated_at": "2026-11-28T02:47:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I’m A Cougar-Beaver Hunter",
-  "started": "2026-11-28 02:43:05"
+  "title": "Lines In Stone",
+  "started": "2026-11-28 02:47:38"
  },
  "previous": [
+  {
+   "title": "I’m A Cougar-Beaver Hunter",
+   "started": "2026-11-28 02:43:05"
+  },
   {
    "title": "Not Enough Hours",
    "started": "2026-11-28 02:40:07"
@@ -21,10 +25,6 @@
   {
    "title": "If Canada Was Still O Canada",
    "started": "2026-11-28 02:26:30"
-  },
-  {
-   "title": "    Can We Still Save It?",
-   "started": "2026-11-28 02:20:31"
   }
  ]
 }
