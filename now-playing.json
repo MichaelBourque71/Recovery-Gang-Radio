@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T01:42:47-04:00",
+ "generated_at": "2026-11-28T01:48:21-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mystical Journey",
-  "started": "2026-11-28 01:42:46"
+  "title": "The Wrangler Hotel",
+  "started": "2026-11-28 01:48:19"
  },
  "previous": [
+  {
+   "title": "Mystical Journey",
+   "started": "2026-11-28 01:42:46"
+  },
   {
    "title": "He Didn’t Need A Knife",
    "started": "2026-11-28 01:37:30"
@@ -21,10 +25,6 @@
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-28 01:25:37"
-  },
-  {
-   "title": "Peck of Pickled Peppers",
-   "started": "2026-11-28 01:21:50"
   }
  ]
 }
