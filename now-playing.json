@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:43:06-04:00",
+ "generated_at": "2026-11-27T23:48:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Beer Goggles And Boondoggles",
-  "started": "2026-11-27 23:43:04"
+  "title": "Clown In A Crown",
+  "started": "2026-11-27 23:48:15"
  },
  "previous": [
+  {
+   "title": "Beer Goggles And Boondoggles",
+   "started": "2026-11-27 23:43:04"
+  },
   {
    "title": "He Came Home (But He Wasn't The Same)",
    "started": "2026-11-27 23:39:11"
@@ -21,10 +25,6 @@
   {
    "title": "Time For Talking",
    "started": "2026-11-27 23:27:16"
-  },
-  {
-   "title": "Whatever You Call ’Em",
-   "started": "2026-11-27 23:23:44"
   }
  ]
 }
