@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T06:56:57-04:00",
+ "generated_at": "2026-11-28T07:02:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "SELLIN’ HELL",
-  "started": "2026-11-28 06:56:52"
+  "title": "Carney Is Great At Creating Jobs (In The USA)",
+  "started": "2026-11-28 07:02:49"
  },
  "previous": [
+  {
+   "title": "SELLIN’ HELL",
+   "started": "2026-11-28 06:56:52"
+  },
   {
    "title": "Every Room’s a Lie",
    "started": "2026-11-28 06:52:47"
@@ -21,10 +25,6 @@
   {
    "title": "Yes",
    "started": "2026-11-28 06:40:30"
-  },
-  {
-   "title": "He Came Home (But He Wasn't The Same)",
-   "started": "2026-11-28 06:36:36"
   }
  ]
 }
