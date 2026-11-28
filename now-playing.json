@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T12:04:19-04:00",
+ "generated_at": "2026-11-28T12:07:17-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Monopoly Mark",
-  "started": "2026-11-28 12:04:18"
+  "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
+  "started": "2026-11-28 12:07:16"
  },
  "previous": [
+  {
+   "title": "Monopoly Mark",
+   "started": "2026-11-28 12:04:18"
+  },
   {
    "title": "The Left Lies",
    "started": "2026-11-28 12:02:04"
@@ -21,10 +25,6 @@
   {
    "title": "I Don’t Care Who You Love",
    "started": "2026-11-28 11:50:28"
-  },
-  {
-   "title": "Liberals Are A Dime A Dozen",
-   "started": "2026-11-28 11:46:24"
   }
  ]
 }
