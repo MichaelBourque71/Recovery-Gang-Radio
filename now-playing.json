@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T12:26:08-04:00",
+ "generated_at": "2026-11-28T12:30:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Make Insane Asylums Great Again",
-  "started": "2026-11-28 12:26:03"
+  "title": "I Think My Ex Rides A Broom",
+  "started": "2026-11-28 12:30:53"
  },
  "previous": [
+  {
+   "title": "Make Insane Asylums Great Again",
+   "started": "2026-11-28 12:26:03"
+  },
   {
    "title": "Breath Of Policy",
    "started": "2026-11-28 12:20:41"
@@ -21,10 +25,6 @@
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-28 12:07:16"
-  },
-  {
-   "title": "Monopoly Mark",
-   "started": "2026-11-28 12:04:18"
   }
  ]
 }
