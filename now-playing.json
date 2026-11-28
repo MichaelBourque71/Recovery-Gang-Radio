@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:59:58-04:00",
+ "generated_at": "2026-11-28T11:06:38-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Medicated Zeal (Metal Version)",
-  "started": "2026-11-28 10:59:54"
+  "title": "Puma-Beaver On The Prowl",
+  "started": "2026-11-28 11:06:35"
  },
  "previous": [
+  {
+   "title": "Medicated Zeal (Metal Version)",
+   "started": "2026-11-28 10:59:54"
+  },
   {
    "title": "Cognitively Deceased",
    "started": "2026-11-28 10:57:13"
@@ -21,10 +25,6 @@
   {
    "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
    "started": "2026-11-28 10:46:47"
-  },
-  {
-   "title": "When Opportunity Knocks",
-   "started": "2026-11-28 10:43:26"
   }
  ]
 }
