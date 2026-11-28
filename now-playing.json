@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T13:21:30-04:00",
+ "generated_at": "2026-11-28T13:25:20-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Upgraded",
-  "started": "2026-11-28 13:21:29"
+  "title": "You Don’t Own Me",
+  "started": "2026-11-28 13:25:16"
  },
  "previous": [
+  {
+   "title": "Upgraded",
+   "started": "2026-11-28 13:21:29"
+  },
   {
    "title": "Money & Fame",
    "started": "2026-11-28 13:14:45"
@@ -21,10 +25,6 @@
   {
    "title": "Hard Truth, No Cheers",
    "started": "2026-11-28 13:04:30"
-  },
-  {
-   "title": "The Fuck-Knuckle Shuffle",
-   "started": "2026-11-28 12:59:54"
   }
  ]
 }
