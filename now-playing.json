@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:43:30-04:00",
+ "generated_at": "2026-11-28T10:46:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "When Opportunity Knocks",
-  "started": "2026-11-28 10:43:26"
+  "title": "Swamp Donkeys, Sawdust Farters & Cobra Chickens",
+  "started": "2026-11-28 10:46:47"
  },
  "previous": [
+  {
+   "title": "When Opportunity Knocks",
+   "started": "2026-11-28 10:43:26"
+  },
   {
    "title": "Suicide Bombers And Sleeper Cells",
    "started": "2026-11-28 10:40:08"
@@ -21,10 +25,6 @@
   {
    "title": "Painted Signals",
    "started": "2026-11-28 10:29:30"
-  },
-  {
-   "title": "NOT YOUR THRONE",
-   "started": "2026-11-28 10:23:55"
   }
  ]
 }
