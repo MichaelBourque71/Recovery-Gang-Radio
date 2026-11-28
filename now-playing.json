@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T03:03:15-04:00",
+ "generated_at": "2026-11-28T03:08:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Truth Walks Slow",
-  "started": "2026-11-28 03:03:13"
+  "title": "LGBTQ",
+  "started": "2026-11-28 03:08:02"
  },
  "previous": [
+  {
+   "title": "The Truth Walks Slow",
+   "started": "2026-11-28 03:03:13"
+  },
   {
    "title": "So Take a Chance",
    "started": "2026-11-28 02:59:02"
@@ -21,10 +25,6 @@
   {
    "title": "Lines In Stone",
    "started": "2026-11-28 02:47:38"
-  },
-  {
-   "title": "I’m A Cougar-Beaver Hunter",
-   "started": "2026-11-28 02:43:05"
   }
  ]
 }
