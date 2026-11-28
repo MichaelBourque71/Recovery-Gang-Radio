@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T13:27:57-04:00",
+ "generated_at": "2026-11-28T13:32:12-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Came Home (But He Wasn't The Same)",
-  "started": "2026-11-28 13:27:57"
+  "title": "Dead Ideology ",
+  "started": "2026-11-28 13:32:08"
  },
  "previous": [
+  {
+   "title": "He Came Home (But He Wasn't The Same)",
+   "started": "2026-11-28 13:27:57"
+  },
   {
    "title": "You Don’t Own Me",
    "started": "2026-11-28 13:25:16"
@@ -21,10 +25,6 @@
   {
    "title": "Disobey Authority",
    "started": "2026-11-28 13:11:46"
-  },
-  {
-   "title": "Not Enough Hours",
-   "started": "2026-11-28 13:08:48"
   }
  ]
 }
