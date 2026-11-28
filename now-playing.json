@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T20:58:49-04:00",
+ "generated_at": "2026-11-27T21:01:58-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Singin’ Through The Fear",
-  "started": "2026-11-27 20:58:46"
+  "title": "Balls Intact",
+  "started": "2026-11-27 21:01:57"
  },
  "previous": [
+  {
+   "title": "Singin’ Through The Fear",
+   "started": "2026-11-27 20:58:46"
+  },
   {
    "title": "The Storm Rolls In",
    "started": "2026-11-27 20:53:18"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can",
    "started": "2026-11-27 20:39:00"
-  },
-  {
-   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-   "started": "2026-11-27 20:35:05"
   }
  ]
 }
