@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T12:12:41-04:00",
+ "generated_at": "2026-11-28T12:16:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "FUCK YOUR DIGITAL ID",
-  "started": "2026-11-28 12:12:38"
+  "title": "I’m A Vagitarian",
+  "started": "2026-11-28 12:16:46"
  },
  "previous": [
+  {
+   "title": "FUCK YOUR DIGITAL ID",
+   "started": "2026-11-28 12:12:38"
+  },
   {
    "title": "Falling In Love (Isn’t Nearly Hard Enough On Cock)",
    "started": "2026-11-28 12:07:16"
@@ -21,10 +25,6 @@
   {
    "title": "Jesus Is The Phoenix",
    "started": "2026-11-28 11:57:56"
-  },
-  {
-   "title": "Reality vs. Delusion",
-   "started": "2026-11-28 11:55:11"
   }
  ]
 }
