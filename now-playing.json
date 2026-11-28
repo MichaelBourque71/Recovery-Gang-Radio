@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:20:56-04:00",
+ "generated_at": "2026-11-27T23:23:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Gavin Newsom, But Not Much",
-  "started": "2026-11-27 23:20:53"
+  "title": "Whatever You Call ’Em",
+  "started": "2026-11-27 23:23:44"
  },
  "previous": [
+  {
+   "title": "Gavin Newsom, But Not Much",
+   "started": "2026-11-27 23:20:53"
+  },
   {
    "title": "GUMMERS",
    "started": "2026-11-27 23:17:07"
@@ -21,10 +25,6 @@
   {
    "title": "The Shitter Smells Better When You Hot-Box It",
    "started": "2026-11-27 23:06:00"
-  },
-  {
-   "title": "Medicated Zeal (HEAVY Country Version)",
-   "started": "2026-11-27 23:01:18"
   }
  ]
 }
