@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T12:40:19-04:00",
+ "generated_at": "2026-11-28T12:42:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-28 12:40:15"
+  "title": "Weed Coughs",
+  "started": "2026-11-28 12:42:09"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-28 12:40:15"
+  },
   {
    "title": "Space Cadet",
    "started": "2026-11-28 12:36:18"
@@ -21,10 +25,6 @@
   {
    "title": "Make Insane Asylums Great Again",
    "started": "2026-11-28 12:26:03"
-  },
-  {
-   "title": "Breath Of Policy",
-   "started": "2026-11-28 12:20:41"
   }
  ]
 }
