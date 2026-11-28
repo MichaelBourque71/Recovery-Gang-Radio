@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T00:46:19-04:00",
+ "generated_at": "2026-11-28T00:48:10-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "420 Twice A Day",
-  "started": "2026-11-28 00:46:15"
+  "title": "Go Go (Gadget Wiener)",
+  "started": "2026-11-28 00:48:09"
  },
  "previous": [
+  {
+   "title": "420 Twice A Day",
+   "started": "2026-11-28 00:46:15"
+  },
   {
    "title": "Follow The Trail",
    "started": "2026-11-28 00:43:07"
@@ -21,10 +25,6 @@
   {
    "title": "My Harley Waits",
    "started": "2026-11-28 00:29:48"
-  },
-  {
-   "title": "If You Have To Hide Your Identity",
-   "started": "2026-11-28 00:26:38"
   }
  ]
 }
