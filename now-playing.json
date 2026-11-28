@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T07:15:34-04:00",
+ "generated_at": "2026-11-28T07:19:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
-  "started": "2026-11-28 07:15:33"
+  "title": "Killdozer Army",
+  "started": "2026-11-28 07:19:27"
  },
  "previous": [
+  {
+   "title": "Between Cats And Dogs (We Can’t Have Nice Things)",
+   "started": "2026-11-28 07:15:33"
+  },
   {
    "title": "Parliament Hill Stinks",
    "started": "2026-11-28 07:11:28"
@@ -21,10 +25,6 @@
   {
    "title": "SELLIN’ HELL",
    "started": "2026-11-28 06:56:52"
-  },
-  {
-   "title": "Every Room’s a Lie",
-   "started": "2026-11-28 06:52:47"
   }
  ]
 }
