@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T20:18:25-04:00",
+ "generated_at": "2026-11-27T20:21:42-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Show The World My Beaver",
-  "started": "2026-11-27 20:18:23"
+  "title": "Corrupt Politicians (Belong In Prison)",
+  "started": "2026-11-27 20:21:40"
  },
  "previous": [
+  {
+   "title": "Show The World My Beaver",
+   "started": "2026-11-27 20:18:23"
+  },
   {
    "title": "Stolen Democracy",
    "started": "2026-11-27 20:15:03"
@@ -21,10 +25,6 @@
   {
    "title": "If You Have To Hide Your Identity",
    "started": "2026-11-27 20:02:50"
-  },
-  {
-   "title": "Bigfoot Hangs Out With A Duck",
-   "started": "2026-11-27 19:59:57"
   }
  ]
 }
