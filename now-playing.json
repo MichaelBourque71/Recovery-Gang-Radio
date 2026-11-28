@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T20:10:49-04:00",
+ "generated_at": "2026-11-27T20:15:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Mean Francine",
-  "started": "2026-11-27 20:10:48"
+  "title": "Stolen Democracy",
+  "started": "2026-11-27 20:15:03"
  },
  "previous": [
+  {
+   "title": "Mean Francine",
+   "started": "2026-11-27 20:10:48"
+  },
   {
    "title": "People Think I’m Crazy",
    "started": "2026-11-27 20:06:10"
@@ -21,10 +25,6 @@
   {
    "title": "Doughnut Doug",
    "started": "2026-11-27 19:58:09"
-  },
-  {
-   "title": "Gaslight Halo",
-   "started": "2026-11-27 19:54:05"
   }
  ]
 }
