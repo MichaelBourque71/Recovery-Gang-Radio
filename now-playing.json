@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:19:25-04:00",
+ "generated_at": "2026-11-27T22:22:50-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Logan Act Blues",
-  "started": "2026-11-27 22:19:22"
+  "title": "Real Stupidity Versus Artificial Intelligence ",
+  "started": "2026-11-27 22:22:48"
  },
  "previous": [
+  {
+   "title": "The Logan Act Blues",
+   "started": "2026-11-27 22:19:22"
+  },
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-27 22:15:35"
@@ -21,10 +25,6 @@
   {
    "title": "Man With the Backbone",
    "started": "2026-11-27 22:04:29"
-  },
-  {
-   "title": "Half Truths, Whole Lies",
-   "started": "2026-11-27 21:58:49"
   }
  ]
 }
