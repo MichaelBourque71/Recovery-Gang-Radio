@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T00:56:18-04:00",
+ "generated_at": "2026-11-28T01:00:49-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Start Living Again",
-  "started": "2026-11-28 00:56:17"
+  "title": "Running With Scissors",
+  "started": "2026-11-28 01:00:48"
  },
  "previous": [
+  {
+   "title": "Start Living Again",
+   "started": "2026-11-28 00:56:17"
+  },
   {
    "title": "Rubber Duck On The Dash (Part 2)",
    "started": "2026-11-28 00:51:35"
@@ -21,10 +25,6 @@
   {
    "title": "Follow The Trail",
    "started": "2026-11-28 00:43:07"
-  },
-  {
-   "title": "Canada, Rise Up!!",
-   "started": "2026-11-28 00:38:43"
   }
  ]
 }
