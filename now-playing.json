@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:30:24-04:00",
+ "generated_at": "2026-11-27T22:34:29-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Morganna (The Kissing Bandit)",
-  "started": "2026-11-27 22:30:24"
+  "title": "We Are Done Being Silent",
+  "started": "2026-11-27 22:34:27"
  },
  "previous": [
+  {
+   "title": "Morganna (The Kissing Bandit)",
+   "started": "2026-11-27 22:30:24"
+  },
   {
    "title": "Southbound 737",
    "started": "2026-11-27 22:26:43"
@@ -21,10 +25,6 @@
   {
    "title": "You’ll Have To Kill Me To Shut Me Up",
    "started": "2026-11-27 22:15:35"
-  },
-  {
-   "title": "When the Wind Shifts",
-   "started": "2026-11-27 22:11:47"
   }
  ]
 }
