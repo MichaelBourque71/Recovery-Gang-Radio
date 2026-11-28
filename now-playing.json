@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:31:03-04:00",
+ "generated_at": "2026-11-27T23:35:07-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Honourable, My Ass!! (silentH)",
-  "started": "2026-11-27 23:31:01"
+  "title": "Just Be Who You Are",
+  "started": "2026-11-27 23:35:04"
  },
  "previous": [
+  {
+   "title": "Honourable, My Ass!! (silentH)",
+   "started": "2026-11-27 23:31:01"
+  },
   {
    "title": "Time For Talking",
    "started": "2026-11-27 23:27:16"
@@ -21,10 +25,6 @@
   {
    "title": "GUMMERS",
    "started": "2026-11-27 23:17:07"
-  },
-  {
-   "title": "Legal Ain’t Right",
-   "started": "2026-11-27 23:13:18"
   }
  ]
 }
