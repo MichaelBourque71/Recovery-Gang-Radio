@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T22:40:23-04:00",
+ "generated_at": "2026-11-27T22:44:54-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Delaware Sniff (Part 2)",
-  "started": "2026-11-27 22:40:19"
+  "title": "Roadside Puddles",
+  "started": "2026-11-27 22:44:52"
  },
  "previous": [
+  {
+   "title": "The Delaware Sniff (Part 2)",
+   "started": "2026-11-27 22:40:19"
+  },
   {
    "title": "We Are Done Being Silent",
    "started": "2026-11-27 22:34:27"
@@ -21,10 +25,6 @@
   {
    "title": "Real Stupidity Versus Artificial Intelligence ",
    "started": "2026-11-27 22:22:48"
-  },
-  {
-   "title": "The Logan Act Blues",
-   "started": "2026-11-27 22:19:22"
   }
  ]
 }
