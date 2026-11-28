@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T03:44:38-04:00",
+ "generated_at": "2026-11-28T03:47:24-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Acid Freak",
-  "started": "2026-11-28 03:44:36"
+  "title": "Breath Of Policy",
+  "started": "2026-11-28 03:47:20"
  },
  "previous": [
+  {
+   "title": "Acid Freak",
+   "started": "2026-11-28 03:44:36"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-28 03:39:41"
@@ -21,10 +25,6 @@
   {
    "title": "Feeling Froggy",
    "started": "2026-11-28 03:26:50"
-  },
-  {
-   "title": "Weed Coughs",
-   "started": "2026-11-28 03:22:22"
   }
  ]
 }
