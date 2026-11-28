@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T00:35:37-04:00",
+ "generated_at": "2026-11-28T00:38:45-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Disobey Authority",
-  "started": "2026-11-28 00:35:34"
+  "title": "Canada, Rise Up!!",
+  "started": "2026-11-28 00:38:43"
  },
  "previous": [
+  {
+   "title": "Disobey Authority",
+   "started": "2026-11-28 00:35:34"
+  },
   {
    "title": "My Harley Waits",
    "started": "2026-11-28 00:29:48"
@@ -21,10 +25,6 @@
   {
    "title": "Won't Stop Being Me",
    "started": "2026-11-28 00:20:10"
-  },
-  {
-   "title": "Carney Is Great At Creating Jobs (In The USA)",
-   "started": "2026-11-28 00:14:58"
   }
  ]
 }
