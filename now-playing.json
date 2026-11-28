@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T03:17:30-04:00",
+ "generated_at": "2026-11-28T03:22:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "TDS Ruined The Entertainment World",
-  "started": "2026-11-28 03:17:29"
+  "title": "Weed Coughs",
+  "started": "2026-11-28 03:22:22"
  },
  "previous": [
+  {
+   "title": "TDS Ruined The Entertainment World",
+   "started": "2026-11-28 03:17:29"
+  },
   {
    "title": "Hard Land, Free People",
    "started": "2026-11-28 03:12:14"
@@ -21,10 +25,6 @@
   {
    "title": "So Take a Chance",
    "started": "2026-11-28 02:59:02"
-  },
-  {
-   "title": "Fecal Matter Ejector Ring",
-   "started": "2026-11-28 02:55:42"
   }
  ]
 }
