@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:13:21-04:00",
+ "generated_at": "2026-11-27T23:17:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Legal Ain’t Right",
-  "started": "2026-11-27 23:13:18"
+  "title": "GUMMERS",
+  "started": "2026-11-27 23:17:07"
  },
  "previous": [
+  {
+   "title": "Legal Ain’t Right",
+   "started": "2026-11-27 23:13:18"
+  },
   {
    "title": "Weaponized Children",
    "started": "2026-11-27 23:09:52"
@@ -21,10 +25,6 @@
   {
    "title": "Mailer Demon",
    "started": "2026-11-27 22:58:13"
-  },
-  {
-   "title": "Duck On The Dash",
-   "started": "2026-11-27 22:54:31"
   }
  ]
 }
