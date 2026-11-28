@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:35:07-04:00",
+ "generated_at": "2026-11-27T23:39:11-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Just Be Who You Are",
-  "started": "2026-11-27 23:35:04"
+  "title": "He Came Home (But He Wasn't The Same)",
+  "started": "2026-11-27 23:39:11"
  },
  "previous": [
+  {
+   "title": "Just Be Who You Are",
+   "started": "2026-11-27 23:35:04"
+  },
   {
    "title": "Honourable, My Ass!! (silentH)",
    "started": "2026-11-27 23:31:01"
@@ -21,10 +25,6 @@
   {
    "title": "Gavin Newsom, But Not Much",
    "started": "2026-11-27 23:20:53"
-  },
-  {
-   "title": "GUMMERS",
-   "started": "2026-11-27 23:17:07"
   }
  ]
 }
