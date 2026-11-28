@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:11:35-04:00",
+ "generated_at": "2026-11-28T11:15:30-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "One More Night",
-  "started": "2026-11-28 11:11:31"
+  "title": "Taste Your Honey",
+  "started": "2026-11-28 11:15:27"
  },
  "previous": [
+  {
+   "title": "One More Night",
+   "started": "2026-11-28 11:11:31"
+  },
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-28 11:06:35"
@@ -21,10 +25,6 @@
   {
    "title": "FUCK ALL OF YOUR WOKE COMMUNIST BULLSHIT",
    "started": "2026-11-28 10:54:28"
-  },
-  {
-   "title": "Invisible String",
-   "started": "2026-11-28 10:50:26"
   }
  ]
 }
