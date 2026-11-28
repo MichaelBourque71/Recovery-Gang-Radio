@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:19:02-04:00",
+ "generated_at": "2026-11-28T08:23:13-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "The Inmates Are Running The Asylum",
-  "started": "2026-11-28 08:19:00"
+  "title": "Running With Scissors",
+  "started": "2026-11-28 08:23:13"
  },
  "previous": [
+  {
+   "title": "The Inmates Are Running The Asylum",
+   "started": "2026-11-28 08:19:00"
+  },
   {
    "title": "Heavy Denim",
    "started": "2026-11-28 08:14:13"
@@ -21,10 +25,6 @@
   {
    "title": "Dead Ideology ",
    "started": "2026-11-28 08:04:12"
-  },
-  {
-   "title": "G-Strings And Sundresses (Don’t Look Right On A Man)",
-   "started": "2026-11-28 08:00:11"
   }
  ]
 }
