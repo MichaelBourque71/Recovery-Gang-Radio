@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T08:58:16-04:00",
+ "generated_at": "2026-11-28T09:04:18-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Hard Way",
-  "started": "2026-11-28 08:58:16"
+  "title": "Day And Night",
+  "started": "2026-11-28 09:04:13"
  },
  "previous": [
+  {
+   "title": "Hard Way",
+   "started": "2026-11-28 08:58:16"
+  },
   {
    "title": "Mailer Demon",
    "started": "2026-11-28 08:55:11"
@@ -21,10 +25,6 @@
   {
    "title": "Moldy Cat Puke on the Carpet",
    "started": "2026-11-28 08:44:40"
-  },
-  {
-   "title": "Back Down While You Still Can",
-   "started": "2026-11-28 08:39:44"
   }
  ]
 }
