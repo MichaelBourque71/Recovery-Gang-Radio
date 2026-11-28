@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T05:32:01-04:00",
+ "generated_at": "2026-11-28T05:36:22-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Everybody’s Twitchin’",
-  "started": "2026-11-28 05:31:59"
+  "title": "Putz in a Suit",
+  "started": "2026-11-28 05:36:21"
  },
  "previous": [
+  {
+   "title": "Everybody’s Twitchin’",
+   "started": "2026-11-28 05:31:59"
+  },
   {
    "title": "Whistle Through The Light Bar",
    "started": "2026-11-28 05:28:39"
@@ -21,10 +25,6 @@
   {
    "title": "Sometimes It Takes A Breakdown",
    "started": "2026-11-28 05:16:22"
-  },
-  {
-   "title": "Two Joints To Fly Right (Reggae version)",
-   "started": "2026-11-28 05:12:17"
   }
  ]
 }
