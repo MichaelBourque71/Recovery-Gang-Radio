@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T12:36:19-04:00",
+ "generated_at": "2026-11-28T12:40:19-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Space Cadet",
-  "started": "2026-11-28 12:36:18"
+  "title": "420 Twice A Day",
+  "started": "2026-11-28 12:40:15"
  },
  "previous": [
+  {
+   "title": "Space Cadet",
+   "started": "2026-11-28 12:36:18"
+  },
   {
    "title": "Save A Motorcycle, Ride A Biker",
    "started": "2026-11-28 12:33:41"
@@ -21,10 +25,6 @@
   {
    "title": "Breath Of Policy",
    "started": "2026-11-28 12:20:41"
-  },
-  {
-   "title": "I’m A Vagitarian",
-   "started": "2026-11-28 12:16:46"
   }
  ]
 }
