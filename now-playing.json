@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T21:54:58-04:00",
+ "generated_at": "2026-11-27T21:58:53-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
-  "started": "2026-11-27 21:54:53"
+  "title": "Half Truths, Whole Lies",
+  "started": "2026-11-27 21:58:49"
  },
  "previous": [
+  {
+   "title": "I've Been Through Hell (667 -Leaving 666 Behind)",
+   "started": "2026-11-27 21:54:53"
+  },
   {
    "title": "City of Fading Shadows",
    "started": "2026-11-27 21:52:17"
@@ -21,10 +25,6 @@
   {
    "title": "Fecal Matter Ejector Ring",
    "started": "2026-11-27 21:38:04"
-  },
-  {
-   "title": "I Have Something to Say",
-   "started": "2026-11-27 21:31:56"
   }
  ]
 }
