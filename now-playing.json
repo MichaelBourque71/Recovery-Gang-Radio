@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-27T23:39:11-04:00",
+ "generated_at": "2026-11-27T23:43:06-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Came Home (But He Wasn't The Same)",
-  "started": "2026-11-27 23:39:11"
+  "title": "Beer Goggles And Boondoggles",
+  "started": "2026-11-27 23:43:04"
  },
  "previous": [
+  {
+   "title": "He Came Home (But He Wasn't The Same)",
+   "started": "2026-11-27 23:39:11"
+  },
   {
    "title": "Just Be Who You Are",
    "started": "2026-11-27 23:35:04"
@@ -21,10 +25,6 @@
   {
    "title": "Whatever You Call ’Em",
    "started": "2026-11-27 23:23:44"
-  },
-  {
-   "title": "Gavin Newsom, But Not Much",
-   "started": "2026-11-27 23:20:53"
   }
  ]
 }
