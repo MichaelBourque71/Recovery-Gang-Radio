@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:47:42-04:00",
+ "generated_at": "2026-11-28T02:50:56-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Lines In Stone",
-  "started": "2026-11-28 02:47:38"
+  "title": "Her Beaver Is Full of Ticks (Funk Version)",
+  "started": "2026-11-28 02:50:54"
  },
  "previous": [
+  {
+   "title": "Lines In Stone",
+   "started": "2026-11-28 02:47:38"
+  },
   {
    "title": "I’m A Cougar-Beaver Hunter",
    "started": "2026-11-28 02:43:05"
@@ -21,10 +25,6 @@
   {
    "title": "Morganna (The Kissing Bandit)",
    "started": "2026-11-28 02:31:27"
-  },
-  {
-   "title": "If Canada Was Still O Canada",
-   "started": "2026-11-28 02:26:30"
   }
  ]
 }
