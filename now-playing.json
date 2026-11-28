@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T04:10:29-04:00",
+ "generated_at": "2026-11-28T04:13:46-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Some People",
-  "started": "2026-11-28 04:10:27"
+  "title": "The Fuck-Knuckle Shuffle",
+  "started": "2026-11-28 04:13:42"
  },
  "previous": [
+  {
+   "title": "Some People",
+   "started": "2026-11-28 04:10:27"
+  },
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-28 04:07:12"
@@ -21,10 +25,6 @@
   {
    "title": "Leftists Can Go Fuck Themselves",
    "started": "2026-11-28 03:55:14"
-  },
-  {
-   "title": "One Brain Cell",
-   "started": "2026-11-28 03:52:24"
   }
  ]
 }
