@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T01:37:34-04:00",
+ "generated_at": "2026-11-28T01:42:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "He Didn’t Need A Knife",
-  "started": "2026-11-28 01:37:30"
+  "title": "Mystical Journey",
+  "started": "2026-11-28 01:42:46"
  },
  "previous": [
+  {
+   "title": "He Didn’t Need A Knife",
+   "started": "2026-11-28 01:37:30"
+  },
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-28 01:32:35"
@@ -21,10 +25,6 @@
   {
    "title": "Peck of Pickled Peppers",
    "started": "2026-11-28 01:21:50"
-  },
-  {
-   "title": "Two Joints To Fly Right",
-   "started": "2026-11-28 01:18:26"
   }
  ]
 }
