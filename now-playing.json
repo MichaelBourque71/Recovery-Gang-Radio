@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T04:25:55-04:00",
+ "generated_at": "2026-11-28T04:29:23-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "History Collects",
-  "started": "2026-11-28 04:25:52"
+  "title": "Go Go, Gadget Wiener (Part 2) (Hard Rock Version)",
+  "started": "2026-11-28 04:29:23"
  },
  "previous": [
+  {
+   "title": "History Collects",
+   "started": "2026-11-28 04:25:52"
+  },
   {
    "title": "I Don’t Bow To Tyrants",
    "started": "2026-11-28 04:22:10"
@@ -21,10 +25,6 @@
   {
    "title": "Some People",
    "started": "2026-11-28 04:10:27"
-  },
-  {
-   "title": "Go Go, Gadget Wiener",
-   "started": "2026-11-28 04:07:12"
   }
  ]
 }
