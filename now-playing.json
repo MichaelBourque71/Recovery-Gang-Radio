@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T04:22:11-04:00",
+ "generated_at": "2026-11-28T04:25:55-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Don’t Bow To Tyrants",
-  "started": "2026-11-28 04:22:10"
+  "title": "History Collects",
+  "started": "2026-11-28 04:25:52"
  },
  "previous": [
+  {
+   "title": "I Don’t Bow To Tyrants",
+   "started": "2026-11-28 04:22:10"
+  },
   {
    "title": "Delaware Sniff",
    "started": "2026-11-28 04:18:02"
@@ -21,10 +25,6 @@
   {
    "title": "Go Go, Gadget Wiener",
    "started": "2026-11-28 04:07:12"
-  },
-  {
-   "title": "If You Keep on Complyin’",
-   "started": "2026-11-28 04:05:01"
   }
  ]
 }
