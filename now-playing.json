@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T01:52:20-04:00",
+ "generated_at": "2026-11-28T01:56:09-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "You’ll Have To Kill Me To Shut Me Up",
-  "started": "2026-11-28 01:52:17"
+  "title": "Built To Love",
+  "started": "2026-11-28 01:56:04"
  },
  "previous": [
+  {
+   "title": "You’ll Have To Kill Me To Shut Me Up",
+   "started": "2026-11-28 01:52:17"
+  },
   {
    "title": "The Wrangler Hotel",
    "started": "2026-11-28 01:48:19"
@@ -21,10 +25,6 @@
   {
    "title": "Torches And Pitchforks",
    "started": "2026-11-28 01:32:35"
-  },
-  {
-   "title": "Burn Through The Spin",
-   "started": "2026-11-28 01:29:31"
   }
  ]
 }
