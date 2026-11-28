@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T10:16:15-04:00",
+ "generated_at": "2026-11-28T10:20:35-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "It Was Time",
-  "started": "2026-11-28 10:16:14"
+  "title": "There’s Some Truth To The Lies",
+  "started": "2026-11-28 10:20:32"
  },
  "previous": [
+  {
+   "title": "It Was Time",
+   "started": "2026-11-28 10:16:14"
+  },
   {
    "title": "I Ain't No Saint (But I Love Jesus)",
    "started": "2026-11-28 10:11:16"
@@ -21,10 +25,6 @@
   {
    "title": "Just Go Away, Justin!!",
    "started": "2026-11-28 09:59:53"
-  },
-  {
-   "title": "Killdozer Army",
-   "started": "2026-11-28 09:55:49"
   }
  ]
 }
