@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T02:50:56-04:00",
+ "generated_at": "2026-11-28T02:55:43-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Her Beaver Is Full of Ticks (Funk Version)",
-  "started": "2026-11-28 02:50:54"
+  "title": "Fecal Matter Ejector Ring",
+  "started": "2026-11-28 02:55:42"
  },
  "previous": [
+  {
+   "title": "Her Beaver Is Full of Ticks (Funk Version)",
+   "started": "2026-11-28 02:50:54"
+  },
   {
    "title": "Lines In Stone",
    "started": "2026-11-28 02:47:38"
@@ -21,10 +25,6 @@
   {
    "title": "Back Down While You Still Can (Alt version)",
    "started": "2026-11-28 02:35:30"
-  },
-  {
-   "title": "Morganna (The Kissing Bandit)",
-   "started": "2026-11-28 02:31:27"
   }
  ]
 }
