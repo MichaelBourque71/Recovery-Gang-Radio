@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T01:29:34-04:00",
+ "generated_at": "2026-11-28T01:32:37-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "Burn Through The Spin",
-  "started": "2026-11-28 01:29:31"
+  "title": "Torches And Pitchforks",
+  "started": "2026-11-28 01:32:35"
  },
  "previous": [
+  {
+   "title": "Burn Through The Spin",
+   "started": "2026-11-28 01:29:31"
+  },
   {
    "title": "I’m A Vagitarian",
    "started": "2026-11-28 01:25:37"
@@ -21,10 +25,6 @@
   {
    "title": "Nobody Wants To See Your Gut ",
    "started": "2026-11-28 01:15:09"
-  },
-  {
-   "title": "I Think My Ex Rides A Broom",
-   "started": "2026-11-28 01:12:21"
   }
  ]
 }
