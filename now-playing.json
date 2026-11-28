@@ -1,11 +1,15 @@
 {
- "generated_at": "2026-11-28T11:25:44-04:00",
+ "generated_at": "2026-11-28T11:28:47-04:00",
  "on_air": true,
  "now_playing": {
-  "title": "I Like The Strains That Give Me The Giggles",
-  "started": "2026-11-28 11:25:42"
+  "title": "History Collects",
+  "started": "2026-11-28 11:28:45"
  },
  "previous": [
+  {
+   "title": "I Like The Strains That Give Me The Giggles",
+   "started": "2026-11-28 11:25:42"
+  },
   {
    "title": "Nature Is Talking",
    "started": "2026-11-28 11:19:24"
@@ -21,10 +25,6 @@
   {
    "title": "Puma-Beaver On The Prowl",
    "started": "2026-11-28 11:06:35"
-  },
-  {
-   "title": "Medicated Zeal (Metal Version)",
-   "started": "2026-11-28 10:59:54"
   }
  ]
 }
